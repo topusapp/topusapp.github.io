@@ -71,6 +71,21 @@
             font-weight: bold;
             text-decoration: none;
         }
+        .image-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1em;
+            justify-content: center;
+            margin-top: 2em;
+        }
+        .image-gallery img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
     </style>
 </head>
 <body>
@@ -91,12 +106,19 @@
             </ul>
         </div>
         
+        <div class="image-gallery">
+            <img src="https://topusapp.github.io/img/f1.png" alt="Feature 1">
+            <img src="https://topusapp.github.io/img/f2.png" alt="Feature 2">
+            <img src="https://topusapp.github.io/img/f3.png" alt="Feature 3">
+            <img src="https://topusapp.github.io/img/f4.png" alt="Feature 4">
+        </div>
+        
         <div class="cta">
             <a href="https://apps.apple.com/app/id6566193937">Download Now</a>
         </div>
     </div>
     <div class="footer">
-        <p>For support, contact us at: <a href="mailto:topuswebbrowser@gmail.com"><b>topuswebbrowser@gmail.com</b></a></p>
+        <p>For support, contact us at <a href="mailto:topuswebbrowser@gmail.com"><b>topuswebbrowser@gmail.com</b></a></p>
     </div>
 </body>
 </html>

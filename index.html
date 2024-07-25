@@ -73,14 +73,12 @@
         }
         .image-gallery {
             display: flex;
-            flex-wrap: wrap;
+            overflow-x: auto;
             gap: 1em;
-            justify-content: center;
-            margin-top: 2em;
+            padding: 1em 0;
         }
         .image-gallery img {
-            max-width: 100%;
-            height: auto;
+            max-height: 500px;
             border: 1px solid #ddd;
             border-radius: 5px;
             padding: 5px;

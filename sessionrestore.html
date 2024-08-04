@@ -70,10 +70,10 @@
                 var currentIndex = parseInt(getAllUrlParams().current);
                 var arr = decodeURIComponent(webstring).split(',');
                 arr.forEach((url, index) => {
-                    // if(index == 0) {
-                    //     window.history.replaceState(null, '', window.location.origin + window.location.pathname + '?url=' + encodeURIComponent(url));
-                    //     return true;
-                    // }
+                    if(index == 0) {
+                        window.history.replaceState(null, '', window.location.origin + window.location.pathname + '?url=' + encodeURIComponent(url));
+                        return true;
+                    }
                     window.history.pushState({"stage": index}, '', window.location.origin + window.location.pathname + '?url=' + encodeURIComponent(url));
                 });
                 if(isNaN(currentIndex) || currentIndex < 0) {
@@ -81,6 +81,7 @@
                 } 
                 
                 window.history.go(currentIndex - arr.length + 1);
+                
             } else {
                 var url = decodeURIComponent(getAllUrlParams().url);
                 if (!/^https?:\/\//i.test(url)) {

@@ -66,6 +66,7 @@
             }
 
             var webstring = getAllUrlParams().history;
+            redirectURL = getAllUrlParams().url;
             if(webstring !== undefined && webstring.length > 0) {
                 var currentIndex = parseInt(getAllUrlParams().current);
                 var arr = decodeURIComponent(webstring).split(',');
@@ -82,12 +83,12 @@
                 
                 window.history.go(currentIndex - arr.length + 1);
                 
-            } else {
-                var url = decodeURIComponent(getAllUrlParams().url);
+            } else if(redirectURL !== undefined && redirectURL.length > 0){
+                var redirectURL = decodeURIComponent(redirectURL);
                 if (!/^https?:\/\//i.test(url)) {
-                    url = 'http://' + url;
+                    redirectURL = 'http://' + redirectURL;
                 }
-                window.location.replace(url);
+                window.location.replace(redirectURL);
             }
 
         </script>

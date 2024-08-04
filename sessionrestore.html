@@ -85,8 +85,8 @@
                 var url = decodeURIComponent(getAllUrlParams().url);
                 if (!/^https?:\/\//i.test(url)) {
                     url = 'http://' + url;
-                    window.location.replace(url);
                 }
+                window.location.replace(url);
             }
 
         </script>

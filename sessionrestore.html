@@ -85,7 +85,7 @@
                 
             } else if(redirectURL !== undefined && redirectURL.length > 0){
                 var redirectURL = decodeURIComponent(redirectURL);
-                if (!/^https?:\/\//i.test(url)) {
+                if (!/^https?:\/\//i.test(redirectURL)) {
                     redirectURL = 'http://' + redirectURL;
                 }
                 window.location.replace(redirectURL);

@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <script type="text/javascript">
+          var deeplinkUrl = "nct://nhaccuatui?from=web";
+          //variable will check app installed or not
+          var change = false;
+          setTimeout(() => {
+            if (!change) {
+              var redirectUrl = "https://apps.apple.com/vn/app/nct-nhaccuatui-nghe-mp3/id1210763463?l=vi";
+              window.location = redirectUrl;
+            }
+          }, 3000);
+          window.location = deeplinkUrl;
+          //handle event to check app installed or not
+          window.onblur = function () {
+              change = true;
+          };
+          window.onfocus = function(){
+              change = false;
+          }
+
+        </script>
+    </head>
+    <body>
+        <a href="#link1">link 1</a>
+        <a href="#link2">link 2</a>
+        <a href="#link3">link 3</a>
+    </body>
+</html>

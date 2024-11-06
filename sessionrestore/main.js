@@ -76,10 +76,17 @@ if(webstring !== undefined && webstring.length > 0) {
     });
     if(isNaN(currentIndex) || currentIndex < 0) {
         currentIndex = arr.length - 1;
-    } 
-    
-    window.history.go(currentIndex - arr.length + 1);
-    
+        window.history.go(0);
+    } else {
+        window.history.go(currentIndex - arr.length + 1);
+        var timer = setInterval(function() {
+            var url = decodeURIComponent(getAllUrlParams().url);
+            if(url == arr[currentIndex]) {
+                window.location.replace(arr[currentIndex]);
+                clearInterval(timer);
+            }
+        }, 100);
+    }
 } else if(redirectURL !== undefined && redirectURL.length > 0){
     var redirectURL = decodeURIComponent(redirectURL);
     if (!/^https?:\/\//i.test(redirectURL)) {

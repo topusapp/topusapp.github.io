@@ -1,4 +1,5 @@
-(function() {
+var topusapp = {};
+(function($) {
     var settings = {};
     var libs = {
         postMsg: function(json) {
@@ -43,6 +44,9 @@
 
         var haveStream = false;
         document.querySelectorAll("video").forEach((media, index) => {
+            if(media.hasAttribute('NowbPAWBXD')) {
+                return;
+            }
 
             if(media.paused != undefined && !media.paused && !haveStream && media.currentSrc != undefined &&
                 media.currentSrc.length > 0 && media.currentSrc.indexOf('blob://') != 0) {
@@ -56,6 +60,8 @@
                     image: libs.getOGImage()
                 });
             };
+
+            media.setAttribute('NowbPAWBXD', '');
 
             media.addEventListener("playing", function() {
                 if(media.currentSrc == undefined || media.currentSrc.length == 0 || media.currentSrc.indexOf('blob://') == 0) {
@@ -82,6 +88,10 @@
         });
     };
 
+    $.scanmedia = function() {
+        listener();
+    }
+
     document.addEventListener("readystatechange", () => {
         if (document.readyState === "complete") {
             setTimeout(() => {
@@ -89,4 +99,4 @@
             }, 1000);
         }
     });
-}());
+}(topusapp));

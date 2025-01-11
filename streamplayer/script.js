@@ -3,6 +3,9 @@ var topusapp = {};
     var settings = {};
     var libs = {
         postMsg: function(json) {
+            if(json.title.length == 0) {
+                json.title = document.domain;
+            };
             if(settings.platform === 'ios') {
                 window.webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(json));
             } else if(settings.platform === 'android'){

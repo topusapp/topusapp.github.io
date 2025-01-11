@@ -4,7 +4,7 @@ var topusapp = {};
     var libs = {
         postMsg: function(json) {
             if(settings.platform === 'ios') {
-                window.webkit.messageHandlers.callbackHandler.postMessage(json);
+                window.webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(json));
             } else if(settings.platform === 'android'){
                 jsinterface.getSomeString(JSON.stringify(json));
             } else {

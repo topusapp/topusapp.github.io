@@ -68,7 +68,6 @@ var topusapp = {};
             media.setAttribute('crossorigin', 'anonymous');
 
             media.addEventListener("playing", function() {
-                debugger;
                 if(media.currentSrc == undefined || media.currentSrc.length == 0 || media.currentSrc.indexOf('blob://') == 0) {
                     return;
                 }

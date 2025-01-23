@@ -5,7 +5,7 @@ var topusapp = {};
         postMsg: function(json) {
             if(json.title.length == 0) {
                 json.title = document.domain;
-            };
+            }
             if(settings.platform === 'ios') {
                 window.webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(json));
             } else if(settings.platform === 'android'){
@@ -47,7 +47,7 @@ var topusapp = {};
 
         var haveStream = false;
         document.querySelectorAll("video").forEach((media, index) => {
-            if(media.hasAttribute('NowbPAWBXD')) {
+            if(media.hasAttribute('NowbPAWBXD') || !media.hasAttribute('controls')) {
                 return;
             }
 
@@ -65,8 +65,10 @@ var topusapp = {};
             };
 
             media.setAttribute('NowbPAWBXD', '');
+            media.setAttribute('crossorigin', 'anonymous');
 
             media.addEventListener("playing", function() {
+                debugger;
                 if(media.currentSrc == undefined || media.currentSrc.length == 0 || media.currentSrc.indexOf('blob://') == 0) {
                     return;
                 }

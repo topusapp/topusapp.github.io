@@ -5,7 +5,7 @@ var topusapp = {};
         postMsg: function(json) {
             if(json.title.length == 0) {
                 json.title = document.domain;
-            }
+            };
             if(settings.platform === 'ios') {
                 window.webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(json));
             } else if(settings.platform === 'android'){
@@ -65,7 +65,6 @@ var topusapp = {};
             };
 
             media.setAttribute('NowbPAWBXD', '');
-            media.setAttribute('crossorigin', 'anonymous');
 
             media.addEventListener("playing", function() {
                 if(media.currentSrc == undefined || media.currentSrc.length == 0 || media.currentSrc.indexOf('blob://') == 0) {

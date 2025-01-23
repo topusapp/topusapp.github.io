@@ -47,7 +47,7 @@ var topusapp = {};
 
         var haveStream = false;
         document.querySelectorAll("video").forEach((media, index) => {
-            if(media.hasAttribute('NowbPAWBXD') || !media.hasAttribute('controls')) {
+            if(media.hasAttribute('NowbPAWBXD')) {
                 return;
             }
 

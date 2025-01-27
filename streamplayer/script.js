@@ -105,19 +105,6 @@ var topusapp = {};
 }(topusapp));
 
 function windowfirefoxdownload(url) {
-    function getLastPathComponent(url) {
-        return url.split("/").pop();
-    }
-
-    function blobToBase64String(blob, callback) {
-        var reader = new FileReader();
-        reader.onloadend = function () {
-            callback(this.result.split(",")[1]);
-        };
-
-        reader.readAsDataURL(blob);
-    }
-
     if (url.startsWith("blob:")) {
         var xhr = new XMLHttpRequest();
         xhr.open("GET", url, true);
@@ -146,4 +133,13 @@ function windowfirefoxdownload(url) {
     var link = document.createElement("a");
     link.href = url;
     link.dispatchEvent(new MouseEvent("click"));
-};
+}
+
+function blobToBase64String(blob, callback) {
+    var reader = new FileReader();
+    reader.onloadend = function () {
+        callback(this.result.split(",")[1]);
+    };
+
+    reader.readAsDataURL(blob);
+}

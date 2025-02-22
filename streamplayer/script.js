@@ -34,6 +34,17 @@ var topusapp = {};
             }
 
             return 'video/mp4';
+        },
+        getYTStream: function(){
+            if(typeof(ytInitialPlayerResponse) === 'undefined' || typeof(ytInitialPlayerResponse.streamingData) === 'undefined' && typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined'){
+                return;
+            }
+            for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
+                var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
+                if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){debugger;
+                    return item.url;
+                }
+            }
         }
     };
     var listener = function() {
@@ -51,29 +62,41 @@ var topusapp = {};
                 return;
             }
 
-            if(media.paused != undefined && !media.paused && !haveStream && media.currentSrc != undefined &&
-                media.currentSrc.length > 0 && media.currentSrc.indexOf('blob://') != 0) {
+            if(media.paused != undefined && !media.paused && !haveStream) {
+                var streamURL = media.currentSrc;
+                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob://') == 0) {
+                    if(document.domain.indexOf('youtube.com') >= 0) {
+                        streamURL = libs.getYTStream();
+                    } else {
+                        return;
+                    }
+                }
                 haveStream = true;
                 libs.postMsg({
                     status: 'playing',
-                    source: media.currentSrc,
-                    contentType: libs.getContentType(media.currentSrc),
+                    source: streamURL,
+                    contentType: libs.getContentType(streamURL),
                     title: document.title,
                     subtitle: document.domain,
                     image: libs.getOGImage()
                 });
-            };
+            }
 
             media.setAttribute('NowbPAWBXD', '');
 
             media.addEventListener("playing", function() {
-                if(media.currentSrc == undefined || media.currentSrc.length == 0 || media.currentSrc.indexOf('blob://') == 0) {
-                    return;
+                var streamURL = media.currentSrc;
+                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob://') == 0) {
+                    if(document.domain.indexOf('youtube.com') >= 0) {
+                        streamURL = libs.getYTStream();
+                    } else {
+                        return;
+                    }
                 }
                 libs.postMsg({
                     status: 'playing',
-                    source: media.currentSrc,
-                    contentType: libs.getContentType(media.currentSrc),
+                    source: streamURL,
+                    contentType: libs.getContentType(streamURL),
                     title: document.title,
                     subtitle: document.domain,
                     image: libs.getOGImage()

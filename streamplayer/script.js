@@ -41,7 +41,7 @@ var topusapp = {};
             }
             for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
                 var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
-                if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){debugger;
+                if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){
                     return item.url;
                 }
             }

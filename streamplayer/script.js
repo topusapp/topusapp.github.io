@@ -45,7 +45,7 @@ var topusapp = {};
             }
 
             if(typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined') {
-                return;
+                return '';
             }
 
             for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){

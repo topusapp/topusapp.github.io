@@ -37,14 +37,23 @@ var topusapp = {};
         },
         getYTStream: function(){
             if(typeof(ytInitialPlayerResponse) === 'undefined' || typeof(ytInitialPlayerResponse.streamingData) === 'undefined' && typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined'){
-                return;
+                return '';
             }
             for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
                 var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
                 if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){
-                    return item.url;
+                    if(item.hasOwnProperty('url')) {
+                        return item.url;
+                    } else if(item.hasOwnProperty('signatureCipher')) {
+                        var sigArr = item.signatureCipher.split('url=');
+                        if(sigArr.length == 2) {
+                            return decodeURIComponent(sigArr[1]);
+                        }
+                    }
                 }
             }
+
+            return '';
         }
     };
     var listener = function() {
@@ -71,6 +80,11 @@ var topusapp = {};
                         return;
                     }
                 }
+
+                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
+                    return;
+                }
+                
                 haveStream = true;
                 libs.postMsg({
                     status: 'playing',
@@ -93,6 +107,11 @@ var topusapp = {};
                         return;
                     }
                 }
+
+                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
+                    return;
+                }
+                
                 libs.postMsg({
                     status: 'playing',
                     source: streamURL,

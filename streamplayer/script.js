@@ -39,14 +39,17 @@ var topusapp = {};
             if(typeof(ytInitialPlayerResponse) === 'undefined' || typeof(ytInitialPlayerResponse.streamingData) === 'undefined' && typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined'){
                 return '';
             }
+
+            if(ytInitialPlayerResponse.streamingData.hasOwnProperty('hlsManifestUrl')) {
+                return ytInitialPlayerResponse.streamingData.hlsManifestUrl;
+            }
+            
             for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
                 var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
                 if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){
                     if(item.hasOwnProperty('url')) {
                         return item.url;
-                    } else if(ytInitialPlayerResponse.streamingData.hasOwnProperty('hlsManifestUrl')) {
-                        return ytInitialPlayerResponse.streamingData.hlsManifestUrl;
-                    }
+                    } 
                 }
             }
 

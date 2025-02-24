@@ -40,15 +40,12 @@ var topusapp = {};
                 return '';
             }
             for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
-                var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
-                if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){
-                    if(item.hasOwnProperty('url')) {
-                        return item.url;
-                    } else if(item.hasOwnProperty('signatureCipher')) {
-                        var sigArr = item.signatureCipher.split('url=');
-                        if(sigArr.length == 2) {
-                            return decodeURIComponent(sigArr[1]);
-                        }
+                var item = ytInitialPlayerResponse.streamingData[i];
+                if(item.adaptiveFormats.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.adaptiveFormats.itag)){
+                    if(item.adaptiveFormats.hasOwnProperty('url')) {
+                        return item.adaptiveFormats.url;
+                    } else if(item.hasOwnProperty('hlsManifestUrl')) {
+                        return item.hlsManifestUrl;
                     }
                 }
             }
@@ -111,7 +108,7 @@ var topusapp = {};
                 if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
                     return;
                 }
-                
+
                 libs.postMsg({
                     status: 'playing',
                     source: streamURL,

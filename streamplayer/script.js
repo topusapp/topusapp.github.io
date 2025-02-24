@@ -36,14 +36,18 @@ var topusapp = {};
             return 'video/mp4';
         },
         getYTStream: function(){
-            if(typeof(ytInitialPlayerResponse) === 'undefined' || typeof(ytInitialPlayerResponse.streamingData) === 'undefined' && typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined'){
+            if(typeof(ytInitialPlayerResponse) === 'undefined' || typeof(ytInitialPlayerResponse.streamingData) === 'undefined'){
                 return '';
             }
 
             if(ytInitialPlayerResponse.streamingData.hasOwnProperty('hlsManifestUrl')) {
                 return ytInitialPlayerResponse.streamingData.hlsManifestUrl;
             }
-            
+
+            if(typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined') {
+                return;
+            }
+
             for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
                 var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
                 if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){

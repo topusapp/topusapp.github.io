@@ -64,7 +64,7 @@ var topusapp = {};
 
             if(media.paused != undefined && !media.paused && !haveStream) {
                 var streamURL = media.currentSrc;
-                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob://') == 0) {
+                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
                     if(document.domain.indexOf('youtube.com') >= 0) {
                         streamURL = libs.getYTStream();
                     } else {
@@ -86,7 +86,7 @@ var topusapp = {};
 
             media.addEventListener("playing", function() {
                 var streamURL = media.currentSrc;
-                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob://') == 0) {
+                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
                     if(document.domain.indexOf('youtube.com') >= 0) {
                         streamURL = libs.getYTStream();
                     } else {

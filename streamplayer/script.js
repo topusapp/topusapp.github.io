@@ -49,7 +49,7 @@ var topusapp = {};
                 streamURL = libs.getM3U8Resource();
             };
 
-            if(streamURL == undefined || streamURL.length == 0) {
+            if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('.gif') > 0) {
                 return false;
             };
             

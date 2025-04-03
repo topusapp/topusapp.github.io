@@ -35,29 +35,34 @@ var topusapp = {};
 
             return 'video/mp4';
         },
-        getYTStream: function(){
-            if(typeof(ytInitialPlayerResponse) === 'undefined' || typeof(ytInitialPlayerResponse.streamingData) === 'undefined'){
-                return '';
-            }
-
-            if(ytInitialPlayerResponse.streamingData.hasOwnProperty('hlsManifestUrl')) {
-                return ytInitialPlayerResponse.streamingData.hlsManifestUrl;
-            }
-
-            if(typeof(ytInitialPlayerResponse.streamingData.adaptiveFormats) === 'undefined') {
-                return '';
-            }
-
-            for(var i=0;i<ytInitialPlayerResponse.streamingData.adaptiveFormats.length;i++){
-                var item = ytInitialPlayerResponse.streamingData.adaptiveFormats[i];
-                if(item.mimeType.indexOf('video/mp4') >= 0 && [137,136,135,134,133].includes(item.itag)){
-                    if(item.hasOwnProperty('url')) {
-                        return item.url;
-                    } 
+        getM3U8Resource: function() {
+            var resources = performance.getEntriesByType('resource');
+            for(var i=0;i<resources.length;i++){
+                if(resources[i].initiatorType == 'xmlhttprequest' && resources[i].name.indexOf('.m3u8') > 0) {
+                    return resources[i].name;
                 }
             }
+        },
+        getPlayingStream: function(media) {
+            var streamURL = media.currentSrc;
+            if(streamURL.indexOf('blob:') == 0) {
+                streamURL = libs.getM3U8Resource();
+            };
 
-            return '';
+            if(streamURL == undefined || streamURL.length == 0) {
+                return false;
+            };
+            
+            libs.postMsg({
+                status: 'playing',
+                source: streamURL,
+                contentType: libs.getContentType(streamURL),
+                title: document.title,
+                subtitle: document.domain,
+                image: libs.getOGImage()
+            });
+
+            return true;
         }
     };
     var listener = function() {
@@ -76,54 +81,15 @@ var topusapp = {};
             }
 
             if(media.paused != undefined && !media.paused && !haveStream) {
-                var streamURL = media.currentSrc;
-                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
-                    if(document.domain.indexOf('youtube.com') >= 0) {
-                        streamURL = libs.getYTStream();
-                    } else {
-                        return;
-                    }
+                if(libs.getPlayingStream(media)) {
+                    haveStream = true;
                 }
-
-                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
-                    return;
-                }
-                
-                haveStream = true;
-                libs.postMsg({
-                    status: 'playing',
-                    source: streamURL,
-                    contentType: libs.getContentType(streamURL),
-                    title: document.title,
-                    subtitle: document.domain,
-                    image: libs.getOGImage()
-                });
             }
 
             media.setAttribute('NowbPAWBXD', '');
 
             media.addEventListener("playing", function() {
-                var streamURL = media.currentSrc;
-                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
-                    if(document.domain.indexOf('youtube.com') >= 0) {
-                        streamURL = libs.getYTStream();
-                    } else {
-                        return;
-                    }
-                }
-
-                if(streamURL == undefined || streamURL.length == 0 || streamURL.indexOf('blob:') == 0) {
-                    return;
-                }
-                
-                libs.postMsg({
-                    status: 'playing',
-                    source: streamURL,
-                    contentType: libs.getContentType(streamURL),
-                    title: document.title,
-                    subtitle: document.domain,
-                    image: libs.getOGImage()
-                });
+                libs.getPlayingStream(media);
             });
     
             media.addEventListener("pause", function() { 

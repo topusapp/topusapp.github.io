@@ -66,6 +66,10 @@ var topusapp = {};
         }
     };
     var listener = function() {
+        if(document.domain == 'youtube.com') {
+            return;
+        }
+
         if(typeof jsinterface != 'undefined') {
             settings.platform = 'android';
         } else if(typeof window != 'undefined' && typeof window.webkit != 'undefined' && window.webkit.messageHandlers != 'undefined') {

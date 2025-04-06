@@ -1,0 +1,11 @@
+{
+    "denyDomains": [
+        "youtube.com",
+        "similarweb.com"
+    ],
+    "bbcnew.com": {
+        "name": "BBC News",
+        "category": "News",
+        "url": "https://raw.githubusercontent.com/yourname/templates/main/news/bbc.json"
+    }
+}

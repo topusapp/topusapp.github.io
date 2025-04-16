@@ -43,7 +43,7 @@ var topusapp = {};
                 }
             }
         },
-        getPlayingStream: function(media) {
+        postPlayingStream: function(media) {
             var streamURL = media.currentSrc;
             if(streamURL.indexOf('blob:') == 0) {
                 streamURL = libs.getM3U8Resource();
@@ -63,10 +63,29 @@ var topusapp = {};
             });
 
             return true;
+        },
+        getYTID: function(link){
+            var match = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/.exec(link);
+            if(match == null || match.length != 2){
+                return "";
+            };
+            return match[1];
+        },
+        postYT: function(ytID) {
+            libs.postMsg({
+                status: 'playing',
+                source: ytID,
+                contentType: 'video/youtube',
+                title: document.title,
+                subtitle: document.domain,
+                image: libs.getOGImage()
+            });
         }
     };
     var listener = function() {
-        if(document.domain == 'youtube.com') {
+        var ytID = libs.getYTID(window.location.href);
+        if(ytID.length > 0) {
+            libs.postYT(ytID);
             return;
         }
 
@@ -85,7 +104,7 @@ var topusapp = {};
             }
 
             if(media.paused != undefined && !media.paused && !haveStream) {
-                if(libs.getPlayingStream(media)) {
+                if(libs.postPlayingStream(media)) {
                     haveStream = true;
                 }
             }
@@ -93,7 +112,7 @@ var topusapp = {};
             media.setAttribute('NowbPAWBXD', '');
 
             media.addEventListener("playing", function() {
-                libs.getPlayingStream(media);
+                libs.postPlayingStream(media);
             });
     
             media.addEventListener("pause", function() { 

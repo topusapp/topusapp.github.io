@@ -83,12 +83,6 @@ var topusapp = {};
         }
     };
     var listener = function() {
-        var ytID = libs.getYTID(window.location.href);
-        if(ytID.length > 0) {
-            libs.postYT(ytID);
-            return;
-        }
-
         if(typeof jsinterface != 'undefined') {
             settings.platform = 'android';
         } else if(typeof window != 'undefined' && typeof window.webkit != 'undefined' && window.webkit.messageHandlers != 'undefined') {
@@ -96,6 +90,12 @@ var topusapp = {};
         } else {
             settings.platform = 'none';
         };
+
+        var ytID = libs.getYTID(window.location.href);
+        if(ytID.length > 0) {
+            libs.postYT(ytID);
+            return;
+        }
 
         var haveStream = false;
         document.querySelectorAll("video").forEach((media, index) => {

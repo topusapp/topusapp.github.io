@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Topus Cast Receiver</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@5.0.5/build/mediaelementplayer.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/mediaelement@5.0.5/build/mediaelement-and-player.min.js"></script>
+  <script src="//www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+    }
+    video {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <video id="player" controls></video>
+
+  <script>
+    let mediaElement;
+    const video = document.getElementById('player');
+
+    const player = new MediaElementPlayer(video, {
+      pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@5.0.5/build/',
+      success: function(media) {
+        mediaElement = media;
+      }
+    });
+
+    // Cast SDK setup
+    const context = cast.framework.CastReceiverContext.getInstance();
+    const playerManager = context.getPlayerManager();
+
+    playerManager.setMessageInterceptor(
+      cast.framework.messages.MessageType.LOAD,
+      (loadRequestData) => {
+        const url = loadRequestData.media.contentId;
+
+        if (mediaElement) {
+          mediaElement.setSrc(url);
+          mediaElement.load();
+          mediaElement.play();
+        }
+
+        return loadRequestData;
+      }
+    );
+
+    // PLAY
+    playerManager.setMessageInterceptor(
+      cast.framework.messages.MessageType.PLAY,
+      () => {
+        if (mediaElement) mediaElement.play();
+      }
+    );
+
+    // PAUSE
+    playerManager.setMessageInterceptor(
+      cast.framework.messages.MessageType.PAUSE,
+      () => {
+        if (mediaElement) mediaElement.pause();
+      }
+    );
+
+    // SEEK
+    playerManager.setMessageInterceptor(
+      cast.framework.messages.MessageType.SEEK,
+      (seekRequestData) => {
+        if (mediaElement) {
+          mediaElement.setCurrentTime(seekRequestData.currentTime);
+        }
+      }
+    );
+
+    // SET VOLUME
+    playerManager.setMessageInterceptor(
+      cast.framework.messages.MessageType.SET_VOLUME,
+      (volumeRequestData) => {
+        if (mediaElement) {
+          mediaElement.setVolume(volumeRequestData.volume.level);
+        }
+      }
+    );
+
+    context.start();
+  </script>
+</body>
+</html>

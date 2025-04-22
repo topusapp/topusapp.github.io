@@ -1,58 +1,82 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <title>URL Cast Receiver</title>
+<head>
+<script src="https://www.gstatic.com/cast/js/receiver/1.0/cast_receiver.js">
+</script>
+<script type="text/javascript">
+ // first create our receiver object and our channel handler
+        var receiver = new cast.receiver.Receiver('{91E693A6}', ['ChromecastYoutube'],"",5);
+        var ytChannelHandler = new cast.receiver.ChannelHandler('ChromecastYoutube'); //  'using 'ChromecastYoutube' as my dev namespace. Wouldn't really be that in production.
+        ytChannelHandler.addChannelFactory(receiver.createChannelFactory('ChromecastYoutube'));
+        ytChannelHandler.addEventListener(
+                cast.receiver.Channel.EventType.MESSAGE,
+                onMessage.bind(this)
+        );
 
-    <style type='text/css'>
-      html, body {width: 100%; height: 100%; padding: 0; margin: 0;}
-      body {overflow:hidden; background: #FFF;}
-      #iframe {width: 100%; height: 100%;}
-    </style>
-  </head>
+        receiver.start();
 
-  <body>
-    <iframe src='' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' seamless='seamless' id='iframe'></iframe>
+        window.addEventListener('load', function() { // we won't try to load the iframe libraries until the chromecast window is fully loaded.
+                var tag = document.createElement('script');
+                tag.src = "https://www.youtube.com/iframe_api";
+                var firstScriptTag = document.getElementsByTagName('script')[0];
+                firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+        });
 
-    <script type='text/javascript' src='//www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js'></script>
+        var player;
+        function onYouTubeIframeAPIReady() {
+                player = new YT.Player('player', {
+                        height: '562',
+                        width: '1000',
+                        videoId: 'jLlSqucqXB0',
+                        playerVars: { 'autoplay': 0, 'controls': 0 },
+                        events: {
+                                'onReady': onPlayerReady,
+                                'onPlayerStateChange': onStateChange
+                        }
+                });
+        }
 
-    <script type='text/javascript'>
-      window.onload = function() {
-        window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
+        function onPlayerReady(event) {
+                document.getElementById('annotation').innerHTML="We're ready to go";
+        }
 
-        castReceiverManager.onReady = function(event) {
-          window.castReceiverManager.setApplicationState('URL Cast ready...');
-        };
+        function onStateChange(event) {
+                switch (event.data) {
+                        case YT.PlayerState.ENDED:
+                                // TODO let sender know we're done, then close casting 
+                                break;
+                        case YT.PlayerState.PLAYING:
+                                // TODO let sender know we're playing 
+                                break;
+                        case YT.PlayerState.PAUSED:
+                                // TODO let sender know we're paused 
+                                break;
+                }
+        }
 
-        // messages on a custom namespace
-        var ns = 'urn:x-cast:com.url.cast';
-        window.messageBus = window.castReceiverManager.getCastMessageBus(ns);
+        function onMessage(event) { // currently, any one of these will work, but subsequent ones seem to falter. Investigating...
+                ytBindings={"playVideo":player.playVideo(),"pauseVideo":player.pauseVideo(),"stopVideo":player.stopVideo(),"getStatus":player.getPlayerState()}
+                ytBindings[event.message];
+        }
 
-        window.messageBus.onMessage = function(e) {
-          var msg = JSON.parse(e.data);
 
-          window.messageBus.send(e.senderId, 'ok');
-
-          if (msg.type === 'iframe') updateFrame(msg.url);
-          if (msg.type === 'loc') updateLocation(msg.url);
-        };
-
-        // initialize CastReceiverManager
-        window.castReceiverManager.start({statusText: 'URL Cast starting...'});
-      };
-
-      // Update the iframe src
-      // warning: watch out for X-Frame-Options -> DENY
-      function updateFrame(url) {
-        window.castReceiverManager.setApplicationState('Now Playing: ' + url);
-        document.getElementById('iframe').src = url;
-      }
-
-      // Set the window location to the URL
-      // warning: this reciever dies essentially, because you navigated away
-      function updateLocation(url) {
-        window.castReceiverManager.setApplicationState('Now Playing: ' + url);
-        window.location.href = url;
-      }
-    </script>
-  </body>
+</script>
+<style>
+#wrapper {
+        width: 1000px;
+        margin: 10px auto;
+        text-align: center;
+}
+#annotation {
+        color: #ffffcc;
+        font-size: 200%;
+        margin-top:25px;
+}
+</style>
+</head>
+<body>
+<div id="wrapper">
+<div id="player"></div>
+<div id="annotation"></div>
+</div>
+</body>
 </html>

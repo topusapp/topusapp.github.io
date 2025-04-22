@@ -1,92 +1,58 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>Topus Cast Receiver</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@5.0.5/build/mediaelementplayer.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/mediaelement@5.0.5/build/mediaelement-and-player.min.js"></script>
-  <script src="//www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
-  <style>
-    body {
-      margin: 0;
-      background-color: #000;
-    }
-    video {
-      width: 100%;
-      height: 100%;
-    }
-  </style>
-</head>
-<body>
-  <video id="player" controls></video>
+  <head>
+    <title>URL Cast Receiver</title>
 
-  <script>
-    let mediaElement;
-    const video = document.getElementById('player');
+    <style type='text/css'>
+      html, body {width: 100%; height: 100%; padding: 0; margin: 0;}
+      body {overflow:hidden; background: #FFF;}
+      #iframe {width: 100%; height: 100%;}
+    </style>
+  </head>
 
-    const player = new MediaElementPlayer(video, {
-      pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@5.0.5/build/',
-      success: function(media) {
-        mediaElement = media;
+  <body>
+    <iframe src='' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' seamless='seamless' id='iframe'></iframe>
+
+    <script type='text/javascript' src='//www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js'></script>
+
+    <script type='text/javascript'>
+      window.onload = function() {
+        window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
+
+        castReceiverManager.onReady = function(event) {
+          window.castReceiverManager.setApplicationState('URL Cast ready...');
+        };
+
+        // messages on a custom namespace
+        var ns = 'urn:x-cast:com.url.cast';
+        window.messageBus = window.castReceiverManager.getCastMessageBus(ns);
+
+        window.messageBus.onMessage = function(e) {
+          var msg = JSON.parse(e.data);
+
+          window.messageBus.send(e.senderId, 'ok');
+
+          if (msg.type === 'iframe') updateFrame(msg.url);
+          if (msg.type === 'loc') updateLocation(msg.url);
+        };
+
+        // initialize CastReceiverManager
+        window.castReceiverManager.start({statusText: 'URL Cast starting...'});
+      };
+
+      // Update the iframe src
+      // warning: watch out for X-Frame-Options -> DENY
+      function updateFrame(url) {
+        window.castReceiverManager.setApplicationState('Now Playing: ' + url);
+        document.getElementById('iframe').src = url;
       }
-    });
 
-    // Cast SDK setup
-    const context = cast.framework.CastReceiverContext.getInstance();
-    const playerManager = context.getPlayerManager();
-
-    playerManager.setMessageInterceptor(
-      cast.framework.messages.MessageType.LOAD,
-      (loadRequestData) => {
-        const url = loadRequestData.media.contentId;
-
-        if (mediaElement) {
-          mediaElement.setSrc(url);
-          mediaElement.load();
-          mediaElement.play();
-        }
-
-        return loadRequestData;
+      // Set the window location to the URL
+      // warning: this reciever dies essentially, because you navigated away
+      function updateLocation(url) {
+        window.castReceiverManager.setApplicationState('Now Playing: ' + url);
+        window.location.href = url;
       }
-    );
-
-    // PLAY
-    playerManager.setMessageInterceptor(
-      cast.framework.messages.MessageType.PLAY,
-      () => {
-        if (mediaElement) mediaElement.play();
-      }
-    );
-
-    // PAUSE
-    playerManager.setMessageInterceptor(
-      cast.framework.messages.MessageType.PAUSE,
-      () => {
-        if (mediaElement) mediaElement.pause();
-      }
-    );
-
-    // SEEK
-    playerManager.setMessageInterceptor(
-      cast.framework.messages.MessageType.SEEK,
-      (seekRequestData) => {
-        if (mediaElement) {
-          mediaElement.setCurrentTime(seekRequestData.currentTime);
-        }
-      }
-    );
-
-    // SET VOLUME
-    playerManager.setMessageInterceptor(
-      cast.framework.messages.MessageType.SET_VOLUME,
-      (volumeRequestData) => {
-        if (mediaElement) {
-          mediaElement.setVolume(volumeRequestData.volume.level);
-        }
-      }
-    );
-
-    context.start();
-  </script>
-</body>
+    </script>
+  </body>
 </html>

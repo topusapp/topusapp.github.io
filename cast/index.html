@@ -1,91 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Multi-Format Cast Receiver</title>
+    <script src="//www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000; /* Nền đen chung */
+            height: 100vh;
+        }
+        #mediaContainer {
+            width: 80%; /* Điều chỉnh kích thước */
+            height: 80%;
+            position: relative; /* Để chứa iframe hoặc video player */
+        }
+        #youtubeIframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        #castMediaContainer {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
 <body>
-<video id='vid' />
-<script type="text/javascript"
-        src="//www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js">
-</script>
-<script type="text/javascript"
-        src="//www.gstatic.com/cast/sdk/libs/mediaplayer/1.0.0/media_player.js">
-</script>
+    <div id="mediaContainer">
+        <div id="youtubeIframe"></div>
+        <cast-media-player id="castMediaContainer"></cast-media-player>
+    </div>
 
-<script type="text/javascript">
-    window.onload = function() {
-        // If you set ?Debug=true in the URL, such as a different App ID in the
-        // developer console, include debugging information.
-        if (window.location.href.indexOf('Debug=true') != -1) {
-            console.log('---------- DEBUG ON ------------');
-            cast.receiver.logger.setLevelValue(cast.receiver.LoggerLevel.DEBUG);
-            cast.player.api.setLoggerLevel(cast.player.api.LoggerLevel.DEBUG);
-        }
-        var mediaElement = document.getElementById('vid');
-        window.mediaManager = new cast.receiver.MediaManager(mediaElement);
-        window.defaultOnLoad = mediaManager.onLoad.bind(mediaManager);
-        mediaManager.onLoad = function (event) {
-            console.log('Event:', event);
-            // The Media Player Library requires that you call player unload between different invocations.
-            if (window.player !== null) {
-                console.log('unloading the player');
-                player.unload();    // Must unload before starting again.
-                window.player = null;
-            }
-            if (event.data['media'] && event.data['media']['contentId']) {
-                console.log('Starting media application');
-                console.log(event.data['media']);
-                var url = event.data['media']['contentId'];
-                window.host = new cast.player.api.Host(
-                        {'mediaElement':mediaElement, 'url':url});
-                var initStart = event.data['media']['currentTime'] || 0;
-                var autoplay = event.data['autoplay'] || true;
-                var protocol = null;
-                mediaElement.autoplay = autoplay;  // Make sure autoplay gets set
-                if (url.lastIndexOf('.m3u8') >= 0) {
-                    // HTTP Live Streaming
-                    console.log("=== HLS ===");
-                    protocol = cast.player.api.CreateHlsStreamingProtocol(host);
-                } else if (url.lastIndexOf('/mpd') >= 0 || url.lastIndexOf('.mpd') >= 0) {
-                    // MPEG-DASH
-                    console.log("=== DASH ===");
-                    protocol = cast.player.api.CreateDashStreamingProtocol(host);
-                } else if (url.indexOf('/Manifest') >= 0) {
-                    // Smooth Streaming
-                    console.log("=== SMOOTH ===");
-                    protocol = cast.player.api.CreateSmoothStreamingProtocol(host);
-                }
-                host.onError = function(errorCode) {
-                    console.log("Fatal Error - "+errorCode);
-                    if (window.player) {
-                        console.log("unloading player");
-                        window.player.unload();
-                        window.player = null;
+    <script>
+        const context = cast.framework.CastReceiverContext.getInstance();
+        const playerManager = context.getPlayerManager();
+        const youtubeIframeContainer = document.getElementById('youtubeIframe');
+        const castMediaContainer = document.getElementById('castMediaContainer');
+
+        playerManager.setMessageInterceptor(
+            cast.framework.messages.MessageType.LOAD,
+            request => {
+                console.log('Intercepting LOAD request:', request);
+
+                if (request.media) {
+                    if (request.media.contentType === 'video/youtube' && request.media.contentId) {
+                        // Tải iframe YouTube
+                        const youtubeVideoId = request.media.contentId;
+                        const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=1&showinfo=0&rel=0&iv_load_policy=3`;
+                        const iframe = document.createElement('iframe');
+                        iframe.id = 'youtubeIframe'; // Đảm bảo có ID
+                        iframe.src = youtubeIframeUrl;
+                        youtubeIframeContainer.innerHTML = '';
+                        youtubeIframeContainer.appendChild(iframe);
+                        castMediaContainer.style.display = 'none'; // Ẩn trình phát CAF
+
+                        return { type: cast.framework.messages.MessageType.LOAD_CANCELLED };
+                    } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
+                        // Tải bằng trình phát CAF mặc định
+                        youtubeIframeContainer.innerHTML = ''; // Xóa iframe nếu có
+                        castMediaContainer.style.display = 'block'; // Hiển thị trình phát CAF
+                        return request; // Cho phép framework xử lý yêu cầu LOAD
                     }
-                };
-                host.updateLicenseRequestInfo = function(requestInfo) {
-                    console.log("Setting License Request Info headers");
-                    requestInfo.headers = {
-                        "Content-Type": "application/octet-stream"
-                    };
                 }
-                if (event.data.customData && event.data.customData.licenseCustomData) {
-                    console.log('setting license custom data');
-                    host.licenseCustomData = event.data.customData.licenseCustomData;
-                }
-                if (event.data.customData && event.data.customData.licenseUrl) {
-                    console.log('setting license URL');
-                    host.licenseUrl = event.data.customData.licenseUrl;
-                }
-                if (protocol !== null) {
-                    console.log("Starting Media Player Library");
-                    window.player = new cast.player.api.Player(host);
-                    window.player.load(protocol, initStart);
-                } else {
-                    console.log("using default handler");
-                    window.defaultOnLoad(event);    // do the default process
-                }
+
+                // Trường hợp contentType không được hỗ trợ hoặc không có media thông tin
+                console.log('Không hỗ trợ contentType hoặc không có thông tin media:', request);
+                return request; // Để framework xử lý (có thể dẫn đến lỗi nếu không phù hợp)
             }
-        }
-        window.player = null;
-        console.log('014 Application is ready, starting system');
-        window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
-        castReceiverManager.start();
-    };
-</script>
+        );
+
+        context.start();
+    </script>
 </body>
+</html>

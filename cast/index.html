@@ -31,14 +31,14 @@
 </head>
 <body>
     <div id="mediaContainer">
-        <div id="youtubeIframe"></div>
+        <div id="youtubeIframeContainer"></div>
         <cast-media-player id="castMediaContainer"></cast-media-player>
     </div>
 
     <script>
         const context = cast.framework.CastReceiverContext.getInstance();
         const playerManager = context.getPlayerManager();
-        const youtubeIframeContainer = document.getElementById('youtubeIframe');
+        const youtubeIframeContainer = document.getElementById('youtubeIframeContainer');
         const castMediaContainer = document.getElementById('castMediaContainer');
 
         playerManager.setMessageInterceptor(

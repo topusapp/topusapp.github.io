@@ -50,15 +50,17 @@
                     if (request.media.contentType === 'video/youtube' && request.media.contentId) {
                         // Tải iframe YouTube
                         const youtubeVideoId = request.media.contentId;
-                        // const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=1&showinfo=0&rel=0&iv_load_policy=3`;
-                        // const iframe = document.createElement('iframe');
-                        // iframe.id = 'youtubeIframe'; // Đảm bảo có ID
-                        // iframe.src = youtubeIframeUrl;
-                        youtubeIframeContainer.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/5eYevf1PmcU?si=_sGSghqQjGU_Z2ZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>';
-                        // youtubeIframeContainer.appendChild(iframe);
+                        const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=1&showinfo=0&rel=0&iv_load_policy=3`;
+                        const iframe = document.createElement('iframe');
+                        iframe.id = 'youtubeIframe'; // Đảm bảo có ID
+                        iframe.src = youtubeIframeUrl;
+                        iframe.allow = "autoplay; encrypted-media"; // Thêm quyền cần thiết
+                        iframe.allowFullscreen = true;
+                        youtubeIframeContainer.innerHTML = '';
+                        youtubeIframeContainer.appendChild(iframe);
                         castMediaContainer.style.display = 'none'; // Ẩn trình phát CAF
 
-                        return { type: cast.framework.messages.MessageType.LOAD_CANCELLED };
+                        return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
                         // Tải bằng trình phát CAF mặc định
                         youtubeIframeContainer.innerHTML = ''; // Xóa iframe nếu có

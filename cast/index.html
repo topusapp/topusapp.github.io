@@ -31,7 +31,17 @@
 </head>
 <body>
     <div id="mediaContainer">
-        <div style="color: #ffffff;position: absolute;z-index: 999;">Cast Media 1</div>
+        <div style="
+            /* height: 40px; */
+            color: #ffffff;
+            position: absolute;
+            z-index: 999;
+        ">
+            <p>Cast media 2</p>
+            <p id="contenttype">content type: <span>video/youtube</span></p>
+            <p id="title">title: <span></span></p>
+            <p id="contentid">content id: <span></span></p>
+        </div>
         <div id="youtubeIframeContainer"></div>
         <cast-media-player id="castMediaContainer"></cast-media-player>
     </div>
@@ -42,12 +52,18 @@
         const youtubeIframeContainer = document.getElementById('youtubeIframeContainer');
         const castMediaContainer = document.getElementById('castMediaContainer');
 
+        const contenttype = document.getElementById('contenttype');
+        const title = document.getElementById('title');
+        const contentid = document.getElementById('contentid');
+
         playerManager.setMessageInterceptor(
             cast.framework.messages.MessageType.LOAD,
             request => {
                 console.log('Intercepting LOAD request:', request);
 
                 if (request.media) {
+                    contenttype.innerText = request.media.contentType;
+                    contentid.innerText = request.media.contentId;
                     if (request.media.contentType === 'video/youtube' && request.media.contentId) {
                         // Tải iframe YouTube
                         const youtubeVideoId = request.media.contentId;
@@ -57,6 +73,8 @@
                         request.media.contentType = "video/mp4";
                         request.media.metadata = new cast.framework.messages.GenericMediaMetadata();
                         request.media.metadata.title = "Loading YouTube...";
+
+                        title.innerText = request.media.metadata.title;
         
                         // Chèn iframe YouTube
                         setTimeout(() => {

@@ -1,273 +1,114 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>URL Cast Demo</title>
-
-  <style type="text/css">
-    html, body {height:100%; width: 100%; margin: 0; padding: 0; border: 0;}
-
-    body {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 14px;
-      line-height: 1.42857143;
-      color: #333;
-      background-color: #FFF;
-    }
-
-    #wrapper {
-      width: 770px;
-      position: relative;
-      top: 20%;
-      transform: translateY(-20%);
-      margin: auto;
-    }
-
-    h1 {margin: 0; font-size: 36px;}
-
-    input, select, button {
-      border: 2px solid #CCC;
-      border-radius: 5px;
-      font-size: 25px;
-      font-weight: bold;
-      padding: 10px 15px;
-      background: #FFF;
-    }
-
-    input:focus, select:focus, button:focus {outline: none;}
-    input:focus, select:focus, button:active {
-      outline: none;
-      border-color: #8ecaed;
-      box-shadow: 0 0 5px #8ecaed;
-    }
-
-    select {
-      padding: 10px 38px 10px 15px;
-      background: url('./br_down.png') no-repeat right #fff;
-      -webkit-appearance: none;
-      background-position-x: 120px;
-      -webkit-appearance: none;
-      -moz-appearance: none;
-    }
-
-    input[disabled], select[disabled], button[disabled] {
-      background: #FAFAFA;
-      cursor: not-allowed;
-    }
-
-    select[disabled] {
-      background: url('./br_down.png') no-repeat right #FAFAFA;
-      -webkit-appearance: none;
-      background-position-x: 120px;
-      -webkit-appearance: none;
-      -moz-appearance: none;
-    }
-
-    .complete, .complete a {text-decoration: line-through; color: #ccc;}
-    .notready {color: #ccc;}
-
-    #notifications {position: fixed; bottom: 0; right: 0;}
-    .notification {
-      background: #222;
-      color: #FFF;
-      padding: 13px 20px;
-      margin: 10px;
-      border-radius: 2px;
-    }
-
-    .error {
-      background: #e64a4a;
-      color: #FFF;
-      padding: 13px 20px;
-      margin: 10px;
-      border-radius: 2px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Cast Sender Demo</title>
+    <script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        input, select, button {
+            margin: 10px 0;
+            padding: 8px;
+            width: 100%;
+        }
+    </style>
 </head>
-
 <body>
-  <div id="wrapper">
-    <h1>URL Cast Receiver</h1>
 
-    <p id="step1">Step 1:</p>
-    <button id="requestSession">Start cast session</button>
+    <h1>Cast Sender Demo</h1>
 
-    <p id="step2" class="notready">Step 2: Send url</p>
+    <label>Application ID:</label>
+    <input type="text" id="appId" placeholder="Eg: YOUR_APP_ID_HERE">
 
-    <input id="url" class="border" type="text" placeholder="e.g. http://example.com" size="30" value="https://www.windytv.com/" disabled/>
-    <select id="type" disabled>
-      <option value="iframe">iframe</option>
-      <option value="loc">location</option>
+    <label>Media URL:</label>
+    <input type="text" id="mediaUrl" placeholder="Eg: https://example.com/video.mp4">
+
+    <label>Media Type:</label>
+    <select id="mediaType">
+        <option value="video/mp4">MP4</option>
+        <option value="application/x-mpegURL">M3U8</option>
+        <option value="video/youtube">YouTube (Iframe)</option>
     </select>
-    <button id="send" disabled>send</button>
 
-    <h3>Details</h3>
-    <p>
-      There are two methods for casting, with pros and cons:
+    <button id="castButton">Cast</button>
 
-      <ol>
-        <li>Load an iframe (You will have trouble loading a url with x-frame-options: same origin.)</li>
-        <li>Change the window location (You will lose control when you load the url over the receiver.)</li>
-      </ol>
+    <script>
+        let castSession = null;
 
-      Also, notice the chromecast viewport is 1280x720 and the default background is black before the receiver loads.
-    </p>
+        document.getElementById('castButton').addEventListener('click', async () => {
+            const appId = document.getElementById('appId').value.trim();
+            const mediaUrl = document.getElementById('mediaUrl').value.trim();
+            const mediaType = document.getElementById('mediaType').value;
 
-    <p><a href="#">&laquo; GitHub</a></p>
-  </div>
+            if (!appId || !mediaUrl) {
+                alert('Please fill in Application ID and Media URL.');
+                return;
+            }
 
-  <div id="notifications"></div>
+            await initializeCastApi(appId);
+            castMedia(mediaUrl, mediaType);
+        });
 
-  <script type="text/javascript" src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>
-  <script type="text/javascript">
+        async function initializeCastApi(appId) {
+            return new Promise((resolve, reject) => {
+                const context = cast.framework.CastContext.getInstance();
+                context.setOptions({
+                    receiverApplicationId: appId,
+                    autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
+                });
 
-    // click handlers
-    document.getElementById('requestSession').onclick = function() {
-      chrome.cast.requestSession(sessionListener, onErr);
-    };
+                context.requestSession()
+                    .then(() => {
+                        castSession = context.getCurrentSession();
+                        resolve();
+                    })
+                    .catch(err => {
+                        console.error('Failed to request session:', err);
+                        alert('Failed to connect to Chromecast.');
+                        reject(err);
+                    });
+            });
+        }
 
-    document.getElementById('send').onclick = function() {
-      var url = document.getElementById('url').value
-        , type = document.getElementById('type').value;
+        function castMedia(mediaUrl, mediaType) {
+            if (!castSession) {
+                alert('No Cast session established.');
+                return;
+            }
 
-      if (!url || !type) return;
+            let contentId = mediaUrl;
+            if (mediaType === "video/youtube") {
+                // Nếu là YouTube, cần lấy ID từ URL
+                const videoId = extractYouTubeId(mediaUrl);
+                if (!videoId) {
+                    alert('Invalid YouTube URL.');
+                    return;
+                }
+                contentId = videoId;
+            }
 
-      sendMessage({type: type, url: url});
-    };
+            const mediaInfo = new chrome.cast.media.MediaInfo(contentId, mediaType);
+            const request = new chrome.cast.media.LoadRequest(mediaInfo);
 
-    var applicationID = '91E693A6'
-      , namespace = 'urn:x-cast:com.url.cast'
-      , receiverDead = false
-      , session = null;
+            castSession.loadMedia(request)
+                .then(() => {
+                    console.log('Load media request sent');
+                })
+                .catch(err => {
+                    console.error('Load media failed', err);
+                    alert('Load media failed');
+                });
+        }
 
-    // initialize
-    window.__onGCastApiAvailable = function(loaded) {
-      if (loaded) initializeCastApi();
-    };
+        function extractYouTubeId(url) {
+            const regExp = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i;
+            const match = url.match(regExp);
+            return match ? match[1] : null;
+        }
+    </script>
 
-    function initializeCastApi() {
-      var sessionRequest = new chrome.cast.SessionRequest(applicationID);
-
-      var apiConfig = new chrome.cast.ApiConfig(
-        sessionRequest,
-        sessionListener,
-        receiverListener
-      );
-
-      chrome.cast.initialize(
-        apiConfig,
-        onSuccess.bind(this, 'initialized ok'),
-        onErr
-      );
-    }
-
-    function onErr(err) {
-      console.log('Err: ' + JSON.stringify(err));
-      showError(err);
-    }
-
-    function onSuccess(msg) {
-      console.log('Sucess: ' + msg);
-    }
-
-    function sessionListener(newSession) {
-      console.log('New session ID:' + newSession.sessionId);
-      session = newSession;
-      session.addUpdateListener(sessionUpdateListener);
-      session.addMessageListener(namespace, receiveMessage);
-
-      enableInputs();
-    }
-
-    function receiverListener(e) {
-      (e === 'available')
-        ? console.log('receiver found')
-        : console.log('no receivers found');
-    }
-
-    function sessionUpdateListener(isAlive) {
-      if (!isAlive) {
-        session = null;
-        disableInputs();
-      }
-      console.log('Session is alive?: ', isAlive);
-    }
-
-    function receiveMessage(namespace, msg) {
-      // namespace = 'urn:x-cast:com.url.cast'
-      // it only ever says 'ok' - just confirming when a url has been received
-      console.log('Receiver said: ' + msg);
-    }
-
-    function sendMessage(msg) {
-      if (receiverDead || !session) return;
-
-      // send msg
-      session.sendMessage(
-        namespace,
-        msg,
-        function() {
-          console.log('Message sent: ', msg);
-          notify('Message sent: ' + JSON.stringify(msg));
-        },
-        onErr
-      );
-
-      if (msg.type === 'loc') {
-        receiverDead = true;
-        disableInputs();
-        notify('Receiver will now be unresponsive');
-      }
-    }
-
-    function notify(msg) {
-      var el = document.getElementById('notifications')
-        , notice = document.createElement('div');
-
-      notice.className = 'notification';
-      notice.innerHTML = msg;
-
-      el.appendChild(notice);
-
-      // notice self destruct timer
-      setTimeout(function() {
-        el.removeChild(notice);
-      }, 5000);
-    }
-
-    function showError(err) {
-      var el = document.getElementById('notifications')
-        , notice = document.createElement('div');
-
-      notice.className = 'error';
-      notice.innerHTML = 'Got error!: ' + JSON.stringify(err);
-
-      el.appendChild(notice);
-
-      // notice self destruct timer
-      setTimeout(function() {
-        el.removeChild(notice);
-      }, 5000);
-    }
-
-    function enableInputs() {
-      document.getElementById('url').disabled = false;
-      document.getElementById('type').disabled = false;
-      document.getElementById('send').disabled = false;
-
-      document.getElementById('step1').classList.add('complete');
-      document.getElementById('step2').classList.remove('notready');
-      document.getElementById('url').focus();
-    }
-
-    function disableInputs() {
-      document.getElementById('url').disabled = true;
-      document.getElementById('type').disabled = true;
-      document.getElementById('send').disabled = true;
-
-      document.getElementById('step1').classList.remove('complete');
-      document.getElementById('step2').classList.add('notready');
-    }
-
-  </script>
 </body>
 </html>

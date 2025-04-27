@@ -37,7 +37,7 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 2</p>
+            <p>Cast media 3</p>
             <p id="contenttype">content type: <span>video/youtube</span></p>
             <p id="title">title: <span></span></p>
             <p id="contentid">content id: <span></span></p>
@@ -67,33 +67,19 @@
                     if (request.media.contentType === 'video/youtube' && request.media.contentId) {
                         // Tải iframe YouTube
                         const youtubeVideoId = request.media.contentId;
-
-                        // BẮT BUỘC: load 1 dummy media để Chromecast OK
-                        request.media.contentId = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4";
-                        request.media.contentType = "video/mp4";
-                        request.media.metadata = new cast.framework.messages.GenericMediaMetadata();
-                        request.media.metadata.title = "Loading YouTube...";
-
-                        title.innerText = request.media.metadata.title;
+                        const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=1&showinfo=0&rel=0&iv_load_policy=3`;
+                        const iframe = document.createElement('iframe');
+                        iframe.id = 'youtubeIframe'; 
+                        iframe.src = youtubeIframeUrl;
+                        iframe.allow = "autoplay; encrypted-media"; // Thêm quyền cần thiết
+                        iframe.allowFullscreen = true;
         
-                        // Chèn iframe YouTube
-                        setTimeout(() => {
-                            const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=1&showinfo=0&rel=0&iv_load_policy=3`;
-                            const iframe = document.createElement('iframe');
-                            iframe.src = youtubeIframeUrl;
-                            iframe.allow = "autoplay; encrypted-media";
-                            iframe.allowFullscreen = true;
-                            iframe.style.width = "100%";
-                            iframe.style.height = "100%";
-                            iframe.style.border = "none";
+                        youtubeIframeContainer.innerHTML = '';
+                        youtubeIframeContainer.appendChild(iframe);
+                        castMediaContainer.style.display = 'none'; 
         
-                            youtubeIframeContainer.innerHTML = '';
-                            youtubeIframeContainer.appendChild(iframe);
-        
-                            castMediaContainer.style.display = 'none';
-                        }, 1000); // Delay 1s cho dummy load xong
-
-                        return request;
+                        // Đã tự xử lý -> không cần CAF player nữa
+                        return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
                         // Tải bằng trình phát CAF mặc định
                         youtubeIframeContainer.innerHTML = ''; // Xóa iframe nếu có

@@ -1,114 +1,130 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Cast Sender Demo</title>
-    <script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        input, select, button {
-            margin: 10px 0;
-            padding: 8px;
-            width: 100%;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Chromecast Sender with Controls</title>
+  <script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
+  <style>
+    body { font-family: Arial; padding: 20px; max-width: 600px; margin: auto; }
+    input, select, button { width: 100%; padding: 8px; margin: 8px 0; }
+    .controls button, .controls input[type="range"] { margin-right: 10px; }
+    .controls { margin-top: 20px; }
+  </style>
 </head>
 <body>
 
-    <h1>Cast Sender Demo</h1>
+  <h2>Chromecast Sender</h2>
 
-    <label>Application ID:</label>
-    <input type="text" id="appId" placeholder="Eg: YOUR_APP_ID_HERE">
+  <label>Application ID</label>
+  <input id="appId" placeholder="Eg: 123ABC" />
 
-    <label>Media URL:</label>
-    <input type="text" id="mediaUrl" placeholder="Eg: https://example.com/video.mp4">
+  <label>Media URL</label>
+  <input id="mediaUrl" placeholder="Eg: https://domain.com/video.mp4" />
 
-    <label>Media Type:</label>
-    <select id="mediaType">
-        <option value="video/mp4">MP4</option>
-        <option value="application/x-mpegURL">M3U8</option>
-        <option value="video/youtube">YouTube (Iframe)</option>
-    </select>
+  <label>Media Type</label>
+  <select id="mediaType">
+    <option value="video/mp4">MP4</option>
+    <option value="application/x-mpegURL">M3U8</option>
+    <option value="video/youtube">YouTube</option>
+  </select>
 
-    <button id="castButton">Cast</button>
+  <button onclick="startCasting()">Cast Media</button>
 
-    <script>
-        let castSession = null;
+  <div class="controls">
+    <h3>Media Controls</h3>
+    <button onclick="play()">Play</button>
+    <button onclick="pause()">Pause</button>
+    <label>Volume:</label>
+    <input type="range" min="0" max="1" step="0.05" onchange="setVolume(this.value)" />
+    <label>Seek (seconds):</label>
+    <input type="number" id="seekInput" value="10" />
+    <button onclick="seek()">Seek Forward</button>
+  </div>
 
-        document.getElementById('castButton').addEventListener('click', async () => {
-            const appId = document.getElementById('appId').value.trim();
-            const mediaUrl = document.getElementById('mediaUrl').value.trim();
-            const mediaType = document.getElementById('mediaType').value;
+  <script>
+    let castSession = null;
 
-            if (!appId || !mediaUrl) {
-                alert('Please fill in Application ID and Media URL.');
-                return;
-            }
+    function startCasting() {
+      const appId = document.getElementById('appId').value.trim();
+      const url = document.getElementById('mediaUrl').value.trim();
+      const type = document.getElementById('mediaType').value;
 
-            await initializeCastApi(appId);
-            castMedia(mediaUrl, mediaType);
-        });
+      if (!appId || !url) {
+        alert('Please enter Application ID and URL');
+        return;
+      }
 
-        async function initializeCastApi(appId) {
-            return new Promise((resolve, reject) => {
-                const context = cast.framework.CastContext.getInstance();
-                context.setOptions({
-                    receiverApplicationId: appId,
-                    autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
-                });
+      const context = cast.framework.CastContext.getInstance();
+      context.setOptions({
+        receiverApplicationId: appId,
+        autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
+      });
 
-                context.requestSession()
-                    .then(() => {
-                        castSession = context.getCurrentSession();
-                        resolve();
-                    })
-                    .catch(err => {
-                        console.error('Failed to request session:', err);
-                        alert('Failed to connect to Chromecast.');
-                        reject(err);
-                    });
-            });
+      context.requestSession().then(() => {
+        castSession = context.getCurrentSession();
+
+        let contentId = url;
+        if (type === "video/youtube") {
+          const youtubeId = extractYouTubeId(url);
+          if (!youtubeId) {
+            alert("Invalid YouTube URL");
+            return;
+          }
+          contentId = youtubeId;
         }
 
-        function castMedia(mediaUrl, mediaType) {
-            if (!castSession) {
-                alert('No Cast session established.');
-                return;
-            }
+        const mediaInfo = new chrome.cast.media.MediaInfo(contentId, type);
+        const request = new chrome.cast.media.LoadRequest(mediaInfo);
 
-            let contentId = mediaUrl;
-            if (mediaType === "video/youtube") {
-                // Nếu là YouTube, cần lấy ID từ URL
-                const videoId = extractYouTubeId(mediaUrl);
-                if (!videoId) {
-                    alert('Invalid YouTube URL.');
-                    return;
-                }
-                contentId = videoId;
-            }
+        castSession.loadMedia(request).then(
+          () => console.log("Media loaded"),
+          err => console.error("Load failed", err)
+        );
+      }).catch(err => {
+        console.error('Cast request failed', err);
+      });
+    }
 
-            const mediaInfo = new chrome.cast.media.MediaInfo(contentId, mediaType);
-            const request = new chrome.cast.media.LoadRequest(mediaInfo);
+    function play() {
+      const media = castSession?.getMediaSession();
+      media?.play(null, onSuccess, onError);
+    }
 
-            castSession.loadMedia(request)
-                .then(() => {
-                    console.log('Load media request sent');
-                })
-                .catch(err => {
-                    console.error('Load media failed', err);
-                    alert('Load media failed');
-                });
-        }
+    function pause() {
+      const media = castSession?.getMediaSession();
+      media?.pause(null, onSuccess, onError);
+    }
 
-        function extractYouTubeId(url) {
-            const regExp = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i;
-            const match = url.match(regExp);
-            return match ? match[1] : null;
-        }
-    </script>
+    function seek() {
+      const seconds = parseFloat(document.getElementById('seekInput').value);
+      const media = castSession?.getMediaSession();
+      if (!media) return;
+      const newTime = media.getEstimatedTime() + seconds;
+      const request = new chrome.cast.media.SeekRequest();
+      request.currentTime = newTime;
+      media.seek(request, onSuccess, onError);
+    }
+
+    function setVolume(level) {
+      const volume = new chrome.cast.Volume();
+      volume.level = parseFloat(level);
+      castSession?.setVolume(new chrome.cast.VolumeRequest(volume), onSuccess, onError);
+    }
+
+    function onSuccess() {
+      console.log("Success");
+    }
+
+    function onError(err) {
+      console.error("Error", err);
+    }
+
+    function extractYouTubeId(url) {
+      const regExp = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/i;
+      const match = url.match(regExp);
+      return match ? match[1] : null;
+    }
+  </script>
 
 </body>
 </html>

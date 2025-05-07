@@ -5,24 +5,27 @@
     <title>Multi-Format Cast Receiver</title>
     <script src="//www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
     <style>
-        body {
+        html, body {
             margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #000; /* Nền đen chung */
-            height: 100vh;
+            padding: 0;
+            height: 100%;
+            background-color: #000;
         }
+    
         #mediaContainer {
-            width: 80%; /* Điều chỉnh kích thước */
-            height: 80%;
-            position: relative; /* Để chứa iframe hoặc video player */
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
         }
+    
         #youtubeIframe {
             width: 100%;
             height: 100%;
             border: none;
         }
+    
         #castMediaContainer {
             width: 100%;
             height: 100%;

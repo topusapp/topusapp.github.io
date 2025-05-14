@@ -85,7 +85,7 @@
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
                     contentid.innerText = request.media.contentId;
-                    if (request.media.contentType === 'video/youtube' && request.media.contentId) {
+                    if (request.media.contentType === 'video/youtube' && request.media.contentId != undefined && request.media.contentId.length == 0) {
                         // Tải iframe YouTube
                         const youtubeVideoId = getYTID(request.media.contentId);
                         const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`;

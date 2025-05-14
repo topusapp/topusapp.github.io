@@ -93,7 +93,7 @@ var topusapp = {};
 
         var ytID = libs.getYTID(window.location.href);
         if(ytID.length > 0) {
-            libs.postYT(ytID);
+            libs.postYT(window.location.href);
             return;
         }
 

@@ -21,7 +21,7 @@
             left: 0;
         }
     
-        #youtubeIframeContainer {
+        #iframeContainer {
             width: 100%;
             height: 100%;
             position: absolute;
@@ -50,43 +50,24 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 6</p>
+            <p>Cast media 7</p>
             <p id="contenttype">content type: <span>video/youtube</span></p>
             <p id="title">title: <span></span></p>
             <p id="contentid">content id: <span></span></p>
         </div>
-        <div id="youtubeIframeContainer"></div>
+        <div id="iframeContainer"></div>
         <cast-media-player id="castMediaContainer"></cast-media-player>
     </div>
 
     <script>
         const context = cast.framework.CastReceiverContext.getInstance();
         const playerManager = context.getPlayerManager();
-        const youtubeIframeContainer = document.getElementById('youtubeIframeContainer');
+        const iframeContainer = document.getElementById('iframeContainer');
         const castMediaContainer = document.getElementById('castMediaContainer');
 
         const contenttype = document.getElementById('contenttype');
         const title = document.getElementById('title');
         const contentid = document.getElementById('contentid');
-
-        function getYTID(link){
-            var match = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/.exec(link);
-            if(match == null || match.length != 2){
-                return "";
-            };
-            return match[1];
-        };
-
-        function getDailyMotionId(url) {
-            var m = url.match(/^.+dailymotion.com\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
-            if (m !== null) {
-                if(m[4] !== undefined) {
-                    return m[4];
-                }
-                return m[2];
-            }
-            return "";
-        }
 
         playerManager.setMessageInterceptor(
             cast.framework.messages.MessageType.LOAD,
@@ -96,41 +77,22 @@
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
                     contentid.innerText = request.media.contentId;
-                    if (request.media.contentType === 'video/youtube' && request.media.contentId) {
-                        // Tải iframe YouTube
-                        const youtubeVideoId = getYTID(request.media.contentId);
-                        const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`;
+                    if (request.media.contentType === 'video/web' && request.media.contentId) {
+                        const iframeUrl = request.media.contentId;
                         const iframe = document.createElement('iframe');
-                        iframe.id = 'youtubeIframe'; 
-                        iframe.src = youtubeIframeUrl;
-                        iframe.allow = "autoplay; encrypted-media"; // Thêm quyền cần thiết
-                        iframe.allowFullscreen = true;
-        
-                        youtubeIframeContainer.innerHTML = '';
-                        youtubeIframeContainer.appendChild(iframe);
-                        castMediaContainer.style.display = 'none'; 
-        
-                        // Đã tự xử lý -> không cần CAF player nữa
-                        return null;
-                    } else if (request.media.contentType === 'video/dailymotion' && request.media.contentId) {
-                        // Tải iframe YouTube
-                        const videoId = getDailyMotionId(request.media.contentId);
-                        const iframeUrl = `https://geo.dailymotion.com/player.html?video=${videoId}`;
-                        const iframe = document.createElement('iframe');
-                        iframe.id = 'dailymotionIframe'; 
+                        iframe.id = 'webEmbedIframe'; 
                         iframe.src = iframeUrl;
-                        iframe.allow = "autoplay; encrypted-media"; // Thêm quyền cần thiết
+                        iframe.allow = "autoplay; encrypted-media";
                         iframe.allowFullscreen = true;
         
-                        youtubeIframeContainer.innerHTML = '';
-                        youtubeIframeContainer.appendChild(iframe);
+                        iframeContainer.innerHTML = '';
+                        iframeContainer.appendChild(iframe);
                         castMediaContainer.style.display = 'none'; 
-        
-                        // Đã tự xử lý -> không cần CAF player nữa
+
                         return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
                         // Tải bằng trình phát CAF mặc định
-                        youtubeIframeContainer.innerHTML = ''; // Xóa iframe nếu có
+                        iframeContainer.innerHTML = ''; // Xóa iframe nếu có
                         castMediaContainer.style.display = 'block'; // Hiển thị trình phát CAF
                         return request; // Cho phép framework xử lý yêu cầu LOAD
                     }

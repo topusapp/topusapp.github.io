@@ -64,11 +64,11 @@ var topusapp = {};
 
             return true;
         },
-        postWebEmbed: function(url, contentType) {
+        postWebEmbed: function(url) {
             libs.postMsg({
                 status: 'playing',
                 source: url,
-                contentType: contentType,
+                contentType: 'video/web',
                 title: document.title,
                 subtitle: document.domain,
                 image: libs.getOGImage()
@@ -94,12 +94,12 @@ var topusapp = {};
         castWebEmbed: function(){
             var videoId = libs.getYTID(window.location.href);
             if(videoId.length > 0) {
-                libs.postWebEmbed(`https://www.youtube.com/embed/${videoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`, 'video/youtube');
+                libs.postWebEmbed(`https://www.youtube.com/embed/${videoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`);
                 return true;
             };
             videoId = libs.getDailyMotionId(window.location.href);
             if(videoId.length > 0) {
-                libs.postWebEmbed(`https://geo.dailymotion.com/player.html?video=${videoId}`, 'video/dailymotion');
+                libs.postWebEmbed(`https://geo.dailymotion.com/player.html?video=${videoId}`);
                 return true;
             };
 

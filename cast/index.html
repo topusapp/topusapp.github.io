@@ -69,6 +69,25 @@
         const title = document.getElementById('title');
         const contentid = document.getElementById('contentid');
 
+        function getYTID(link){
+            var match = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/.exec(link);
+            if(match == null || match.length != 2){
+                return "";
+            };
+            return match[1];
+        };
+
+        function getDailyMotionId(url) {
+            var m = url.match(/^.+dailymotion.com\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
+            if (m !== null) {
+                if(m[4] !== undefined) {
+                    return m[4];
+                }
+                return m[2];
+            }
+            return "";
+        }
+
         playerManager.setMessageInterceptor(
             cast.framework.messages.MessageType.LOAD,
             request => {
@@ -79,7 +98,7 @@
                     contentid.innerText = request.media.contentId;
                     if (request.media.contentType === 'video/youtube' && request.media.contentId) {
                         // Tải iframe YouTube
-                        const youtubeVideoId = request.media.contentId;
+                        const youtubeVideoId = getYTID(request.media.contentId);
                         const youtubeIframeUrl = `https://www.youtube.com/embed/${youtubeVideoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`;
                         const iframe = document.createElement('iframe');
                         iframe.id = 'youtubeIframe'; 
@@ -95,7 +114,7 @@
                         return null;
                     } else if (request.media.contentType === 'video/dailymotion' && request.media.contentId) {
                         // Tải iframe YouTube
-                        const videoId = request.media.contentId;
+                        const videoId = getDailyMotionId(request.media.contentId);
                         const iframeUrl = `https://geo.dailymotion.com/player.html?video=${videoId}`;
                         const iframe = document.createElement('iframe');
                         iframe.id = 'dailymotionIframe'; 

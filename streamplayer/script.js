@@ -111,7 +111,7 @@ var topusapp = {};
             settings.platform = 'none';
         };
 
-        var ytID = libs.getYTID(window.location.href) || libs.getDailyMotionId(window.location.href);
+        var ytID = libs.getYTID(window.location.href);
         if(ytID.length > 0) {
             libs.postYT(window.location.href);
             return;

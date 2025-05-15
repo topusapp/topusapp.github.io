@@ -64,6 +64,16 @@ var topusapp = {};
 
             return true;
         },
+        postWebEmbed: function(url, contentType) {
+            libs.postMsg({
+                status: 'playing',
+                source: url,
+                contentType: contentType,
+                title: document.title,
+                subtitle: document.domain,
+                image: libs.getOGImage()
+            });
+        },
         getYTID: function(link){
             var match = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/.exec(link);
             if(match == null || match.length != 2){
@@ -81,25 +91,19 @@ var topusapp = {};
             }
             return "";
         },
-        postYT: function(ytID) {
-            libs.postMsg({
-                status: 'playing',
-                source: ytID,
-                contentType: 'video/youtube',
-                title: document.title,
-                subtitle: document.domain,
-                image: libs.getOGImage()
-            });
-        },
-        postDM: function(link) {
-            libs.postMsg({
-                status: 'playing',
-                source: link,
-                contentType: 'video/dailymotion',
-                title: document.title,
-                subtitle: document.domain,
-                image: libs.getOGImage()
-            });
+        castWebEmbed: function(){
+            var videoId = libs.getYTID(window.location.href);
+            if(videoId.length > 0) {
+                libs.postWebEmbed(`https://www.youtube.com/embed/${videoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`, 'video/youtube');
+                return true;
+            };
+            videoId = libs.getDailyMotionId(window.location.href);
+            if(videoId.length > 0) {
+                libs.postWebEmbed(`https://geo.dailymotion.com/player.html?video=${videoId}`, 'video/dailymotion');
+                return true;
+            };
+
+            return false;
         }
     };
     var listener = function() {
@@ -111,17 +115,9 @@ var topusapp = {};
             settings.platform = 'none';
         };
 
-        var ytID = libs.getYTID(window.location.href);
-        if(ytID.length > 0) {
-            libs.postYT(window.location.href);
+        if(libs.castWebEmbed()){
             return;
         };
-
-        var dmID = libs.getDailyMotionId(window.location.href);
-        if(dmID.length > 0) {
-            libs.postDM(window.location.href);
-            return;
-        }
 
         var haveStream = false;
         document.querySelectorAll("video").forEach((media, index) => {

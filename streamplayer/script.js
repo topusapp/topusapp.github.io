@@ -71,11 +71,31 @@ var topusapp = {};
             };
             return match[1];
         },
+        getDailyMotionId: function (url) {
+            var m = url.match(/^.+dailymotion.com\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/);
+            if (m !== null) {
+                if(m[4] !== undefined) {
+                    return m[4];
+                }
+                return m[2];
+            }
+            return "";
+        },
         postYT: function(ytID) {
             libs.postMsg({
                 status: 'playing',
                 source: ytID,
                 contentType: 'video/youtube',
+                title: document.title,
+                subtitle: document.domain,
+                image: libs.getOGImage()
+            });
+        },
+        postDM: function(link) {
+            libs.postMsg({
+                status: 'playing',
+                source: link,
+                contentType: 'video/dailymotion',
                 title: document.title,
                 subtitle: document.domain,
                 image: libs.getOGImage()
@@ -91,9 +111,15 @@ var topusapp = {};
             settings.platform = 'none';
         };
 
-        var ytID = libs.getYTID(window.location.href);
+        var ytID = libs.getYTID(window.location.href) || libs.getDailyMotionId(window.location.href);
         if(ytID.length > 0) {
             libs.postYT(window.location.href);
+            return;
+        };
+
+        var dmID = libs.getDailyMotionId(window.location.href);
+        if(dmID.length > 0) {
+            libs.postDM(window.location.href);
             return;
         }
 

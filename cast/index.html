@@ -50,10 +50,11 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 8</p>
+            <p>Cast media 9</p>
             <p id="contenttype">content type: <span></span></p>
             <p id="title">title: <span></span></p>
             <p id="contentid">content id: <span></span></p>
+            <p id="media">media: <span></span></p>
         </div>
         <div id="iframeContainer"></div>
         <cast-media-player id="castMediaContainer"></cast-media-player>
@@ -68,6 +69,7 @@
         const contenttype = document.getElementById('contenttype');
         const title = document.getElementById('title');
         const contentid = document.getElementById('contentid');
+        const media = document.getElementById('media');
 
         playerManager.setMessageInterceptor(
             cast.framework.messages.MessageType.LOAD,
@@ -77,6 +79,7 @@
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
                     contentid.innerText = request.media.contentId;
+                    media.innerText = JSON.stringify(request.media);
                     if (request.media.contentType === 'video/web' && request.media.contentId) {
                         const iframeUrl = request.media.contentId;
                         const iframe = document.createElement('iframe');

@@ -50,7 +50,7 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 10</p>
+            <p>Cast media 11</p>
             <p id="contenttype">content type: <span></span></p>
             <p id="title">title: <span></span></p>
             <p id="contentid">content id: <span></span></p>
@@ -78,7 +78,7 @@
 
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
-                    contentid.innerText = request.media.contentId;
+                    contentid.innerText = request.media.contentId | request.media.contentUrl;
                     media.innerText = JSON.stringify(request.media);
                     if (request.media.contentType === 'video/web' && (request.media.contentUrl || request.media.contentId)) {
                         const iframeUrl = request.media.contentId | request.media.contentUrl;

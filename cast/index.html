@@ -80,7 +80,7 @@
                     contenttype.innerText = request.media.contentType;
                     contentid.innerText = request.media.contentId;
                     media.innerText = JSON.stringify(request.media);
-                    if (request.media.contentType === 'video/web' && (request.media.contentUrl || request.media.contentId) {
+                    if (request.media.contentType === 'video/web' && (request.media.contentUrl || request.media.contentId)) {
                         const iframeUrl = request.media.contentId | request.media.contentUrl;
                         const iframe = document.createElement('iframe');
                         iframe.id = 'webEmbedIframe'; 

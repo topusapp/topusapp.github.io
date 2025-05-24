@@ -50,7 +50,7 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 12</p>
+            <p>Cast media 13</p>
             <p id="contenttype">content type: <span></span></p>
             <p id="title">title: <span></span></p>
             <p id="contentid">content id: <span></span></p>
@@ -86,7 +86,8 @@
                         const iframe = document.createElement('iframe');
                         iframe.id = 'webEmbedIframe'; 
                         iframe.src = iframeUrl;
-                        iframe.allow = "autoplay; encrypted-media";
+                        // iframe.allow = "autoplay; encrypted-media";
+                        iframe.allow = "web-share";
                         iframe.allowFullscreen = true;
         
                         iframeContainer.innerHTML = '';

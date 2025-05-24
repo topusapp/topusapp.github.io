@@ -97,11 +97,11 @@ var topusapp = {};
                 libs.postWebEmbed(`https://www.youtube.com/embed/${videoId}?autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`);
                 return true;
             };
-            videoId = libs.getDailyMotionId(window.location.href);
-            if(videoId.length > 0) {
-                libs.postWebEmbed(`https://geo.dailymotion.com/player.html?video=${videoId}`);
-                return true;
-            };
+            // videoId = libs.getDailyMotionId(window.location.href);
+            // if(videoId.length > 0) {
+            //     libs.postWebEmbed(`https://geo.dailymotion.com/player.html?video=${videoId}`);
+            //     return true;
+            // };
 
             return false;
         }

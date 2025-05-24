@@ -78,7 +78,6 @@
 
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
-                    contentid.innerText = request.media.contentUrl;
                     media.innerText = JSON.stringify(request.media);
                     if (request.media.contentType === 'video/web') {
                         contentid.innerText = request.media.contentUrl;

@@ -78,7 +78,7 @@
 
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
-                    //media.innerText = JSON.stringify(request.media);
+                    media.innerText = JSON.stringify(request.media);
                     if (request.media.contentType === 'video/web') {
                         contentid.innerText = request.media.contentUrl;
                         const iframeUrl = request.media.contentUrl;

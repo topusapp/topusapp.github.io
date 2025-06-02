@@ -96,11 +96,12 @@
                         return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
                         // Tải bằng trình phát CAF mặc định
-                        contentid.innerText = request.media.contentId;
-                        if(!request.media.contentId) {
+                        if(!request.media.contentId == undefined) {
                             request.media.contentId = request.media.contentUrl;
                             request.media.streamType = 'BUFFERED';
-                        }
+                        };
+                        contentid.innerText = request.media.contentId;
+                        media.innerText = JSON.stringify(request.media);
                         iframeContainer.innerHTML = ''; // Xóa iframe nếu có
                         castMediaContainer.style.display = 'block'; // Hiển thị trình phát CAF
                         return request; // Cho phép framework xử lý yêu cầu LOAD

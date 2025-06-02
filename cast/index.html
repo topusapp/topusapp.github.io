@@ -50,11 +50,11 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 19</p>
-            <p id="contenttype">content type: <span></span></p>
-            <p id="title">title: <span></span></p>
-            <p id="contentid">content id: <span></span></p>
-            <p id="media">media: <span></span></p>
+            <p>Cast media 20</p>
+            <p id="contenttype">content type: <span>test</span></p>
+            <p id="title">title: <span>test</span></p>
+            <p id="contentid">content id: <span>test</span></p>
+            <p id="media">media: <span>test</span></p>
         </div>
         <div id="iframeContainer"></div>
         <cast-media-player id="castMediaContainer"></cast-media-player>
@@ -96,6 +96,7 @@
                         return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
                         // Tải bằng trình phát CAF mặc định
+                        request.media.contentId = request.media.contentUrl
                         contentid.innerText = request.media.contentId;
                         iframeContainer.innerHTML = ''; // Xóa iframe nếu có
                         castMediaContainer.style.display = 'block'; // Hiển thị trình phát CAF

@@ -50,7 +50,7 @@
             position: absolute;
             z-index: 999;
         ">
-            <p>Cast media 16</p>
+            <p>Cast media 17</p>
             <p id="contenttype">content type: <span></span></p>
             <p id="title">title: <span></span></p>
             <p id="contentid">content id: <span></span></p>
@@ -98,10 +98,10 @@
                         // Tải bằng trình phát CAF mặc định
                         if (!request.media.contentId && request.media.contentUrl) {
                             request.media.contentId = request.media.contentUrl;
-                        }
+                        };
                         if (!request.media.streamType || request.media.streamType === 'NONE') {
-                            request.media.streamType = cast.framework.messages.StreamType.BUFFERED;
-                        }
+                            request.media.streamType = 'BUFFERED';
+                        };
                         contentid.innerText = request.media.contentId;
                         media.innerText = JSON.stringify(request.media);
                         iframeContainer.innerHTML = ''; // Xóa iframe nếu có

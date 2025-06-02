@@ -96,13 +96,13 @@
                         return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
                         // Tải bằng trình phát CAF mặc định
-                        if (!request.media.contentId && request.media.contentUrl) {
+                        // if (!request.media.contentId && request.media.contentUrl) {
                             request.media.contentId = request.media.contentUrl;
-                        };
-                        if (!request.media.streamType || request.media.streamType === 'NONE') {
-                            request.media.streamType = 'BUFFERED';
-                        };
-                        contentid.innerText = request.media.contentId;
+                        // };
+                        // if (!request.media.streamType || request.media.streamType === 'NONE') {
+                        //     request.media.streamType = 'BUFFERED';
+                        // };
+                        // contentid.innerText = request.media.contentId;
                         media.innerText = JSON.stringify(request.media);
                         iframeContainer.innerHTML = ''; // Xóa iframe nếu có
                         castMediaContainer.style.display = 'block'; // Hiển thị trình phát CAF

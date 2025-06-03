@@ -49,6 +49,7 @@
             color: #ffffff;
             position: absolute;
             z-index: 999;
+            display: 'none';
         ">
             <p>Cast media 22</p>
             <p id="contenttype">content type: <span>test</span></p>
@@ -74,8 +75,6 @@
         playerManager.setMessageInterceptor(
             cast.framework.messages.MessageType.LOAD,
             request => {
-                console.log('Intercepting LOAD request:', request);
-
                 if (request.media) {
                     contenttype.innerText = request.media.contentType;
                     media.innerText = JSON.stringify(request.media);
@@ -95,19 +94,14 @@
 
                         return null;
                     } else if (request.media.contentType === 'video/mp4' || request.media.contentType === 'application/x-mpegURL') {
-                        // Tải bằng trình phát CAF mặc định
-                        // request.media.contentId = request.media.contentUrl
-                        // request.media.streamType = 'BUFFERED';
                         contentid.innerText = request.media.contentId;
-                        iframeContainer.innerHTML = ''; // Xóa iframe nếu có
-                        castMediaContainer.style.display = 'block'; // Hiển thị trình phát CAF
-                        return request; // Cho phép framework xử lý yêu cầu LOAD
+                        iframeContainer.innerHTML = '';
+                        castMediaContainer.style.display = 'block';
+                        return request;
                     }
                 }
 
-                // Trường hợp contentType không được hỗ trợ hoặc không có media thông tin
-                console.log('Không hỗ trợ contentType hoặc không có thông tin media:', request);
-                return request; // Để framework xử lý (có thể dẫn đến lỗi nếu không phù hợp)
+                return request;
             }
         );
 

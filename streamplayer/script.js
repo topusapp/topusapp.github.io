@@ -94,7 +94,7 @@ var topusapp = {};
         castWebEmbed: function(){
             var videoId = libs.getYTID(window.location.href);
             if(videoId.length > 0) {
-                libs.postWebEmbed(`https://www.youtube.com/embed/${videoId}?vq=hd1080&hd=1&autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`);
+                libs.postWebEmbed(`https://www.youtube.com/embed/${videoId}?vq=hd1080p&hd=1&autoplay=1&controls=0&showinfo=0&rel=0&iv_load_policy=3`);
                 return true;
             };
             // videoId = libs.getDailyMotionId(window.location.href);

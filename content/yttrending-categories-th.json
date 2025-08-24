@@ -34,16 +34,6 @@
     },
     {
       "kind": "youtube#videoCategory",
-      "etag": "HyFIixS5BZaoBdkQdLzPdoXWipg",
-      "id": "15",
-      "snippet": {
-        "title": "Pets & Animals",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
       "etag": "PNU8SwXhjsF90fmkilVohofOi4I",
       "id": "17",
       "snippet": {
@@ -58,6 +48,16 @@
       "id": "20",
       "snippet": {
         "title": "Gaming",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "HyFIixS5BZaoBdkQdLzPdoXWipg",
+      "id": "15",
+      "snippet": {
+        "title": "Pets & Animals",
         "assignable": true,
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
       }

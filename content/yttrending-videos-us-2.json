@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "_7V5ib_Mo6uwMKCe308UOw-B6B8",
+  "etag": "vVnWOtgnAL17RAU0rlfG-kkHAto",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "Q3lxDAHwAwHKlT8QjThw99cvmjA",
+      "etag": "7cnNs5KfF9G_nPEmLlTkKs7LvO4",
       "id": "jCB3GcyTLKo",
       "snippet": {
         "publishedAt": "2025-08-21T01:57:00Z",
@@ -51,11 +51,26 @@
           "description": "#police #cops"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4303328",
+        "likeCount": "316067",
+        "favoriteCount": "0",
+        "commentCount": "2509"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HiuAR39lic5Ep1I8c4EgCvWemSE",
+      "etag": "NNkvM9HiEwoss2NI7P7Av7vKJSs",
       "id": "jEM4bqvAuqE",
       "snippet": {
         "publishedAt": "2025-08-21T22:00:49Z",
@@ -98,11 +113,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2535949",
+        "likeCount": "222425",
+        "favoriteCount": "0",
+        "commentCount": "4727"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4KXBcMUcDExxKh6xXnhQB_5YT78",
+      "etag": "YDmFoMtbkgqzvbR0BLLrG8ai9_c",
       "id": "iDyPXSD_aAI",
       "snippet": {
         "publishedAt": "2025-08-18T09:25:16Z",
@@ -145,11 +175,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8340383",
+        "likeCount": "384457",
+        "favoriteCount": "0",
+        "commentCount": "2734"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Um3UbDqBlSde85hCNRWXOKMWcAA",
+      "etag": "83CTJfiqRwuqxXMAg5I9eeQ4vHA",
       "id": "76O0qKsi2OE",
       "snippet": {
         "publishedAt": "2025-08-15T18:10:05Z",
@@ -192,11 +237,26 @@
           "description": "https://linktr.ee/Undisclosed_Moto\n\n\n\n\n\n\n\n\n\n#motorcycle #ktm #motorsport #dirtbike #bikelife #motorbike #okc #harleydavidson #wheelie #bmw #s1000rr #bmws1000rr #yamaha #r7 #supermoto #bike #car #vlogs #automobile #2wheellife #honda #cbr #kawasaki #ninja #mt09 #mt07 #cops #police #officer #oklahoma"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10151841",
+        "likeCount": "623464",
+        "favoriteCount": "0",
+        "commentCount": "1667"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2S0yv_OwQXahMZXyqHMDZWgDhSE",
+      "etag": "pJC97178nH7pP0_mmavNmp4JXws",
       "id": "mDOksFKR4Zw",
       "snippet": {
         "publishedAt": "2025-08-23T00:32:07Z",
@@ -239,11 +299,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1202061",
+        "likeCount": "46473",
+        "favoriteCount": "0",
+        "commentCount": "847"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kRFdaPEQ2iR646PmqobmKsnOdYk",
+      "etag": "F76ls4u8FviBkhqSDtNqLdH158A",
       "id": "RXsIbctQoMU",
       "snippet": {
         "publishedAt": "2025-08-20T19:04:17Z",
@@ -286,11 +361,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2763015",
+        "likeCount": "116212",
+        "favoriteCount": "0",
+        "commentCount": "397"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uTT_f_Rtt4JTG9Agzro8FHVSw-M",
+      "etag": "DM4UWX2xp1lnCKc4JKn22mWcrgc",
       "id": "Lb9tYR3I3Kw",
       "snippet": {
         "publishedAt": "2025-08-18T02:46:27Z",
@@ -333,11 +423,26 @@
           "description": "A careless driver rear ends a biker at a red light and then tries to flee through the intersection. The biker chases him capturing several reckless maneuvers and near misses along the way. Eventually the fleeing driver loses control crashes and causes a power outage. The whole event is caught on camera delivering a perfect dose of instant karma."
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5147312",
+        "likeCount": "383797",
+        "favoriteCount": "0",
+        "commentCount": "5178"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BxoWAh9nT6g6VjxLJ54JI1uAOME",
+      "etag": "4jr1DQSf3ujJXJ-Ozl_i0YX1xPk",
       "id": "-NUDao0IQrc",
       "snippet": {
         "publishedAt": "2025-08-16T14:00:00Z",
@@ -391,11 +496,26 @@
           "description": "#shorts #truck \n\nThis truck driver had an unexpected encounter while driving\n\nCredit: @lilchowder027 on TT & YT!"
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6708257",
+        "likeCount": "646804",
+        "favoriteCount": "0",
+        "commentCount": "1407"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "T16tg_8eEp_2VP22yA_btrZVcQw",
+      "etag": "5WT3DQvSlzfk8uWrq9uKzmY4GMI",
       "id": "n0iatxGlWYg",
       "snippet": {
         "publishedAt": "2025-08-18T15:31:10Z",
@@ -483,11 +603,26 @@
           "description": "How To Survive A Car Crash! Subscribe to @LawByMike for more tips! \n\nWant to know your rights? Grab my guides at https://www.lawbymike.com/guides - link in bio!\n\nDo you want more details on this law, it’s in my newsletter! Join The Free Law By Mike Newsletter Here! \n*link in bio* or go to https://newsletter.lawbymike.com/subscribe\n\n⭐ Join the channel membership and get priority responses to your comments! ⭐\n*link in bio*\n\n⚖️ Questions? Issues?👇 \ngo to IThinkIHaveACase.com *link in bio*\n\n#law #education #mrbeast #police #lawyer #lawbymike #repeatafterme #tiktok #youtubeshorts #cop #cops #lawyers #legal #attorney #lawschool #hacks #legal\n\nDISCLAIMER (Of course, I'd have one 😁)\nHey, you might think that this info makes me your lawyer, but it doesn’t and I’m not. Sorry, but I AM NOT YOUR LAWYER unless we have an engagement agreement. I am just providing public information here, like a library does, and am not providing you with legal advice about your situation. So, it would be totally unreasonable for you to conclude we have an attorney-client relationship just because you're viewing this information."
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7295448",
+        "likeCount": "531201",
+        "favoriteCount": "0",
+        "commentCount": "3626"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "N8-ivuvLTF2yXfHKurvasaVd_DQ",
+      "etag": "ulRNCnK8X7HzuayTs4GrjLQL7ko",
       "id": "UX1jbQskKcc",
       "snippet": {
         "publishedAt": "2025-08-20T16:18:07Z",
@@ -530,11 +665,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1595349",
+        "likeCount": "106513",
+        "favoriteCount": "0",
+        "commentCount": "1003"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "o5B2fF-T55HlDnL615pgLUuR6Ro",
+      "etag": "L9OTVy_1B4Zq2klXhvZz_YuP8ac",
       "id": "9-U7bAftrpU",
       "snippet": {
         "publishedAt": "2025-08-21T02:55:47Z",
@@ -577,11 +727,26 @@
           "description": "This is what happens when a sport bike travels so fast it can't even be caught on camera because it barely lasts one frame, if you blink you'll miss it.\n\n🎥 @enesworx - IG"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2873452",
+        "likeCount": "151911",
+        "favoriteCount": "0",
+        "commentCount": "2108"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EFmwz3bfZpWHZkGP1sP4szf_CRo",
+      "etag": "5KXkQ1OQAU7tNS7XLrloEi0_FMc",
       "id": "Pu0gHjymr6M",
       "snippet": {
         "publishedAt": "2025-08-19T19:38:29Z",
@@ -624,11 +789,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3079032",
+        "likeCount": "93561",
+        "favoriteCount": "0",
+        "commentCount": "1538"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2_SsLPzxvoF0sNHYxcBsXA3BYZg",
+      "etag": "A07qoiVwJai-1qUCnBvkSrgFwME",
       "id": "8vR6Hjf3Z5s",
       "snippet": {
         "publishedAt": "2025-08-22T23:43:41Z",
@@ -671,11 +851,26 @@
           "description": "A biker flees from police after being caught speeding and even attracts a helicopter. He races through traffic hitting over 100 mph and running red lights but is shocked when the helicopter keeps up with him. Thinking fast he heads for a tunnel to disappear from sight. Hiding inside with his lights off he escapes the chase just like in a GTA mission."
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1615828",
+        "likeCount": "60672",
+        "favoriteCount": "0",
+        "commentCount": "154"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "C9ccX3jF-838WGWUkdLKg9L7uYk",
+      "etag": "ksFUyLu5P5PwiDejx9u966-Ry3I",
       "id": "beU6imJfptI",
       "snippet": {
         "publishedAt": "2025-08-19T11:39:02Z",
@@ -725,11 +920,26 @@
           "description": "All that smack talk and he was humbled quick\n#automobile #bike #musclecar"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1405934",
+        "likeCount": "89559",
+        "favoriteCount": "0",
+        "commentCount": "2349"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VJrEyf7wlk2PyH0rAj7pHcTtT2U",
+      "etag": "prOusQ0_-4PQWpW8cIinZT4G1Co",
       "id": "4kVCw_XaM4U",
       "snippet": {
         "publishedAt": "2025-08-22T18:08:23Z",
@@ -772,11 +982,26 @@
           "description": "Unstoppable Semi Truck Vs 30 Cars"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1568051",
+        "likeCount": "75539",
+        "favoriteCount": "0",
+        "commentCount": "6146"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sGdbR5lZCXzeBURolVCbxke5KGg",
+      "etag": "YlBBlmUVoW0RsVTnY4hex0EDXBM",
       "id": "KVXQtWQCwMk",
       "snippet": {
         "publishedAt": "2025-08-20T01:09:02Z",
@@ -819,11 +1044,26 @@
           "description": "#tire #balance #tirebalance #mechanic #mechaniclife #carsoftiktok #cartok #trucktok #trucksoftiktok #truck #trucks #car #cars #tireshop #tireservice #repair #carservice #"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1957551",
+        "likeCount": "104441",
+        "favoriteCount": "0",
+        "commentCount": "5203"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ldKVX5Y6nDX8HMR6Xtf4jlpsK_Q",
+      "etag": "OElHTG4JDDFfjH2NZs9MwR5fiX8",
       "id": "DnNmAW9rYbs",
       "snippet": {
         "publishedAt": "2025-08-16T16:31:41Z",
@@ -866,11 +1106,26 @@
           "description": "Credit to : @m3.ivory on TT\n\n#CarFacts #FunFacts #DidYouKnow #Police #CarShorts #Shorts #LearnSomethingNew"
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3971414",
+        "likeCount": "69357",
+        "favoriteCount": "0",
+        "commentCount": "358"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7PDFM-W3Ab1L-h6GkXUTdNiCgCk",
+      "etag": "FlJh9kW_-f-XB9BmBCbEQO030kM",
       "id": "oPYzqyFH2Oo",
       "snippet": {
         "publishedAt": "2025-08-16T01:00:55Z",
@@ -913,11 +1168,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4724853",
+        "likeCount": "416214",
+        "favoriteCount": "0",
+        "commentCount": "6966"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "T6Lz8wOjEwOLtYa3yStz0P95RkI",
+      "etag": "v2BB6Rep6xlyxluKcN17BLUg-EA",
       "id": "o5nPJqUf-h8",
       "snippet": {
         "publishedAt": "2025-08-17T15:01:14Z",
@@ -960,11 +1230,26 @@
           "description": "You can follow us on:\n\nhttps://www.instagram.com/supercarblondie\nhttps://www.facebook.com/supercarblondie\nhttps://www.twitter.com/supercarblondie\nhttps://www.tiktok.com/@supercarblondie\nhttps://www.supercarblondie.com\nhttps://www.snapchat.com/discover/Supercar_Blondie/0902710649"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10018165",
+        "likeCount": "324667",
+        "favoriteCount": "0",
+        "commentCount": "2985"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xB3WWeeCDsjf1rZQ8rKqVDvi-hk",
+      "etag": "3DWAIe5VE6Sqg1H2BIlgjvK6_i4",
       "id": "eYfrAuMDvRc",
       "snippet": {
         "publishedAt": "2025-08-16T09:30:30Z",
@@ -1007,11 +1292,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "tr"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4708631",
+        "likeCount": "32325",
+        "favoriteCount": "0",
+        "commentCount": "656"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QrlYPjnV8MHevsBKLki1KwccFm8",
+      "etag": "3WR2dYkLdSjdQ4w30H47RnAC0oA",
       "id": "b4J7T3wIchQ",
       "snippet": {
         "publishedAt": "2025-08-20T16:07:00Z",
@@ -1054,11 +1354,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1318441",
+        "likeCount": "67189",
+        "favoriteCount": "0",
+        "commentCount": "4597"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1cWuPemq42AzDGumGNn7go9iQ3s",
+      "etag": "UQfxEqJdVZ5mDLQsqvq0S8nGEoQ",
       "id": "N3Fk4AcUWBk",
       "snippet": {
         "publishedAt": "2025-08-20T21:00:21Z",
@@ -1159,11 +1474,26 @@
           "description": "For entertainment purposes only. Blasting with sand is dangerous. \nMerch: www.speedbumpgarage.com \nSubscribe here! https://www.youtube.com/c/SpeedBumpGarage?sub_confirmation=1\n#forgotten #willitrun \n Thanks for watching, please subscribe and follow us on Facebook & IG!\n@SpeedBumpGarage\n\nSpeed Bump Email: speedbumpgarageinfo@gmail.com\n\nMailing address. \nSpeed Bump Garage \nPO Box 984\nMooreland, Ok 73852"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1406000",
+        "likeCount": "79630",
+        "favoriteCount": "0",
+        "commentCount": "1518"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "in_hFrOj6ZCPrc60xyqispTarv0",
+      "etag": "Q2rowI19cEpNNABjT9XdVunWY4o",
       "id": "ugCAu6ar5gc",
       "snippet": {
         "publishedAt": "2025-08-20T20:00:41Z",
@@ -1206,11 +1536,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1169268",
+        "likeCount": "49519",
+        "favoriteCount": "0",
+        "commentCount": "435"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TQ1gUsYEfZeSYoelvfRCjtKf6SA",
+      "etag": "NdPIA800Quyph67eWEvbSn2r_2s",
       "id": "kp_V-RcfPXc",
       "snippet": {
         "publishedAt": "2025-08-23T14:35:25Z",
@@ -1253,11 +1598,26 @@
           "description": "Credit - @chris-rs6497"
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1383404",
+        "likeCount": "73185",
+        "favoriteCount": "0",
+        "commentCount": "163"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OV-3iHeIfs6Wc5jA9VTghK7gZ80",
+      "etag": "5TwbCEiseR4ioWfEWs5Q6oHPuxg",
       "id": "Z86a3RgNiPg",
       "snippet": {
         "publishedAt": "2025-08-17T12:00:57Z",
@@ -1322,11 +1682,26 @@
           "description": "#shorts #shortsfeed #fyp #viralvideo #car #caredit #cartok \n#automobile #trending #new #memes #funny #mcbeep #el1temotors \n#comedy #bmw #labubu #bmwedit #mindset"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16197375",
+        "likeCount": "630069",
+        "favoriteCount": "0",
+        "commentCount": "7186"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "01G2If2UvuEVawa3KtZS93085vQ",
+      "etag": "-7z6rlVevbDd7HzeEHq2ZAdOER4",
       "id": "XqcK-yZUIPQ",
       "snippet": {
         "publishedAt": "2025-08-21T14:00:50Z",
@@ -1377,58 +1752,26 @@
           "description": "Guy's trading a Porsche 911 for a Tesla Model 3. Let me know if you'd also do the same.\n\n@jsautohausgroup\n\n#cardealership #cartrade #porsche911 #tesla #carnegotiation #fy #fyp"
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "841902",
+        "likeCount": "30317",
+        "favoriteCount": "0",
+        "commentCount": "615"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hLrm6CHNGJdMDDxrWMNVXuw5BA0",
-      "id": "TJO4MMEnLoo",
-      "snippet": {
-        "publishedAt": "2025-08-20T03:31:08Z",
-        "channelId": "UCyNeNzgjsfwPS_vH0Dl8GzA",
-        "title": "toyota sequoia features!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "supermegapro",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "toyota sequoia features!",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Xq2EvTcIR14VYwFnnWO0idDHVSY",
+      "etag": "gC5kJ4Hq1miQSdYokDQlR4dDM5g",
       "id": "YSB07AGQ5mQ",
       "snippet": {
         "publishedAt": "2025-08-23T18:32:22Z",
@@ -1499,11 +1842,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "913576",
+        "likeCount": "64397",
+        "favoriteCount": "0",
+        "commentCount": "566"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BmlVuLCwq1U4dsNmpG-bKR3uD2M",
+      "etag": "DTjuOB0TAWZ2YnTwc6E9fPX_ipk",
+      "id": "TJO4MMEnLoo",
+      "snippet": {
+        "publishedAt": "2025-08-20T03:31:08Z",
+        "channelId": "UCyNeNzgjsfwPS_vH0Dl8GzA",
+        "title": "toyota sequoia features!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TJO4MMEnLoo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "supermegapro",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "toyota sequoia features!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1177384",
+        "likeCount": "58645",
+        "favoriteCount": "0",
+        "commentCount": "1370"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bklC1Svec3rU8Y1LoO7sWja4kMU",
       "id": "6MROXotVqps",
       "snippet": {
         "publishedAt": "2025-08-10T10:42:44Z",
@@ -1546,11 +1966,26 @@
           "description": "Credit @TommyMx\n\nDisclaimer : The vid is a skit and everyone involved is over 18 yo"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15191532",
+        "likeCount": "685050",
+        "favoriteCount": "0",
+        "commentCount": "15316"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "p2f6iaIxUzm9DCOkl27W4fa4nI0",
+      "etag": "xQoBZvC79Ep3KQ7eazPjgyog7xM",
       "id": "xgZaiS-cWgE",
       "snippet": {
         "publishedAt": "2025-08-17T22:00:57Z",
@@ -1593,11 +2028,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "927894",
+        "likeCount": "135242",
+        "favoriteCount": "0",
+        "commentCount": "803"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "oSr2TxEN8upeJXJuZ9A_-NpCw4w",
+      "etag": "cX_Uxa8GrjmfvIVlE1sR4ewfXZY",
       "id": "4nq2GldxGkI",
       "snippet": {
         "publishedAt": "2025-08-21T01:59:44Z",
@@ -1655,11 +2105,26 @@
           "description": "How to remove a stripped or rounded bolt or nut easily! #mechanic"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "989385",
+        "likeCount": "41942",
+        "favoriteCount": "0",
+        "commentCount": "1979"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "S0OOHLoRF6iqqUTTzjyPDNJeaAo",
+      "etag": "2ImPktFED95OqkY0EQkvjRQpX6o",
       "id": "UKdbBRVwC84",
       "snippet": {
         "publishedAt": "2025-08-16T09:11:21Z",
@@ -1702,11 +2167,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1778766",
+        "likeCount": "52465",
+        "favoriteCount": "0",
+        "commentCount": "517"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wqQWF4xYPSZSKoJ4BzETviXIlJ8",
+      "etag": "Q1OJLMPB6fF7SOMA3G4PU5uPQOQ",
       "id": "oOHaqJBB-hQ",
       "snippet": {
         "publishedAt": "2025-08-16T14:01:13Z",
@@ -1764,11 +2244,26 @@
           "description": "Every time a NASCAR wheel is removed, the 20 lug nuts fly everywhere. These are used only once, and then they are collected to peel off the adhesive for fun.\nFor safety reasons, the old nuts may have scratched or deformed threads after removal. Reusing them carries the risk of not being tightened properly, which could lead to loose or falling wheels.\nWhen a new wheel is installed, there are 5 completely new lug nuts per wheel, glued with synthetic rubber adhesive onto the rim. During a pit stop, as the rim is pushed onto the studs, the studs knock the glued lug nuts free from the rim, leaving them sitting loosely at the ends of the studs. The crew then immediately tightens them with the impact gun, and the leftover adhesive remains on the rim.\n\n#TorqueTek\n#Shorts \n#Machines\n#automobile\n#Torque\n#horsepower"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2173250",
+        "likeCount": "57388",
+        "favoriteCount": "0",
+        "commentCount": "269"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7-rWwqQtfFLUJr42R85iFGfuF7A",
+      "etag": "zAEYuOkv30Nws4Wfzb2ImGckYPY",
       "id": "0aiIV0-e2ss",
       "snippet": {
         "publishedAt": "2025-08-20T21:00:00Z",
@@ -1848,11 +2343,26 @@
           "description": "this is a snippet from my 101 facts video about lamborghini, where we talk about the most interesting, funny and weird stories from the brand.\nmake sure to check out the video by visiting the channel"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2598451",
+        "likeCount": "79011",
+        "favoriteCount": "0",
+        "commentCount": "578"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Cj7ctKtkmJmgRS-tGjLFivyEig0",
+      "etag": "QiAy3qNwKklk-6qLm3bhTx0fu0U",
       "id": "s16J5TkU-d4",
       "snippet": {
         "publishedAt": "2025-08-13T10:07:16Z",
@@ -1895,11 +2405,26 @@
           "description": "‘Dreamcars Daily’ paid this $51,500 to this dealership but they refused to give him his car after suspecting the check to be fraudulent. After many emails and phone calls between the bank, dealership, lawyers, they still refused to give him his car. He was finally able to get it close to a month after paying for the vehicle."
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4237323",
+        "likeCount": "250458",
+        "favoriteCount": "0",
+        "commentCount": "10847"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TeZ3Z1XbpnzP9aSmzqKOHzTZwPw",
+      "etag": "Bsdw01PrqtCcCki2t2c2-VkmuOg",
       "id": "9RKc1-p2uIU",
       "snippet": {
         "publishedAt": "2025-08-19T00:49:49Z",
@@ -1950,11 +2475,26 @@
           "description": "This AI-powered bike can drive itself! 😱\n\n#yamaha  #motoroids  #motorcycle  #selfdriving  #futuretech  #technology  #ev  #electricvehicle  #cyberpunk  #motorbike  #superbike  #concept  #ai  #supercarblondie \n\nYou can follow us on :\n\nhttps://www.instagram.com/supercarblondie\nhttps://www.facebook.com/supercarblondie\nhttps://www.twitter.com/supercarblondie\nhttps://www.tiktok.com/@supercarblondie\nhttps://www.tiktok.com/@supercarblondie.xtra\nhttps://www.sbxcars.com\nhttps://www.snapchat.com/discover/Supercar_Blondie/0902710649"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9666488",
+        "likeCount": "268516",
+        "favoriteCount": "0",
+        "commentCount": "3406"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "csl9wS-OYnOzs6Te5UDbMI-nnkk",
+      "etag": "R42pol6682Y2sgvJZdLp1XMJJzY",
       "id": "yyD3oabdc5Y",
       "snippet": {
         "publishedAt": "2025-08-23T12:05:58Z",
@@ -2044,11 +2584,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "457339",
+        "likeCount": "14719",
+        "favoriteCount": "0",
+        "commentCount": "562"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-VqqXtd7GeR5ClXBXuU44gUN080",
+      "etag": "cHWvqqoa2h-3smeeIS8NqxrU6yA",
       "id": "etor5KOnsS0",
       "snippet": {
         "publishedAt": "2025-08-20T19:37:12Z",
@@ -2091,152 +2646,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2520204",
+        "likeCount": "122280",
+        "favoriteCount": "0",
+        "commentCount": "564"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rxc-Ov3zMaK73K_ElcsVP9ckRJ0",
-      "id": "aeKVpWSBPH4",
-      "snippet": {
-        "publishedAt": "2025-08-19T18:17:03Z",
-        "channelId": "UC8YZrDuJ5gLgmj0lw5bfaYQ",
-        "title": "Easy Tool To Break ATV Tire Beads!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "The Tire Doctor",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Easy Tool To Break ATV Tire Beads!",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "uEhDvqJAn-Z7IcmLLIIBk0DDfU4",
-      "id": "PuAF3-NkkMM",
-      "snippet": {
-        "publishedAt": "2025-08-18T20:10:00Z",
-        "channelId": "UC0zo39TLZIcWqYsmEV9eXJA",
-        "title": "Cop Car Features Nobody Knows About!",
-        "description": "All videos are professionally voiced over, edited under YouTube's guidelines, and appropriately credited to their respective owners.\n\n#shorts #cars #carlover",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Epic Cars",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Cop Car Features Nobody Knows About!",
-          "description": "All videos are professionally voiced over, edited under YouTube's guidelines, and appropriately credited to their respective owners.\n\n#shorts #cars #carlover"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PaU-y8emvOuRtp7vy-izi3tABgg",
-      "id": "QHv82bdg9_I",
-      "snippet": {
-        "publishedAt": "2025-08-18T20:40:37Z",
-        "channelId": "UCKUO5Wou7a8grTXQ7S-mYGQ",
-        "title": "HE LOST HIS DREAM CAR",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MRPetrol",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "HE LOST HIS DREAM CAR",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "dx_nK_v854XIn7VkgQNoi0Y5BXw",
+      "etag": "EvXpKsIM1sWjV2-xNI3I5W5QXzg",
       "id": "oH3ukQCfaQM",
       "snippet": {
         "publishedAt": "2025-08-21T20:07:00Z",
@@ -2279,11 +2708,150 @@
           "description": "You’re driving semi truck you always have to be prepared and the same as true for cars because people seem to come from nowhere like in this video. Where did the red car come from? ￼\n#DrivingWithJohn #Trucker #Trucking #Fault #Dummy ￼"
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "295198",
+        "likeCount": "9564",
+        "favoriteCount": "0",
+        "commentCount": "645"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "n0Q8uBZVJrj9YhBF6xEsJ03SJVY",
+      "etag": "-745rPau_6iRXuLvR4DR5JBBSIw",
+      "id": "aeKVpWSBPH4",
+      "snippet": {
+        "publishedAt": "2025-08-19T18:17:03Z",
+        "channelId": "UC8YZrDuJ5gLgmj0lw5bfaYQ",
+        "title": "Easy Tool To Break ATV Tire Beads!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aeKVpWSBPH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Tire Doctor",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Easy Tool To Break ATV Tire Beads!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1118366",
+        "likeCount": "46945",
+        "favoriteCount": "0",
+        "commentCount": "196"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I1FwUO0KWqibhBy_G5R-6Q-udzo",
+      "id": "PuAF3-NkkMM",
+      "snippet": {
+        "publishedAt": "2025-08-18T20:10:00Z",
+        "channelId": "UC0zo39TLZIcWqYsmEV9eXJA",
+        "title": "Cop Car Features Nobody Knows About!",
+        "description": "All videos are professionally voiced over, edited under YouTube's guidelines, and appropriately credited to their respective owners.\n\n#shorts #cars #carlover",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PuAF3-NkkMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Epic Cars",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cop Car Features Nobody Knows About!",
+          "description": "All videos are professionally voiced over, edited under YouTube's guidelines, and appropriately credited to their respective owners.\n\n#shorts #cars #carlover"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2001885",
+        "likeCount": "74309",
+        "favoriteCount": "0",
+        "commentCount": "252"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c7yMa8vP_YNj7IY4tSaEDedF90E",
       "id": "MTi7H6-R6L8",
       "snippet": {
         "publishedAt": "2025-08-19T14:59:11Z",
@@ -2326,152 +2894,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2055033",
+        "likeCount": "18154",
+        "favoriteCount": "0",
+        "commentCount": "34"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ja1Zc6FuycmPWyN5XCu-2cLJ__A",
-      "id": "sILjhVlF7Eo",
+      "etag": "3z9UejmoMqFcV1lCRgwf34sgOOI",
+      "id": "QHv82bdg9_I",
       "snippet": {
-        "publishedAt": "2025-08-15T17:01:14Z",
-        "channelId": "UCUhKhnmSI2mRZy-BNdlSiIg",
-        "title": "Stealth JL Audio + Alpine Build in a Daily Driver #caraudio #carstereo #soundsystem",
-        "description": "Nothing flashy on the outside, but open the door and you’ll hear the difference. A @garmin_audio 10TW3-D4 with an @Alpineusa S2-A60M, built into a seamless custom enclosure, makes this daily driver a clean, understated build with heavyweight performance.\n.\n.\n.\n#agouraautosounds #jlaudio #alpineusa #customcaraudio #subwooferenclosure #caraudiobuild #caraudiofabrication #soundsystemupgrade",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Agoura Autosounds",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Stealth JL Audio + Alpine Build in a Daily Driver #caraudio #carstereo #soundsystem",
-          "description": "Nothing flashy on the outside, but open the door and you’ll hear the difference. A @garmin_audio 10TW3-D4 with an @Alpineusa S2-A60M, built into a seamless custom enclosure, makes this daily driver a clean, understated build with heavyweight performance.\n.\n.\n.\n#agouraautosounds #jlaudio #alpineusa #customcaraudio #subwooferenclosure #caraudiobuild #caraudiofabrication #soundsystemupgrade"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6NNBeu8Jg8v1WrHnydmp9JK0WIA",
-      "id": "gxf5YdeNHfY",
-      "snippet": {
-        "publishedAt": "2025-08-22T19:30:05Z",
-        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
-        "title": "How Long To Pressure Wash The Great Wall? 🤔",
+        "publishedAt": "2025-08-18T20:40:37Z",
+        "channelId": "UCKUO5Wou7a8grTXQ7S-mYGQ",
+        "title": "HE LOST HIS DREAM CAR",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/default.jpg",
+            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QHv82bdg9_I/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Zack D. Films",
-        "categoryId": "19",
+        "channelTitle": "MRPetrol",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "How Long To Pressure Wash The Great Wall? 🤔",
+          "title": "HE LOST HIS DREAM CAR",
           "description": ""
         },
-        "defaultAudioLanguage": "zh"
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1878758",
+        "likeCount": "74961",
+        "favoriteCount": "0",
+        "commentCount": "1845"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BeYdr3AmHOKmmqFafc9rBdNF-Zw",
-      "id": "DzskKhkOhPQ",
-      "snippet": {
-        "publishedAt": "2025-08-19T18:15:25Z",
-        "channelId": "UCl7j7cQ-u-r-mlQMD4wR4Xg",
-        "title": "How to solve all car problems in the world",
-        "description": "How to solve all car problems in the world",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Creative Ideas l أفكار مبدعة",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How to solve all car problems in the world",
-          "description": "How to solve all car problems in the world"
-        },
-        "defaultAudioLanguage": "ar"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jYb1xZ98y_JK65HF_UG9pNsa1wE",
+      "etag": "a9PPgGXhhT_SR3NoqA2rjQlaJHs",
       "id": "P0z6A1Ufltw",
       "snippet": {
         "publishedAt": "2025-08-19T14:09:20Z",
@@ -2518,11 +3022,212 @@
           "description": "Entdecke, wie der Emergency Assist im Notfall die Kontrolle übernimmt und dein Fahrzeug sicher zum Stillstand bringt – selbst dann, wenn du nicht mehr reagierst.\n\n#vw #volkswagen #safety #assistance \n\nGolf R Variant: Kraftstoffverbrauch: 8,2 - 8,9 l/100 km. CO₂-Emissionen: 185 - 202 g/km. 08/2025.\n____________________________________________________________________\nAbonniere den Volkswagen Österreich YouTube Channel, um die neuesten Videos zu sehen: http://www.youtube.com/subscription_c... \n\nFolge Volkswagen Österreich auf Social Media: \nFacebook: https://www.facebook.com/volkswagenAT \nInstagram: https://www.instagram.com/volkswagen_at\nLinkedIn: https://www.linkedin.com/company/volkswagen-oesterreich/"
         },
         "defaultAudioLanguage": "de-AT"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10657426",
+        "likeCount": "391988",
+        "favoriteCount": "0",
+        "commentCount": "1316"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7KkXmiH9kl3SSy9JM4qSLuR8aA4",
+      "etag": "ThLQyG4Rccl5UKjMY3_3djGOfyg",
+      "id": "DzskKhkOhPQ",
+      "snippet": {
+        "publishedAt": "2025-08-19T18:15:25Z",
+        "channelId": "UCl7j7cQ-u-r-mlQMD4wR4Xg",
+        "title": "How to solve all car problems in the world",
+        "description": "How to solve all car problems in the world",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DzskKhkOhPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Creative Ideas l أفكار مبدعة",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to solve all car problems in the world",
+          "description": "How to solve all car problems in the world"
+        },
+        "defaultAudioLanguage": "ar"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8227922",
+        "likeCount": "29770",
+        "favoriteCount": "0",
+        "commentCount": "226"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AcQS7Ir0odDll7cJc8VWC3opsa4",
+      "id": "sILjhVlF7Eo",
+      "snippet": {
+        "publishedAt": "2025-08-15T17:01:14Z",
+        "channelId": "UCUhKhnmSI2mRZy-BNdlSiIg",
+        "title": "Stealth JL Audio + Alpine Build in a Daily Driver #caraudio #carstereo #soundsystem",
+        "description": "Nothing flashy on the outside, but open the door and you’ll hear the difference. A @garmin_audio 10TW3-D4 with an @Alpineusa S2-A60M, built into a seamless custom enclosure, makes this daily driver a clean, understated build with heavyweight performance.\n.\n.\n.\n#agouraautosounds #jlaudio #alpineusa #customcaraudio #subwooferenclosure #caraudiobuild #caraudiofabrication #soundsystemupgrade",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sILjhVlF7Eo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Agoura Autosounds",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Stealth JL Audio + Alpine Build in a Daily Driver #caraudio #carstereo #soundsystem",
+          "description": "Nothing flashy on the outside, but open the door and you’ll hear the difference. A @garmin_audio 10TW3-D4 with an @Alpineusa S2-A60M, built into a seamless custom enclosure, makes this daily driver a clean, understated build with heavyweight performance.\n.\n.\n.\n#agouraautosounds #jlaudio #alpineusa #customcaraudio #subwooferenclosure #caraudiobuild #caraudiofabrication #soundsystemupgrade"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4776432",
+        "likeCount": "155025",
+        "favoriteCount": "0",
+        "commentCount": "2580"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zk_ZyQQz5lgI-YboXQc0KV5P970",
+      "id": "gxf5YdeNHfY",
+      "snippet": {
+        "publishedAt": "2025-08-22T19:30:05Z",
+        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
+        "title": "How Long To Pressure Wash The Great Wall? 🤔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gxf5YdeNHfY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zack D. Films",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Long To Pressure Wash The Great Wall? 🤔",
+          "description": ""
+        },
+        "defaultAudioLanguage": "zh"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1066784",
+        "likeCount": "84732",
+        "favoriteCount": "0",
+        "commentCount": "1701"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kAwZPApXGQ18lCj7yxelelylrQk",
       "id": "1MDGCyDdenM",
       "snippet": {
         "publishedAt": "2025-08-17T13:00:03Z",
@@ -2611,11 +3316,26 @@
           "description": "▶ The ultimate link to all your moto necessities!\nhttps://linktr.ee/masface6\n\n▶ Become a FREE SUBSCRIBER to me, MasFace, now!\nhttps://bit.ly/3cQasVk\n\n▶ MasFace social platforms!\nInstagram    https://www.instagram.com/masface6\nFacebook     https://www.facebook.com/masface6\nTikTok           https://www.tiktok.com/@masfacee\nSnapchat      https://www.snapchat.com/add/masface6\n\n▶ About the MasFace channel!\nMasFace is dedicated to bringing you the best motorcycle content from around the world! From biker and cop interactions to motorcycle crashes to simple interactions within the motorcycle community! If you’re a fan of the moto world and are looking for a YouTube channel that will never miss a beat, bringing you the best moto footage from old to new, you’ve found it. MasFace uploads new moto videos daily whether it be long or short form content. Even sometimes both. MasFace truly is the top spot for moto content!\n\n▶ Is riding a motorcycle right for you?\nDeciding if riding a motorcycle is right for you involves assessing both your lifestyle and your comfort with risk. Start by considering your reasons for riding—whether it's for commuting, adventure, or cost savings—and whether those benefits outweigh potential dangers. Think honestly about your ability to focus, stay calm under pressure, and make quick decisions, as motorcycling demands constant attention and defensive riding. Evaluate your willingness to invest time and money into proper training, gear, and maintenance. Lastly, reflect on your local traffic conditions, weather, and road quality, as these can greatly affect the safety and enjoyment of riding. If, after considering all these factors, you still feel excited and confident, motorcycling might be a good fit for you.\nThis channel can also be a good source for you to watch and get somewhat of an idea as to what owning a motorcycle may be like!\nBelow is a simple guide to help get your feet wet and learn some good “first time rider” information if you’re looking to start riding a motorcycle!\n\n▶ What TYPE of motorcycle best fits you?\n1. Standard/Naked\nBest for: Beginners, commuters, casual riders\nFeatures: Upright position, easy handling, versatile\nExamples: Yamaha MT-07, Honda CB500F\n\n2. Cruiser\nBest for: Relaxed riding, city cruising, style-focused riders\nFeatures: Low seat height, laid-back ergonomics, torque-heavy engines\nExamples: Harley-Davidson Sportster, Indian Scout, Honda Rebel 500\n\n3. Sportbike\nBest for: Performance seekers, thrill riders, track days\nFeatures: Aggressive riding position, high-speed capability\nExamples: Kawasaki Ninja ZX-6R, Yamaha R6, Ducati Panigale\n\n4. Touring\nBest for: Long-distance travelers, comfort-focused riders\nFeatures: Large fairings, wind protection, luggage, comfort for two-up riding\nExamples: Honda Gold Wing, BMW K 1600 GTL\n\n5. Adventure / ADV\nBest for: On/off-road explorers, long-distance adventure riders\nFeatures: Tall stance, off-road suspension, long range fuel tanks\nExamples: BMW R 1250 GS, KTM 890 Adventure, Yamaha Ténéré 700\n\n6. Dual Sport / Enduro\nBest for: Off-road riding with street-legal capability\nFeatures: Lightweight, high ground clearance, minimal comfort\nExamples: Honda CRF300L, Suzuki DR-Z400S\n\n7. Café Racer / Retro\nBest for: Style-conscious riders, short commutes, vintage vibes\nFeatures: Classic looks, minimalist design\nExamples: Triumph Bonneville, Royal Enfield Interceptor 650\n\nAt the end of the day it all comes down to what you feel will best fit your needs, style and experience level. Don’t overthink it. Do your research, check out some motorcycles in person and then you’ll be confident with whatever motorcycle you choose as your own! And as always, ride safe!\n\n▶ Random motorcycle community fact.\nDo you know what it means when a motorcyclist starts tapping the top of their head/helmet while riding? This signifies to other riders in line of sight that law enforcement has been spotted. If you see a rider tapping the top of their helmet/head it is best to behave, ride correctly and don’t do anything stupid on your motorcycle that could draw bad attention to you or your fellow riders; Or else you very well could end up pulled over by a police officer on the side of the road. Always be safe!\n\n▶ DISCLAIMER\nAll content uploaded onto this channel has neither any affiliation with its uploader nor any relation to the rider portrayed in any way which includes, but is not limited to his or her likeness, residing area or personal identity.\n\nAll content uploaded to this channel is either owned by me, thoughtfully revised, used with the original copyright owner’s permission or used within the U.S. Copyright Office Fair Use rights. Or all of the above. All commentary vocals are original to MasFace and visual edits are done by MasFace as well, not AI.\n\n#Shorts #bikers #motorcycles"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1815334",
+        "likeCount": "197833",
+        "favoriteCount": "0",
+        "commentCount": "4873"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "cEUFNJeXgda0a6fX5iypsCcnecc",
+      "etag": "zjqyfPqUAQbK9pTzPWKiWsCELas",
       "id": "LOAVrrrHJiI",
       "snippet": {
         "publishedAt": "2025-08-19T23:55:01Z",
@@ -2658,11 +3378,26 @@
           "description": "#trucks #trailers #camioneros #camiones #camion\nLos videos usados de fondo pertenecen al usuario:\ngeragerajr\nSi tiene algún reclamo o inquietud con los derechos de autor, comuníquese con nosotros: simulationcommunitycollab@gmail.com"
         },
         "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1468037",
+        "likeCount": "53446",
+        "favoriteCount": "0",
+        "commentCount": "879"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VrojxXuzzG0vHf1VxCcDxQtG-F0",
+      "etag": "0oF14XbccBByIBjYjaEaju6CTKM",
       "id": "7PaIAAyI46g",
       "snippet": {
         "publishedAt": "2025-08-12T02:14:30Z",
@@ -2705,6 +3440,21 @@
           "description": ""
         },
         "defaultAudioLanguage": "ru"
+      },
+      "contentDetails": {
+        "duration": "PT1M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12468192",
+        "likeCount": "112874",
+        "favoriteCount": "0",
+        "commentCount": "593"
       }
     }
   ],

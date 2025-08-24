@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "hRMi7hW-el-NMOoPYTYnlTrmPds",
+  "etag": "VPmFexNfcP8yD6lf9YXdszYCHSg",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "jzavBuMNnSFM8sH5LAzGyFGuzhk",
+      "etag": "PHVXqBBZ6F9N47B4qa7WzoHT2_A",
       "id": "I9-TZo-UJ9I",
       "snippet": {
         "publishedAt": "2025-08-16T18:00:26Z",
@@ -47,6 +47,20 @@
           "description": "Source: @joerogan \n\nIn This Episode, JRE 2365, Joe Rogan Talks About The Most Profitable Jobs In California, Especially Los Angeles, USA, America.\n\n#interestingfacts"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "175548",
+        "favoriteCount": "0",
+        "commentCount": "405"
       }
     }
   ],

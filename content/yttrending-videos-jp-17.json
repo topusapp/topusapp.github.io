@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "iex8YhGRaQo2xSBvVkc3SdlQSn4",
+  "etag": "P4n7o9eye6M4JBFcGlplwuTN8s4",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "3Gjmcxkirf7TVoNaY8xVMdHGX5U",
+      "etag": "uPLWOz7VpMCKiGxDC8qmEaUH0lk",
       "id": "7ojI7kl0ZUs",
       "snippet": {
         "publishedAt": "2025-08-21T01:22:27Z",
@@ -47,11 +47,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3788183",
+        "likeCount": "104999",
+        "favoriteCount": "0",
+        "commentCount": "1400"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eQmtc5us4icVYMyuE-oOhNUKGow",
+      "etag": "USNKoR3xMKH3Iy2U6wKcZtoxEpA",
       "id": "3lWGdFBRxj4",
       "snippet": {
         "publishedAt": "2025-08-18T03:00:07Z",
@@ -94,11 +109,26 @@
           "description": "#1"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5860508",
+        "likeCount": "124162",
+        "favoriteCount": "0",
+        "commentCount": "1083"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6DMhwmdilJ0UsFISz03t7WAsFgM",
+      "etag": "oFKUv9tsewj6oy168PBVpmtExx8",
       "id": "aJEmGzZl0cw",
       "snippet": {
         "publishedAt": "2025-08-21T08:51:01Z",
@@ -141,11 +171,26 @@
           "description": "コバエが動かした奇跡"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2455207",
+        "likeCount": "86562",
+        "favoriteCount": "0",
+        "commentCount": "1041"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4jAFXCSsHIJM1qcP_7zt4y8J7Zs",
+      "etag": "N8a-MN9Iuug-BONvQkh03VwaarY",
       "id": "qjECbqPWF4M",
       "snippet": {
         "publishedAt": "2025-08-21T08:58:00Z",
@@ -188,58 +233,26 @@
           "description": "ジャレス・ウォーカー (Jarace Walker)\n生年月日：2003年9月4日（21歳）\n出身地：アメリカ・ペンシルベニア州\n身長 / 体重：203cm / 109kg\nポジション：フォワード\n所属：インディアナ・ペイサーズ（NBA）\nドラフト：2023年 NBAドラフト 1巡目8位\n（ワシントン・ウィザーズに指名後、ペイサーズへトレード）\n\n#スポーツ\n#バスケットボール\n#フリースロー\n#スポビト\n#NBA"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2343209",
+        "likeCount": "39870",
+        "favoriteCount": "0",
+        "commentCount": "390"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "13SOwPV6CNmNb18JxpHs0PJl-z4",
-      "id": "32J5ef_L6E8",
-      "snippet": {
-        "publishedAt": "2025-08-21T03:00:03Z",
-        "channelId": "UCZqGv6vFFQ0xfXxb9NaexrQ",
-        "title": "世界新記録で走っていたのに突然止まった理由",
-        "description": "#2",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "タイムアタック",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "世界新記録で走っていたのに突然止まった理由",
-          "description": "#2"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "yLk0wr-cPduEpE-estzTOwLb2Ik",
+      "etag": "OMwx48KMSW2ioCOECVL-JRhF3CA",
       "id": "dZwg7KCqM1E",
       "snippet": {
         "publishedAt": "2025-08-21T06:23:45Z",
@@ -293,11 +306,88 @@
           "description": "このチャンネルでは、MLBの情報\nそれから日本人メジャーリーガーの情報をお届けします！\n Shohei Ohtani2025\n【MLB日本人選手】\n・大谷翔平（ドジャース）\n\n【海外の反応】\n【チャンネル内のコンテンツの著作権について】\nチャンネル内では画像、動画の引用をさせていただいております。\nチャンネル内における動画にて使用、掲載している画像や動画などの著作権・肖像権等は各権利元に帰属致します。\n動画の内容については、各権利所有者様や第三者に不利益のないよう、細心の注意を払って制作しております。\n\n\n＃MLB＃大谷翔平"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2292665",
+        "likeCount": "22492",
+        "favoriteCount": "0",
+        "commentCount": "980"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "oW2Azu-fUOCEp7TH4EXBa-Ub9iM",
+      "etag": "l0PgWzulquw9Zjvv9dKKj2veu9E",
+      "id": "32J5ef_L6E8",
+      "snippet": {
+        "publishedAt": "2025-08-21T03:00:03Z",
+        "channelId": "UCZqGv6vFFQ0xfXxb9NaexrQ",
+        "title": "世界新記録で走っていたのに突然止まった理由",
+        "description": "#2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/32J5ef_L6E8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "タイムアタック",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界新記録で走っていたのに突然止まった理由",
+          "description": "#2"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2408044",
+        "likeCount": "83847",
+        "favoriteCount": "0",
+        "commentCount": "1354"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OAQC_dc7jOvY-VHEeA5ywWv8iDg",
       "id": "260NRS0jNuM",
       "snippet": {
         "publishedAt": "2025-08-22T10:00:03Z",
@@ -340,11 +430,26 @@
           "description": "#高校野球 \n#甲子園 \n#沖縄尚学"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1347878",
+        "likeCount": "21379",
+        "favoriteCount": "0",
+        "commentCount": "421"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ivOIOUJHLzFHW2gbs7YXYzGyNcI",
+      "etag": "86A9xT9v2_-JcdbOgcoPDmTXKxU",
       "id": "vc1qFtF92Yw",
       "snippet": {
         "publishedAt": "2025-08-19T14:19:51Z",
@@ -399,11 +504,26 @@
           "description": "食事をし手移動していたスピードを突然襲った、まさかのハプニング。\n見ず知らずの女性から向けられた、ある出来事に困惑して…！？"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1645156",
+        "likeCount": "52463",
+        "favoriteCount": "0",
+        "commentCount": "742"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "KPjO5Bk-0J7HC2fbEqqIfTiNPLs",
+      "etag": "wSr746V1cQt38OBkkR1kwFyD04E",
       "id": "9Erq3H4oXhI",
       "snippet": {
         "publishedAt": "2025-08-18T10:30:06Z",
@@ -446,11 +566,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2697882",
+        "likeCount": "86575",
+        "favoriteCount": "0",
+        "commentCount": "926"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "P8Whgn-gcih0PMVEY1xkg7qArEs",
+      "etag": "bJCrMdbI2O05ZdpEPJnNfc7rjzc",
+      "id": "3c_vaW2smeY",
+      "snippet": {
+        "publishedAt": "2025-08-24T06:23:50Z",
+        "channelId": "UC-vqkDUX2jQ3mN4PT2twReg",
+        "title": "2回の誤審と大記録の大谷",
+        "description": "💡3行まとめ\n🔹ありえないボール判定が2回連続で下されるも、大谷は冷静に対応\n🔹タイムを要求して気持ちを切り替え、直後にフェンス直撃の三塁打を放つ\n🔹投手兼1番打者が先頭打者三塁打を記録したのは、125年ぶりの歴史的な快挙だった\n\n✅あらす지\n2025年8月13日に行われたエンゼルスとの「フリーウェイシリーズ」最終戦でのこと。 この日、ドジャースの先発投手兼1番打者として出場した大谷翔平は、初回の第1打席でカウント2-0から、C.B.バックナー球審によって明らかに外れたボールを2球連続でストライクと判定される不運に見舞われたんでござる。\n\n納得のいかない判定に、大谷は一度タイムを要求して冷静に呼吸を整えたんすわ。そして、その直後、まるで怒りをバットに乗せたかのように、右中間のフェンスを直撃する強烈な三塁打を放ち、先制点のチャンスを自ら作り出したという。先発投手が試合の先頭打者として三塁打を打ったのは、なんと1900年以来、実に125年ぶりの歴史的な出来事だったらしいっす。\n\nしかし、この大谷の歴史的な一打で幸先の良いスタートを切ったにもかかわらず、ドジャースはこの試合に5-6で敗れ、エンゼルスに3連敗を喫してしまったのは、また別の話でござる。\n\n🔥動画の説明\nこの動画は、野球の試合中に起きた一つのドラマチックな瞬間を捉えたものです。審判による物議を醸す判定の後、選手が見せた驚異的な集中力とパフォーマンスに焦点を当てています。\n本映像は、視聴者の方から提供された実際の出来事に関する情報やエピソードを基に、エンターテイメント性を高める目的で再構成・脚色を加えたフィクションです。登場する人物や団体は実在のものですが、ストーリーの一部には創作が含まれております。\n\n#大谷翔平 #ドジャース #MLB #エンゼルス #プロ野球 #神対応 #スカッとする話 #フリーウェイシリーズ #三塁打 #野球",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1分野球",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "2回の誤審と大記録の大谷",
+          "description": "💡3行まとめ\n🔹ありえないボール判定が2回連続で下されるも、大谷は冷静に対応\n🔹タイムを要求して気持ちを切り替え、直後にフェンス直撃の三塁打を放つ\n🔹投手兼1番打者が先頭打者三塁打を記録したのは、125年ぶりの歴史的な快挙だった\n\n✅あらす지\n2025年8月13日に行われたエンゼルスとの「フリーウェイシリーズ」最終戦でのこと。 この日、ドジャースの先発投手兼1番打者として出場した大谷翔平は、初回の第1打席でカウント2-0から、C.B.バックナー球審によって明らかに外れたボールを2球連続でストライクと判定される不運に見舞われたんでござる。\n\n納得のいかない判定に、大谷は一度タイムを要求して冷静に呼吸を整えたんすわ。そして、その直後、まるで怒りをバットに乗せたかのように、右中間のフェンスを直撃する強烈な三塁打を放ち、先制点のチャンスを自ら作り出したという。先発投手が試合の先頭打者として三塁打を打ったのは、なんと1900年以来、実に125年ぶりの歴史的な出来事だったらしいっす。\n\nしかし、この大谷の歴史的な一打で幸先の良いスタートを切ったにもかかわらず、ドジャースはこの試合に5-6で敗れ、エンゼルスに3連敗を喫してしまったのは、また別の話でござる。\n\n🔥動画の説明\nこの動画は、野球の試合中に起きた一つのドラマチックな瞬間を捉えたものです。審判による物議を醸す判定の後、選手が見せた驚異的な集中力とパフォーマンスに焦点を当てています。\n本映像は、視聴者の方から提供された実際の出来事に関する情報やエピソードを基に、エンターテイメント性を高める目的で再構成・脚色を加えたフィクションです。登場する人物や団体は実在のものですが、ストーリーの一部には創作が含まれております。\n\n#大谷翔平 #ドジャース #MLB #エンゼルス #プロ野球 #神対応 #スカッとする話 #フリーウェイシリーズ #三塁打 #野球"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "502208",
+        "likeCount": "10385",
+        "favoriteCount": "0",
+        "commentCount": "213"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jQEMA3VVo6ZNFmNfLcXzdIqBxJc",
       "id": "lCR4Z5fmaK4",
       "snippet": {
         "publishedAt": "2025-08-15T12:01:29Z",
@@ -493,11 +690,26 @@
           "description": "「ど真ん中をボール判定された」山本由伸に関する雑学 #野球 #メジャーリーグ #大谷翔平"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4501075",
+        "likeCount": "114244",
+        "favoriteCount": "0",
+        "commentCount": "2869"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "N1oG9UhJHm6Q4hV7g3kTdfrvf18",
+      "etag": "_q-5X3hQ_NcqsoQVK-HkTGxyzUo",
       "id": "Lhp4KAsMG4w",
       "snippet": {
         "publishedAt": "2025-08-15T12:50:24Z",
@@ -540,11 +752,26 @@
           "description": "お父さんから貸してもらったゴルフクラブが…\n\n#スポーツ #ゴルフ #初心者"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3463625",
+        "likeCount": "37234",
+        "favoriteCount": "0",
+        "commentCount": "255"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "cz4JomUpJcOR3vHUJCXcKakyXgE",
+      "etag": "wiks6aZT5A6p1txILSBEb9BebQM",
       "id": "XILlZmJFP-I",
       "snippet": {
         "publishedAt": "2025-08-20T21:00:39Z",
@@ -597,11 +824,26 @@
           "description": "#大谷翔平 #大谷 #ドジャース #プロ野球 #野球 #ダスティベイカー #シルト監督 #パドレス"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1243947",
+        "likeCount": "21684",
+        "favoriteCount": "0",
+        "commentCount": "273"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "p4nZs7SfV0UvOU3f0HHRQYnsVY4",
+      "etag": "RuuUEWeec2fajy5EXnnKnabJ7n4",
       "id": "HhTqN-oMZg0",
       "snippet": {
         "publishedAt": "2025-08-21T09:00:21Z",
@@ -644,11 +886,26 @@
           "description": "引用元　https://vt.tiktok.com/ZSA6rhG29/"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "924569",
+        "likeCount": "8204",
+        "favoriteCount": "0",
+        "commentCount": "498"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iCGzAcRmAHHifnxh9AXpg4tvvV8",
+      "etag": "M12R5V410dDb03gQ81EUZ9zbrqw",
       "id": "tbybpIsI0qE",
       "snippet": {
         "publishedAt": "2025-08-18T08:15:11Z",
@@ -691,58 +948,26 @@
           "description": "使用音声\n・VOICEVOX:青山龍星"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2278349",
+        "likeCount": "56336",
+        "favoriteCount": "0",
+        "commentCount": "511"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "B5SZVXbJLUox4b6EGncsKXUx_rQ",
-      "id": "3c_vaW2smeY",
-      "snippet": {
-        "publishedAt": "2025-08-24T06:23:50Z",
-        "channelId": "UC-vqkDUX2jQ3mN4PT2twReg",
-        "title": "2回の誤審と大記録の大谷",
-        "description": "💡3行まとめ\n🔹ありえないボール判定が2回連続で下されるも、大谷は冷静に対応\n🔹タイムを要求して気持ちを切り替え、直後にフェンス直撃の三塁打を放つ\n🔹投手兼1番打者が先頭打者三塁打を記録したのは、125年ぶりの歴史的な快挙だった\n\n✅あらす지\n2025年8月13日に行われたエンゼルスとの「フリーウェイシリーズ」最終戦でのこと。 この日、ドジャースの先発投手兼1番打者として出場した大谷翔平は、初回の第1打席でカウント2-0から、C.B.バックナー球審によって明らかに外れたボールを2球連続でストライクと判定される不運に見舞われたんでござる。\n\n納得のいかない判定に、大谷は一度タイムを要求して冷静に呼吸を整えたんすわ。そして、その直後、まるで怒りをバットに乗せたかのように、右中間のフェンスを直撃する強烈な三塁打を放ち、先制点のチャンスを自ら作り出したという。先発投手が試合の先頭打者として三塁打を打ったのは、なんと1900年以来、実に125年ぶりの歴史的な出来事だったらしいっす。\n\nしかし、この大谷の歴史的な一打で幸先の良いスタートを切ったにもかかわらず、ドジャースはこの試合に5-6で敗れ、エンゼルスに3連敗を喫してしまったのは、また別の話でござる。\n\n🔥動画の説明\nこの動画は、野球の試合中に起きた一つのドラマチックな瞬間を捉えたものです。審判による物議を醸す判定の後、選手が見せた驚異的な集中力とパフォーマンスに焦点を当てています。\n本映像は、視聴者の方から提供された実際の出来事に関する情報やエピソードを基に、エンターテイメント性を高める目的で再構成・脚色を加えたフィクションです。登場する人物や団体は実在のものですが、ストーリーの一部には創作が含まれております。\n\n#大谷翔平 #ドジャース #MLB #エンゼルス #プロ野球 #神対応 #スカッとする話 #フリーウェイシリーズ #三塁打 #野球",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3c_vaW2smeY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "1分野球",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "2回の誤審と大記録の大谷",
-          "description": "💡3行まとめ\n🔹ありえないボール判定が2回連続で下されるも、大谷は冷静に対応\n🔹タイムを要求して気持ちを切り替え、直後にフェンス直撃の三塁打を放つ\n🔹投手兼1番打者が先頭打者三塁打を記録したのは、125年ぶりの歴史的な快挙だった\n\n✅あらす지\n2025年8月13日に行われたエンゼルスとの「フリーウェイシリーズ」最終戦でのこと。 この日、ドジャースの先発投手兼1番打者として出場した大谷翔平は、初回の第1打席でカウント2-0から、C.B.バックナー球審によって明らかに外れたボールを2球連続でストライクと判定される不運に見舞われたんでござる。\n\n納得のいかない判定に、大谷は一度タイムを要求して冷静に呼吸を整えたんすわ。そして、その直後、まるで怒りをバットに乗せたかのように、右中間のフェンスを直撃する強烈な三塁打を放ち、先制点のチャンスを自ら作り出したという。先発投手が試合の先頭打者として三塁打を打ったのは、なんと1900年以来、実に125年ぶりの歴史的な出来事だったらしいっす。\n\nしかし、この大谷の歴史的な一打で幸先の良いスタートを切ったにもかかわらず、ドジャースはこの試合に5-6で敗れ、エンゼルスに3連敗を喫してしまったのは、また別の話でござる。\n\n🔥動画の説明\nこの動画は、野球の試合中に起きた一つのドラマチックな瞬間を捉えたものです。審判による物議を醸す判定の後、選手が見せた驚異的な集中力とパフォーマンスに焦点を当てています。\n本映像は、視聴者の方から提供された実際の出来事に関する情報やエピソードを基に、エンターテイメント性を高める目的で再構成・脚色を加えたフィクションです。登場する人物や団体は実在のものですが、ストーリーの一部には創作が含まれております。\n\n#大谷翔平 #ドジャース #MLB #エンゼルス #プロ野球 #神対応 #スカッとする話 #フリーウェイシリーズ #三塁打 #野球"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4H1vSSsvA-JTHJzrOaRLQmPIoXk",
+      "etag": "xuuwfgWPuclw4LXjmfb806al7Rs",
       "id": "z8sKdmDmyFE",
       "snippet": {
         "publishedAt": "2025-08-19T09:01:24Z",
@@ -785,11 +1010,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2407891",
+        "likeCount": "65071",
+        "favoriteCount": "0",
+        "commentCount": "2182"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VmVdOiF_ey1XSS3i-O2TTnP0F1w",
+      "etag": "sogYK9o5tfaHV_N_2HXz75ghzBI",
       "id": "qb-C45W120U",
       "snippet": {
         "publishedAt": "2025-08-20T02:26:58Z",
@@ -840,105 +1080,26 @@
           "description": "冷静に分析して解説しました"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1497072",
+        "likeCount": "30229",
+        "favoriteCount": "0",
+        "commentCount": "584"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6gR3pt7Ps5pOZdpGkxeTXZMMaG4",
-      "id": "NCXLezdbvdk",
-      "snippet": {
-        "publishedAt": "2025-08-19T09:00:38Z",
-        "channelId": "UCqguHx4HsrKWmPUMyYwui0w",
-        "title": "関本→わざと内野ゴロを打たせる下柳さん・・しかし、3度グラブを叩きつけられる笑#下柳グラブ叩き#関本#阪神#グラブ叩きの真相#阪神タイガース",
-        "description": "阪神タイガースの元エース・下柳剛と関本賢太郎の名（迷？）エピソード！\n関本がわざと内野ゴロを打たせるも、なぜか下柳さんは3度もグラブを叩きつける事態に…。\nその裏に隠された真相とは？笑いと驚きが交錯する、阪神ファン必見の爆笑トーク！\n当時のベンチの空気感や、グラブ叩きの理由を徹底解説します。\n\n#下柳グラブ叩き #関本 #阪神 #グラブ叩きの真相 #阪神タイガース #プロ野球エピソード #阪神ファン必見 #爆笑トーク",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "⚾️人生暇つぶし 日韓生活 🐎今日も脱線しながら野球 コナンby LibertaFnC",
-        "categoryId": "19",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ko",
-        "localized": {
-          "title": "関本→わざと内野ゴロを打たせる下柳さん・・しかし、3度グラブを叩きつけられる笑#下柳グラブ叩き#関本#阪神#グラブ叩きの真相#阪神タイガース",
-          "description": "阪神タイガースの元エース・下柳剛と関本賢太郎の名（迷？）エピソード！\n関本がわざと内野ゴロを打たせるも、なぜか下柳さんは3度もグラブを叩きつける事態に…。\nその裏に隠された真相とは？笑いと驚きが交錯する、阪神ファン必見の爆笑トーク！\n当時のベンチの空気感や、グラブ叩きの理由を徹底解説します。\n\n#下柳グラブ叩き #関本 #阪神 #グラブ叩きの真相 #阪神タイガース #プロ野球エピソード #阪神ファン必見 #爆笑トーク"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fXNPn87Ei3ZuU8XMDCrKFUB2lOg",
-      "id": "sbZKRA4iDOo",
-      "snippet": {
-        "publishedAt": "2025-08-18T05:21:46Z",
-        "channelId": "UCzPJLIRDZCGAGyVDkCnlTcQ",
-        "title": "二塁を気にしなかった投手の末路",
-        "description": "#2",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "一分オタク",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "二塁を気にしなかった投手の末路",
-          "description": "#2"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "m58SJafHpOL1vjQzA_JgNk5d7PQ",
+      "etag": "B_n0pfZpTQQt4pwNFPsdrPzQVlA",
       "id": "xzoEwAVTM7Q",
       "snippet": {
         "publishedAt": "2025-08-22T09:01:33Z",
@@ -981,11 +1142,150 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "808696",
+        "likeCount": "8708",
+        "favoriteCount": "0",
+        "commentCount": "453"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eG0AGklWNRZk3G3oXBt14uYIhhw",
+      "etag": "lvujkvbfyIp9jwIKoA6xr4yZBxs",
+      "id": "NCXLezdbvdk",
+      "snippet": {
+        "publishedAt": "2025-08-19T09:00:38Z",
+        "channelId": "UCqguHx4HsrKWmPUMyYwui0w",
+        "title": "関本→わざと内野ゴロを打たせる下柳さん・・しかし、3度グラブを叩きつけられる笑#下柳グラブ叩き#関本#阪神#グラブ叩きの真相#阪神タイガース",
+        "description": "阪神タイガースの元エース・下柳剛と関本賢太郎の名（迷？）エピソード！\n関本がわざと内野ゴロを打たせるも、なぜか下柳さんは3度もグラブを叩きつける事態に…。\nその裏に隠された真相とは？笑いと驚きが交錯する、阪神ファン必見の爆笑トーク！\n当時のベンチの空気感や、グラブ叩きの理由を徹底解説します。\n\n#下柳グラブ叩き #関本 #阪神 #グラブ叩きの真相 #阪神タイガース #プロ野球エピソード #阪神ファン必見 #爆笑トーク",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NCXLezdbvdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "⚾️人生暇つぶし 日韓生活 🐎今日も脱線しながら野球 コナンby LibertaFnC",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "関本→わざと内野ゴロを打たせる下柳さん・・しかし、3度グラブを叩きつけられる笑#下柳グラブ叩き#関本#阪神#グラブ叩きの真相#阪神タイガース",
+          "description": "阪神タイガースの元エース・下柳剛と関本賢太郎の名（迷？）エピソード！\n関本がわざと内野ゴロを打たせるも、なぜか下柳さんは3度もグラブを叩きつける事態に…。\nその裏に隠された真相とは？笑いと驚きが交錯する、阪神ファン必見の爆笑トーク！\n当時のベンチの空気感や、グラブ叩きの理由を徹底解説します。\n\n#下柳グラブ叩き #関本 #阪神 #グラブ叩きの真相 #阪神タイガース #プロ野球エピソード #阪神ファン必見 #爆笑トーク"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1274484",
+        "likeCount": "11995",
+        "favoriteCount": "0",
+        "commentCount": "174"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aZM8014YRq5NH2EEdXtBXdbDU58",
+      "id": "sbZKRA4iDOo",
+      "snippet": {
+        "publishedAt": "2025-08-18T05:21:46Z",
+        "channelId": "UCzPJLIRDZCGAGyVDkCnlTcQ",
+        "title": "二塁を気にしなかった投手の末路",
+        "description": "#2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sbZKRA4iDOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "一分オタク",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "二塁を気にしなかった投手の末路",
+          "description": "#2"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1883980",
+        "likeCount": "25224",
+        "favoriteCount": "0",
+        "commentCount": "337"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C5l_LneH21z16xNW0xhdh8w-ZbA",
       "id": "F83gsAk0k3Y",
       "snippet": {
         "publishedAt": "2025-08-21T08:27:00Z",
@@ -1028,11 +1328,26 @@
           "description": "#6"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1214775",
+        "likeCount": "28539",
+        "favoriteCount": "0",
+        "commentCount": "284"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WFjW4u5xyl7mqAa8oYbXjZhwG_0",
+      "etag": "-qFGIGO1rOwrSQvIt9FULDS42J4",
       "id": "HOejDBvBCbs",
       "snippet": {
         "publishedAt": "2025-08-21T11:41:47Z",
@@ -1075,11 +1390,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "721973",
+        "likeCount": "5302",
+        "favoriteCount": "0",
+        "commentCount": "95"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uzxUihmrYnwk5kXq1Uo8y2YZBO8",
+      "etag": "CVDia0SxolNWo-kNZ5KbUBNIHcM",
       "id": "15S6iplqtdA",
       "snippet": {
         "publishedAt": "2025-08-19T15:00:01Z",
@@ -1122,11 +1452,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1336574",
+        "likeCount": "14559",
+        "favoriteCount": "0",
+        "commentCount": "606"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CatQgVXC33zvGYjwoZIL0FGmYEY",
+      "etag": "1YrJGqleTYGtDmTudogx2iGFVNo",
       "id": "i3BshsTsZ40",
       "snippet": {
         "publishedAt": "2025-08-21T09:01:03Z",
@@ -1169,11 +1514,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1088987",
+        "likeCount": "24872",
+        "favoriteCount": "0",
+        "commentCount": "425"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AzqeUZV7t-csPcHCCLx5Zgg0R6k",
+      "etag": "JNcRKBFLuFP6hVmpDQ1KVUgaGt8",
       "id": "22KjqN7sGo8",
       "snippet": {
         "publishedAt": "2025-08-19T11:15:00Z",
@@ -1216,11 +1576,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1521752",
+        "likeCount": "39865",
+        "favoriteCount": "0",
+        "commentCount": "1991"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5ii-rAgL-R8CrwxfIWvMMcF6d3I",
+      "etag": "-U6CORCVecZ25JJ-v66IIQL_YuU",
       "id": "YkPsp13nSPo",
       "snippet": {
         "publishedAt": "2025-08-17T11:15:06Z",
@@ -1263,11 +1638,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1875196",
+        "likeCount": "20492",
+        "favoriteCount": "0",
+        "commentCount": "216"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XLmEbcVWSbaZyKr2Xdp_H9m_1cA",
+      "etag": "-48CCBP1SaDUAQtM5hvUprd-Odw",
       "id": "1pLOVhj5sd0",
       "snippet": {
         "publishedAt": "2025-08-15T09:30:01Z",
@@ -1310,11 +1700,32 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1559220",
+        "likeCount": "29198",
+        "favoriteCount": "0",
+        "commentCount": "86"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "f0NwZsc6EBoOINLgo4eKv0No3h4",
+      "etag": "2bHwcvPoUBpyOyrvAoTRqNMgCQU",
       "id": "Cx9CNyLWEtA",
       "snippet": {
         "publishedAt": "2025-08-20T01:39:44Z",
@@ -1357,11 +1768,26 @@
           "description": "この動画は映画「no ordinary family」のレビュー形式で制作されたもので、実際の出来事ではありません。"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1297162",
+        "likeCount": "56242",
+        "favoriteCount": "0",
+        "commentCount": "573"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ywlyKFcxv-q_uAf5t3-j3-zaIvg",
+      "etag": "PBQNdOqF-WP75bBru03LJ96Uh8Q",
       "id": "e-elaoqENz8",
       "snippet": {
         "publishedAt": "2025-08-20T12:11:00Z",
@@ -1444,58 +1870,26 @@
           "description": "#サッカー #サッカー戦術 #日本代表 #メッシ #ロナウド #バルセロナ #football #フットボール #プレミアリーグ #ワールドカップ\n\nMusic: \"帰り道に迷ったらこのストーリーで\" (prod. by BGMSTYLE)\n公式チャンネル: https://www.youtube.com/channel/UCuukoxNoIKkfFI6gpomKlqw"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "977540",
+        "likeCount": "21354",
+        "favoriteCount": "0",
+        "commentCount": "704"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZdRYq0prM33LU-llRzJaf0l_sIY",
-      "id": "tIOo_0_DhGI",
-      "snippet": {
-        "publishedAt": "2025-08-19T12:45:07Z",
-        "channelId": "UCshyjtOt2haWj_9CM9zsjKg",
-        "title": "仲間の為に命をかけたf1レーサー #shorts",
-        "description": "#車 #formula1 #レース #バイク #ハミルトン #アイルトンセナ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ドライブ図鑑",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "仲間の為に命をかけたf1レーサー #shorts",
-          "description": "#車 #formula1 #レース #バイク #ハミルトン #アイルトンセナ"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XD5J59BMCgQlg4W-MGkcpJxq7gI",
+      "etag": "hqWUuGqn_ylMblnG1oV32xS1FNA",
       "id": "EJAJu7sDHEY",
       "snippet": {
         "publishedAt": "2025-08-18T09:00:16Z",
@@ -1538,11 +1932,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1803439",
+        "likeCount": "12870",
+        "favoriteCount": "0",
+        "commentCount": "301"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "e8WwvnJrvpvy4AzauDnbp_M3mMU",
+      "etag": "bvGlOj1FryGXhMqZdV2z7r8IV-0",
+      "id": "tIOo_0_DhGI",
+      "snippet": {
+        "publishedAt": "2025-08-19T12:45:07Z",
+        "channelId": "UCshyjtOt2haWj_9CM9zsjKg",
+        "title": "仲間の為に命をかけたf1レーサー #shorts",
+        "description": "#車 #formula1 #レース #バイク #ハミルトン #アイルトンセナ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tIOo_0_DhGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ドライブ図鑑",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "仲間の為に命をかけたf1レーサー #shorts",
+          "description": "#車 #formula1 #レース #バイク #ハミルトン #アイルトンセナ"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1595674",
+        "likeCount": "39201",
+        "favoriteCount": "0",
+        "commentCount": "663"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KYyJUjXQnBj5-HSL5PlDfSmHGXs",
       "id": "5hQIgpHtxFE",
       "snippet": {
         "publishedAt": "2025-08-23T07:39:44Z",
@@ -1585,58 +2056,26 @@
           "description": "@万舟ケン"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "486953",
+        "likeCount": "5168",
+        "favoriteCount": "0",
+        "commentCount": "80"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "52f2N7IUF8Br96mOuN8iR8Mw5H8",
-      "id": "QdOM_XSC_nw",
-      "snippet": {
-        "publishedAt": "2025-08-16T14:00:42Z",
-        "channelId": "UCHc5G9y5mWcHqvbzvqQvRfA",
-        "title": "なぜ投手は誰もいないベースに牽制したのでしょうか？ #野球#韓国野球#野球解説",
-        "description": "使用音声\n・VOICEVOX:青山龍星",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ベンチ裏の野球雑学ch",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "なぜ投手は誰もいないベースに牽制したのでしょうか？ #野球#韓国野球#野球解説",
-          "description": "使用音声\n・VOICEVOX:青山龍星"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cbAj7UN4rUUwJeS-SuAYCUlOQrg",
+      "etag": "PtdVlJ7tfnavZMR6HV96wtzAFG8",
       "id": "N1TtpDvd58o",
       "snippet": {
         "publishedAt": "2025-08-22T23:57:26Z",
@@ -1679,11 +2118,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "464046",
+        "likeCount": "2542",
+        "favoriteCount": "0",
+        "commentCount": "363"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ue6-_Kg1FrknxuxjJ1kd12p8D20",
+      "etag": "r89AJW16P1n1NSbIiBJA3OuYDPU",
+      "id": "QdOM_XSC_nw",
+      "snippet": {
+        "publishedAt": "2025-08-16T14:00:42Z",
+        "channelId": "UCHc5G9y5mWcHqvbzvqQvRfA",
+        "title": "なぜ投手は誰もいないベースに牽制したのでしょうか？ #野球#韓国野球#野球解説",
+        "description": "使用音声\n・VOICEVOX:青山龍星",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QdOM_XSC_nw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ベンチ裏の野球雑学ch",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "なぜ投手は誰もいないベースに牽制したのでしょうか？ #野球#韓国野球#野球解説",
+          "description": "使用音声\n・VOICEVOX:青山龍星"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1725504",
+        "likeCount": "12362",
+        "favoriteCount": "0",
+        "commentCount": "434"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XaxtDarI3QDYoLwgztXl3ICZTPU",
       "id": "167gEHu8gC0",
       "snippet": {
         "publishedAt": "2025-08-14T15:33:04Z",
@@ -1726,11 +2242,26 @@
           "description": "決勝ホームランは本当に素晴らしい"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2353963",
+        "likeCount": "97425",
+        "favoriteCount": "0",
+        "commentCount": "748"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hGCCxgp7GM8eg0xrf_ob-31ILMo",
+      "etag": "hecuFjnB76dyiSXk6CYKUFhLR-A",
       "id": "F1EJMYj9eHw",
       "snippet": {
         "publishedAt": "2025-08-21T10:00:32Z",
@@ -1773,11 +2304,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "504952",
+        "likeCount": "12695",
+        "favoriteCount": "0",
+        "commentCount": "121"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kaIoOvpiIqO4D164Wel6hIHzguY",
+      "etag": "Vx_9fDtop1jPzlnlRiaEpbJ1rCU",
       "id": "P0rnmWt89xM",
       "snippet": {
         "publishedAt": "2025-08-21T12:00:45Z",
@@ -1820,58 +2366,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "490009",
+        "likeCount": "3212",
+        "favoriteCount": "0",
+        "commentCount": "135"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3RwWx52Mpag4N3AlrKDk6W0DK74",
-      "id": "-Qc32z-a1ZE",
-      "snippet": {
-        "publishedAt": "2025-08-20T08:00:00Z",
-        "channelId": "UCZG8N1CSyRmxhgXE7s3G82g",
-        "title": "大谷翔平VS中田翔の遠投対決が怪物すぎるwww",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "大谷翔平様",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "大谷翔平VS中田翔の遠投対決が怪物すぎるwww",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8Iniw25bFG-JAjGgtFekyta9fuE",
+      "etag": "FNEA7PBJBCkFisOAUz8umSyTXUY",
       "id": "nmUZ3hCua3A",
       "snippet": {
         "publishedAt": "2025-08-15T09:01:11Z",
@@ -1914,11 +2428,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "609793",
+        "likeCount": "11065",
+        "favoriteCount": "0",
+        "commentCount": "64"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DlMilYauBdLaaA5WF_1W3Im-aiw",
+      "etag": "ZSr8HWDQL6Ba8-xQ6k_s_KlreiE",
+      "id": "-Qc32z-a1ZE",
+      "snippet": {
+        "publishedAt": "2025-08-20T08:00:00Z",
+        "channelId": "UCZG8N1CSyRmxhgXE7s3G82g",
+        "title": "大谷翔平VS中田翔の遠投対決が怪物すぎるwww",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Qc32z-a1ZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "大谷翔平様",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "大谷翔平VS中田翔の遠投対決が怪物すぎるwww",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "697647",
+        "likeCount": "7836",
+        "favoriteCount": "0",
+        "commentCount": "117"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7X5woqTGgAA-dD_heNSY5ryEdP8",
       "id": "Niyq4VWV5MI",
       "snippet": {
         "publishedAt": "2025-08-23T04:42:59Z",
@@ -1961,58 +2552,26 @@
           "description": "☆歩く野球名鑑☆\ninstagram\nhttps://www.instagram.com/yakyumeikan_8\n\nTikTok\nhttps://www.tiktok.com/@yakyumeikan_8\n\nTwitter\nhttps://twitter.com/yakyumeikan\n#高校野球#甲子園#選手権大会"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "384737",
+        "likeCount": "5656",
+        "favoriteCount": "0",
+        "commentCount": "168"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zUjUd-KgiaEs6MUhpOtBD2phqlk",
-      "id": "EbaXEnRc9oM",
-      "snippet": {
-        "publishedAt": "2025-08-16T13:45:17Z",
-        "channelId": "UCRZVb2Xw2j1cntHA8UvbPhQ",
-        "title": "キーパーを困らせた予想外のプレー#サッカー解説 #戦術分析 #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "サッカー革命家チキン",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "キーパーを困らせた予想外のプレー#サッカー解説 #戦術分析 #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Y_0MOUpwwQ6-ACtOQtztgF0h6jE",
+      "etag": "amYeflSk9rxEkl_GuOwZ8ZetHYs",
       "id": "iHpMRARuHxQ",
       "snippet": {
         "publishedAt": "2025-08-21T23:00:47Z",
@@ -2055,11 +2614,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "550190",
+        "likeCount": "4240",
+        "favoriteCount": "0",
+        "commentCount": "126"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ndc2dsubZKJAt1vlpj3a-mlKUsc",
+      "etag": "KILOcDB6YJQvGXZHEavUP0BzW1Y",
+      "id": "EbaXEnRc9oM",
+      "snippet": {
+        "publishedAt": "2025-08-16T13:45:17Z",
+        "channelId": "UCRZVb2Xw2j1cntHA8UvbPhQ",
+        "title": "キーパーを困らせた予想外のプレー#サッカー解説 #戦術分析 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EbaXEnRc9oM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "サッカー革命家チキン",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "キーパーを困らせた予想外のプレー#サッカー解説 #戦術分析 #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1494274",
+        "likeCount": "24183",
+        "favoriteCount": "0",
+        "commentCount": "179"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gA1q0Bbp3oDfJOPBpTYEvGpiR5Y",
       "id": "Yq2Na8CCM44",
       "snippet": {
         "publishedAt": "2025-08-22T03:50:45Z",
@@ -2102,11 +2738,86 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "646311",
+        "likeCount": "4959",
+        "favoriteCount": "0",
+        "commentCount": "798"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ID0pAs4p_32xvOH9tNb0dThDqlQ",
+      "etag": "8sCGBbbBSeqke4adSR2hOEwCGDQ",
+      "id": "mfXlE5M4uM0",
+      "snippet": {
+        "publishedAt": "2025-08-23T09:30:34Z",
+        "channelId": "UCFSUl1pGKKqMddDuiGXvYXg",
+        "title": "えんどれす【プロ野球最強守備ランキング】#野球 #スポーツあるある #スポーツやろうよ #あるある #スポーツ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "えんどれす【Endless】",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "えんどれす【プロ野球最強守備ランキング】#野球 #スポーツあるある #スポーツやろうよ #あるある #スポーツ",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "429793",
+        "likeCount": "11189",
+        "favoriteCount": "0",
+        "commentCount": "172"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "enpJQtenML0Pfx59sZpftpAI4Pw",
       "id": "FJhGsedjHXg",
       "snippet": {
         "publishedAt": "2025-08-20T09:00:16Z",
@@ -2149,56 +2860,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "648693",
+        "likeCount": "5893",
+        "favoriteCount": "0",
+        "commentCount": "44"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "amAOnVEVliDhIXAHCko0wteRLXY",
-      "id": "mfXlE5M4uM0",
-      "snippet": {
-        "publishedAt": "2025-08-23T09:30:34Z",
-        "channelId": "UCFSUl1pGKKqMddDuiGXvYXg",
-        "title": "えんどれす【プロ野球最強守備ランキング】#野球 #スポーツあるある #スポーツやろうよ #あるある #スポーツ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/mfXlE5M4uM0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "えんどれす【Endless】",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "えんどれす【プロ野球最強守備ランキング】#野球 #スポーツあるある #スポーツやろうよ #あるある #スポーツ",
-          "description": ""
-        }
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nam3v-4gi5fqQoZ_f9AruDSXpy8",
+      "etag": "KUIJeqA190ik4JYM-Hhpns6Vqv4",
       "id": "KW_nZ3K63pk",
       "snippet": {
         "publishedAt": "2025-08-23T04:25:00Z",
@@ -2241,11 +2922,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "358473",
+        "likeCount": "6306",
+        "favoriteCount": "0",
+        "commentCount": "92"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "H23Hvs0dIdlTyDZqIyTC2rW8rN4",
+      "etag": "GHwplwzoF6Q52bi7zsvRKtv7N3U",
       "id": "jhlL2fE6bmY",
       "snippet": {
         "publishedAt": "2025-08-17T09:35:00Z",
@@ -2288,11 +2984,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1273129",
+        "likeCount": "31670",
+        "favoriteCount": "0",
+        "commentCount": "252"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0364198RK2_Xa-UksJphCKCfsvQ",
+      "etag": "6mIU1KWMXJ6uOAXLidF76fz1FXM",
       "id": "328EDdZEi5I",
       "snippet": {
         "publishedAt": "2025-08-22T23:00:02Z",
@@ -2335,11 +3046,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT2M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "417561",
+        "likeCount": "5387",
+        "favoriteCount": "0",
+        "commentCount": "85"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "UC94403RxaWfDT5BYrHxU0GLPfw",
+      "etag": "dEAp5-WWua2_hQ0IapLjxQ_8bvg",
       "id": "XJf4lQ_ApdM",
       "snippet": {
         "publishedAt": "2025-08-18T01:30:19Z",
@@ -2382,11 +3108,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1209044",
+        "likeCount": "14293",
+        "favoriteCount": "0",
+        "commentCount": "452"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eVQvT-7E0731FNBzj6J0yGBcrHU",
+      "etag": "NrnuDkBoIz0lVYLMv-nHfVTmcCQ",
       "id": "t4cCSS8kBQc",
       "snippet": {
         "publishedAt": "2025-08-14T11:35:13Z",
@@ -2429,6 +3170,21 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2134062",
+        "likeCount": "81395",
+        "favoriteCount": "0",
+        "commentCount": "972"
       }
     }
   ],

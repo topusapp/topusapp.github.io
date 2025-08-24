@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "HCYel8B3zG2gNRnhdX8YoqTuaac",
+  "etag": "pzuiLvL3YZ9HoNzsfnutCtZPM7Q",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "gO43GvKWRwmGz_L0073uPy3BlEs",
+      "etag": "nQQuPnN4ypf8-feVLrqmThDpRYE",
       "id": "c6DA7ksS9Po",
       "snippet": {
         "publishedAt": "2025-08-20T09:51:46Z",
@@ -47,11 +47,26 @@
           "description": "しりとりで「ん」がついちゃった人絶対に「あっ」って言う説 #水曜日のダウンタウン"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5287339",
+        "likeCount": "175425",
+        "favoriteCount": "0",
+        "commentCount": "558"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fxUj5o-fQumn0RECgNaM3Ix4pAQ",
+      "etag": "c9sC0zbc0zE0FGHNzyafSXr_XQs",
       "id": "GCOBu0Lqi5Y",
       "snippet": {
         "publishedAt": "2025-08-22T10:00:33Z",
@@ -94,11 +109,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3718400",
+        "likeCount": "140227",
+        "favoriteCount": "0",
+        "commentCount": "1342"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kCOWb-RDkjXPxm9P3eqq6o_pOvA",
+      "etag": "z6BeQGf2npVVBukE77gouN_bFrk",
       "id": "EoZrOcN2qLM",
       "snippet": {
         "publishedAt": "2025-08-18T02:59:19Z",
@@ -141,11 +171,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8549110",
+        "likeCount": "309429",
+        "favoriteCount": "0",
+        "commentCount": "2754"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "McZ_Qkq5d262Wa3SQCZT39FyetQ",
+      "etag": "_mHHHQXl5VCUIujaDjk0G80dctQ",
       "id": "7bwiP6j9KII",
       "snippet": {
         "publishedAt": "2025-08-21T17:30:59Z",
@@ -188,11 +233,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4080875",
+        "likeCount": "132253",
+        "favoriteCount": "0",
+        "commentCount": "405"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iZXFmWh9sMuxshfep8X-Nvm7ImA",
+      "etag": "mS0NYLVpx9atlAz5ElaEtNDs5vk",
       "id": "PEGQg3mkmiE",
       "snippet": {
         "publishedAt": "2025-08-22T10:07:45Z",
@@ -301,58 +361,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1853773",
+        "likeCount": "100761",
+        "favoriteCount": "0",
+        "commentCount": "857"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iF9vUXr5wbz98zGQZR1zon-VnP0",
-      "id": "s7v8r7hrkok",
-      "snippet": {
-        "publishedAt": "2025-08-17T21:28:36Z",
-        "channelId": "UCaWoJDHiMRV3Cbbl-JKoBUQ",
-        "title": "彼はルールなんて気にしない 🤯 #アニメ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "vjipok",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "彼はルールなんて気にしない 🤯 #アニメ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Rj1aor4-9lcTnJk98NlEJlvPkkU",
+      "etag": "1aiMAq3aIQwonjQWzpF1OSXs4fI",
       "id": "Vv-TMWDUzMw",
       "snippet": {
         "publishedAt": "2025-08-22T05:00:34Z",
@@ -458,58 +486,88 @@
           "description": "☆チャンネル登録よろしくね！\n■https://goo.gl/lSy9St\n\n☆専用の絵文字や限定動画など色々！チャンネルメンバーシップご登録はこちら！\n■https://goo.gl/uJomwo\n\n☆メインはこっち！「Fischer's-フィッシャーズ-」\n■https://www.youtube.com/@Fischers\n\n☆サブチャンネルは「Fischer's-セカンダリ-」\n■https://www.youtube.com/@Fischers2\n\n☆「Fischer's-ゲームズ-」はこちら！！\n◼︎https://www.youtube.com/@FischersGames\n\n－個人チャンネル\n☆ロードシルク\n■https://www.youtube.com/@FischersBOSS\n\n☆ンダホんち\n■https://www.youtube.com/@FischersNDAHO\n\n－メンバーシップ向けの再生リストはこちら！\nお誕生日メッセージ\n■https://onl.tw/kUBnmrM\n秘密・オフショット・ボツ動画\n■https://onl.tw/xauB6fy\nすべて\n■https://bit.ly/2YHCvAJ\n\n☆Ｔシャツ、パーカーなどのフィッシャーズグッズ！\n■https://onl.la/kN5M6Bq\n\n☆LINEスタンプもあるよ！\n■https://onl.la/CHvpzxt\n\n☆フィッシャーズオリジナルブランド「Dotene（ドテネ）」\n■https://dotene.jp/\n\n☆ンダホ監修ブランド「ふざけファクトリー」\n■https://onl.la/8TXfgb9\n\n☆UUUMによるフィッシャーズトピックス\n■https://onl.la/fbiF5B3\n\n☆フィッシャーズメンバーのTwitterはこちら！\nーシルクロード@RytoSle2（リーダー）\n■https://twitter.com/RytoSle2\nーマサイ@MASAI_Fischers\n■https://twitter.com/MASAI_Fischers\nーンダホ@ndahoFischers\n■https://twitter.com/ndahoFischers\nーモトキ@Fs_hasninelives\n■https://twitter.com/Fs_hasninelives\nーザカオ@fischerszakao\n■https://twitter.com/fischerszakao\nーダーマ@M2DAMA\n■https://twitter.com/M2DAMA\n\n【公式アカウント】\nーTwitter（動画公開時の通知＋告知など）\n■https://twitter.com/FischersHome\nーFacebook（動画公開時の通知）\n■https://www.facebook.com/FischersHome\nーInstagram（オフショット）\n■https://www.instagram.com/fischershome\nーウェブサイト・メンバー紹介\n■http://fischers.web.fc2.com/\n\n【他の動画を見る】\n―再生リストをすべて表示\n■https://goo.gl/fB9HYY\n―アップロード順\n■https://goo.gl/TuFZ4W\n―再生数順\n■https://goo.gl/pw3hyy\n―全てのショート動画\n■https://onl.la/7Ffe6KD\n\n【Fischer's-フィッシャーズ-】\n野外で遊んだり室内で遊んだり。海外へ冒険したり。時には恐ろしい場所へ…😱\n中学3年の頃に「思い出」を動画にした事から始まった、同級生6人組による思い出系ネットパフォーマーです。YouTubeなどで活動中！決まり文句は「アデュー‼️」ファンの呼称は「ウオタミ」2010年02月25日結成😆\n\n【音源・効果音使用元】様\n―DOVA-SYNDROME\n■http://dova-s.jp/\n―効果音ラボ\n■http://soundeffect-lab.info/\n―甘茶の音楽工房\n■http://amachamusic.chagasi.com/\n―魔王魂\n■http://maoudamashii.jokersounds.com/\n―Epidemic Sound\n■ http://www.epidemicsound.com\n\n【一部の動画・静止画素材提供元】 \nPIXTA\n\n※動画によって使用していない場合がございます。\n\n【お問い合わせ先について】\n※1 業界の皆様・ご依頼の方々・その他ご相談がある方は、UUUMウェブサイトにある「サービス」からお願い致します。\n※2 YouTubeメッセージ機能は、フィッシャーズでは利用していません。ご理解いただけると幸いです。\n\n【サービスに関するお問い合わせ（UUUM）】\nhttp://www.uuum.co.jp/\n\n#Fischers #フィッシャーズ"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2137479",
+        "likeCount": "81407",
+        "favoriteCount": "0",
+        "commentCount": "394"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RJKeQ6ZVHOq4agVW0SyZf_CXyyM",
-      "id": "L3RGic21tTg",
+      "etag": "ylgkASy1juJ5hO5Az_VIh5i88rk",
+      "id": "s7v8r7hrkok",
       "snippet": {
-        "publishedAt": "2025-08-22T07:00:16Z",
-        "channelId": "UCzQNnGB_gNBL-04fReJ0NGA",
-        "title": "【人格否定】父親にドッキリ仕掛けたら失敗してボロクソに言われる人wwwww #面白い #おもしろ #tiktok #Twitter #2ch #5ch",
+        "publishedAt": "2025-08-17T21:28:36Z",
+        "channelId": "UCaWoJDHiMRV3Cbbl-JKoBUQ",
+        "title": "彼はルールなんて気にしない 🤯 #アニメ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/L3RGic21tTg/default.jpg",
+            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/L3RGic21tTg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/L3RGic21tTg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/L3RGic21tTg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/L3RGic21tTg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s7v8r7hrkok/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "バズツイα",
+        "channelTitle": "vjipok",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "【人格否定】父親にドッキリ仕掛けたら失敗してボロクソに言われる人wwwww #面白い #おもしろ #tiktok #Twitter #2ch #5ch",
+          "title": "彼はルールなんて気にしない 🤯 #アニメ",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5742140",
+        "likeCount": "208849",
+        "favoriteCount": "0",
+        "commentCount": "582"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wC7j8Oix1TaMn0lh4ZIG3wN_gbw",
+      "etag": "Pgf6EMIx2ASLqoBT5IvJZHmSRcU",
       "id": "E_2d3SwttA4",
       "snippet": {
         "publishedAt": "2025-08-21T21:00:14Z",
@@ -565,11 +623,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2249282",
+        "likeCount": "79099",
+        "favoriteCount": "0",
+        "commentCount": "185"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uCqSw-kMRUdBEQc0ockF8YI4ifY",
+      "etag": "dT2bmXcXuyrnbaOCKFyyGYwK7eo",
       "id": "jHs8bkljxYA",
       "snippet": {
         "publishedAt": "2025-08-23T06:00:40Z",
@@ -612,11 +685,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1409936",
+        "likeCount": "51651",
+        "favoriteCount": "0",
+        "commentCount": "341"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sfO_EW0DiEXXkQXs7_udPvFoIsg",
+      "etag": "fESZLS_HdwUBR2N1hgBzZnHWqwo",
       "id": "9qsEOe398-w",
       "snippet": {
         "publishedAt": "2025-08-21T09:03:03Z",
@@ -659,11 +747,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3245083",
+        "likeCount": "49782",
+        "favoriteCount": "0",
+        "commentCount": "178"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "v_ADFT__fvBeDQmN6LpgSy5GRKc",
+      "etag": "7q6R8W0WOXDRWnfcAyagCPhzOcE",
       "id": "0nX2S5U6vwU",
       "snippet": {
         "publishedAt": "2025-08-21T09:00:02Z",
@@ -751,11 +854,26 @@
           "description": "やんばるゼミは「先生も、子どもも、もっと行きたくなる教育の場」を目指しています！\n\n▼せんせい市場のリンクはこちら▼\nhttps://senseiichiba.com\n\nーーーーーーーーーー\n\n▼お問い合わせはこちらのHPよりご連絡ください▼\nhttps://yambalsemi.com/  (株式会社せんせい市場ホームページ)\n\n▼理科単語ウルフURL(AppStore)▼ \nhttps://apps.apple.com/jp/app/%E7%90%86%E7%A7%91%E5%8D%98%E8%AA%9E%E3%82%A6%E3%83%AB%E3%83%95/id6447584084\n\n▼理科単語ウルフURL(GooglePlay)▼ \nhttps://play.google.com/store/apps/details?id=com.WordWolf.ScienceWordWolf&hl=ja\n\n▼X(旧Twitter)\nやんばる先生\nhttps://twitter.com/shogusensei\n\n▼Instagram\nやんばる先生\nhttps://www.instagram.com/yambalsemi\n\n#学校 \n#先生 \n#コラボ"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2453569",
+        "likeCount": "112246",
+        "favoriteCount": "0",
+        "commentCount": "843"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "qiJdS8yXRlbfdKjK0lTooS2ONKY",
+      "etag": "eyOj58fKmDOFJ81HKHkWnnfAIn4",
       "id": "YoRB5po0B9I",
       "snippet": {
         "publishedAt": "2025-08-22T09:00:50Z",
@@ -798,11 +916,26 @@
           "description": "#2ch#2ch面白いスレ#2chスカッと#ゆっくり解説#2ch感動\n\nM"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1624041",
+        "likeCount": "76647",
+        "favoriteCount": "0",
+        "commentCount": "888"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0PJ5CyhfwYDV49Zgtvb1W6ydVuY",
+      "etag": "4toUoIxEjApDUQgRMCwGlflEmRw",
       "id": "1zyEB8qQWHY",
       "snippet": {
         "publishedAt": "2025-08-21T03:00:05Z",
@@ -845,11 +978,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2342358",
+        "likeCount": "92865",
+        "favoriteCount": "0",
+        "commentCount": "242"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3uH2MGLGBL9rn8QIIQo3D8XFQpo",
+      "etag": "SrB7S3sQPUYcjFbLdH1EqeKrpFc",
       "id": "mozAWevY8mk",
       "snippet": {
         "publishedAt": "2025-08-18T09:01:14Z",
@@ -892,11 +1040,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4165398",
+        "likeCount": "163283",
+        "favoriteCount": "0",
+        "commentCount": "1387"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BQ2g1fM9L7ZQ6Vf4bv929WpvBVc",
+      "etag": "oKsHyPSEzIyoUxTSza_25p8rNZE",
       "id": "CTAYSd0LsZQ",
       "snippet": {
         "publishedAt": "2025-08-17T22:00:12Z",
@@ -939,105 +1102,26 @@
           "description": "🔸5ちゃんねる様\n\n🔸使用したスレの引用元"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4378694",
+        "likeCount": "137847",
+        "favoriteCount": "0",
+        "commentCount": "795"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IfOy9mvpVas2Y_yp7zVZr2XiM84",
-      "id": "t7g3PahtJ-o",
-      "snippet": {
-        "publishedAt": "2025-08-17T11:26:46Z",
-        "channelId": "UCvPNRJFYKRMl7tQ4JWg7Pww",
-        "title": "イモトが奇跡を起こした瞬間#お笑い #お笑い芸人 #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "マスクメン",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "イモトが奇跡を起こした瞬間#お笑い #お笑い芸人 #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nkjwKy-8zjRK3OyXz_4Bqmtbhfo",
-      "id": "9H9XdJmOGvQ",
-      "snippet": {
-        "publishedAt": "2025-08-18T22:00:15Z",
-        "channelId": "UC3jnw2aKXkE2AVmM_1W377Q",
-        "title": "娘と息子の対応の違い",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "世界のコレナニ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "娘と息子の対応の違い",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PqJxJFdPiTRKu4m99eaZ0WTjtX8",
+      "etag": "pXFExENwmNMmVP9uXeDliIH7sfc",
       "id": "6BbSwimsGWs",
       "snippet": {
         "publishedAt": "2025-08-22T05:11:40Z",
@@ -1080,58 +1164,150 @@
           "description": "#0"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1772125",
+        "likeCount": "66868",
+        "favoriteCount": "0",
+        "commentCount": "556"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0tX8ut_6YMTiM5hBO-9qdKFyfGE",
-      "id": "7qCxrfSEqUM",
+      "etag": "bfLL9ksxnepmnezWeHVqOsrEWbA",
+      "id": "t7g3PahtJ-o",
       "snippet": {
-        "publishedAt": "2025-08-18T11:00:22Z",
-        "channelId": "UCUO0uu6bY6KZpOtWXIN25_w",
-        "title": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血",
-        "description": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血",
+        "publishedAt": "2025-08-17T11:26:46Z",
+        "channelId": "UCvPNRJFYKRMl7tQ4JWg7Pww",
+        "title": "イモトが奇跡を起こした瞬間#お笑い #お笑い芸人 #shorts",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/default.jpg",
+            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7g3PahtJ-o/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "1Min Movies",
-        "categoryId": "1",
+        "channelTitle": "マスクメン",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血",
-          "description": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血"
+          "title": "イモトが奇跡を起こした瞬間#お笑い #お笑い芸人 #shorts",
+          "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5163448",
+        "likeCount": "261320",
+        "favoriteCount": "0",
+        "commentCount": "1086"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gX0oZAZp19LKkluaOtKRawQqB5s",
+      "etag": "529ysm8zZSheFNL_qk2xokrnCFU",
+      "id": "9H9XdJmOGvQ",
+      "snippet": {
+        "publishedAt": "2025-08-18T22:00:15Z",
+        "channelId": "UC3jnw2aKXkE2AVmM_1W377Q",
+        "title": "娘と息子の対応の違い",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9H9XdJmOGvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "世界のコレナニ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "娘と息子の対応の違い",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3370546",
+        "likeCount": "127484",
+        "favoriteCount": "0",
+        "commentCount": "855"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KwucwsS4FyiAeOIabj09lXqqyAg",
       "id": "D-7JTZnsShQ",
       "snippet": {
         "publishedAt": "2025-08-20T13:00:33Z",
@@ -1174,11 +1350,88 @@
           "description": "剣心、新たなる逆刃刀を手に――！ #るろうに剣心 #movie #映画 #shorts"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2119011",
+        "likeCount": "53695",
+        "favoriteCount": "0",
+        "commentCount": "496"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CQGM2zee3-_pZXbkBfyvtDta6uM",
+      "etag": "EAcRH5M9mdpLrAVZPY7NFddRaZo",
+      "id": "7qCxrfSEqUM",
+      "snippet": {
+        "publishedAt": "2025-08-18T11:00:22Z",
+        "channelId": "UCUO0uu6bY6KZpOtWXIN25_w",
+        "title": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血",
+        "description": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7qCxrfSEqUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1Min Movies",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血",
+          "description": "大上の入れ知恵──五十子会を焚きつけろ #映画 #movie #shorts #孤狼の血"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3514586",
+        "likeCount": "88333",
+        "favoriteCount": "0",
+        "commentCount": "839"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qAeYQIcTsWqiqlHB39-nHtRwfzA",
       "id": "aVcScrduD38",
       "snippet": {
         "publishedAt": "2025-08-17T11:02:15Z",
@@ -1221,11 +1474,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4096835",
+        "likeCount": "139952",
+        "favoriteCount": "0",
+        "commentCount": "2938"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "t5WW8GtObRxpOdd1UpSMXUcynhQ",
+      "etag": "Yjd1JLqfrs4DcDoR1euU2I8kBIs",
       "id": "ATpt9uSXNc0",
       "snippet": {
         "publishedAt": "2025-08-19T16:57:37Z",
@@ -1268,11 +1536,26 @@
           "description": "※当チャンネルは、「5ちゃんねる（5ch.net）」様に使用許諾申請しております。\n#5ch #2ch"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3181412",
+        "likeCount": "106265",
+        "favoriteCount": "0",
+        "commentCount": "1753"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OsMf5wPdsjTCtUD1V1Ug-6_2D98",
+      "etag": "mnOrArirgNvGDC4I1H7ag9llJmk",
       "id": "NvWWAoRv27g",
       "snippet": {
         "publishedAt": "2025-08-19T13:13:33Z",
@@ -1315,11 +1598,26 @@
           "description": "映画タイトル : ライフ・イン・ピース (Life in Pieces, 2015)\n\nあらすじ:\n三世代が一つの大家族として暮らすショート一家。\n親、子供、そして孫たちが繰り広げる日常は、愛と笑い、そして少しのドタバタに満ちている✨\nこのドラマの特徴は、1話が4つの短編エピソードで構成されていること📖\n結婚、育児、仕事、老後――それぞれの人生の断片がユーモラスかつ感動的に描かれる。\n「家族ってこんなにも複雑で、だけどかけがえのない存在なんだ」と実感させてくれるハートフル・コメディ。\n\n#大家族コメディ\n#4つの短編構成\n#愛と笑いの日常\n#結婚と育児のリアル\n#世代を超える絆"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3178322",
+        "likeCount": "114449",
+        "favoriteCount": "0",
+        "commentCount": "1271"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FJStX_DbdHtVjIBXHZB56Y81o2k",
+      "etag": "FUfTWWRETkCXOhNUXEPWMlrYXJE",
       "id": "JBbZyd51S9U",
       "snippet": {
         "publishedAt": "2025-08-21T11:06:40Z",
@@ -1362,11 +1660,26 @@
           "description": "Thank you very much!\n引用元：瓜哥超爱玩〜\n\n使用させていただいた音声\n声と音の小部屋 酉月（こえとおとのこべや　ゆうげつ）"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1983940",
+        "likeCount": "49502",
+        "favoriteCount": "0",
+        "commentCount": "294"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VJcvPNPI5tZQ_31PU0wfpEr0eLA",
+      "etag": "M8pBRYPduiumlMvxQzsVbyai9X4",
       "id": "7sZuUoaHl8s",
       "snippet": {
         "publishedAt": "2025-08-20T10:00:12Z",
@@ -1409,11 +1722,26 @@
           "description": "俺の高校は、佐藤しか入学できない。教師も生徒も全員佐藤。\nだが、学年には必ず一人だけ“佐藤以外”が紛れ込み、正体を隠して過ごしている。\n卒業までに見つければ学年全員で賞金1000万円。隠し通せば、偽物が1000万円を独り占め。\n毎日が疑心暗鬼の「佐藤裁判」。\nそして卒業式の日、校長が発表したのは――「鈴木一郎！」だった。\n\n#怖い話 #怪現象 #ゾッとする話 #ホラー \n\nVOICEVOX:白上虎太郎\nVOICEVOX:玄野武宏"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2522050",
+        "likeCount": "139506",
+        "favoriteCount": "0",
+        "commentCount": "503"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "YQ4gZmNyLDiHOwi4qfJ_YHsD8Oo",
+      "etag": "7aYTA1TOAaNMJgRcBmq19IounYA",
       "id": "YsvnxRiGwoo",
       "snippet": {
         "publishedAt": "2025-08-20T03:00:37Z",
@@ -1462,58 +1790,26 @@
           "description": "#感動する話 #ほっこりする話 #動物 #ほっこりショート \n引用元：＠FurryFritzCatographer"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2436313",
+        "likeCount": "75167",
+        "favoriteCount": "0",
+        "commentCount": "521"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QKgxxxzqjWb4YAta6t9NNrKVL-E",
-      "id": "RzjkZ0DrJb4",
-      "snippet": {
-        "publishedAt": "2025-08-21T10:00:46Z",
-        "channelId": "UCH_QLndqhJTjQkWLlTY1blA",
-        "title": "「唯一整列に興奮する」コミケスタッフについての雑学",
-        "description": "「唯一整列に興奮する」コミケスタッフについての雑学を紹介しています。 \n皆さんの知っている雑学やあるあるもぜひコメントで！  \n\nVOICEVOX:四国めたん",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "がばがば雑学の人",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "「唯一整列に興奮する」コミケスタッフについての雑学",
-          "description": "「唯一整列に興奮する」コミケスタッフについての雑学を紹介しています。 \n皆さんの知っている雑学やあるあるもぜひコメントで！  \n\nVOICEVOX:四国めたん"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EML9SF_HgTL27q4qpO1qvDx2rwc",
+      "etag": "3UUhatBBt3x5MXpxHPsd66J2m5Q",
       "id": "m_VshNRUKJE",
       "snippet": {
         "publishedAt": "2025-08-23T11:30:40Z",
@@ -1556,11 +1852,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1108898",
+        "likeCount": "51829",
+        "favoriteCount": "0",
+        "commentCount": "267"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-TlNCW0RvDAC1USrFW7D9d5lZZc",
+      "etag": "sD7Bj6Pwa5NpwXZWbYyRGQbli_o",
+      "id": "RzjkZ0DrJb4",
+      "snippet": {
+        "publishedAt": "2025-08-21T10:00:46Z",
+        "channelId": "UCH_QLndqhJTjQkWLlTY1blA",
+        "title": "「唯一整列に興奮する」コミケスタッフについての雑学",
+        "description": "「唯一整列に興奮する」コミケスタッフについての雑学を紹介しています。 \n皆さんの知っている雑学やあるあるもぜひコメントで！  \n\nVOICEVOX:四国めたん",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RzjkZ0DrJb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "がばがば雑学の人",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "「唯一整列に興奮する」コミケスタッフについての雑学",
+          "description": "「唯一整列に興奮する」コミケスタッフについての雑学を紹介しています。 \n皆さんの知っている雑学やあるあるもぜひコメントで！  \n\nVOICEVOX:四国めたん"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2371856",
+        "likeCount": "103701",
+        "favoriteCount": "0",
+        "commentCount": "1288"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6fuAGMpIY9G2icXI8ucl7mlZAss",
       "id": "OBBBMg9DvqI",
       "snippet": {
         "publishedAt": "2025-08-17T12:30:27Z",
@@ -1614,11 +1987,26 @@
           "description": "彼女と学ぶ英会話カフェへようこそ！\nこのチャンネルでは、海外で話題の可愛い店員さんとのドキドキする英会話を、AIアバター「アシュリー」と一緒に楽しく学べる動画をお届けしています。\n\n英語、日本語、英語解説の三種類の字幕を全動画に提供し、効果的な英語学習をサポート。\nさらに、生成AI（Generative AI）を活用したAIアバターと共に、**言語学的視点や第二言語習得理論（SLA）**にも基づいた学習体験をご提供しています。\n\n独自のナレーションと厳選したフリー音源を使用し、視聴者の皆さまが楽しみながら英語力を高められる環境を整えています。\n\n本チャンネルは、AI活用教育コンテンツとして学術的意義と教育的価値を重視しながら、「彼女と学ぶ英会話カフェ」というユニークな体験をお届けします。\n\nぜひ、AIアバター「アシュリー」と一緒に、新しい英語学習の世界を体験してみてください！ 📚💬\n\n#はんネキ #店員 #英語学習 #美女 #AI #LanguageLearning #EducationalTechnology #secondlanguageacquisition"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3344246",
+        "likeCount": "71355",
+        "favoriteCount": "0",
+        "commentCount": "311"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2Bxcv2xhOZ5v8oadpMNt6xxSlcQ",
+      "etag": "ybpUCnpbwY17HY1IHoUAFRi6d4s",
       "id": "-FFl56DOaZw",
       "snippet": {
         "publishedAt": "2025-08-19T08:38:27Z",
@@ -1661,11 +2049,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2402248",
+        "likeCount": "37848",
+        "favoriteCount": "0",
+        "commentCount": "576"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xHtsrkBxXP0SfSlovxGW53O1gL4",
+      "etag": "eminL7C3iJcZ64iiDdVxtqoNBNs",
       "id": "fy6DvHWKZq0",
       "snippet": {
         "publishedAt": "2025-08-21T12:49:16Z",
@@ -1708,11 +2111,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1490725",
+        "likeCount": "42025",
+        "favoriteCount": "0",
+        "commentCount": "1511"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TxM4N5aCScxPAHbGhZAx0hu7fQ8",
+      "etag": "VBYKEU3DnPAmJmMZG2aExR-4xqc",
       "id": "D1q0Hd5IZEE",
       "snippet": {
         "publishedAt": "2025-08-21T21:00:11Z",
@@ -1755,11 +2173,26 @@
           "description": "オリジナル\n2998"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1664062",
+        "likeCount": "58621",
+        "favoriteCount": "0",
+        "commentCount": "221"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PBulYu8zLB_veNfaiPic3XEhhko",
+      "etag": "ZbRUU0-kYVAvbjoKE0gTqljPijA",
       "id": "YXbcXtB-vSA",
       "snippet": {
         "publishedAt": "2025-08-16T22:00:27Z",
@@ -1802,58 +2235,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4379428",
+        "likeCount": "115261",
+        "favoriteCount": "0",
+        "commentCount": "542"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IJ5FWO9j6mLDNwqZo9UuTy0X214",
-      "id": "_cScF_bqwR8",
-      "snippet": {
-        "publishedAt": "2025-08-17T11:30:46Z",
-        "channelId": "UCDlainOS2922JUjSUz4KDKw",
-        "title": "イモトvs チーターがおもろすぎるw#お笑い #プチ知識 #千鳥 #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "トムのエサ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "イモトvs チーターがおもろすぎるw#お笑い #プチ知識 #千鳥 #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "BBTrq_ZcfvhMk-28DKAivjeVCsU",
+      "etag": "HG4vHbhwRm-6mqgh3oGARVodBZE",
       "id": "O_nsERGOyIA",
       "snippet": {
         "publishedAt": "2025-08-21T08:00:34Z",
@@ -1896,11 +2297,88 @@
           "description": "@万舟ケン"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1592568",
+        "likeCount": "20258",
+        "favoriteCount": "0",
+        "commentCount": "207"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "O3BxIXC7YWzoksEXWFGMrOneRIc",
+      "etag": "H2gucwPzoIa8EpsJBeoGzlmfS6A",
+      "id": "_cScF_bqwR8",
+      "snippet": {
+        "publishedAt": "2025-08-17T11:30:46Z",
+        "channelId": "UCDlainOS2922JUjSUz4KDKw",
+        "title": "イモトvs チーターがおもろすぎるw#お笑い #プチ知識 #千鳥 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_cScF_bqwR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "トムのエサ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "イモトvs チーターがおもろすぎるw#お笑い #プチ知識 #千鳥 #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4121570",
+        "likeCount": "111973",
+        "favoriteCount": "0",
+        "commentCount": "1629"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oabWHhuFB_g-kIOjgMfpciJHtKA",
       "id": "4vT3Wxms2CA",
       "snippet": {
         "publishedAt": "2025-08-21T14:04:04Z",
@@ -1943,11 +2421,26 @@
           "description": "そんな断り方あるww？\n\n●チャンネル登録はこちら\n　https://www.youtube.com/@kumata\n\n\n■■著作権■■\n動画内で使用する画像等の著作権は、全て権利者の方に帰属します。著作権を侵害する目的は一切ございません。権利者の方で、お気づきの点は、コメントくださいませ。\n\n\n#声優 #鬼滅の刃 #女性声優\n#沢城みゆき #堕姫\n#石田彰 #猗窩座\n#声優ニュース #くま太の部屋\n#結婚"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1538411",
+        "likeCount": "44738",
+        "favoriteCount": "0",
+        "commentCount": "366"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "djqbcUSmNhE-oeX-jfcOXqDI1Mc",
+      "etag": "oK6WAL_tGEGlQ1QJQ3C_Fr2g9lo",
       "id": "ab3Eueuxxpw",
       "snippet": {
         "publishedAt": "2025-08-17T09:30:01Z",
@@ -1990,11 +2483,26 @@
           "description": "裏社会の抗争を描くシリーズの最終章『アウトレイジ 最終章』では、関東と関西の巨大暴力団が激しくぶつかり合い、抗争は国家権力すら巻き込む泥沼の戦いへと発展する。\n\n生き延びた元大友組のボス・**大友（ビートたけし）**は、韓国の麻薬組織に身を寄せながらも、再び復讐の炎を燃やす。⚔️💢\n恩義、裏切り、そして容赦なき暴力――血で血を洗う抗争の果てに、大友が下す最後の決断とは？\n\n静と動が交錯するバイオレンス・ノワール、堂々完結。🔫🇯🇵\n\n#ドラマ   #shorts #映画 #movie #movieclips #北野武 #極悪非道   #アウトレイジ"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3632123",
+        "likeCount": "55781",
+        "favoriteCount": "0",
+        "commentCount": "328"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "1RFyOb6g6cGoD75e42KrSy6LZEE",
+      "etag": "X3Z0oUOCkNu1lZhroXjSfukjH1U",
       "id": "9SwOiOyT_lA",
       "snippet": {
         "publishedAt": "2025-08-17T09:00:16Z",
@@ -2037,11 +2545,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3849764",
+        "likeCount": "184110",
+        "favoriteCount": "0",
+        "commentCount": "741"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zBa0eSaWhI30mnkaQbuefO3EUTs",
+      "etag": "ttLi8X9AfqHcX7TWPL5QPtL4Tpo",
       "id": "SAA2o2dPAa8",
       "snippet": {
         "publishedAt": "2025-08-21T10:00:46Z",
@@ -2084,105 +2607,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1534951",
+        "likeCount": "76505",
+        "favoriteCount": "0",
+        "commentCount": "332"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uUAlAn1I0kRDwPw4NFeGuVYU5-k",
-      "id": "epx2yF7OFLE",
-      "snippet": {
-        "publishedAt": "2025-08-20T08:45:02Z",
-        "channelId": "UCQKhh1fW22TB176APqYZlDA",
-        "title": "1軍残留より霜降りの肉w #npb #野球 #プロ野球 #おもしろ #おもしろ動画 #面白い #面白い動画 #阪神タイガース #巨人 #読売ジャイアンツ #ダウンタウン #浜田雅功",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "大根野球",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "1軍残留より霜降りの肉w #npb #野球 #プロ野球 #おもしろ #おもしろ動画 #面白い #面白い動画 #阪神タイガース #巨人 #読売ジャイアンツ #ダウンタウン #浜田雅功",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "etwZICXusFjEpk0S_Dk-HzRVjjU",
-      "id": "2Uru5F-eCsM",
-      "snippet": {
-        "publishedAt": "2025-08-18T02:41:30Z",
-        "channelId": "UCAM6mSOPeadAg9RENVemXKg",
-        "title": "収容所に閉じ込められたボクシングチャンピオン",
-        "description": "この動画は映画「The champion」のレビュー形式で制作されたもので、実際の出来事ではありません。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "3分要約",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "収容所に閉じ込められたボクシングチャンピオン",
-          "description": "この動画は映画「The champion」のレビュー形式で制作されたもので、実際の出来事ではありません。"
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "KU8lEix0_blyFR8yB6k85obasZA",
+      "etag": "ieFgIkKGZzagOO8F5t4jzAgnxCY",
       "id": "K1juuxyLJ6I",
       "snippet": {
         "publishedAt": "2025-08-22T09:05:07Z",
@@ -2230,11 +2674,150 @@
           "description": "お笑い芸人や有名人の感動エピソードを紹介していきます。\nチャンネル登録していただけると嬉しいです！\n\nVOICEVOX:四国めたん,青山龍星\n\n※当チャンネルに使用されている素材はすべて引用であり、\n著作権を侵害する目的で制作したものではありません。"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1298108",
+        "likeCount": "14461",
+        "favoriteCount": "0",
+        "commentCount": "98"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GObx66KuCg5_yOSmmtQAlNz47dw",
+      "etag": "L4_MiPrPllyUvc4xWUP2zsgmLR0",
+      "id": "epx2yF7OFLE",
+      "snippet": {
+        "publishedAt": "2025-08-20T08:45:02Z",
+        "channelId": "UCQKhh1fW22TB176APqYZlDA",
+        "title": "1軍残留より霜降りの肉w #npb #野球 #プロ野球 #おもしろ #おもしろ動画 #面白い #面白い動画 #阪神タイガース #巨人 #読売ジャイアンツ #ダウンタウン #浜田雅功",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/epx2yF7OFLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "大根野球",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "1軍残留より霜降りの肉w #npb #野球 #プロ野球 #おもしろ #おもしろ動画 #面白い #面白い動画 #阪神タイガース #巨人 #読売ジャイアンツ #ダウンタウン #浜田雅功",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1632533",
+        "likeCount": "20777",
+        "favoriteCount": "0",
+        "commentCount": "389"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4Z96j8oU92W5j8T_x6GnGb0bfhs",
+      "id": "2Uru5F-eCsM",
+      "snippet": {
+        "publishedAt": "2025-08-18T02:41:30Z",
+        "channelId": "UCAM6mSOPeadAg9RENVemXKg",
+        "title": "収容所に閉じ込められたボクシングチャンピオン",
+        "description": "この動画は映画「The champion」のレビュー形式で制作されたもので、実際の出来事ではありません。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Uru5F-eCsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "3分要約",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "収容所に閉じ込められたボクシングチャンピオン",
+          "description": "この動画は映画「The champion」のレビュー形式で制作されたもので、実際の出来事ではありません。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2955926",
+        "likeCount": "75289",
+        "favoriteCount": "0",
+        "commentCount": "741"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D4D6iT2m5yEUC6y8GMgVecI0exU",
       "id": "3wru1NH4tzI",
       "snippet": {
         "publishedAt": "2025-08-20T08:24:38Z",
@@ -2277,11 +2860,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1978770",
+        "likeCount": "103129",
+        "favoriteCount": "0",
+        "commentCount": "356"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Vtl1D-YZ8H9UCO0aTfYP45-TlNk",
+      "etag": "FVpe1b9HBUMy3mMAmN5vV8DqnXY",
       "id": "LCfNJl-onuU",
       "snippet": {
         "publishedAt": "2025-08-20T03:59:53Z",
@@ -2324,58 +2922,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1895108",
+        "likeCount": "60287",
+        "favoriteCount": "0",
+        "commentCount": "126"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "9ZQWfUFbC5gEOVVZNBH_KkajPIc",
-      "id": "8RChpfbo1mQ",
-      "snippet": {
-        "publishedAt": "2025-08-19T10:00:13Z",
-        "channelId": "UC2CRqFsUHDqUGVQQRUaF1Ew",
-        "title": "\"絶対に押すなよ？\"をフリだと思ってる子供",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "お馬さん",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "\"絶対に押すなよ？\"をフリだと思ってる子供",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PzRIuYllkwiSP7W2eNlLS9EVOf8",
+      "etag": "QK3Rl1nJ713PTUEyZqaML1DYAqo",
       "id": "24hhbvR20og",
       "snippet": {
         "publishedAt": "2025-08-19T09:00:07Z",
@@ -2418,11 +2984,93 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2503907",
+        "likeCount": "58260",
+        "favoriteCount": "0",
+        "commentCount": "286"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wd2H2jATPpPPmcNpY9hzTBM46xo",
+      "etag": "LCvtCTvtQyDlfHNZEsI7k12MLN4",
+      "id": "8RChpfbo1mQ",
+      "snippet": {
+        "publishedAt": "2025-08-19T10:00:13Z",
+        "channelId": "UC2CRqFsUHDqUGVQQRUaF1Ew",
+        "title": "\"絶対に押すなよ？\"をフリだと思ってる子供",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8RChpfbo1mQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "お馬さん",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "\"絶対に押すなよ？\"をフリだと思ってる子供",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2536154",
+        "likeCount": "83455",
+        "favoriteCount": "0",
+        "commentCount": "391"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W6eD5ZQSBwTQzOHwc31D6CuiD30",
       "id": "ZN267XoF6rk",
       "snippet": {
         "publishedAt": "2025-08-21T09:00:47Z",
@@ -2465,11 +3113,88 @@
           "description": "使用音声\nVOICEVOX:青山龍星"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2004390",
+        "likeCount": "64579",
+        "favoriteCount": "0",
+        "commentCount": "3019"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yMsUvNxr86ldGebiqu7C70rsviI",
+      "etag": "fzZOq0K5g0wMZZexWpPmng6e6ls",
+      "id": "BOhff2FF1F8",
+      "snippet": {
+        "publishedAt": "2025-08-23T04:19:31Z",
+        "channelId": "UCh12oz8Jo5lzcK_V2vH8E-Q",
+        "title": "ニンニン先生のお手本タイム👩\u200d🏫",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOhff2FF1F8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOhff2FF1F8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOhff2FF1F8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOhff2FF1F8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOhff2FF1F8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "しばらくアイドル",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ニンニン先生のお手本タイム👩\u200d🏫",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "774273",
+        "likeCount": "33438",
+        "favoriteCount": "0",
+        "commentCount": "82"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "H5MIGKhlDkl7Jb22CbSVloK5HGU",
       "id": "jR7nJKbzhh8",
       "snippet": {
         "publishedAt": "2025-08-17T11:27:54Z",
@@ -2512,53 +3237,21 @@
           "description": ""
         },
         "defaultAudioLanguage": "ja"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "BCELcht-T3YwbNuLvCpZ-KHbcxo",
-      "id": "c7X5sKC2BYk",
-      "snippet": {
-        "publishedAt": "2025-08-19T03:29:31Z",
-        "channelId": "UCondwenFLrC2cwsjsrkM7AA",
-        "title": "一緒に大家に反対しよう！#music #クレヨンしんちゃん #コントチャンネル #コント #アニメ #面白い #雑学 #animation",
-        "description": "一緒に大家に反対しよう！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/c7X5sKC2BYk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/c7X5sKC2BYk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/c7X5sKC2BYk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/c7X5sKC2BYk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/c7X5sKC2BYk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "大拇指电影",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "一緒に大家に反対しよう！#music #クレヨンしんちゃん #コントチャンネル #コント #アニメ #面白い #雑学 #animation",
-          "description": "一緒に大家に反対しよう！"
-        },
-        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2583424",
+        "likeCount": "122788",
+        "favoriteCount": "0",
+        "commentCount": "493"
       }
     }
   ],

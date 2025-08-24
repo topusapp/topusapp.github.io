@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "qAnHt3DxDEqEQ4XbZySXuT4_w1g",
+  "etag": "0eGl4jjcDEdZ8gkYi4Qyse9dHRw",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "TeZ3Z1XbpnzP9aSmzqKOHzTZwPw",
+      "etag": "Bsdw01PrqtCcCki2t2c2-VkmuOg",
       "id": "9RKc1-p2uIU",
       "snippet": {
         "publishedAt": "2025-08-19T00:49:49Z",
@@ -55,11 +55,26 @@
           "description": "This AI-powered bike can drive itself! 😱\n\n#yamaha  #motoroids  #motorcycle  #selfdriving  #futuretech  #technology  #ev  #electricvehicle  #cyberpunk  #motorbike  #superbike  #concept  #ai  #supercarblondie \n\nYou can follow us on :\n\nhttps://www.instagram.com/supercarblondie\nhttps://www.facebook.com/supercarblondie\nhttps://www.twitter.com/supercarblondie\nhttps://www.tiktok.com/@supercarblondie\nhttps://www.tiktok.com/@supercarblondie.xtra\nhttps://www.sbxcars.com\nhttps://www.snapchat.com/discover/Supercar_Blondie/0902710649"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9666488",
+        "likeCount": "268516",
+        "favoriteCount": "0",
+        "commentCount": "3406"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "J4hIUUkUygVpKaDFH_MS4Jalw4o",
+      "etag": "2GjVJVpYfVEZMD955Um0YMMvPwI",
       "id": "KxkYC0lq5fw",
       "snippet": {
         "publishedAt": "2025-08-22T12:34:53Z",
@@ -108,11 +123,26 @@
           "description": "This car is really Insane 🤯 Such a Stunning Capabilities of Toyota Fortuner Tested in Real world 💥 Here is what we found and Compared with Mahindra Thar 😍 Thar vs Fortuner Tested 💥"
         },
         "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2006304",
+        "likeCount": "47893",
+        "favoriteCount": "0",
+        "commentCount": "94"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Vz7i8fuE_hVoEGO0LQMKJI1kYiA",
+      "etag": "h4GV_hc5WnAfE_DuOon5LSokGK8",
       "id": "YIcdoR8grMg",
       "snippet": {
         "publishedAt": "2025-08-13T01:43:58Z",
@@ -155,58 +185,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10297822",
+        "likeCount": "138237",
+        "favoriteCount": "0",
+        "commentCount": "6844"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lWS8pmnZxBKT7RQSJXG50IBPhVQ",
-      "id": "NgE56hpN1zM",
-      "snippet": {
-        "publishedAt": "2025-08-20T14:03:57Z",
-        "channelId": "UCWSjZyxxI7GeVU6inMq5W3w",
-        "title": "29 ടൺഓളവല്ലേ ഈ വലിച്ച് കേറ്റുന്നെ #defender #landrover",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Leo",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ml",
-        "localized": {
-          "title": "29 ടൺഓളവല്ലേ ഈ വലിച്ച് കേറ്റുന്നെ #defender #landrover",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ml"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jYb1xZ98y_JK65HF_UG9pNsa1wE",
+      "etag": "bHcndHWmwEuuG-Qzov0_BKbJSxQ",
       "id": "P0z6A1Ufltw",
       "snippet": {
         "publishedAt": "2025-08-19T14:09:20Z",
@@ -253,11 +251,88 @@
           "description": "Entdecke, wie der Emergency Assist im Notfall die Kontrolle übernimmt und dein Fahrzeug sicher zum Stillstand bringt – selbst dann, wenn du nicht mehr reagierst.\n\n#vw #volkswagen #safety #assistance \n\nGolf R Variant: Kraftstoffverbrauch: 8,2 - 8,9 l/100 km. CO₂-Emissionen: 185 - 202 g/km. 08/2025.\n____________________________________________________________________\nAbonniere den Volkswagen Österreich YouTube Channel, um die neuesten Videos zu sehen: http://www.youtube.com/subscription_c... \n\nFolge Volkswagen Österreich auf Social Media: \nFacebook: https://www.facebook.com/volkswagenAT \nInstagram: https://www.instagram.com/volkswagen_at\nLinkedIn: https://www.linkedin.com/company/volkswagen-oesterreich/"
         },
         "defaultAudioLanguage": "de-AT"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10657426",
+        "likeCount": "392061",
+        "favoriteCount": "0",
+        "commentCount": "1316"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PlKdIV-bmi6kT5uzieUw5S3M4fw",
+      "etag": "MRwf_9gUdDGM6usT9jC0Y5Dtrl0",
+      "id": "NgE56hpN1zM",
+      "snippet": {
+        "publishedAt": "2025-08-20T14:03:57Z",
+        "channelId": "UCWSjZyxxI7GeVU6inMq5W3w",
+        "title": "29 ടൺഓളവല്ലേ ഈ വലിച്ച് കേറ്റുന്നെ #defender #landrover",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NgE56hpN1zM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Leo",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ml",
+        "localized": {
+          "title": "29 ടൺഓളവല്ലേ ഈ വലിച്ച് കേറ്റുന്നെ #defender #landrover",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ml"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "770296",
+        "likeCount": "36751",
+        "favoriteCount": "0",
+        "commentCount": "265"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vqbZx3MGi4MRwL2d-uIzhDJzmDI",
       "id": "ZI-3XCEYEKY",
       "snippet": {
         "publishedAt": "2025-08-23T15:05:03Z",
@@ -300,11 +375,26 @@
           "description": "Swift is Better Then Rolls Royce 🤯 | Badshah\n.\n\nCredit:  @TheLallantop \nWe respect copyright laws and comply with takedown requests. If you believe your rights have been infringed, please contact us for prompt resolution. We also follow \"Fair Use\" guidelines, using material for commentary, criticism, and educational purposes.\n.\n#shorts #badshah #cars #rollsroyce #swift #bestcar #luxury #money #mindset #speech #podcast #interview"
         },
         "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2213899",
+        "likeCount": "102154",
+        "favoriteCount": "0",
+        "commentCount": "282"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OV-3iHeIfs6Wc5jA9VTghK7gZ80",
+      "etag": "V9F4MvPvx0K-xKP5hfz5_VDlEpo",
       "id": "Z86a3RgNiPg",
       "snippet": {
         "publishedAt": "2025-08-17T12:00:57Z",
@@ -369,11 +459,26 @@
           "description": "#shorts #shortsfeed #fyp #viralvideo #car #caredit #cartok \n#automobile #trending #new #memes #funny #mcbeep #el1temotors \n#comedy #bmw #labubu #bmwedit #mindset"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16199296",
+        "likeCount": "630069",
+        "favoriteCount": "0",
+        "commentCount": "7186"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BeYdr3AmHOKmmqFafc9rBdNF-Zw",
+      "etag": "ThLQyG4Rccl5UKjMY3_3djGOfyg",
       "id": "DzskKhkOhPQ",
       "snippet": {
         "publishedAt": "2025-08-19T18:15:25Z",
@@ -416,11 +521,26 @@
           "description": "How to solve all car problems in the world"
         },
         "defaultAudioLanguage": "ar"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8227922",
+        "likeCount": "29770",
+        "favoriteCount": "0",
+        "commentCount": "226"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "cxRCy1kxZpRrjicPrL36E-N3alI",
+      "etag": "Sk_vYHnotnsdQHBbN1Rj3oiv6SE",
       "id": "mkqraPodoB8",
       "snippet": {
         "publishedAt": "2025-08-13T01:30:29Z",
@@ -475,11 +595,26 @@
           "description": "Don’t miss the end 🙏 #ytshorts #yt #zx10r #ninja #superbike"
         },
         "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9118350",
+        "likeCount": "150930",
+        "favoriteCount": "0",
+        "commentCount": "87"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "T6Lz8wOjEwOLtYa3yStz0P95RkI",
+      "etag": "wT22U0UpaPQK54zyJornpYaR660",
       "id": "o5nPJqUf-h8",
       "snippet": {
         "publishedAt": "2025-08-17T15:01:14Z",
@@ -522,11 +657,26 @@
           "description": "You can follow us on:\n\nhttps://www.instagram.com/supercarblondie\nhttps://www.facebook.com/supercarblondie\nhttps://www.twitter.com/supercarblondie\nhttps://www.tiktok.com/@supercarblondie\nhttps://www.supercarblondie.com\nhttps://www.snapchat.com/discover/Supercar_Blondie/0902710649"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10018165",
+        "likeCount": "324676",
+        "favoriteCount": "0",
+        "commentCount": "2985"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rM4_18AsF8pztV81ZliNVnzQO5Y",
+      "etag": "MpKzLELPb2pVuI0K6b9T6msCcPU",
       "id": "T47mZOwx_TE",
       "snippet": {
         "publishedAt": "2025-08-16T09:09:55Z",
@@ -585,11 +735,25 @@
           "description": "теги: xxxtentacion, empire, rap, bad vibes forever / empire, hip hop & rap, xxx, look at me, lil pump, music, bad vibes forever, sad, sad!, juice wrld, members only, hope, music video, 2017, hip-hop, the, ski mask the slump god, エックスエックスエックステンタシオン、revenge,?, lj, jmp, hip hop, jocelyn flores, wishing well, ski mask, tentacion, икстентасион, xxxtentacion tribute, pop, lil wayne, live, wifisfuneral, official, rip, jahseh onfroy, yung bratz, 2019, trap, jahseh, jesus honcho - infatuated (official music video), emotional rap, yung bratz xxxtentaction, elevator, yung bratz xxxtentacion, elevator xxxtentacion, yung bratz lyrics, xxxtentacion songs, infatuated, xxxtentacion yung bratz, yung bratz artist, arms around you song, arms around you, sway lee, arms around you tribute, rap music, pop music, proudcatowner, xxx tentacion, hip hop music, armaroundyou, armsaroundyou, yung bratz r slide \n\n#shorts\u200b #facts\u200b #trendingshorts\u200b #waterpark\u200b"
         },
         "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8420667",
+        "favoriteCount": "0",
+        "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "deTo97aT4dHXwn3G3RO3p_4qFKE",
+      "etag": "qILry6NWDs0JgYMnBWrKUwD5_Y0",
       "id": "B9IZByUDWDY",
       "snippet": {
         "publishedAt": "2025-08-17T09:10:10Z",
@@ -632,11 +796,26 @@
           "description": "#motovlog  \n#rider \n#bikelife \n#memes \n#funny \n#phonk"
         },
         "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13743208",
+        "likeCount": "438297",
+        "favoriteCount": "0",
+        "commentCount": "567"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "v-EN3kSsLsYexQUCfwpMmnnY_Gc",
+      "etag": "TSVXY4emGIYYPIArnDl1lP1QEFs",
       "id": "jTK97GghgHk",
       "snippet": {
         "publishedAt": "2025-08-20T10:16:00Z",
@@ -691,58 +870,25 @@
           "description": "This car is literally from another planet! The way it moves through traffic has left everyone in total shock 😱🔥. People couldn’t believe their eyes when this tiny beast went full savage mode and outperformed bigger cars effortlessly. It’s not just a ride, it’s a whole new vibe on the streets.\n\n⚡ The Besttune Pony Mini EV is turning heads everywhere! With futuristic design and insane street presence, this little car proves size doesn’t matter when it comes to power and impact. Watching this EV dominate traffic is like witnessing the future of cars unfold right in front of us. Every moment feels unreal, like sci-fi on wheels.\n\n🙌 If this blew your mind too, smash that like button, drop a comment with your reaction, and share this with your friends. Don’t forget to follow Gulbahar Technical for more epic Shorts that bring you the craziest and most futuristic stuff happening right now!\n\nPlease DM or Email us for credit or removal request (no copyright intended) All rights and credits reserved to the respected owner(s).\n\nDISCLAIMER:\nThis GULBAHAR TECHNICAL Youtube Channel DOES NOT Promote or encourage Any illegal activities , all contents provided by This Channel is meant for EDUCATIONAL only.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\n#miniEV #futurecars #electriccars #gulbahartechnical #evlife #viralshorts #carsoftiktok #besttunepony #nextgenvehicles #streetbeast"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3167688",
+        "favoriteCount": "0",
+        "commentCount": "719"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DKxQNwJ5RDjmrlItBhRCjnUFOYo",
-      "id": "3wjECzP6fJc",
-      "snippet": {
-        "publishedAt": "2025-08-20T13:00:08Z",
-        "channelId": "UCu1G1zD5qr4gD1hv1xQ0ENQ",
-        "title": "#dalimsharma",
-        "description": "Originally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a\nNo\n\nNo problem! \n\nThe Mercedes CLR GTR is a remarkable racing car celebrated for its\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\nengine, it delivers over 600 horsepower.\n🔧\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\nremarkable top speed surpassing 320 km/h. 🥇\n\nIncorporating advanced aerodynamic features and cutting-edge stability\ntechnologies, the CLR GTR ensures exceptional stability and control,\nparticularly during high-speed maneuvers.🌬\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\nof the most exclusive and prestigious racing cars ever produced. 💰\n\nIts limited production run of just five units adds to its rarity, making it highly\nsought after by racing enthusiasts and collectors worldwide. 🌍\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips\n@ntp_ffi\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips by Krishn by",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Comment Devils",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "#dalimsharma",
-          "description": "Originally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a\nNo\n\nNo problem! \n\nThe Mercedes CLR GTR is a remarkable racing car celebrated for its\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\nengine, it delivers over 600 horsepower.\n🔧\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\nremarkable top speed surpassing 320 km/h. 🥇\n\nIncorporating advanced aerodynamic features and cutting-edge stability\ntechnologies, the CLR GTR ensures exceptional stability and control,\nparticularly during high-speed maneuvers.🌬\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\nof the most exclusive and prestigious racing cars ever produced. 💰\n\nIts limited production run of just five units adds to its rarity, making it highly\nsought after by racing enthusiasts and collectors worldwide. 🌍\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips\n@ntp_ffi\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips by Krishn by"
-        },
-        "defaultAudioLanguage": "hi"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Rjx7I1DYUo3UCZLIfeE3k5Rhp8I",
+      "etag": "mX0XM8cUS-ZhV7psrf64bgMZsd4",
       "id": "vg7urTBkKUA",
       "snippet": {
         "publishedAt": "2025-08-21T10:07:29Z",
@@ -785,108 +931,87 @@
           "description": ""
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1831754",
+        "likeCount": "74111",
+        "favoriteCount": "0",
+        "commentCount": "284"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EzzxKuDHwHbR38MtYCVj02IpQak",
-      "id": "43LNf2xFLts",
+      "etag": "E76IkW6OUkyYAiU4ii6Lm2QNEGo",
+      "id": "3wjECzP6fJc",
       "snippet": {
-        "publishedAt": "2025-08-15T08:56:51Z",
-        "channelId": "UCgBlXlkDrZ8sRA20FUGueDg",
-        "title": "Others Doing Car Tests Vs Last One ☠️ #trollface",
-        "description": "Troll Face Edits, Troll Face,\n\nRelated:-\n\nMoment Before Disaster,\n\nTroll Face,\n\nTroll Face Edit,\n\nTroll,\n\nMoments Before Disaster,\n\n#trollface #troll\n\nTags:-\n\n#geography#russia#usa#canada#history#worldwar#geography#maps#freepalestine#israel#nowary#geography#edit#maps#safevid#ottoman#umayyad#mughal#date#ussr#marathaempire#siwil#china#billgates#romania#japan#sealand#ohio#southkorea#ukraine#ireland#argentina#brazil#saudiarabia#turkey#greece#russia#algeria#indoneisa#usa#uk#norway#denmark#germany#france#continent#army#italy#world#korea#china#afghanistan#syria#jordan#eygpt#canada#niger#army#megustastu#albania#bulgaria#azerbaijan#vietnam#laos#cambodia#angola#poland#tazmania#angola#elsalvador#nicaragua#trollface#edit#countries#leaders#sigma#trending#northkorea#uzbekistan#gana#nato#oman#iraq#usa#conflict#meme#geographyer#ottoman#countryballs#syria#bulgaria#romania#greece#shortsvideo#viralvideo#tiktokvirals#mongolia#japan#hungary#czechia#edits#ukraine#australia#summer#finland#morocco#armenia#palestine#malaysia#iran#ıraq#mongolia#new#keşfet#türkiye#turkey#viralshorts#ww2#ww1#mapping#country#allied#real#middleeast#world#palestine#centralpowers#future#nowary#ussr#reels#shorts#meme#earth#china#japanese#italy#europe#asia#australia#fun#geography#youtube#trend#new#cuba#mexico#philipinnes#cambodia#south#north#austria#hungary#sweet#azerbaijan#edit#music#gigachad#true#animals #naberyoutube#flag #backgraund#commander#army#soldier#now#than#past#helpme#makethe#japanese#hirohito#trending#peace",
+        "publishedAt": "2025-08-20T13:00:08Z",
+        "channelId": "UCu1G1zD5qr4gD1hv1xQ0ENQ",
+        "title": "#dalimsharma",
+        "description": "Originally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a\nNo\n\nNo problem! \n\nThe Mercedes CLR GTR is a remarkable racing car celebrated for its\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\nengine, it delivers over 600 horsepower.\n🔧\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\nremarkable top speed surpassing 320 km/h. 🥇\n\nIncorporating advanced aerodynamic features and cutting-edge stability\ntechnologies, the CLR GTR ensures exceptional stability and control,\nparticularly during high-speed maneuvers.🌬\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\nof the most exclusive and prestigious racing cars ever produced. 💰\n\nIts limited production run of just five units adds to its rarity, making it highly\nsought after by racing enthusiasts and collectors worldwide. 🌍\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips\n@ntp_ffi\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips by Krishn by",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/43LNf2xFLts/default.jpg",
+            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/43LNf2xFLts/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/43LNf2xFLts/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/43LNf2xFLts/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/43LNf2xFLts/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3wjECzP6fJc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "unmached troll",
-        "tags": [
-          "trollface"
-        ],
-        "categoryId": "24",
+        "channelTitle": "Comment Devils",
+        "categoryId": "23",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Others Doing Car Tests Vs Last One ☠️ #trollface",
-          "description": "Troll Face Edits, Troll Face,\n\nRelated:-\n\nMoment Before Disaster,\n\nTroll Face,\n\nTroll Face Edit,\n\nTroll,\n\nMoments Before Disaster,\n\n#trollface #troll\n\nTags:-\n\n#geography#russia#usa#canada#history#worldwar#geography#maps#freepalestine#israel#nowary#geography#edit#maps#safevid#ottoman#umayyad#mughal#date#ussr#marathaempire#siwil#china#billgates#romania#japan#sealand#ohio#southkorea#ukraine#ireland#argentina#brazil#saudiarabia#turkey#greece#russia#algeria#indoneisa#usa#uk#norway#denmark#germany#france#continent#army#italy#world#korea#china#afghanistan#syria#jordan#eygpt#canada#niger#army#megustastu#albania#bulgaria#azerbaijan#vietnam#laos#cambodia#angola#poland#tazmania#angola#elsalvador#nicaragua#trollface#edit#countries#leaders#sigma#trending#northkorea#uzbekistan#gana#nato#oman#iraq#usa#conflict#meme#geographyer#ottoman#countryballs#syria#bulgaria#romania#greece#shortsvideo#viralvideo#tiktokvirals#mongolia#japan#hungary#czechia#edits#ukraine#australia#summer#finland#morocco#armenia#palestine#malaysia#iran#ıraq#mongolia#new#keşfet#türkiye#turkey#viralshorts#ww2#ww1#mapping#country#allied#real#middleeast#world#palestine#centralpowers#future#nowary#ussr#reels#shorts#meme#earth#china#japanese#italy#europe#asia#australia#fun#geography#youtube#trend#new#cuba#mexico#philipinnes#cambodia#south#north#austria#hungary#sweet#azerbaijan#edit#music#gigachad#true#animals #naberyoutube#flag #backgraund#commander#army#soldier#now#than#past#helpme#makethe#japanese#hirohito#trending#peace"
+          "title": "#dalimsharma",
+          "description": "Originally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a\nNo\n\nNo problem! \n\nThe Mercedes CLR GTR is a remarkable racing car celebrated for its\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\nengine, it delivers over 600 horsepower.\n🔧\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\nremarkable top speed surpassing 320 km/h. 🥇\n\nIncorporating advanced aerodynamic features and cutting-edge stability\ntechnologies, the CLR GTR ensures exceptional stability and control,\nparticularly during high-speed maneuvers.🌬\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\nof the most exclusive and prestigious racing cars ever produced. 💰\n\nIts limited production run of just five units adds to its rarity, making it highly\nsought after by racing enthusiasts and collectors worldwide. 🌍\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips\n@ntp_ffi\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram\n#instagrambusinessgrowth #socialmediamarketingtips by Krishn by"
         },
-        "defaultAudioLanguage": "en-AU"
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5698872",
+        "favoriteCount": "0",
+        "commentCount": "170"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "47Mk2cjWd2mvY6LSpxIUpE9N98c",
-      "id": "c8wyrDf9h2Q",
-      "snippet": {
-        "publishedAt": "2025-08-11T18:53:54Z",
-        "channelId": "UCHUgdEggRBDUDIYsVL8mHPg",
-        "title": "Strongest tractor Mahindra.        #shortvideos #mahindra #tochan #tochanlovers #viralvideos",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Siddharth pal",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Strongest tractor Mahindra.        #shortvideos #mahindra #tochan #tochanlovers #viralvideos",
-          "description": ""
-        },
-        "defaultAudioLanguage": "pa"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UgYTRxjABUkvJ_k8X3BGjj1iBPM",
+      "etag": "kbjtprECmo7r-zYuwycgFfWExJI",
       "id": "dr51LSbXOSg",
       "snippet": {
         "publishedAt": "2025-08-23T05:30:16Z",
@@ -964,11 +1089,153 @@
           "description": "#irfansview #dubairealestate #trendingnow \n\n\nContact For Promotion and Other Details: sales@irfansview.in\n_______________________________\n\n\nTeddy with honey - http://www.youtube.com/@teddywithhoney1\nMy Gadgets - https://amazon.in/shop/irfansview\n\n______________________________\n\nFollow me on,\n\nInstagram Official - https://www.instagram.com/irfansview.official/\nInstagram - https://www.instagram.com/irfansview/\nFacebook - https://www.facebook.com/irfansreview/\nTwitter - https://twitter.com/md_irfan10\n\n________________________________\n\nIn Association with DIVO - Digital Partner\nWebsite   - http://web.divo.in/\nhttp://www.Facebook.com/divomovies\nhttps://Instagram.com/divomovies\nhttps://Twitter.com/divomovies"
         },
         "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "733996",
+        "likeCount": "50005",
+        "favoriteCount": "0",
+        "commentCount": "131"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kcJIurMALdszWLZeDMA2YI3S64o",
+      "etag": "_1pJLIj1fofgO4ydEt1pSykmORU",
+      "id": "43LNf2xFLts",
+      "snippet": {
+        "publishedAt": "2025-08-15T08:56:51Z",
+        "channelId": "UCgBlXlkDrZ8sRA20FUGueDg",
+        "title": "Others Doing Car Tests Vs Last One ☠️ #trollface",
+        "description": "Troll Face Edits, Troll Face,\n\nRelated:-\n\nMoment Before Disaster,\n\nTroll Face,\n\nTroll Face Edit,\n\nTroll,\n\nMoments Before Disaster,\n\n#trollface #troll\n\nTags:-\n\n#geography#russia#usa#canada#history#worldwar#geography#maps#freepalestine#israel#nowary#geography#edit#maps#safevid#ottoman#umayyad#mughal#date#ussr#marathaempire#siwil#china#billgates#romania#japan#sealand#ohio#southkorea#ukraine#ireland#argentina#brazil#saudiarabia#turkey#greece#russia#algeria#indoneisa#usa#uk#norway#denmark#germany#france#continent#army#italy#world#korea#china#afghanistan#syria#jordan#eygpt#canada#niger#army#megustastu#albania#bulgaria#azerbaijan#vietnam#laos#cambodia#angola#poland#tazmania#angola#elsalvador#nicaragua#trollface#edit#countries#leaders#sigma#trending#northkorea#uzbekistan#gana#nato#oman#iraq#usa#conflict#meme#geographyer#ottoman#countryballs#syria#bulgaria#romania#greece#shortsvideo#viralvideo#tiktokvirals#mongolia#japan#hungary#czechia#edits#ukraine#australia#summer#finland#morocco#armenia#palestine#malaysia#iran#ıraq#mongolia#new#keşfet#türkiye#turkey#viralshorts#ww2#ww1#mapping#country#allied#real#middleeast#world#palestine#centralpowers#future#nowary#ussr#reels#shorts#meme#earth#china#japanese#italy#europe#asia#australia#fun#geography#youtube#trend#new#cuba#mexico#philipinnes#cambodia#south#north#austria#hungary#sweet#azerbaijan#edit#music#gigachad#true#animals #naberyoutube#flag #backgraund#commander#army#soldier#now#than#past#helpme#makethe#japanese#hirohito#trending#peace",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43LNf2xFLts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43LNf2xFLts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43LNf2xFLts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43LNf2xFLts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43LNf2xFLts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "unmached troll",
+        "tags": [
+          "trollface"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Others Doing Car Tests Vs Last One ☠️ #trollface",
+          "description": "Troll Face Edits, Troll Face,\n\nRelated:-\n\nMoment Before Disaster,\n\nTroll Face,\n\nTroll Face Edit,\n\nTroll,\n\nMoments Before Disaster,\n\n#trollface #troll\n\nTags:-\n\n#geography#russia#usa#canada#history#worldwar#geography#maps#freepalestine#israel#nowary#geography#edit#maps#safevid#ottoman#umayyad#mughal#date#ussr#marathaempire#siwil#china#billgates#romania#japan#sealand#ohio#southkorea#ukraine#ireland#argentina#brazil#saudiarabia#turkey#greece#russia#algeria#indoneisa#usa#uk#norway#denmark#germany#france#continent#army#italy#world#korea#china#afghanistan#syria#jordan#eygpt#canada#niger#army#megustastu#albania#bulgaria#azerbaijan#vietnam#laos#cambodia#angola#poland#tazmania#angola#elsalvador#nicaragua#trollface#edit#countries#leaders#sigma#trending#northkorea#uzbekistan#gana#nato#oman#iraq#usa#conflict#meme#geographyer#ottoman#countryballs#syria#bulgaria#romania#greece#shortsvideo#viralvideo#tiktokvirals#mongolia#japan#hungary#czechia#edits#ukraine#australia#summer#finland#morocco#armenia#palestine#malaysia#iran#ıraq#mongolia#new#keşfet#türkiye#turkey#viralshorts#ww2#ww1#mapping#country#allied#real#middleeast#world#palestine#centralpowers#future#nowary#ussr#reels#shorts#meme#earth#china#japanese#italy#europe#asia#australia#fun#geography#youtube#trend#new#cuba#mexico#philipinnes#cambodia#south#north#austria#hungary#sweet#azerbaijan#edit#music#gigachad#true#animals #naberyoutube#flag #backgraund#commander#army#soldier#now#than#past#helpme#makethe#japanese#hirohito#trending#peace"
+        },
+        "defaultAudioLanguage": "en-AU"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21357274",
+        "likeCount": "365603",
+        "favoriteCount": "0",
+        "commentCount": "218"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lhQM68eaca5Hesqaqk2LWj9L2LU",
+      "id": "c8wyrDf9h2Q",
+      "snippet": {
+        "publishedAt": "2025-08-11T18:53:54Z",
+        "channelId": "UCHUgdEggRBDUDIYsVL8mHPg",
+        "title": "Strongest tractor Mahindra.        #shortvideos #mahindra #tochan #tochanlovers #viralvideos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c8wyrDf9h2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Siddharth pal",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Strongest tractor Mahindra.        #shortvideos #mahindra #tochan #tochanlovers #viralvideos",
+          "description": ""
+        },
+        "defaultAudioLanguage": "pa"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15724272",
+        "likeCount": "222409",
+        "favoriteCount": "0",
+        "commentCount": "453"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y-nKywN08EDapPK-LsfDICXNMbc",
       "id": "-31AKr-RzU8",
       "snippet": {
         "publishedAt": "2025-08-17T06:21:11Z",
@@ -1011,11 +1278,25 @@
           "description": "теги: xxxtentacion, empire, rap, bad vibes forever / empire, hip hop &amp; rap, xxx, look at me, lil pump, music, bad vibes forever, sad, sad!, juice wrld, members only, hope, music video, 2017, hip-hop, the, ski mask the slump\ngod, エックスエックスエックステンタシオン、\nrevenge,?, lj,\njmp, hip hop, jocelyn flores, wishing well, ski mask,\ntentacion, икстентасион, xxxtentacion tribute, pop, lil wayne, live, wifisfuneral, official, rip, jahseh onfroy, yung bratz, 2019, trap, jahseh, jesus honcho - infatuated (official music video), emotional rap, yung bratz xxxtentaction, elevator, yung bratz xxxtentacion, elevator xxxtentacion, yung bratz lyrics, xxxtentacion songs, infatuated, xxxtentacion yung bratz, yung bratz artist, arms around you song, arms around you, sway lee, arms around you tribute, rap music, pop music, proudcatowner, xxx tentacion, hip hop music, armaroundyou, armsaroundyou, yung bratz r dog toll"
         },
         "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7394191",
+        "favoriteCount": "0",
+        "commentCount": "33"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "T16tg_8eEp_2VP22yA_btrZVcQw",
+      "etag": "qJmkUTbkZPxlyz3GduxmvTsmJ64",
       "id": "n0iatxGlWYg",
       "snippet": {
         "publishedAt": "2025-08-18T15:31:10Z",
@@ -1103,11 +1384,26 @@
           "description": "How To Survive A Car Crash! Subscribe to @LawByMike for more tips! \n\nWant to know your rights? Grab my guides at https://www.lawbymike.com/guides - link in bio!\n\nDo you want more details on this law, it’s in my newsletter! Join The Free Law By Mike Newsletter Here! \n*link in bio* or go to https://newsletter.lawbymike.com/subscribe\n\n⭐ Join the channel membership and get priority responses to your comments! ⭐\n*link in bio*\n\n⚖️ Questions? Issues?👇 \ngo to IThinkIHaveACase.com *link in bio*\n\n#law #education #mrbeast #police #lawyer #lawbymike #repeatafterme #tiktok #youtubeshorts #cop #cops #lawyers #legal #attorney #lawschool #hacks #legal\n\nDISCLAIMER (Of course, I'd have one 😁)\nHey, you might think that this info makes me your lawyer, but it doesn’t and I’m not. Sorry, but I AM NOT YOUR LAWYER unless we have an engagement agreement. I am just providing public information here, like a library does, and am not providing you with legal advice about your situation. So, it would be totally unreasonable for you to conclude we have an attorney-client relationship just because you're viewing this information."
         },
         "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7295448",
+        "likeCount": "531207",
+        "favoriteCount": "0",
+        "commentCount": "3626"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OxodpePnegh48pler_BpH7JJHms",
+      "etag": "_N4f6fYiGHmTfLlfwaM5NpiO6Ns",
       "id": "LRJu9VB_px8",
       "snippet": {
         "publishedAt": "2025-08-18T19:24:03Z",
@@ -1150,11 +1446,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3503245",
+        "likeCount": "44904",
+        "favoriteCount": "0",
+        "commentCount": "209"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2wa4L55LhIkoVQ_TixJ0SSGlkqw",
+      "etag": "hKen82GgXn2zdmH1mIErRixPFOM",
       "id": "rKJsabegHQU",
       "snippet": {
         "publishedAt": "2025-08-18T16:30:17Z",
@@ -1210,152 +1521,26 @@
           "description": "@tharvlogger8455"
         },
         "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2872926",
+        "likeCount": "184520",
+        "favoriteCount": "0",
+        "commentCount": "1668"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Um3UbDqBlSde85hCNRWXOKMWcAA",
-      "id": "76O0qKsi2OE",
-      "snippet": {
-        "publishedAt": "2025-08-15T18:10:05Z",
-        "channelId": "UCsT0AcoUNMzVhgVkFBxdx5g",
-        "title": "She Did Try To Tell Me 😅 #police #cops #ktm #oklahoma #supermoto #shorts #motorcycle #motovlog",
-        "description": "https://linktr.ee/Undisclosed_Moto\n\n\n\n\n\n\n\n\n\n#motorcycle #ktm #motorsport #dirtbike #bikelife #motorbike #okc #harleydavidson #wheelie #bmw #s1000rr #bmws1000rr #yamaha #r7 #supermoto #bike #car #vlogs #automobile #2wheellife #honda #cbr #kawasaki #ninja #mt09 #mt07 #cops #police #officer #oklahoma",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Undisclosed",
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "She Did Try To Tell Me 😅 #police #cops #ktm #oklahoma #supermoto #shorts #motorcycle #motovlog",
-          "description": "https://linktr.ee/Undisclosed_Moto\n\n\n\n\n\n\n\n\n\n#motorcycle #ktm #motorsport #dirtbike #bikelife #motorbike #okc #harleydavidson #wheelie #bmw #s1000rr #bmws1000rr #yamaha #r7 #supermoto #bike #car #vlogs #automobile #2wheellife #honda #cbr #kawasaki #ninja #mt09 #mt07 #cops #police #officer #oklahoma"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2oVgpiUNGqnyXyx7qmLl4xpDtPs",
-      "id": "LnjzTLC7wOo",
-      "snippet": {
-        "publishedAt": "2025-08-15T08:51:28Z",
-        "channelId": "UCkxkag_950inlZFtAY7loQw",
-        "title": "How to tie a tow rope correctly! #drivetips #automobile #driving",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "修车师妹",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How to tie a tow rope correctly! #drivetips #automobile #driving",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ldKVX5Y6nDX8HMR6Xtf4jlpsK_Q",
-      "id": "DnNmAW9rYbs",
-      "snippet": {
-        "publishedAt": "2025-08-16T16:31:41Z",
-        "channelId": "UCPQgdMnmO2D_rChHslh90Lg",
-        "title": "Why Cops Tap Your Car 😱 (@m3.ivory)",
-        "description": "Credit to : @m3.ivory on TT\n\n#CarFacts #FunFacts #DidYouKnow #Police #CarShorts #Shorts #LearnSomethingNew",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Into Car",
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Why Cops Tap Your Car 😱 (@m3.ivory)",
-          "description": "Credit to : @m3.ivory on TT\n\n#CarFacts #FunFacts #DidYouKnow #Police #CarShorts #Shorts #LearnSomethingNew"
-        },
-        "defaultAudioLanguage": "en-US"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "gACWtIrmDs4CTnNDPQg8--w74qg",
+      "etag": "KhbCMXvIq7J4UA1HG5ZGPAEDdWM",
       "id": "pzcP67VBRwA",
       "snippet": {
         "publishedAt": "2025-08-21T13:35:03Z",
@@ -1398,11 +1583,212 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2583336",
+        "likeCount": "132143",
+        "favoriteCount": "0",
+        "commentCount": "4625"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_qUoA05lU_NnvzyyWucC_08XSPQ",
+      "etag": "4yNfQ7SlS3-H_DJxjZBq_1TMZmg",
+      "id": "76O0qKsi2OE",
+      "snippet": {
+        "publishedAt": "2025-08-15T18:10:05Z",
+        "channelId": "UCsT0AcoUNMzVhgVkFBxdx5g",
+        "title": "She Did Try To Tell Me 😅 #police #cops #ktm #oklahoma #supermoto #shorts #motorcycle #motovlog",
+        "description": "https://linktr.ee/Undisclosed_Moto\n\n\n\n\n\n\n\n\n\n#motorcycle #ktm #motorsport #dirtbike #bikelife #motorbike #okc #harleydavidson #wheelie #bmw #s1000rr #bmws1000rr #yamaha #r7 #supermoto #bike #car #vlogs #automobile #2wheellife #honda #cbr #kawasaki #ninja #mt09 #mt07 #cops #police #officer #oklahoma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/76O0qKsi2OE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Undisclosed",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "She Did Try To Tell Me 😅 #police #cops #ktm #oklahoma #supermoto #shorts #motorcycle #motovlog",
+          "description": "https://linktr.ee/Undisclosed_Moto\n\n\n\n\n\n\n\n\n\n#motorcycle #ktm #motorsport #dirtbike #bikelife #motorbike #okc #harleydavidson #wheelie #bmw #s1000rr #bmws1000rr #yamaha #r7 #supermoto #bike #car #vlogs #automobile #2wheellife #honda #cbr #kawasaki #ninja #mt09 #mt07 #cops #police #officer #oklahoma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10151841",
+        "likeCount": "623465",
+        "favoriteCount": "0",
+        "commentCount": "1667"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3E0njMwfI01OgEDvfnmCP2am5ak",
+      "id": "LnjzTLC7wOo",
+      "snippet": {
+        "publishedAt": "2025-08-15T08:51:28Z",
+        "channelId": "UCkxkag_950inlZFtAY7loQw",
+        "title": "How to tie a tow rope correctly! #drivetips #automobile #driving",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LnjzTLC7wOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "修车师妹",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to tie a tow rope correctly! #drivetips #automobile #driving",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8931569",
+        "likeCount": "220547",
+        "favoriteCount": "0",
+        "commentCount": "1020"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-9-KzjXfiext_wCyZ-SUNyYf6g8",
+      "id": "DnNmAW9rYbs",
+      "snippet": {
+        "publishedAt": "2025-08-16T16:31:41Z",
+        "channelId": "UCPQgdMnmO2D_rChHslh90Lg",
+        "title": "Why Cops Tap Your Car 😱 (@m3.ivory)",
+        "description": "Credit to : @m3.ivory on TT\n\n#CarFacts #FunFacts #DidYouKnow #Police #CarShorts #Shorts #LearnSomethingNew",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DnNmAW9rYbs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Into Car",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Why Cops Tap Your Car 😱 (@m3.ivory)",
+          "description": "Credit to : @m3.ivory on TT\n\n#CarFacts #FunFacts #DidYouKnow #Police #CarShorts #Shorts #LearnSomethingNew"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3971912",
+        "likeCount": "69357",
+        "favoriteCount": "0",
+        "commentCount": "358"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "egUsoFKTQxnpRFlFX27XksQ5YTM",
       "id": "eF0DPbK-9b8",
       "snippet": {
         "publishedAt": "2025-08-20T09:30:19Z",
@@ -1445,11 +1831,26 @@
           "description": "1 मिनिट में गाड़ी टायर बर्बाद 😭🙆 Traffic, #camera Symbol #traffic #trafficrules #shorts @Upwala_vlog"
         },
         "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1453663",
+        "likeCount": "14865",
+        "favoriteCount": "0",
+        "commentCount": "17"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HeaBwVLHrkXFPm34XHlFUB1tw9g",
+      "etag": "QjmC5pafkZ8w0VknAwFZUhsZLWg",
       "id": "I0uBuPWZCyA",
       "snippet": {
         "publishedAt": "2025-08-22T08:04:00Z",
@@ -1492,11 +1893,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "938758",
+        "likeCount": "38468",
+        "favoriteCount": "0",
+        "commentCount": "250"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6pqkQ3adPROzhYYtT5ZTjY2hvRs",
+      "etag": "ZdFbHclKPgJvhi44TClxy6vmxc8",
       "id": "ILcJAcyZxSo",
       "snippet": {
         "publishedAt": "2025-08-15T02:55:55Z",
@@ -1567,11 +1983,26 @@
           "description": "Super Chainless Motorcycle💥🏍️ചെയിൻ ഇല്ലാത്ത മോട്ടോർസൈക്കിൾ🔥🏍️ #motorcycle  #bike #ytfeed #ytshort #ytshorts #youtubeshorts  \n#motorbike #automobile #bikelover #bike #biker \n#ytfeedshorts #ytfeedshort #viral #viralshort \n#viralvideos #viralshorts #trendingshorts #trendingvideo #trending #reactionshortvideo \n#shortvideos #shortsvideo #shortsviral \n#shortvideo #shortsyoutube #shorts #short \n#reactionshortvideo #reaction #reactionshorts \n#respectshort #respectshortvideo #respect \n#follow #followme #subscribe #subscribers \n#malayalam #malayalammotivation #malayalamreaction \n@satheeshkumar3900 @Shreyas-w6b @gurudev_satheesh @KLBROBijuRithvik1 \n@klara_tania @klunatik @klikklak @SantaFeKlanOfficial @twinklecouple6 \n@Amy.mompreneur\n#yttreding #youtubevideo \n#ytfeed #shortsfeed #reaction #shorts #reaction  #ytfeed #ytshorts #ytshort #ytviral #ytvideo #ytfeedshorts \n#viralvideo #viralshort #viralshorts #trendingshorts #trending #trendingvideo \n#youtubeshorts #youtube #follow #followme \n#funnyvideo #funnyshorts  #reactionshortvideo \n#reactionshorts #subscribe #subscribers \n#trending  #trendingshorts\n#youtubeshorts\n#youtubeviralvideo #ytfacts\n#youtubevideos #youtubers #ytstudio\n#youtubeindia #viralvideos #viralvideo\n#trendingvideo #trendingvideo  #trendingvlogs #ytfamily #foryou   #subscribe #subscribers #malayalam  #love #loving #youtubeshorts #loveanimalworld \n @Shreyasw6b   @woodyandkleiny   \n@klara_tania   \n@ikkantekaveri  \n @Shreyas-w6b    \n@gurudev_satheesh   \n@GoldenRetrieverDogAwesome   \n@S_K_KERALA_VLOGS   \n @goldenretrieverjerry \n@satheeshkumar3900   \n@KLBROBijuRithvik1    \n@animal_in_crisis   @KatyaKlon  \n@woodyandkleiny   @KKSuperArts   \n@BrincandocomoRafael  \n#respectshort  \n#respectshortvideo \n#youtubeshorts #trendingshorts \n#youtubeshorts \n#reactionshorts \n#reactionshortvideo   \n#lukedavidsonshorts   \n#lukedavidsonshortvideo #shorts #viral #youtube #ytshorts #yt #youtubeindia #viralshorts #trendingshort #ytfeed #ytfeedshorts #shorts  \n#shorts #trending #viral #youtubeshorts #ytshorts #ytshort #yt #ytviral #youtube #youtubeviral #youtubevideo #ytshortsviral \n\nFollowme:-👇\nhttps://www.facebook.com/satheesh.edathua?mibextid=ZbWKwL\nhttps://www.instagram.com/satheeshparuthippal?igsh=MWV4M2E4bW0wYWNuNw== \n @satheeshkumar3900   \n@gurudev_satheesh   \n@GoldenRetrieverDogAwesome  \n @goldenretrieverjerry   \n@S_K_KERALA_VLOGS   \n@ikkantekaveri\n @satheeshkumar3900   @Shreyas-w6b   @gurudev_satheesh  \n @KLBROBijuRithvik1 \u200b\n@reelstrends3752  \n@sargammusics \n@MGsreekumarofficial \n@instafans \n@Praveenprave1343 \n@aanyabhushan7776 \n@Roja_V_Reddy \n@prashu223 \n@suma_sinchu \n@sreek_official \n@Kannada_trending_videos \n@dhanushdancepdm \n@ssandhyanambiar \n@AroundKerala \n@gangalakshmi10 \n@dancebysreeganga \n@gangalakshmi10 \n@_triloka_  \n@Praveenprave1343 \n@aanyabhushan7776 \n@Roja_V_Reddy \n@prashu223 \n@suma_sinchu \n@spiritualmantra  @AnimalFactssnebali \n@bhaktibhajanmantra \n@Bangriposi578 \n@monika146 \n@Bhakti-trendingsong \n@godddytttyjijk3872  @shivduttsharma \n@lifestylemallisweety \n@JyotisDivineworld \n@RoshniSahu-zo7ur \n@ugaabhishekuday"
         },
         "defaultAudioLanguage": "ml"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1002284",
+        "likeCount": "9395",
+        "favoriteCount": "0",
+        "commentCount": "171"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7OrJwlVwhiNBaXKMpqgWCaLZQRc",
+      "etag": "4saW0EZ5tEKh6kXh6MfFL3V-ncE",
       "id": "y9HNTbqo6bY",
       "snippet": {
         "publishedAt": "2025-08-22T16:15:09Z",
@@ -1636,11 +2067,26 @@
           "description": "12 Luxury Cars!!\n.\n#afghanistan, #taliban, #luxurycars, #landcruiser, #ashrafghani, #hiddenwealth, #afghanpolitics, #carstory, #supercars, #secret, #undergroundcars, #gold, #cash, #politicians, #kabulipulaorecipe \n.\n.\nDisclaimer:\n\nThis video is created strictly for educational and informational purposes only. The content presented herein is intended to share general knowledge, insights, or commentary and does not constitute professional advice of any kind—financial, legal, technical, or otherwise.\n\nAll content in this video is based on publicly available information, personal opinions, or fair use principles for commentary, criticism, and teaching. We do not intend to infringe upon any copyrights, trademarks, or intellectual property. If you are the rightful owner of any content used and believe your rights have been violated unintentionally, please contact us directly and we will take immediate corrective action.\n\nNo part of this video is meant to defame, harm, or target any individual, group, organisation, or brand. Viewers are advised to do their own research and consult relevant professionals before making any decisions based on the content of this video.\n\nAll visuals, references, and materials used fall under fair use as defined under Section 107 of the Copyright Act 1976, which allows limited use of copyrighted content for purposes such as criticism, comment, news reporting, education, scholarship, or research.\n\nBy watching this video, you agree that the creators are not liable for any direct or indirect consequences arising from the use or interpretation of the information presented."
         },
         "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2522366",
+        "likeCount": "240463",
+        "favoriteCount": "0",
+        "commentCount": "132"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lpULO_FhG6sKwCa4ZPVdPKBQFOE",
+      "etag": "Tr8_HLiec54UStqgRdFosbwMw8k",
       "id": "7O8pfPPp6PM",
       "snippet": {
         "publishedAt": "2025-08-15T12:58:18Z",
@@ -1683,11 +2129,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "bn"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1261197",
+        "likeCount": "24359",
+        "favoriteCount": "0",
+        "commentCount": "176"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zFtc1unuceab6c9yCS7D5zYIjIg",
+      "etag": "orXZKFI-LZHHQMKJGzUMOL6M8yQ",
       "id": "PEfJpX3SEfs",
       "snippet": {
         "publishedAt": "2025-08-02T15:10:06Z",
@@ -1730,11 +2191,25 @@
           "description": "What if this type of car exists? I'm sure Dubai will be the first to own one.\nFuturistic or Unrealistic? This digital intelligence video will make you think, what if this exists?"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9490975",
+        "favoriteCount": "0",
+        "commentCount": "3508"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7-rWwqQtfFLUJr42R85iFGfuF7A",
+      "etag": "zAEYuOkv30Nws4Wfzb2ImGckYPY",
       "id": "0aiIV0-e2ss",
       "snippet": {
         "publishedAt": "2025-08-20T21:00:00Z",
@@ -1814,246 +2289,26 @@
           "description": "this is a snippet from my 101 facts video about lamborghini, where we talk about the most interesting, funny and weird stories from the brand.\nmake sure to check out the video by visiting the channel"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2598451",
+        "likeCount": "79011",
+        "favoriteCount": "0",
+        "commentCount": "578"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TQ1gUsYEfZeSYoelvfRCjtKf6SA",
-      "id": "kp_V-RcfPXc",
-      "snippet": {
-        "publishedAt": "2025-08-23T14:35:25Z",
-        "channelId": "UCTbev8Wi-TnsMrsXDifBlQA",
-        "title": "This Karen Dashes Into A Pedestrian And Tries To Run Then Says This To The Cops",
-        "description": "Credit - @chris-rs6497",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Swift Empyre",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "This Karen Dashes Into A Pedestrian And Tries To Run Then Says This To The Cops",
-          "description": "Credit - @chris-rs6497"
-        },
-        "defaultAudioLanguage": "en-US"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "YvxBdNpDAx8zUtgjZDNcnmwBi68",
-      "id": "-PzJ_FT7Nw8",
-      "snippet": {
-        "publishedAt": "2025-08-10T08:48:22Z",
-        "channelId": "UCLKu1wnKsoV_q3PPlgcRD3Q",
-        "title": "Casual like just another day 🥵🔥🤷🏻 He simply jumps over car windshield then walks away #shorts #care",
-        "description": "Man miraculously got escapes by jumping directly to the windshield of the car\n\n#traffic #automobile #studionmedia #awareness \n\n🎥 Disclaimer: This video is shared for awareness and educational purposes. No injuries occurred in this incident. It includes original custom sound design and custom visual enhancements created exclusively for this channel. All audio effects are carefully recorded and designed to match each event, and the visuals are uniquely edited to provide an engaging, transformative experience and create awareness. Footage used is own or licensed or acquired with rights, and further enhanced with significant human effort to deliver authentic and original content.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Studio N Media",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Casual like just another day 🥵🔥🤷🏻 He simply jumps over car windshield then walks away #shorts #care",
-          "description": "Man miraculously got escapes by jumping directly to the windshield of the car\n\n#traffic #automobile #studionmedia #awareness \n\n🎥 Disclaimer: This video is shared for awareness and educational purposes. No injuries occurred in this incident. It includes original custom sound design and custom visual enhancements created exclusively for this channel. All audio effects are carefully recorded and designed to match each event, and the visuals are uniquely edited to provide an engaging, transformative experience and create awareness. Footage used is own or licensed or acquired with rights, and further enhanced with significant human effort to deliver authentic and original content."
-        },
-        "defaultAudioLanguage": "ml"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "NZuHoVTbsl7g2G41ku-fSPbCoVE",
-      "id": "jwzN84aBhso",
-      "snippet": {
-        "publishedAt": "2025-07-23T16:56:28Z",
-        "channelId": "UCpuB8re-iA-Mq7-lis_6q1w",
-        "title": "How is Tesla?🫣😤 #tesla #automobile",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jwzN84aBhso/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jwzN84aBhso/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jwzN84aBhso/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jwzN84aBhso/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jwzN84aBhso/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "YURA VIKA TESLA⚡️",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "es",
-        "localized": {
-          "title": "How is Tesla?🫣😤 #tesla #automobile",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ko"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JwQS56Jfh0iSV8IOW1DNPtl0-TM",
-      "id": "gzG8wDc7P1c",
-      "snippet": {
-        "publishedAt": "2025-08-14T08:52:45Z",
-        "channelId": "UCfCg55G3CZJFQdm9mZ50_CA",
-        "title": "India's First Driverless Motorcycle is Here! #shorts #trending #viral",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Creative Science",
-        "categoryId": "26",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "India's First Driverless Motorcycle is Here! #shorts #trending #viral",
-          "description": ""
-        },
-        "defaultAudioLanguage": "hi"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "codeThTOOSzFGSqYZ7Y1fUSLuMU",
-      "id": "8_Qpy_3RcMY",
-      "snippet": {
-        "publishedAt": "2025-08-22T14:38:20Z",
-        "channelId": "UCZVpa_SBbXP01JT6cawxkZQ",
-        "title": "Kerala’s 2nd Land Cruiser Delivery ❤️🔥 #shorts #shortsvideo #carcollection #kerala #landcruiser",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jaleel369 Vlogs",
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Kerala’s 2nd Land Cruiser Delivery ❤️🔥 #shorts #shortsvideo #carcollection #kerala #landcruiser",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ml"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "um4exzXPACkTLzaVmEa9e3oSjYo",
+      "etag": "dSXNOWhkyqEnkoIC-Bak2SDKOsU",
       "id": "6YxaPhdElho",
       "snippet": {
         "publishedAt": "2025-08-19T06:50:53Z",
@@ -2096,11 +2351,211 @@
           "description": ""
         },
         "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1521112",
+        "likeCount": "17970",
+        "favoriteCount": "0",
+        "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zDMgx5KGKxvqw52gLQIg6_j4nBQ",
+      "etag": "Yy5UmI9izpRftF_uWi59a4uaCcU",
+      "id": "kp_V-RcfPXc",
+      "snippet": {
+        "publishedAt": "2025-08-23T14:35:25Z",
+        "channelId": "UCTbev8Wi-TnsMrsXDifBlQA",
+        "title": "This Karen Dashes Into A Pedestrian And Tries To Run Then Says This To The Cops",
+        "description": "Credit - @chris-rs6497",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kp_V-RcfPXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Swift Empyre",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "This Karen Dashes Into A Pedestrian And Tries To Run Then Says This To The Cops",
+          "description": "Credit - @chris-rs6497"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1384852",
+        "likeCount": "73188",
+        "favoriteCount": "0",
+        "commentCount": "163"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-b47UctnkDJVUGgw3-A1JVUCPvw",
+      "id": "-PzJ_FT7Nw8",
+      "snippet": {
+        "publishedAt": "2025-08-10T08:48:22Z",
+        "channelId": "UCLKu1wnKsoV_q3PPlgcRD3Q",
+        "title": "Casual like just another day 🥵🔥🤷🏻 He simply jumps over car windshield then walks away #shorts #care",
+        "description": "Man miraculously got escapes by jumping directly to the windshield of the car\n\n#traffic #automobile #studionmedia #awareness \n\n🎥 Disclaimer: This video is shared for awareness and educational purposes. No injuries occurred in this incident. It includes original custom sound design and custom visual enhancements created exclusively for this channel. All audio effects are carefully recorded and designed to match each event, and the visuals are uniquely edited to provide an engaging, transformative experience and create awareness. Footage used is own or licensed or acquired with rights, and further enhanced with significant human effort to deliver authentic and original content.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-PzJ_FT7Nw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Studio N Media",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Casual like just another day 🥵🔥🤷🏻 He simply jumps over car windshield then walks away #shorts #care",
+          "description": "Man miraculously got escapes by jumping directly to the windshield of the car\n\n#traffic #automobile #studionmedia #awareness \n\n🎥 Disclaimer: This video is shared for awareness and educational purposes. No injuries occurred in this incident. It includes original custom sound design and custom visual enhancements created exclusively for this channel. All audio effects are carefully recorded and designed to match each event, and the visuals are uniquely edited to provide an engaging, transformative experience and create awareness. Footage used is own or licensed or acquired with rights, and further enhanced with significant human effort to deliver authentic and original content."
+        },
+        "defaultAudioLanguage": "ml"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11314761",
+        "favoriteCount": "0",
+        "commentCount": "1560"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xBZDt9NiwqF4qvLQcGGH-2GR-wc",
+      "id": "jwzN84aBhso",
+      "snippet": {
+        "publishedAt": "2025-07-23T16:56:28Z",
+        "channelId": "UCpuB8re-iA-Mq7-lis_6q1w",
+        "title": "How is Tesla?🫣😤 #tesla #automobile",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jwzN84aBhso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jwzN84aBhso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwzN84aBhso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jwzN84aBhso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jwzN84aBhso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YURA VIKA TESLA⚡️",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "How is Tesla?🫣😤 #tesla #automobile",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21248304",
+        "likeCount": "272598",
+        "favoriteCount": "0",
+        "commentCount": "493"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4b665yOO8M2bpgm5gbNzvS0f8go",
       "id": "EoajDp5R8_8",
       "snippet": {
         "publishedAt": "2025-08-20T11:00:32Z",
@@ -2143,11 +2598,150 @@
           "description": "Not Alive Italian Brainrot Turning Into Cars\nHi friends, I'm ALL Italian Brainrot ! I create funny videos with different soccer players.\n\nAll my video features materials protected by the Fair Use guidelines of Section 107 of Copyright Act. It takes about 10-15 hours to create these videos so that my viewers can feel the difference between the original video and the video I created.\n\nThe audio and video sources in this video were created in such a way that the viewer hears and sees the new UNIQUE content."
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8566061",
+        "likeCount": "101363",
+        "favoriteCount": "0",
+        "commentCount": "186"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fmkfsT2yyvawfQpUPd4x0iWIxhg",
+      "etag": "Ztp4kHv14e-W5_pGN8JMTRs81zs",
+      "id": "gzG8wDc7P1c",
+      "snippet": {
+        "publishedAt": "2025-08-14T08:52:45Z",
+        "channelId": "UCfCg55G3CZJFQdm9mZ50_CA",
+        "title": "India's First Driverless Motorcycle is Here! #shorts #trending #viral",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gzG8wDc7P1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Creative Science",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "India's First Driverless Motorcycle is Here! #shorts #trending #viral",
+          "description": ""
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3784061",
+        "likeCount": "135096",
+        "favoriteCount": "0",
+        "commentCount": "1798"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PjZXxt1UdpL5q8fpCCtpj3e0hhE",
+      "id": "8_Qpy_3RcMY",
+      "snippet": {
+        "publishedAt": "2025-08-22T14:38:20Z",
+        "channelId": "UCZVpa_SBbXP01JT6cawxkZQ",
+        "title": "Kerala’s 2nd Land Cruiser Delivery ❤️🔥 #shorts #shortsvideo #carcollection #kerala #landcruiser",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8_Qpy_3RcMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jaleel369 Vlogs",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kerala’s 2nd Land Cruiser Delivery ❤️🔥 #shorts #shortsvideo #carcollection #kerala #landcruiser",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ml"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "141019",
+        "likeCount": "2981",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jP83YiRWbwYyH2wWb_QYBU8FPZo",
       "id": "YnYe1CP6b5s",
       "snippet": {
         "publishedAt": "2025-08-06T08:51:59Z",
@@ -2190,11 +2784,88 @@
           "description": ""
         },
         "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15296891",
+        "likeCount": "441312",
+        "favoriteCount": "0",
+        "commentCount": "10628"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0uDh-PO2eulXUs3V5_gnEkla09Y",
+      "etag": "L9OTVy_1B4Zq2klXhvZz_YuP8ac",
+      "id": "9-U7bAftrpU",
+      "snippet": {
+        "publishedAt": "2025-08-21T02:55:47Z",
+        "channelId": "UCLoJ4g7pTvEfsl_OxFF6kgw",
+        "title": "#uttarakhandirasoi",
+        "description": "This is what happens when a sport bike travels so fast it can't even be caught on camera because it barely lasts one frame, if you blink you'll miss it.\n\n🎥 @enesworx - IG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Contrary Trends",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#uttarakhandirasoi",
+          "description": "This is what happens when a sport bike travels so fast it can't even be caught on camera because it barely lasts one frame, if you blink you'll miss it.\n\n🎥 @enesworx - IG"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2873452",
+        "likeCount": "151911",
+        "favoriteCount": "0",
+        "commentCount": "2108"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Avq-rfGMnb78aO3NXeAbTIqdc7g",
       "id": "LbqiNrA3WuE",
       "snippet": {
         "publishedAt": "2025-08-21T20:24:49Z",
@@ -2237,11 +2908,26 @@
           "description": ""
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3035402",
+        "likeCount": "118109",
+        "favoriteCount": "0",
+        "commentCount": "130"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "O8dI-kHIKmEUaF0BF57y6FvEyz4",
+      "etag": "ZgR4XF5pImDxfj9fvz4LDYzBbI8",
       "id": "cqLNoveOARo",
       "snippet": {
         "publishedAt": "2025-08-16T05:00:40Z",
@@ -2307,58 +2993,26 @@
           "description": "কারো জীবনের নিরাপত্তা নেই🚌🙇🇧🇩\n\n#bikelife #motorcycle #wheelie #moto #motolife #twowheels #helmet #photooftheday #insta360 #viral #shortvideo #youtubeshorts #viralvideo #foryou #fyp \n-------------------------------------------\nSubscribe My Channel For More 360° Video's🎥\n-------------------------------------------\n🟢 LIKE FACEBOOK PAGE: ☑️\n-------------------------------------------\n👉  https://www.facebook.com/Jetu360?mibextid=LQQJ4d\n-------------------------------------------\n👉  https://www.facebook.com/Jetudrz?mibextid=LQQJ4d\n-------------------------------------------\n🟣 Follow Instagram :☑️\n\nhttps://instagram.com/jetudrz?igshid=MmIzYWVlNDQ5Yg==\n-------------------------------------------\n⚪️ Follow TikTok :☑️\n\n👉  www.tiktok.com/@jetudrz\n\nThanks for watching my video and Subscribe my channel.\n-------------------------------------------------"
         },
         "defaultAudioLanguage": "bn"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1017468",
+        "likeCount": "16268",
+        "favoriteCount": "0",
+        "commentCount": "119"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "o5B2fF-T55HlDnL615pgLUuR6Ro",
-      "id": "9-U7bAftrpU",
-      "snippet": {
-        "publishedAt": "2025-08-21T02:55:47Z",
-        "channelId": "UCLoJ4g7pTvEfsl_OxFF6kgw",
-        "title": "#uttarakhandirasoi",
-        "description": "This is what happens when a sport bike travels so fast it can't even be caught on camera because it barely lasts one frame, if you blink you'll miss it.\n\n🎥 @enesworx - IG",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9-U7bAftrpU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Contrary Trends",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "#uttarakhandirasoi",
-          "description": "This is what happens when a sport bike travels so fast it can't even be caught on camera because it barely lasts one frame, if you blink you'll miss it.\n\n🎥 @enesworx - IG"
-        },
-        "defaultAudioLanguage": "en"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UATJz-YRYSkyWmV7H1Vhp74xEJA",
+      "etag": "THFk8Vx0C181klnssJouXNUOOOU",
       "id": "J21OemTl1wE",
       "snippet": {
         "publishedAt": "2025-08-12T06:50:04Z",
@@ -2401,11 +3055,93 @@
           "description": "A bubble of post-war ingenuity. 🚘\n\nThe Messerschmitt Kabinenroller is one of the most fascinating microcars ever built — a three-wheeled, tandem-seat design inspired by aircraft engineering and created by German designer Fritz Fend. First introduced in 1953 with the KR 175, and later evolved into the KR 200, this tiny machine offered a surprisingly aerodynamic body, a distinctive plexiglass canopy, and clever engineering that allowed the motor to run in reverse for backward travel at full speed.\n\nOriginally developed for mobility-impaired drivers, the Kabinenroller soon became a symbol of post-war innovation and efficiency. With its narrow footprint, lightweight construction, and quirky charm, it remains one of the most collectible microcars in the world today.\n\nThis particular example captures the unique blend of aviation heritage, 1950s design flair, and practical urban mobility that has made the Messerschmitt an enduring classic.\n\n💻 Head over to our website to discover our cars in stock!\nhttps://www.carola-daimler.de/en/vehicles/for-sale\n\n#Messerschmitt #MesserschmittKabinenroller #KR200 #KR175 #ClassicMicrocar #PostwarDesign #CarolaDaimlerCars #CarolaDaimlerClassics #ClassicCarCollection #Stuttgart #CollectorsCar"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11333198",
+        "likeCount": "264769",
+        "favoriteCount": "0",
+        "commentCount": "2520"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uaMORx_3eBhCHpEUVTZgUj8tL9s",
+      "etag": "ZhqyKGWmZ8X2lEqUtYiSsuZHWPc",
+      "id": "4nC_naCK-6E",
+      "snippet": {
+        "publishedAt": "2025-08-23T15:37:11Z",
+        "channelId": "UCScDF2J7q-XJi6MhykvyK9Q",
+        "title": "Doing Wheele",
+        "description": "Instagram \nJMP28 : https://www.instagram.com/jmp__28\nArjun MP :https://www.instagram.com/mparjun13",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4nC_naCK-6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4nC_naCK-6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4nC_naCK-6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4nC_naCK-6E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4nC_naCK-6E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Arjun MP Shorts",
+        "tags": [
+          "Giving money malayalam",
+          "helping people",
+          "making people happy"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ml",
+        "localized": {
+          "title": "Doing Wheele",
+          "description": "Instagram \nJMP28 : https://www.instagram.com/jmp__28\nArjun MP :https://www.instagram.com/mparjun13"
+        },
+        "defaultAudioLanguage": "ml"
+      },
+      "contentDetails": {
+        "duration": "PT1M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "312422",
+        "likeCount": "36249",
+        "favoriteCount": "0",
+        "commentCount": "73"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CjGibuDsNfpMi-1muZn7gpywzRw",
       "id": "0zPSs13SrNY",
       "snippet": {
         "publishedAt": "2025-08-04T00:29:29Z",
@@ -2457,11 +3193,26 @@
           "description": "Who was better? Jesse James or OCC?\n\nFULL VIDEO https://youtu.be/m_qt057Kb9c"
         },
         "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "43035601",
+        "likeCount": "743007",
+        "favoriteCount": "0",
+        "commentCount": "4590"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DNxD8l0apl0QSRq8y-ZC80_lgZc",
+      "etag": "CNiMbCcHUYu5KDJntLSgI7_l2Yo",
       "id": "oq3Ee04NytM",
       "snippet": {
         "publishedAt": "2025-08-16T05:00:49Z",
@@ -2516,11 +3267,26 @@
           "description": "மேலும் இதுபோல பயனுள்ள தகவல்களை தெரிந்து கொள்ள,\n\n© Trending Media 360° - Subscribe பன்னுங்க மக்களே 🙏🏻..\n\nநம்பி வாங்க சந்தோஷமாக போங்க 🔥..\n\nAll the videos I upload on my youtube page are just for the audience to laugh with no intention to hurt anyone's feelings\n\nDisclaimer: All the videos are Edited by me And Creat a funny Reaction Video and videos all i upload Are own by Receptive owners💯\n\n©️Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE."
         },
         "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2042929",
+        "likeCount": "73993",
+        "favoriteCount": "0",
+        "commentCount": "976"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Yn7NJ0PfHLvNapXVH080oKUtToo",
+      "etag": "VkGMoIPPpVYjc1jZIc-QqZmc0Co",
       "id": "1k_SYXdBz00",
       "snippet": {
         "publishedAt": "2025-08-07T03:43:36Z",
@@ -2563,11 +3329,25 @@
           "description": ""
         },
         "defaultAudioLanguage": "en-IN"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "23534912",
+        "favoriteCount": "0",
+        "commentCount": "261"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Lb9YEWWLehAxArs2H3NrE44Wdts",
+      "etag": "Fj3_Nk92_LQxbWZCuh09DRA3kao",
       "id": "qD_oDEUOr_k",
       "snippet": {
         "publishedAt": "2025-08-15T17:22:46Z",
@@ -2610,53 +3390,21 @@
           "description": ""
         },
         "defaultAudioLanguage": "pt-PT"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "spRqgbB2cV6fdrr6UFiw1iTo6M8",
-      "id": "2_bc9jy8fVU",
-      "snippet": {
-        "publishedAt": "2025-08-19T07:16:34Z",
-        "channelId": "UCpAHTRPcI3mJ9hvCxXG4fGg",
-        "title": "Bmw Aura ☠️",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2_bc9jy8fVU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2_bc9jy8fVU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2_bc9jy8fVU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2_bc9jy8fVU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2_bc9jy8fVU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "McDrifted",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Bmw Aura ☠️",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4510369",
+        "likeCount": "39933",
+        "favoriteCount": "0",
+        "commentCount": "125"
       }
     }
   ],

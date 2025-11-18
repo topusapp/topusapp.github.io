@@ -1,50 +1,112 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "nUBZpwlBpXSJDJXtJF2cyvtODMU",
+  "etag": "Mj62svFqkoLD1KlgFJTxe4loeAE",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "h72JSUNJ8DEl4pu0s7WdPdAN5s0",
-      "id": "xO9fS1ktKjE",
+      "etag": "H9PuhrrONnjmCx8usxaU8D-2YFM",
+      "id": "45iqxWCk7V8",
       "snippet": {
-        "publishedAt": "2025-09-02T11:01:55Z",
-        "channelId": "UCSjcLWc7bIHfkmmLZrzh6ng",
-        "title": "雷を聞いた動物たちの反応",
-        "description": "",
+        "publishedAt": "2025-11-14T23:45:01Z",
+        "channelId": "UCDjXp2mwq3fvfRIBlvHuOAw",
+        "title": "怒った雄牛からは逃げられません",
+        "description": "#雄牛 #動物の絆 #危機の瞬間 #守護獣\n\n怒った雄牛に立ち向かう男性\n最後の手段として呼んだのは、守護牛ルーファスでした\nルーファスの登場で危機は回避され、二頭の絆はより強く結ばれます\n……オートミールクリームパイさえあれば、永遠に",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xO9fS1ktKjE/default.jpg",
+            "url": "https://i.ytimg.com/vi/45iqxWCk7V8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xO9fS1ktKjE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/45iqxWCk7V8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xO9fS1ktKjE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/45iqxWCk7V8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xO9fS1ktKjE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/45iqxWCk7V8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/xO9fS1ktKjE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/45iqxWCk7V8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "動物の愉快な物語",
+        "channelTitle": "もふもふ事件簿",
         "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "雷を聞いた動物たちの反応",
-          "description": ""
+          "title": "怒った雄牛からは逃げられません",
+          "description": "#雄牛 #動物の絆 #危機の瞬間 #守護獣\n\n怒った雄牛に立ち向かう男性\n最後の手段として呼んだのは、守護牛ルーファスでした\nルーファスの登場で危機は回避され、二頭の絆はより強く結ばれます\n……オートミールクリームパイさえあれば、永遠に"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5155887",
+        "likeCount": "222140",
+        "favoriteCount": "0",
+        "commentCount": "2077"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "slZONPCGLYVsZ6Sut7H5HeQzsas",
+      "id": "OPugYsvIl8M",
+      "snippet": {
+        "publishedAt": "2025-11-14T11:48:22Z",
+        "channelId": "UCbP08HY2gO6vx9-DmLtIXWQ",
+        "title": "命の大切さを学ぶ。",
+        "description": "鳥も見つけるの早いなぁ笑笑笑\n\n#動物 #飼育 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OPugYsvIl8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OPugYsvIl8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OPugYsvIl8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OPugYsvIl8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OPugYsvIl8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "世界をのぞき見!",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "命の大切さを学ぶ。",
+          "description": "鳥も見つけるの早いなぁ笑笑笑\n\n#動物 #飼育 #shorts"
         },
         "defaultAudioLanguage": "ja"
       },
@@ -58,124 +120,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5615384",
-        "likeCount": "168871",
+        "viewCount": "3682540",
+        "likeCount": "54732",
         "favoriteCount": "0",
-        "commentCount": "1380"
+        "commentCount": "749"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4y4ZOJIm_nul1_mgKh6fb7bcNHk",
-      "id": "RrBXGIvmwhg",
+      "etag": "PiFMoDpzQ2iwjrgF2GJEMuoP0mk",
+      "id": "HGibtt0cMzo",
       "snippet": {
-        "publishedAt": "2025-09-06T00:38:21Z",
-        "channelId": "UCnYG8AHYaZL6NntxCKEHeMg",
-        "title": "「え！？」で反対向くの、満点すぎるw #shorts",
+        "publishedAt": "2025-11-14T03:00:17Z",
+        "channelId": "UCSjcLWc7bIHfkmmLZrzh6ng",
+        "title": "【夏と冬】それぞれの犬",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RrBXGIvmwhg/default.jpg",
+            "url": "https://i.ytimg.com/vi/HGibtt0cMzo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RrBXGIvmwhg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HGibtt0cMzo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RrBXGIvmwhg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HGibtt0cMzo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RrBXGIvmwhg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HGibtt0cMzo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RrBXGIvmwhg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HGibtt0cMzo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Japan Calling",
-        "tags": [
-          "ヒカキン",
-          "大谷翔平",
-          "フォートナイト",
-          "ショート",
-          "スキビディトイレ",
-          "所沢のタイソン",
-          "かんあきチャンネル",
-          "かほせい",
-          "青春",
-          "asmr",
-          "野球部",
-          "石丸伸二",
-          "プロスピa",
-          "異世界漫画",
-          "おい笑える",
-          "野球",
-          "大食い",
-          "立ちション",
-          "呪術廻戦",
-          "久保建英",
-          "ワンピース最新話",
-          "モンスト",
-          "落雷",
-          "しばゆー",
-          "パチンコ",
-          "ちょんまげ小僧",
-          "ひき肉です",
-          "カラフルピーチ",
-          "フィッシャーズ",
-          "コムドット",
-          "ちろびの",
-          "ブレイキングダウン",
-          "うた",
-          "愛内アイラ",
-          "ライブカメラ",
-          "カマキリダンス",
-          "バイクコール",
-          "ハーランド",
-          "面白い動画",
-          "寝起きヤシの木",
-          "面白い歌",
-          "スノーマン",
-          "はじめしゃちょー",
-          "目の前に落雷",
-          "ドズル社",
-          "ワンピース",
-          "喧嘩",
-          "なにわ男子",
-          "すとぷり",
-          "カレコレ屋",
-          "ぷにぷに",
-          "落雷 目の前",
-          "バウンティラッシュ",
-          "高校生の日常",
-          "学校生活",
-          "高校生",
-          "Shorts",
-          "Japanlife",
-          "面白いビデオ",
-          "面白い",
-          "おもしろ動画",
-          "おすすめ"
-        ],
-        "categoryId": "19",
+        "channelTitle": "動物の愉快な物語",
+        "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "「え！？」で反対向くの、満点すぎるw #shorts",
+          "title": "【夏と冬】それぞれの犬",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -184,60 +182,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1191332",
-        "likeCount": "53602",
+        "viewCount": "2854858",
+        "likeCount": "94295",
         "favoriteCount": "0",
-        "commentCount": "494"
+        "commentCount": "297"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Y34UGNaOiPWj4pk54VYPw0ST-MU",
-      "id": "gL-47-T-pUI",
+      "etag": "t8PRgdnZDVN-LFzxM4GAZWvb-c8",
+      "id": "Bg5wcN5doMY",
       "snippet": {
-        "publishedAt": "2025-09-01T22:05:14Z",
-        "channelId": "UC0om5rcyyqFfTKLSI34uCdw",
-        "title": "意外なフクロウの性格",
+        "publishedAt": "2025-11-14T07:49:43Z",
+        "channelId": "UCt1dEYSin2sPsUVntZxoaAw",
+        "title": "うわ…これなら一生隠しておきたくなるレベルだわ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gL-47-T-pUI/default.jpg",
+            "url": "https://i.ytimg.com/vi/Bg5wcN5doMY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gL-47-T-pUI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bg5wcN5doMY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gL-47-T-pUI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bg5wcN5doMY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gL-47-T-pUI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bg5wcN5doMY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gL-47-T-pUI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bg5wcN5doMY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "一瞬だけ",
+        "channelTitle": "ショート知識",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "意外なフクロウの性格",
+          "title": "うわ…これなら一生隠しておきたくなるレベルだわ",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT36S",
+        "duration": "PT22S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -246,117 +244,122 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3839872",
-        "likeCount": "114296",
+        "viewCount": "2684430",
+        "likeCount": "100995",
         "favoriteCount": "0",
-        "commentCount": "661"
+        "commentCount": "1106"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "e8kX2L6Pi-fJgr6QOjlMlp8UZaM",
-      "id": "kxBQA2A2PHA",
+      "etag": "l4CmoRL8LTnvNalqd25Gh-NPYFw",
+      "id": "VARhSbNT3FY",
       "snippet": {
-        "publishedAt": "2025-09-01T10:45:08Z",
-        "channelId": "UCVNO19FtHr5W0Mcyek-9HLw",
-        "title": "とっさの機転で野生グマを　かわした男性",
-        "description": "#癒し動物 #おもしろ動物 #かわいい動物",
+        "publishedAt": "2025-11-14T10:01:03Z",
+        "channelId": "UC2PpuTbYPj02bw_AV6QOyDA",
+        "title": "ワンコのベッド買ってって言ったら",
+        "description": "「ワンコのベッド買って」ってお願いしたら  \nサイズを間違えて注文しちゃった旦那さん😂💦  \n\n結局、その超ビッグサイズのベッドは  \n旦那さんが使うことに…🛏️💤  \n\n新しいベッドを期待していたワンコは  \nちょっとふてくされ気味🐶💭  \n\nでも、飼い主が気持ちよさそうに寝ているのを見て  \n「大きいサイズも悪くないかも…？」と興味津々👀✨  \n\nその結果、ワンコ用にも  \n同じふわふわベッドをもう一つ注文！  \n\nふわふわの布団が  \nすっかりお気に入りになったようです😴💖\n\n#犬 #ワンコ #犬動画 #癒し動画 #ペット #ベッド #犬のいる暮らし #かわいい犬 #おもしろ動画 #ふわふわ #仲良し",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kxBQA2A2PHA/default.jpg",
+            "url": "https://i.ytimg.com/vi/VARhSbNT3FY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kxBQA2A2PHA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VARhSbNT3FY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kxBQA2A2PHA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VARhSbNT3FY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/kxBQA2A2PHA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/VARhSbNT3FY/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VARhSbNT3FY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "クスクスどうぶつ ",
-        "categoryId": "23",
+        "channelTitle": "mohumohu",
+        "categoryId": "10",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "とっさの機転で野生グマを　かわした男性",
-          "description": "#癒し動物 #おもしろ動物 #かわいい動物"
+          "title": "ワンコのベッド買ってって言ったら",
+          "description": "「ワンコのベッド買って」ってお願いしたら  \nサイズを間違えて注文しちゃった旦那さん😂💦  \n\n結局、その超ビッグサイズのベッドは  \n旦那さんが使うことに…🛏️💤  \n\n新しいベッドを期待していたワンコは  \nちょっとふてくされ気味🐶💭  \n\nでも、飼い主が気持ちよさそうに寝ているのを見て  \n「大きいサイズも悪くないかも…？」と興味津々👀✨  \n\nその結果、ワンコ用にも  \n同じふわふわベッドをもう一つ注文！  \n\nふわふわの布団が  \nすっかりお気に入りになったようです😴💖\n\n#犬 #ワンコ #犬動画 #癒し動画 #ペット #ベッド #犬のいる暮らし #かわいい犬 #おもしろ動画 #ふわふわ #仲良し"
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT35S",
+        "duration": "PT23S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2057985",
-        "likeCount": "8922",
+        "viewCount": "2333012",
+        "likeCount": "60396",
         "favoriteCount": "0",
-        "commentCount": "34"
+        "commentCount": "243"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jXdSuUfGj8eR_DSSxTIfQ3BOQ7Q",
-      "id": "gWYj22beGog",
+      "etag": "XdXpvaNtFu0oJwY5ZHUZLcuHcfI",
+      "id": "aMtVMZU7DzQ",
       "snippet": {
-        "publishedAt": "2025-09-04T10:01:22Z",
-        "channelId": "UCSYpbT_erK0Wvga0UPHdAeA",
-        "title": "意外と猫も驚くこと",
+        "publishedAt": "2025-11-07T02:00:03Z",
+        "channelId": "UCdt2S-I0SprJudCG93Vk4ew",
+        "title": "瞬殺される猫w",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gWYj22beGog/default.jpg",
+            "url": "https://i.ytimg.com/vi/aMtVMZU7DzQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gWYj22beGog/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aMtVMZU7DzQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gWYj22beGog/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aMtVMZU7DzQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gWYj22beGog/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aMtVMZU7DzQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gWYj22beGog/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aMtVMZU7DzQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "アニマルランド",
-        "categoryId": "22",
+        "channelTitle": "ふぁふぁ",
+        "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "意外と猫も驚くこと",
+          "title": "瞬殺される猫w",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT10S",
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -365,122 +368,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "811931",
-        "likeCount": "16834",
+        "viewCount": "9120722",
+        "likeCount": "628557",
         "favoriteCount": "0",
-        "commentCount": "128"
+        "commentCount": "4129"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4yMC311V7xCQiX4shwS0fux_X7U",
-      "id": "nVhtXGSieC0",
+      "etag": "PGH1qC_N5djPrmUxb6LHaNa-uEg",
+      "id": "YGzJttHktjU",
       "snippet": {
-        "publishedAt": "2025-09-04T13:10:52Z",
-        "channelId": "UCB26wyn7px72r4Ppvb_eJZg",
-        "title": "スピード、オスのカンガルーの脅威を知り絶望！？",
-        "description": "「なんでカンガルーは危険って言われてるんだ？」\n可愛いカンガルーを前に、素朴な疑問を投げかけるスピード。\nしかし、女性から返ってきたのは衝撃の事実だった！😱",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nVhtXGSieC0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nVhtXGSieC0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nVhtXGSieC0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nVhtXGSieC0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nVhtXGSieC0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "スピードジャパン【IShowSpeed切り抜き】",
-        "tags": [
-          "IShowSpeed",
-          "アイショースピード",
-          "スピード切り抜き",
-          "スピード",
-          "カンガルー",
-          "筋肉",
-          "ボディビルダー",
-          "衝撃",
-          "爆笑",
-          "リアクション",
-          "海外Youtuber",
-          "動物",
-          "コメディ",
-          "ハプニング"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "スピード、オスのカンガルーの脅威を知り絶望！？",
-          "description": "「なんでカンガルーは危険って言われてるんだ？」\n可愛いカンガルーを前に、素朴な疑問を投げかけるスピード。\nしかし、女性から返ってきたのは衝撃の事実だった！😱"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "960813",
-        "likeCount": "32636",
-        "favoriteCount": "0",
-        "commentCount": "288"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "R1mgQeGHW3PMVvOdTa0GAHMOZS4",
-      "id": "KFA42G_oMwo",
-      "snippet": {
-        "publishedAt": "2025-08-31T02:54:19Z",
+        "publishedAt": "2025-11-12T09:00:54Z",
         "channelId": "UC93Jre2TBI_9dzzYhQFFzXg",
-        "title": "こはくにはわらびが見えるの？見えるなら母ちゃんにも教えてほしい #先住猫 #後輩猫 #初盆 #shorts",
-        "description": "何話してたのかな\n\n▽チャンネル登録はこちら🐶🐱\nhttps://youtube.com/@panol_japan?si=9SJge3CPacudcCyw\n\n※投稿している動画は全て動画提供者様の許諾を得ています。\n\nMovie By\n@nek0mata1016（Instagram）\n\n#panol #panol_japan #面白い猫 #可愛い猫 #癒やしのペット動画 #ねこ #ぬこ #ヌコ #面白い猫動画 #可愛い猫動画 #愛猫家 #猫のいる暮らし #cat #catlover #catlife #cats #catvideo #shorts",
+        "title": "お散歩に一緒に行く人を決める超大型犬2 #グレートピレニーズ #大型犬 #shorts",
+        "description": "Part1は動画下部の▶︎ボタン（関連動画）からご覧下さい🐶\n\n▽チャンネル登録はこちら🐶🐱\nhttps://youtube.com/@panol_japan?si=9SJge3CPacudcCyw\n\n※投稿している動画は全て動画提供者様の許諾を得ています。\n\nMovie By\n@skyfamily0514（TikTok）\n\n#panol #panol_japan #面白い犬 #可愛い犬 #癒やしのペット動画 #犬 #イッヌ #ワンコ #面白い犬動画 #可愛い犬動画 #愛犬家 #犬のいる暮らし #dog #doglover #doglife #dogs #dogvideo #shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/KFA42G_oMwo/default.jpg",
+            "url": "https://i.ytimg.com/vi/YGzJttHktjU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/KFA42G_oMwo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YGzJttHktjU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/KFA42G_oMwo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YGzJttHktjU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/KFA42G_oMwo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/YGzJttHktjU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/KFA42G_oMwo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YGzJttHktjU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -490,13 +415,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "こはくにはわらびが見えるの？見えるなら母ちゃんにも教えてほしい #先住猫 #後輩猫 #初盆 #shorts",
-          "description": "何話してたのかな\n\n▽チャンネル登録はこちら🐶🐱\nhttps://youtube.com/@panol_japan?si=9SJge3CPacudcCyw\n\n※投稿している動画は全て動画提供者様の許諾を得ています。\n\nMovie By\n@nek0mata1016（Instagram）\n\n#panol #panol_japan #面白い猫 #可愛い猫 #癒やしのペット動画 #ねこ #ぬこ #ヌコ #面白い猫動画 #可愛い猫動画 #愛猫家 #猫のいる暮らし #cat #catlover #catlife #cats #catvideo #shorts"
+          "title": "お散歩に一緒に行く人を決める超大型犬2 #グレートピレニーズ #大型犬 #shorts",
+          "description": "Part1は動画下部の▶︎ボタン（関連動画）からご覧下さい🐶\n\n▽チャンネル登録はこちら🐶🐱\nhttps://youtube.com/@panol_japan?si=9SJge3CPacudcCyw\n\n※投稿している動画は全て動画提供者様の許諾を得ています。\n\nMovie By\n@skyfamily0514（TikTok）\n\n#panol #panol_japan #面白い犬 #可愛い犬 #癒やしのペット動画 #犬 #イッヌ #ワンコ #面白い犬動画 #可愛い犬動画 #愛犬家 #犬のいる暮らし #dog #doglover #doglife #dogs #dogvideo #shorts"
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT19S",
+        "duration": "PT1M13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -505,60 +430,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2416309",
-        "likeCount": "66607",
+        "viewCount": "3352155",
+        "likeCount": "68275",
         "favoriteCount": "0",
-        "commentCount": "953"
+        "commentCount": "359"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2NYBTF0rLFX8NJ4EP6f6vhhX5Qw",
-      "id": "JADLgVCIGaQ",
+      "etag": "gPN0d1JFWfNQ0kQUGANTpect5fI",
+      "id": "e73qr7gGyjs",
       "snippet": {
-        "publishedAt": "2025-08-30T03:00:32Z",
-        "channelId": "UC7DcY9Brw0oi6NfDJR9qFvg",
-        "title": "科学では測れないものを、私たちは愛と呼ぶ",
-        "description": "VOICEVOX：四国めたん\n\n#感動 #感動する話 #感動なみだ #愛犬 #親友 #大好物 #優しさ #涙 #愛 #ショート",
+        "publishedAt": "2025-11-12T02:27:01Z",
+        "channelId": "UC12S2ItsGX5UXNyg9tk2dfA",
+        "title": "ヒグマの前で〇んだふりをしたらどうなるのか",
+        "description": "#6",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JADLgVCIGaQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/e73qr7gGyjs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JADLgVCIGaQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e73qr7gGyjs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JADLgVCIGaQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e73qr7gGyjs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JADLgVCIGaQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/e73qr7gGyjs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JADLgVCIGaQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e73qr7gGyjs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "1分感動シアター",
+        "channelTitle": "2ch動物園",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "科学では測れないものを、私たちは愛と呼ぶ",
-          "description": "VOICEVOX：四国めたん\n\n#感動 #感動する話 #感動なみだ #愛犬 #親友 #大好物 #優しさ #涙 #愛 #ショート"
+          "title": "ヒグマの前で〇んだふりをしたらどうなるのか",
+          "description": "#6"
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT51S",
+        "duration": "PT42S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -567,44 +492,292 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3487902",
-        "likeCount": "114759",
+        "viewCount": "3587209",
+        "likeCount": "144084",
         "favoriteCount": "0",
-        "commentCount": "1031"
+        "commentCount": "1258"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0cLya6JdUra3H1FqUPb4PPkwvho",
-      "id": "39_OqNkhr8U",
+      "etag": "Xj0g_mVf4NFxscwQivc5Ef4tjvo",
+      "id": "v1FrCToVdZk",
       "snippet": {
-        "publishedAt": "2025-09-03T05:26:47Z",
-        "channelId": "UCqzU97vz1vzejF890Zc2i5w",
-        "title": "スーパーゴリラのひとつかみにりんごを入れれば握り潰せるはず！",
-        "description": "■こたろうのプロフィール\n名前：こたろう\n性別：男の子\n犬種：チワックス\n生年月日：2020/05/23\n性格：超マイペース・犬生愛嬌で勝負\n\nーーーーーーーーーーーーーーーーーーーーーーーー\n■Instagram\nhttps://www.instagram.com/kotarohesoten/\n\n■Twitter\nhttps://twitter.com/kotarooheso\n\n■tiktok\nhttps://vt.tiktok.com/ZSVr66DE/\n\nーーーーーーーーーーーーーーーーーーーーーーーー\nお問い合わせは以下のアドレスまで。\nkotakota9512@gmail.com\nーーーーーーーーーーーーーーーーーーーーーーーー\n検索用ワード\n犬 犬との生活 犬との暮らし チワックス チワックスこたろう チワワ ダックス dog いぬ 愛犬 癒し 可愛い vlog ペット ゴリラのひとつかみ スーパー\n\n#犬 #犬との生活 #チワックスこたろう",
+        "publishedAt": "2025-11-08T18:01:04Z",
+        "channelId": "UCZtcKaNHPn93stKQP9UKirQ",
+        "title": "無毛猫のデメリット",
+        "description": "#動物 #癒し #かわいい",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/39_OqNkhr8U/default.jpg",
+            "url": "https://i.ytimg.com/vi/v1FrCToVdZk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/39_OqNkhr8U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v1FrCToVdZk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/39_OqNkhr8U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v1FrCToVdZk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/39_OqNkhr8U/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/v1FrCToVdZk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/39_OqNkhr8U/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v1FrCToVdZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ツンねこ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "無毛猫のデメリット",
+          "description": "#動物 #癒し #かわいい"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6598960",
+        "likeCount": "165172",
+        "favoriteCount": "0",
+        "commentCount": "1507"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OAPc2gmE5NEv2fFpYp5Uf3HotJo",
+      "id": "XnNERg5k_Dc",
+      "snippet": {
+        "publishedAt": "2025-11-10T13:01:11Z",
+        "channelId": "UC0NEFJxGzqMUVzh7b0sc1Uw",
+        "title": "閉鎖された水族館のシャチ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XnNERg5k_Dc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XnNERg5k_Dc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnNERg5k_Dc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XnNERg5k_Dc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XnNERg5k_Dc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ショーツレンジャー",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "閉鎖された水族館のシャチ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3787628",
+        "likeCount": "178788",
+        "favoriteCount": "0",
+        "commentCount": "5742"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AqPP_-Qmb2loAHOzegy2sTl8lvU",
+      "id": "qVaoiGwEy04",
+      "snippet": {
+        "publishedAt": "2025-11-10T10:30:39Z",
+        "channelId": "UC3kDjx8t8hjJkni4Pl7J-7A",
+        "title": "一度に100リットル以上の水を飲むラクダ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qVaoiGwEy04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qVaoiGwEy04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qVaoiGwEy04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qVaoiGwEy04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qVaoiGwEy04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "笑い自販機",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "一度に100リットル以上の水を飲むラクダ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3163986",
+        "likeCount": "51467",
+        "favoriteCount": "0",
+        "commentCount": "505"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x76-qm5IK8IgWQuLfGg_6TXHC6Q",
+      "id": "-hAguQm5N84",
+      "snippet": {
+        "publishedAt": "2025-11-12T05:47:26Z",
+        "channelId": "UCyFhI90T38A_necOJxQjpiA",
+        "title": "いつもと違う時間に帰ったら…すごい体勢で寝てたエルくんがビクッ！可愛すぎる反応にキュン🐶💕「エルくん」Instagram@frenchbulldog_el   #犬王国 #フレンチブルドッグ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-hAguQm5N84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-hAguQm5N84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hAguQm5N84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-hAguQm5N84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-hAguQm5N84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "犬王国-ワンちゃんとの思い出共有スペース",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "いつもと違う時間に帰ったら…すごい体勢で寝てたエルくんがビクッ！可愛すぎる反応にキュン🐶💕「エルくん」Instagram@frenchbulldog_el   #犬王国 #フレンチブルドッグ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1918103",
+        "likeCount": "24989",
+        "favoriteCount": "0",
+        "commentCount": "259"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ctC4BbbyFsjWM_pPtwuT1jWy3zI",
+      "id": "gqN9CZtBcWU",
+      "snippet": {
+        "publishedAt": "2025-11-15T11:50:42Z",
+        "channelId": "UCqzU97vz1vzejF890Zc2i5w",
+        "title": "触った色が浮き出る筆で赤色に触った後に青汁に浸せば黄色になるはず！",
+        "description": "■こたろうのプロフィール\n名前：こたろう\n性別：男の子\n犬種：チワックス\n生年月日：2020/05/23\n性格：超マイペース・犬生愛嬌で勝負\n\nーーーーーーーーーーーーーーーーーーーーーーーー\n■Instagram\nhttps://www.instagram.com/kotarohesoten/\n\n■Twitter\nhttps://twitter.com/kotarooheso\n\n■tiktok\nhttps://vt.tiktok.com/ZSVr66DE/\n\nーーーーーーーーーーーーーーーーーーーーーーーー\nお問い合わせは以下のアドレスまで。\nkotakota9512@gmail.com\nーーーーーーーーーーーーーーーーーーーーーーーー\n検索用ワード\n犬 犬との生活 犬との暮らし チワックス チワックスこたろう チワワ ダックス dog いぬ 愛犬 癒し 可愛い vlog ペット おもちゃ 検証\n#犬 #犬との生活 #チワックスこたろう",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gqN9CZtBcWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gqN9CZtBcWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gqN9CZtBcWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gqN9CZtBcWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gqN9CZtBcWU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -623,1078 +796,15 @@
           "愛犬",
           "犬",
           "犬 弟",
-          "ゴリラのひとつかみ スーパー",
-          "ゴリラのひとつかみ"
+          "おもちゃ",
+          "検証"
         ],
         "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "スーパーゴリラのひとつかみにりんごを入れれば握り潰せるはず！",
-          "description": "■こたろうのプロフィール\n名前：こたろう\n性別：男の子\n犬種：チワックス\n生年月日：2020/05/23\n性格：超マイペース・犬生愛嬌で勝負\n\nーーーーーーーーーーーーーーーーーーーーーーーー\n■Instagram\nhttps://www.instagram.com/kotarohesoten/\n\n■Twitter\nhttps://twitter.com/kotarooheso\n\n■tiktok\nhttps://vt.tiktok.com/ZSVr66DE/\n\nーーーーーーーーーーーーーーーーーーーーーーーー\nお問い合わせは以下のアドレスまで。\nkotakota9512@gmail.com\nーーーーーーーーーーーーーーーーーーーーーーーー\n検索用ワード\n犬 犬との生活 犬との暮らし チワックス チワックスこたろう チワワ ダックス dog いぬ 愛犬 癒し 可愛い vlog ペット ゴリラのひとつかみ スーパー\n\n#犬 #犬との生活 #チワックスこたろう"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1305216",
-        "likeCount": "32985",
-        "favoriteCount": "0",
-        "commentCount": "113"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "3E3OtDIDms_Rp5nd56SmxNpjcUg",
-      "id": "60IfYvyvlig",
-      "snippet": {
-        "publishedAt": "2025-09-03T03:00:09Z",
-        "channelId": "UC0UGWALYRrid6pFH7sJEurA",
-        "title": "何かに愛されるっていいもんだなぁ〜 #shorts #動物 #おすすめ",
-        "description": "引用元：https://www.tiktok.com/@andreea_chis/video/7526458003483053334?is_from_webapp=1&sender_device=pc&web_id=75204714082306637011",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/60IfYvyvlig/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/60IfYvyvlig/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/60IfYvyvlig/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/60IfYvyvlig/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/60IfYvyvlig/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "バズみっけ。あにまる",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "何かに愛されるっていいもんだなぁ〜 #shorts #動物 #おすすめ",
-          "description": "引用元：https://www.tiktok.com/@andreea_chis/video/7526458003483053334?is_from_webapp=1&sender_device=pc&web_id=75204714082306637011"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1053835",
-        "likeCount": "36173",
-        "favoriteCount": "0",
-        "commentCount": "441"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SRijvX14rZFPeJhBI3ZNOrb7U9A",
-      "id": "-k9Y3wcCX5Y",
-      "snippet": {
-        "publishedAt": "2025-08-27T07:11:42Z",
-        "channelId": "UC1s2W6VK-34ZXehFgnNMwoA",
-        "title": "議論：どっち派？",
-        "description": "議論：どっち派？",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-k9Y3wcCX5Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-k9Y3wcCX5Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-k9Y3wcCX5Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-k9Y3wcCX5Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-k9Y3wcCX5Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "気になるショート",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "議論：どっち派？",
-          "description": "議論：どっち派？"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT42S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4835817",
-        "likeCount": "148855",
-        "favoriteCount": "0",
-        "commentCount": "1997"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1q9OnE0Ol7jER80dzcZYHbbbk5A",
-      "id": "eA3mnGurOGk",
-      "snippet": {
-        "publishedAt": "2025-09-05T08:07:40Z",
-        "channelId": "UCQlzehqgTr0yfzxQZogbbCg",
-        "title": "お行儀の良いオタリア",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eA3mnGurOGk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eA3mnGurOGk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eA3mnGurOGk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eA3mnGurOGk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eA3mnGurOGk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "なんか気持ちいい",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "お行儀の良いオタリア",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "702544",
-        "likeCount": "21241",
-        "favoriteCount": "0",
-        "commentCount": "837"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "HZDsm4j2idxxLktEs1B8FjY52L8",
-      "id": "zIpNbUKKOK8",
-      "snippet": {
-        "publishedAt": "2025-09-01T13:02:00Z",
-        "channelId": "UCXExo806poERtWfNF6qBRWg",
-        "title": "パパが君を裏切った",
-        "description": "#shorts2",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zIpNbUKKOK8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zIpNbUKKOK8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zIpNbUKKOK8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zIpNbUKKOK8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zIpNbUKKOK8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "知識豚",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "パパが君を裏切った",
-          "description": "#shorts2"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT45S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1449800",
-        "likeCount": "32058",
-        "favoriteCount": "0",
-        "commentCount": "257"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "vy4aETnS2hf68t3oSKGJNXzhoyY",
-      "id": "RS3lDvTO9qE",
-      "snippet": {
-        "publishedAt": "2025-08-30T12:00:57Z",
-        "channelId": "UC7RppsUDPz69XTasT6D9yaA",
-        "title": "臆病な子猫が選んだ愛の示し方",
-        "description": "出典：小饼干-妞爸家\n\n本動画はフェアユースの範囲内で使用されており、元の著作権者の権利を尊重します。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RS3lDvTO9qE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RS3lDvTO9qE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RS3lDvTO9qE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RS3lDvTO9qE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RS3lDvTO9qE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ナデナデ日記",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "臆病な子猫が選んだ愛の示し方",
-          "description": "出典：小饼干-妞爸家\n\n本動画はフェアユースの範囲内で使用されており、元の著作権者の権利を尊重します。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT48S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2490626",
-        "likeCount": "137347",
-        "favoriteCount": "0",
-        "commentCount": "1388"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Lw56df13gTxrkh8tDgCkP3XgHEE",
-      "id": "oXzJ9XocPy0",
-      "snippet": {
-        "publishedAt": "2025-09-04T10:01:32Z",
-        "channelId": "UCli_TSFS42Xp7O75zDoiGeQ",
-        "title": "猫ちゃんの香りとワンちゃんの香りの違い #shorts",
-        "description": "著作権や肖像権等は全てその権利所有者様に帰属します。 また内容に関して、著作権法第32条における「引用の 目的正当な範囲」を満たしているのと同時に文化庁や YouTubeガイドラインを遵守し制作しております。 \n\n【使用音声について】\n本チャンネルでは、以下の音声合成ソフトウェアを使用しています:\n\nVOICEVOX:四国めたん",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oXzJ9XocPy0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oXzJ9XocPy0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oXzJ9XocPy0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oXzJ9XocPy0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oXzJ9XocPy0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "例の青い鳥",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "猫ちゃんの香りとワンちゃんの香りの違い #shorts",
-          "description": "著作権や肖像権等は全てその権利所有者様に帰属します。 また内容に関して、著作権法第32条における「引用の 目的正当な範囲」を満たしているのと同時に文化庁や YouTubeガイドラインを遵守し制作しております。 \n\n【使用音声について】\n本チャンネルでは、以下の音声合成ソフトウェアを使用しています:\n\nVOICEVOX:四国めたん"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "709190",
-        "likeCount": "43193",
-        "favoriteCount": "0",
-        "commentCount": "620"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "kKcFLPfbHXpHTXyEx44qfhuibdM",
-      "id": "WNsoB9eemmo",
-      "snippet": {
-        "publishedAt": "2025-08-28T06:10:11Z",
-        "channelId": "UCAbSB04zaqHfS4ND1kjo21w",
-        "title": "おなら自覚ないかとおもったらチラッと見たw #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WNsoB9eemmo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WNsoB9eemmo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WNsoB9eemmo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WNsoB9eemmo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WNsoB9eemmo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mainichi Japan",
-        "tags": [
-          "Shorts",
-          "Japanlife",
-          "面白いビデオ",
-          "面白い",
-          "おもしろ動画",
-          "おすすめ",
-          "ヒカキン",
-          "大谷翔平",
-          "フォートナイト",
-          "ショート",
-          "スキビディトイレ",
-          "所沢のタイソン",
-          "かんあきチャンネル",
-          "かほせい",
-          "青春",
-          "asmr",
-          "野球部",
-          "石丸伸二",
-          "プロスピa",
-          "異世界漫画",
-          "おい笑える",
-          "野球",
-          "大食い",
-          "立ちション",
-          "呪術廻戦",
-          "久保建英",
-          "ワンピース最新話",
-          "モンスト",
-          "落雷",
-          "しばゆー",
-          "パチンコ",
-          "ちょんまげ小僧",
-          "ひき肉です",
-          "カラフルピーチ",
-          "フィッシャーズ",
-          "コムドット",
-          "ちろびの",
-          "ブレイキングダウン",
-          "うた",
-          "愛内アイラ",
-          "ライブカメラ",
-          "カマキリダンス",
-          "バイクコール",
-          "ハーランド",
-          "面白い動画",
-          "寝起きヤシの木",
-          "面白い歌",
-          "スノーマン",
-          "はじめしゃちょー",
-          "目の前に落雷",
-          "ドズル社",
-          "ワンピース",
-          "喧嘩",
-          "なにわ男子",
-          "すとぷり",
-          "カレコレ屋",
-          "ぷにぷに",
-          "落雷 目の前",
-          "バウンティラッシュ",
-          "高校生の日常",
-          "学校生活",
-          "高校生"
-        ],
-        "categoryId": "19",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "おなら自覚ないかとおもったらチラッと見たw #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2940452",
-        "likeCount": "64894",
-        "favoriteCount": "0",
-        "commentCount": "640"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "LK9h3kwo09FrRp9o7kgVcg9rxVU",
-      "id": "wiyqzCIapOk",
-      "snippet": {
-        "publishedAt": "2025-08-28T02:29:01Z",
-        "channelId": "UC12S2ItsGX5UXNyg9tk2dfA",
-        "title": "おばあちゃんの手にかかれば、猿も太る",
-        "description": "#6",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wiyqzCIapOk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wiyqzCIapOk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wiyqzCIapOk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wiyqzCIapOk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wiyqzCIapOk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "2ch動物園",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "おばあちゃんの手にかかれば、猿も太る",
-          "description": "#6"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT46S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3556936",
-        "likeCount": "85891",
-        "favoriteCount": "0",
-        "commentCount": "1072"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Bt_jHX5DPHWjIwKQbgnJH1_vvog",
-      "id": "nQFvEzs5dRA",
-      "snippet": {
-        "publishedAt": "2025-08-29T11:01:34Z",
-        "channelId": "UC78zfX-wGho3o6MrrnzLzMw",
-        "title": "学校にやってきた迷子のネコ",
-        "description": "今回は少し長めの、保護猫の動画です。\n\n【マジ感謝！マウンテンソーセージ生徒会（サポートメンバー）】\nhttps://www.youtube.com/channel/UCljYHFazflmGaDr5Lo90KmA/join\n\n▶︎編集仙人募集フォーム\nhttps://docs.google.com/forms/d/e/1FAIpQLSfNyF9-sB_Pt6wlwiYIpf8XHUlP6BV-kMF-l_taq-N2WifmtA/viewform?usp=dialog\n\n▶︎デザイナー仙人募集フォーム\nhttps://docs.google.com/forms/d/e/1FAIpQLSc8DXtqQHrw66dtH-u96Xx9Wn5_WpOSDZdY76d3by4a22EuNQ/viewform?usp=header\n\n【オリジナルブランド】\nとっても長い\"アイツ\"のゆるいキャラクターが人気のアパレルです！\nFUN MAGIC→https://funmagic.base.shop/\n【メインチャンネル】https://www.youtube.com/channel/UCljYHFazflmGaDr5Lo90KmA\n【X】 https://twitter.com/sushi_riku?lang=ja\n質問やリクエストなど気軽に言ってねー！結構みてるよ！！\n【広告募集中】\n案件のお問合せはこちらより宜しくお願いします。\n→sushiramen.business@gmail.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nQFvEzs5dRA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nQFvEzs5dRA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nQFvEzs5dRA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nQFvEzs5dRA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nQFvEzs5dRA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "すしらーめん《にく》←2nd",
-        "tags": [
-          "すしりく",
-          "サブチャンネル",
-          "おもしろ",
-          "動画",
-          "りく"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "学校にやってきた迷子のネコ",
-          "description": "今回は少し長めの、保護猫の動画です。\n\n【マジ感謝！マウンテンソーセージ生徒会（サポートメンバー）】\nhttps://www.youtube.com/channel/UCljYHFazflmGaDr5Lo90KmA/join\n\n▶︎編集仙人募集フォーム\nhttps://docs.google.com/forms/d/e/1FAIpQLSfNyF9-sB_Pt6wlwiYIpf8XHUlP6BV-kMF-l_taq-N2WifmtA/viewform?usp=dialog\n\n▶︎デザイナー仙人募集フォーム\nhttps://docs.google.com/forms/d/e/1FAIpQLSc8DXtqQHrw66dtH-u96Xx9Wn5_WpOSDZdY76d3by4a22EuNQ/viewform?usp=header\n\n【オリジナルブランド】\nとっても長い\"アイツ\"のゆるいキャラクターが人気のアパレルです！\nFUN MAGIC→https://funmagic.base.shop/\n【メインチャンネル】https://www.youtube.com/channel/UCljYHFazflmGaDr5Lo90KmA\n【X】 https://twitter.com/sushi_riku?lang=ja\n質問やリクエストなど気軽に言ってねー！結構みてるよ！！\n【広告募集中】\n案件のお問合せはこちらより宜しくお願いします。\n→sushiramen.business@gmail.com"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT46M51S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "6234482",
-        "likeCount": "241241",
-        "favoriteCount": "0",
-        "commentCount": "15485"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Yta_W9yMnH-Gw40qpB2vTIyxVxA",
-      "id": "sJsq5I-gq1w",
-      "snippet": {
-        "publishedAt": "2025-08-31T22:03:00Z",
-        "channelId": "UCBR9ZNhYsOfyfHroRv4-goA",
-        "title": "頭がよすぎるゾウ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sJsq5I-gq1w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sJsq5I-gq1w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sJsq5I-gq1w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sJsq5I-gq1w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sJsq5I-gq1w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "マインドスパーク",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "頭がよすぎるゾウ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1473104",
-        "likeCount": "57301",
-        "favoriteCount": "0",
-        "commentCount": "344"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ucYeltwroV3zEqJdv17_ECLGemI",
-      "id": "XJscACjqBg0",
-      "snippet": {
-        "publishedAt": "2025-09-02T12:33:31Z",
-        "channelId": "UCiNwcnMDShpDb-aDHswUWIw",
-        "title": "子犬のシバをいじめていたキツネ、シバが成長すると…",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XJscACjqBg0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XJscACjqBg0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XJscACjqBg0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XJscACjqBg0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XJscACjqBg0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ワクワク",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "子犬のシバをいじめていたキツネ、シバが成長すると…",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT49S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "918033",
-        "likeCount": "8212",
-        "favoriteCount": "0",
-        "commentCount": "66"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "y4ATjHGgeqdQO3TC00r9btEeLow",
-      "id": "FuruXK4rIPo",
-      "snippet": {
-        "publishedAt": "2025-09-05T03:06:00Z",
-        "channelId": "UCdU0lALBi35E1vqwpbZrzSw",
-        "title": "幻聴なのか…？｜PECO",
-        "description": "猫の声がする…🐱\n\n※投稿している動画はすべて、撮影者様の承諾をいただいたうえでご紹介しております。\nこの動画も、撮影者様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主さんのアカウント\nTikTok@aka064511\nhttps://www.tiktok.com/@aka064511/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#猫 #愛猫家 #猫のいる暮らし #猫動画 #cat #catlover #catlife #catvideos #猫のいる生活 #猫との暮らし #猫と暮らす #peco #pecotv #pecoチャンネルさん #癒やしのペット動画  #shorts\n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FuruXK4rIPo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FuruXK4rIPo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FuruXK4rIPo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/FuruXK4rIPo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/FuruXK4rIPo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PECOチャンネルさん【癒やしのペット動画】",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "幻聴なのか…？｜PECO",
-          "description": "猫の声がする…🐱\n\n※投稿している動画はすべて、撮影者様の承諾をいただいたうえでご紹介しております。\nこの動画も、撮影者様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主さんのアカウント\nTikTok@aka064511\nhttps://www.tiktok.com/@aka064511/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#猫 #愛猫家 #猫のいる暮らし #猫動画 #cat #catlover #catlife #catvideos #猫のいる生活 #猫との暮らし #猫と暮らす #peco #pecotv #pecoチャンネルさん #癒やしのペット動画  #shorts\n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "562473",
-        "likeCount": "24860",
-        "favoriteCount": "0",
-        "commentCount": "260"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XqXnfaakPFwg99X3PT8VNocaBXg",
-      "id": "qqcmzPEC74c",
-      "snippet": {
-        "publishedAt": "2025-09-06T03:39:25Z",
-        "channelId": "UC21wPcEgxOIXLwHCWvlcY2g",
-        "title": "ガチのマジでカタツムリやけど質問ある？ #shorts",
-        "description": "COEIROINK:松嘩りすく,兄口誘太郎,白痴ー,ピエール・クラウン,真賢木ミロク\nVOICEVOX:麒ヶ島宗麟,白上虎太郎,四国めたん,玄野武宏,ずんだもん,青山龍星,春日部つむぎ,波音リツ,剣崎雌雄,代屋モント\nにじボイス\n#2ch面白いスレ #2chまとめ #2ch #狂鳥 #狂い鳥 #くるいどり速報 #くる速",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qqcmzPEC74c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qqcmzPEC74c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qqcmzPEC74c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qqcmzPEC74c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qqcmzPEC74c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "くるいどり速報 (くる速)",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ガチのマジでカタツムリやけど質問ある？ #shorts",
-          "description": "COEIROINK:松嘩りすく,兄口誘太郎,白痴ー,ピエール・クラウン,真賢木ミロク\nVOICEVOX:麒ヶ島宗麟,白上虎太郎,四国めたん,玄野武宏,ずんだもん,青山龍星,春日部つむぎ,波音リツ,剣崎雌雄,代屋モント\nにじボイス\n#2ch面白いスレ #2chまとめ #2ch #狂鳥 #狂い鳥 #くるいどり速報 #くる速"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "404663",
-        "likeCount": "32044",
-        "favoriteCount": "0",
-        "commentCount": "338"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "7-2lHvFPLD4TuEAzTJWv1SOdv50",
-      "id": "z7nPiJS4Ybo",
-      "snippet": {
-        "publishedAt": "2025-09-05T11:01:51Z",
-        "channelId": "UCFGbDVRF-uj65PuJV0dKyvg",
-        "title": "【猫凸】社長の娘に浴衣着せてみた！#日本一怒らない社長",
-        "description": "パクっと広HO‼\nYouTube\nhttps://www.youtube.com/@paku-koho\nTikTok\nhttps://www.tiktok.com/@pakukoho?_t=8pF5hgCCcs6&_r=1\nInstagram\nhttps://www.instagram.com/miracaale_koho?igsh=bWxybjM5eHlrZzV3&utm_source=qr\n\n映像&キャスティング会社\n株式会社MIRACALE\n\n▼TikTok\nhttps://www.tiktok.com/@miracaleoffice\n▼Instagram\nhttps://www.instagram.com/kurasian/\n▼Twitter\nhttps://twitter.com/Tsubasa_Kura\n\n俳優、インフルエンサー、クリエイターetc\nエージェント多数在籍中！\nhttps://www.miracale.jp/what-s-agent\n\n▼企画、会社で使いたいもの\nhttps://www.amazon.jp/hz/wishlist/ls/BEES86PFMNB2?ref_=wl_share\n\n▼お問い合わせ先\nsupport@miracale.co.jp\n\n#日本一怒らない社長 #くらっし社長",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/z7nPiJS4Ybo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/z7nPiJS4Ybo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/z7nPiJS4Ybo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/z7nPiJS4Ybo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/z7nPiJS4Ybo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "くらっし社長-株式会社MIRACALE",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【猫凸】社長の娘に浴衣着せてみた！#日本一怒らない社長",
-          "description": "パクっと広HO‼\nYouTube\nhttps://www.youtube.com/@paku-koho\nTikTok\nhttps://www.tiktok.com/@pakukoho?_t=8pF5hgCCcs6&_r=1\nInstagram\nhttps://www.instagram.com/miracaale_koho?igsh=bWxybjM5eHlrZzV3&utm_source=qr\n\n映像&キャスティング会社\n株式会社MIRACALE\n\n▼TikTok\nhttps://www.tiktok.com/@miracaleoffice\n▼Instagram\nhttps://www.instagram.com/kurasian/\n▼Twitter\nhttps://twitter.com/Tsubasa_Kura\n\n俳優、インフルエンサー、クリエイターetc\nエージェント多数在籍中！\nhttps://www.miracale.jp/what-s-agent\n\n▼企画、会社で使いたいもの\nhttps://www.amazon.jp/hz/wishlist/ls/BEES86PFMNB2?ref_=wl_share\n\n▼お問い合わせ先\nsupport@miracale.co.jp\n\n#日本一怒らない社長 #くらっし社長"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT57S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "630767",
-        "likeCount": "17292",
-        "favoriteCount": "0",
-        "commentCount": "66"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fJ97tZvmOLZb3Wb874NUqogIe1A",
-      "id": "vQT6eSrkbUc",
-      "snippet": {
-        "publishedAt": "2025-09-03T02:28:00Z",
-        "channelId": "UCYhExRX3niNG1iyoYiCz48w",
-        "title": "ラッコの執念ジャンプ！全然届かない!?",
-        "description": "#5",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vQT6eSrkbUc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vQT6eSrkbUc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vQT6eSrkbUc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vQT6eSrkbUc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vQT6eSrkbUc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "週刊少女",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ラッコの執念ジャンプ！全然届かない!?",
-          "description": "#5"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT41S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "880661",
-        "likeCount": "29056",
-        "favoriteCount": "0",
-        "commentCount": "109"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "H6PQEVvxEg2e-2YdlplYQ8vGE8Y",
-      "id": "LFDHAhCaOKY",
-      "snippet": {
-        "publishedAt": "2025-09-04T08:00:21Z",
-        "channelId": "UCp4_VYTZqBe41p5xQQXFHCg",
-        "title": "世界で一番アホな動物がついに判明するw【2ch面白いスレ】",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LFDHAhCaOKY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LFDHAhCaOKY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LFDHAhCaOKY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LFDHAhCaOKY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LFDHAhCaOKY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "おもしろ2ch研究部",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "世界で一番アホな動物がついに判明するw【2ch面白いスレ】",
-          "description": ""
+          "title": "触った色が浮き出る筆で赤色に触った後に青汁に浸せば黄色になるはず！",
+          "description": "■こたろうのプロフィール\n名前：こたろう\n性別：男の子\n犬種：チワックス\n生年月日：2020/05/23\n性格：超マイペース・犬生愛嬌で勝負\n\nーーーーーーーーーーーーーーーーーーーーーーーー\n■Instagram\nhttps://www.instagram.com/kotarohesoten/\n\n■Twitter\nhttps://twitter.com/kotarooheso\n\n■tiktok\nhttps://vt.tiktok.com/ZSVr66DE/\n\nーーーーーーーーーーーーーーーーーーーーーーーー\nお問い合わせは以下のアドレスまで。\nkotakota9512@gmail.com\nーーーーーーーーーーーーーーーーーーーーーーーー\n検索用ワード\n犬 犬との生活 犬との暮らし チワックス チワックスこたろう チワワ ダックス dog いぬ 愛犬 癒し 可愛い vlog ペット おもちゃ 検証\n#犬 #犬との生活 #チワックスこたろう"
         },
         "defaultAudioLanguage": "ja"
       },
@@ -1708,54 +818,123 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "606134",
-        "likeCount": "17102",
+        "viewCount": "1340700",
+        "likeCount": "17874",
         "favoriteCount": "0",
-        "commentCount": "594"
+        "commentCount": "58"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "B1nhYJSzevaKawaRXIxj4O2rp70",
-      "id": "DKgXIOKjmQo",
+      "etag": "ZV3MW6a3zgQOA3cwjpdl3IBw_vQ",
+      "id": "0odM6g7Pix0",
       "snippet": {
-        "publishedAt": "2025-08-31T02:10:00Z",
-        "channelId": "UCjwhSJSDgstzxbI19ZYITIQ",
-        "title": "炎へダイブするヤギ",
-        "description": "",
+        "publishedAt": "2025-11-12T11:35:00Z",
+        "channelId": "UCHpzBiFeDyANk_ZvX4yBLlQ",
+        "title": "世界一演技上手なワンちゃん。",
+        "description": "世界一演技上手なワンちゃん。\n\n#面白い #ショート\n\nVOICEVOX:四国めたん\n\nFor any video removal requests, please email mystery.clock24@gmail.com\nand I’ll get back to you within 24 hours",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DKgXIOKjmQo/default.jpg",
+            "url": "https://i.ytimg.com/vi/0odM6g7Pix0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DKgXIOKjmQo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0odM6g7Pix0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DKgXIOKjmQo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0odM6g7Pix0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/DKgXIOKjmQo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0odM6g7Pix0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/DKgXIOKjmQo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0odM6g7Pix0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ワクワクショート",
-        "categoryId": "22",
+        "channelTitle": "ミステリークロック",
+        "tags": [
+          "面白い",
+          "ショート",
+          "可愛い",
+          "ワンちゃん",
+          "演技"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "炎へダイブするヤギ",
+          "title": "世界一演技上手なワンちゃん。",
+          "description": "世界一演技上手なワンちゃん。\n\n#面白い #ショート\n\nVOICEVOX:四国めたん\n\nFor any video removal requests, please email mystery.clock24@gmail.com\nand I’ll get back to you within 24 hours"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1707330",
+        "likeCount": "45736",
+        "favoriteCount": "0",
+        "commentCount": "296"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9L6jeS0kNsecDox68ePHTtBCf9s",
+      "id": "SWGsUnbC6wY",
+      "snippet": {
+        "publishedAt": "2025-11-14T22:51:02Z",
+        "channelId": "UCrI8cywg4KJYLCpKM07W8IA",
+        "title": "白いトラを猫にする方法",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SWGsUnbC6wY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SWGsUnbC6wY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWGsUnbC6wY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SWGsUnbC6wY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SWGsUnbC6wY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "きゅショート",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "白いトラを猫にする方法",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
@@ -1770,365 +949,55 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1360616",
-        "likeCount": "13251",
+        "viewCount": "960846",
+        "likeCount": "16317",
         "favoriteCount": "0",
-        "commentCount": "388"
+        "commentCount": "105"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "B7eVoqlIkI7WkRt9yQo7eexn504",
-      "id": "y8HRwY9MD3A",
+      "etag": "TO70ieqU3Hz2lk6pSZW7wCHtokg",
+      "id": "97HvFu51B9o",
       "snippet": {
-        "publishedAt": "2025-09-01T00:27:45Z",
-        "channelId": "UCrI8cywg4KJYLCpKM07W8IA",
-        "title": "犬と猫が共存できない理由",
+        "publishedAt": "2025-11-15T13:30:16Z",
+        "channelId": "UCkAhwU1U-lityMJmQBSjexA",
+        "title": "家族になった瞬間…初めての対面に感動する　#ゴールデンレトリバー #子犬　#かわいい #犬のいる暮らし #感動",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/y8HRwY9MD3A/default.jpg",
+            "url": "https://i.ytimg.com/vi/97HvFu51B9o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/y8HRwY9MD3A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/97HvFu51B9o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/y8HRwY9MD3A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/97HvFu51B9o/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/y8HRwY9MD3A/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/97HvFu51B9o/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/y8HRwY9MD3A/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/97HvFu51B9o/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ハンマーと金床",
-        "categoryId": "24",
+        "channelTitle": "毎日わんちゃん動画🍀かわいい犬たち🐶",
+        "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "犬と猫が共存できない理由",
+          "title": "家族になった瞬間…初めての対面に感動する　#ゴールデンレトリバー #子犬　#かわいい #犬のいる暮らし #感動",
           "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1141533",
-        "likeCount": "45518",
-        "favoriteCount": "0",
-        "commentCount": "457"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "QcmWMUt-4FPgWxI-Y_ldCJNjSD4",
-      "id": "1O4QqrKa8h4",
-      "snippet": {
-        "publishedAt": "2025-08-28T14:00:02Z",
-        "channelId": "UC4Az3ORprxS6Rubj_tR-KIA",
-        "title": "3年ぶりに会ったワンコ、反応がエモすぎたｗ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1O4QqrKa8h4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1O4QqrKa8h4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1O4QqrKa8h4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1O4QqrKa8h4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1O4QqrKa8h4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "となりの物語",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "3年ぶりに会ったワンコ、反応がエモすぎたｗ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1942289",
-        "likeCount": "66105",
-        "favoriteCount": "0",
-        "commentCount": "351"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "59ibKK-tAI1FrJWNukpwPC0SLoc",
-      "id": "8FMbpYvUnto",
-      "snippet": {
-        "publishedAt": "2025-08-31T09:00:10Z",
-        "channelId": "UCYYHd8GZtFsVlnhmfzG-HEw",
-        "title": "良い女友達過ぎて草www#shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8FMbpYvUnto/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8FMbpYvUnto/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8FMbpYvUnto/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8FMbpYvUnto/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8FMbpYvUnto/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "白瀬あかり",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "良い女友達過ぎて草www#shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1205278",
-        "likeCount": "52304",
-        "favoriteCount": "0",
-        "commentCount": "159"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Q-HPlqEDU1G8n4iZMK-UWpSe4Ac",
-      "id": "3za5qzlxMDk",
-      "snippet": {
-        "publishedAt": "2025-08-29T06:35:00Z",
-        "channelId": "UC9qbjcabjhVlnyfkM2aKryw",
-        "title": "黒い涙が出た理由 🥲",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3za5qzlxMDk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3za5qzlxMDk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3za5qzlxMDk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3za5qzlxMDk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3za5qzlxMDk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ر",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "黒い涙が出た理由 🥲",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1708040",
-        "likeCount": "38702",
-        "favoriteCount": "0",
-        "commentCount": "297"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "5ziyS9BaM01kPq5PCpxUxGCfEW8",
-      "id": "wmaH3pDqVEU",
-      "snippet": {
-        "publishedAt": "2025-08-25T17:01:21Z",
-        "channelId": "UCZtcKaNHPn93stKQP9UKirQ",
-        "title": "鳥を放しても飛ぼうとしない",
-        "description": "#動物 #癒し #かわいい",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wmaH3pDqVEU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wmaH3pDqVEU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wmaH3pDqVEU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wmaH3pDqVEU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wmaH3pDqVEU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ツンねこ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "鳥を放しても飛ぼうとしない",
-          "description": "#動物 #癒し #かわいい"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3822135",
-        "likeCount": "149518",
-        "favoriteCount": "0",
-        "commentCount": "660"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "gnHQ5zGLs44YqPmvzjsP1Z3rktg",
-      "id": "g9Dpl76oXV4",
-      "snippet": {
-        "publishedAt": "2025-08-31T02:28:01Z",
-        "channelId": "UC6mbbiP0fzB0wWLNfioiOeQ",
-        "title": "見れば見るほど驚く警備犬の瞬発力！！",
-        "description": "#6",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/g9Dpl76oXV4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/g9Dpl76oXV4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/g9Dpl76oXV4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/g9Dpl76oXV4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/g9Dpl76oXV4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ミステリー劇場",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "見れば見るほど驚く警備犬の瞬発力！！",
-          "description": "#6"
         },
         "defaultAudioLanguage": "ja"
       },
@@ -2142,55 +1011,331 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1344692",
-        "likeCount": "56171",
+        "viewCount": "1131371",
+        "likeCount": "18493",
         "favoriteCount": "0",
-        "commentCount": "413"
+        "commentCount": "236"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sh8iVHQq7OLGFeeNpCIEjDjbsQA",
-      "id": "FJx0pTpFxN0",
+      "etag": "CsE6ncsv7I-QvJ5mDlqr4XXcQoo",
+      "id": "ujrIOVe0f4M",
       "snippet": {
-        "publishedAt": "2025-09-02T10:00:24Z",
-        "channelId": "UC8gphUopLGuo0dJoyAnNE2Q",
-        "title": "出産時に失ったと思っていた赤ちゃんと再会したチンパンジーの母親",
-        "description": "小さな命が見せてくれる、大きな“愛”の奇跡。  \n動物たちの優しさ、勇気、そして人との絆に心が動かされます。  \nこの感動的な瞬間を、あなたの心にも届けたい。🐾💖  \n癒しと愛に包まれるひとときを、ぜひお楽しみください。\n\n#動物 #癒し #感動 #かわいい #涙腺崩壊 #動物の愛 #命の大切さ #動物の絆 #感動ストーリー #癒し動画  \n#ペット #動物レスキュー #野生動物 #心温まる #小さな命 #動物との暮らし #動物の奇跡 #命を救う #再会 #泣ける話  \n#動物動画 #癒し系 #動物ドキュメンタリー #やさしい気持ち #笑顔になれる #命の重み #愛を感じる #優しさに触れる #動物ショート #動物のいる生活",
+        "publishedAt": "2025-11-16T10:40:02Z",
+        "channelId": "UClxhvL2C3Kno04y5mhaRBtA",
+        "title": "犬と人形と人形遣い",
+        "description": "犬の人形遣いがワンちゃんとあそぶ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FJx0pTpFxN0/default.jpg",
+            "url": "https://i.ytimg.com/vi/ujrIOVe0f4M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FJx0pTpFxN0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ujrIOVe0f4M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FJx0pTpFxN0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ujrIOVe0f4M/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/FJx0pTpFxN0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ujrIOVe0f4M/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/FJx0pTpFxN0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ujrIOVe0f4M/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "動物の愛の物語",
+        "channelTitle": "バズワールド",
+        "tags": [
+          "いぬ",
+          "わんちゃん",
+          "人形",
+          "人形遣い",
+          "マリオネット",
+          "遊ぶ",
+          "じゃれる",
+          "傀儡師"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "犬と人形と人形遣い",
+          "description": "犬の人形遣いがワンちゃんとあそぶ"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "671813",
+        "likeCount": "29248",
+        "favoriteCount": "0",
+        "commentCount": "155"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6kG9JwaeBuacWIa_XaIWvYutaR4",
+      "id": "5PPy4raQqLM",
+      "snippet": {
+        "publishedAt": "2025-11-12T05:40:53Z",
+        "channelId": "UCgvu-yhPwtwpqVIHmOr34Ow",
+        "title": "チンチラのお風呂",
+        "description": "出典：@kaori_uniikura(IG)\n@suerte_sue(IG)\n@molchankawaii(TT)\n@ham_chira(TT)\n@chillinwithchins(TT)\n@ohagitopapa(IG)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5PPy4raQqLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5PPy4raQqLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5PPy4raQqLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5PPy4raQqLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5PPy4raQqLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "シルシル世界",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "チンチラのお風呂",
+          "description": "出典：@kaori_uniikura(IG)\n@suerte_sue(IG)\n@molchankawaii(TT)\n@ham_chira(TT)\n@chillinwithchins(TT)\n@ohagitopapa(IG)"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1881350",
+        "likeCount": "50288",
+        "favoriteCount": "0",
+        "commentCount": "692"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UjN58NnpKYKE0uGFlIPAQRZeePE",
+      "id": "TEdgUdkQ9Vk",
+      "snippet": {
+        "publishedAt": "2025-11-16T03:00:29Z",
+        "channelId": "UCS7rbR7l0q-OAzNnYxhqUrg",
+        "title": "魚が淡水で生き延びる方法",
+        "description": "本動画はエンターテイメント要素を含みますが、教育・啓発を目的として制作されています。動物および人間に危害は一切加えられていません。\n銃器やその他の危険物、未成年が登場する場面は、演出または専門家・保護者の監督のもと、安全な環境で撮影された映像を使用しています。これらのシーンは使用方法の指導・助長を意図したものではありません。\n医学・手術に関する表現は教育用アニメーションであり、実際の負傷や過度にショッキングな実写映像は含みません。苦手な方は視聴にご注意ください。\n危険行為の模倣・再現は行わないでください。\n\nThis video is produced for educational and awareness purposes. No animals or individuals were harmed.\nAny scenes involving firearms or hazardous objects, or the presence of minors, are staged or supervised by trained adults/guardians in a controlled setting and are not instructional.\nMedical and surgical depictions are educational animations; no graphic real-life injuries are shown. Viewer discretion advised.\nDo not attempt to recreate any activities shown.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEdgUdkQ9Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEdgUdkQ9Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEdgUdkQ9Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TEdgUdkQ9Vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TEdgUdkQ9Vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "バズ海外",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "魚が淡水で生き延びる方法",
+          "description": "本動画はエンターテイメント要素を含みますが、教育・啓発を目的として制作されています。動物および人間に危害は一切加えられていません。\n銃器やその他の危険物、未成年が登場する場面は、演出または専門家・保護者の監督のもと、安全な環境で撮影された映像を使用しています。これらのシーンは使用方法の指導・助長を意図したものではありません。\n医学・手術に関する表現は教育用アニメーションであり、実際の負傷や過度にショッキングな実写映像は含みません。苦手な方は視聴にご注意ください。\n危険行為の模倣・再現は行わないでください。\n\nThis video is produced for educational and awareness purposes. No animals or individuals were harmed.\nAny scenes involving firearms or hazardous objects, or the presence of minors, are staged or supervised by trained adults/guardians in a controlled setting and are not instructional.\nMedical and surgical depictions are educational animations; no graphic real-life injuries are shown. Viewer discretion advised.\nDo not attempt to recreate any activities shown."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "716135",
+        "likeCount": "17113",
+        "favoriteCount": "0",
+        "commentCount": "218"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E8GEYh5GnPSlpCyHHloY2Z2X1Zo",
+      "id": "xNb3bFSKBGY",
+      "snippet": {
+        "publishedAt": "2025-11-17T21:31:01Z",
+        "channelId": "UCdU0lALBi35E1vqwpbZrzSw",
+        "title": "心配したのに…笑｜PECO",
+        "description": "おやつは最強😁\n\n※投稿している動画はすべて、飼い主様の承諾をいただいたうえでご紹介しております。\nこの動画も、飼い主様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主さんのアカウント\nInstagram@mei.mac.moka\nhttps://www.instagram.com/mei.mac.moka/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#笹かま猫 #保護猫 #猫 #愛猫家 #保護猫のいる暮らし #猫のいる暮らし #猫動画 #creamtabby #rescuedcat #rescuedcatlife #cat #catlover #catlife #catvideos #peco #pecotv #pecoチャンネルさん #癒やしのペット動画 #猫のいる生活 #猫との暮らし #猫と暮らす #short \n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xNb3bFSKBGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xNb3bFSKBGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xNb3bFSKBGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xNb3bFSKBGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xNb3bFSKBGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PECOチャンネルさん【癒やしのペット動画】",
         "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "出産時に失ったと思っていた赤ちゃんと再会したチンパンジーの母親",
-          "description": "小さな命が見せてくれる、大きな“愛”の奇跡。  \n動物たちの優しさ、勇気、そして人との絆に心が動かされます。  \nこの感動的な瞬間を、あなたの心にも届けたい。🐾💖  \n癒しと愛に包まれるひとときを、ぜひお楽しみください。\n\n#動物 #癒し #感動 #かわいい #涙腺崩壊 #動物の愛 #命の大切さ #動物の絆 #感動ストーリー #癒し動画  \n#ペット #動物レスキュー #野生動物 #心温まる #小さな命 #動物との暮らし #動物の奇跡 #命を救う #再会 #泣ける話  \n#動物動画 #癒し系 #動物ドキュメンタリー #やさしい気持ち #笑顔になれる #命の重み #愛を感じる #優しさに触れる #動物ショート #動物のいる生活"
+          "title": "心配したのに…笑｜PECO",
+          "description": "おやつは最強😁\n\n※投稿している動画はすべて、飼い主様の承諾をいただいたうえでご紹介しております。\nこの動画も、飼い主様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主さんのアカウント\nInstagram@mei.mac.moka\nhttps://www.instagram.com/mei.mac.moka/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#笹かま猫 #保護猫 #猫 #愛猫家 #保護猫のいる暮らし #猫のいる暮らし #猫動画 #creamtabby #rescuedcat #rescuedcatlife #cat #catlover #catlife #catvideos #peco #pecotv #pecoチャンネルさん #癒やしのペット動画 #猫のいる生活 #猫との暮らし #猫と暮らす #short \n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "292279",
+        "likeCount": "14576",
+        "favoriteCount": "0",
+        "commentCount": "223"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yFEDlOeKZWEpOcumkzzCJ5f69uU",
+      "id": "_CNa89IHjx8",
+      "snippet": {
+        "publishedAt": "2025-11-16T10:39:51Z",
+        "channelId": "UCVNO19FtHr5W0Mcyek-9HLw",
+        "title": "リトリバーに妹を迎えたらまさかの反応",
+        "description": "#癒し動物 #おもしろ動物 #かわいい動物",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_CNa89IHjx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_CNa89IHjx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_CNa89IHjx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_CNa89IHjx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_CNa89IHjx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "クスクスどうぶつ ",
+        "tags": [
+          "かわいい犬",
+          "可愛い犬",
+          "カワイイ犬",
+          "おもしろ犬",
+          "犬動画",
+          "犬好き",
+          "癒し犬",
+          "人気の犬",
+          "かわいい猫",
+          "可愛い猫",
+          "カワイイ猫",
+          "おもしろ猫",
+          "猫動画",
+          "猫好き",
+          "癒し猫",
+          "人気の猫"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "リトリバーに妹を迎えたらまさかの反応",
+          "description": "#癒し動物 #おもしろ動物 #かわいい動物"
         },
         "defaultAudioLanguage": "ja"
       },
@@ -2200,322 +1345,760 @@
         "definition": "hd",
         "caption": "false",
         "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "634978",
-        "likeCount": "29659",
+        "viewCount": "485211",
+        "likeCount": "11571",
         "favoriteCount": "0",
-        "commentCount": "253"
+        "commentCount": "32"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "k1DsytAy0QRwazjM__xCWCEOmZw",
-      "id": "WWPzld42xOc",
+      "etag": "4Ij59a7BB_4PrP_IB03A1HzrMbc",
+      "id": "Mp9hFCBM4P4",
       "snippet": {
-        "publishedAt": "2025-08-31T07:00:35Z",
-        "channelId": "UC1xeCHFAHV2yXN3J_CNQzEg",
-        "title": "世界中の心を動かした心温まる優しい行動",
-        "description": "ようこそ、「動物の幸せAH」へ！\nこのチャンネルでは、動物と人間の優しいつながりや、感動の救助シーン、思わず笑ってしまうドッキリ、赤ちゃんの愛らしいリアクション、日常に役立つペットライフハックなど、心温まるショート動画をお届けします。\n\nすべての動画には、「癒し」「笑顔」「愛情」というメッセージが込められています。\n疲れた日々の中で、少しでも心が軽くなり、動物たちの純粋な姿を通して「もっと優しく生きたい」と思えるきっかけになりますように。\n\nぜひフォローして、一緒に「愛のある毎日」を楽しみましょう。🐶🐱👶🌸\n\n#感動動画 #癒し動画 #動物と人間 #動物愛 #赤ちゃんと動物 #動物リアクション #ドッキリ動画 #笑顔になる #ハートフル #救助活動 #動物との絆 #心温まる #赤ちゃん癒し #家族の瞬間 #驚きの行動 #やさしさに触れる #小さな幸せ #動物感謝 #動物の奇跡 #愛を感じる",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WWPzld42xOc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WWPzld42xOc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WWPzld42xOc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WWPzld42xOc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WWPzld42xOc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "動物の幸せ",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "世界中の心を動かした心温まる優しい行動",
-          "description": "ようこそ、「動物の幸せAH」へ！\nこのチャンネルでは、動物と人間の優しいつながりや、感動の救助シーン、思わず笑ってしまうドッキリ、赤ちゃんの愛らしいリアクション、日常に役立つペットライフハックなど、心温まるショート動画をお届けします。\n\nすべての動画には、「癒し」「笑顔」「愛情」というメッセージが込められています。\n疲れた日々の中で、少しでも心が軽くなり、動物たちの純粋な姿を通して「もっと優しく生きたい」と思えるきっかけになりますように。\n\nぜひフォローして、一緒に「愛のある毎日」を楽しみましょう。🐶🐱👶🌸\n\n#感動動画 #癒し動画 #動物と人間 #動物愛 #赤ちゃんと動物 #動物リアクション #ドッキリ動画 #笑顔になる #ハートフル #救助活動 #動物との絆 #心温まる #赤ちゃん癒し #家族の瞬間 #驚きの行動 #やさしさに触れる #小さな幸せ #動物感謝 #動物の奇跡 #愛を感じる"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1572799",
-        "likeCount": "18463",
-        "favoriteCount": "0",
-        "commentCount": "125"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eDj44xyHI4Xfy6LcByfYeoS6UwY",
-      "id": "hG01fn-_xpI",
-      "snippet": {
-        "publishedAt": "2025-09-03T01:30:27Z",
-        "channelId": "UCDjXp2mwq3fvfRIBlvHuOAw",
-        "title": "ハスキーとレトリーバーから生まれた特別な子犬",
-        "description": "#ショート #シベリアンレトリバー  #ミックス犬  #ハスキー  #レトリーバー #ハイブリッド犬 \n\nカリスマあふれるハスキーのお父さんと\nやさしいレトリーバーのお母さんから、かわいい子犬が誕生！\n耳はお母さんそっくり、目はお父さんゆずり\nふたつの魅力をしっかり受け継いでいます\nまさにいいとこ取りの最強ハイブリッド犬です！\n\nVOICEVOX _四国めたん",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hG01fn-_xpI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hG01fn-_xpI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hG01fn-_xpI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hG01fn-_xpI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hG01fn-_xpI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "もふもふ事件簿",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ハスキーとレトリーバーから生まれた特別な子犬",
-          "description": "#ショート #シベリアンレトリバー  #ミックス犬  #ハスキー  #レトリーバー #ハイブリッド犬 \n\nカリスマあふれるハスキーのお父さんと\nやさしいレトリーバーのお母さんから、かわいい子犬が誕生！\n耳はお母さんそっくり、目はお父さんゆずり\nふたつの魅力をしっかり受け継いでいます\nまさにいいとこ取りの最強ハイブリッド犬です！\n\nVOICEVOX _四国めたん"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "443019",
-        "likeCount": "11639",
-        "favoriteCount": "0",
-        "commentCount": "131"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "CsSrb02DPmdUiOjm0vYEEFCDthQ",
-      "id": "FHNaKVk1wEI",
-      "snippet": {
-        "publishedAt": "2025-08-26T00:20:52Z",
-        "channelId": "UC_80YwPKzCNWeRDrorv_mTw",
-        "title": "賢いハリネズミ",
+        "publishedAt": "2025-11-11T03:30:13Z",
+        "channelId": "UCifNdOd1s5Y0uY2HY4DtQng",
+        "title": "罠コンプリートRTA #tiktok #tiktokvideo #youtube #shorts #youtubeshorts #おすすめ #おもしろ #面白い #犬 #ドッグラン #罠 #草",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FHNaKVk1wEI/default.jpg",
+            "url": "https://i.ytimg.com/vi/Mp9hFCBM4P4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FHNaKVk1wEI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mp9hFCBM4P4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FHNaKVk1wEI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mp9hFCBM4P4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/FHNaKVk1wEI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mp9hFCBM4P4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/FHNaKVk1wEI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mp9hFCBM4P4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "やくちゅ",
+        "channelTitle": "でぶジュラワールド",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "罠コンプリートRTA #tiktok #tiktokvideo #youtube #shorts #youtubeshorts #おすすめ #おもしろ #面白い #犬 #ドッグラン #罠 #草",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2509413",
+        "likeCount": "79192",
+        "favoriteCount": "0",
+        "commentCount": "1474"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QpzsCKoHjUH5j45pnhxz8ZGf3Aw",
+      "id": "Xwlm_VA5Xhc",
+      "snippet": {
+        "publishedAt": "2025-11-13T03:30:23Z",
+        "channelId": "UC2hZOjUdQ-dPrLO2fP2LClw",
+        "title": "世界でバズった人の足vs猛獣",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xwlm_VA5Xhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xwlm_VA5Xhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xwlm_VA5Xhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xwlm_VA5Xhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xwlm_VA5Xhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "世界でバズった",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界でバズった人の足vs猛獣",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1066518",
+        "likeCount": "21261",
+        "favoriteCount": "0",
+        "commentCount": "192"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hHXt85KiwXHRdO_BYxpYg45mXqs",
+      "id": "pUBbcZHzNRs",
+      "snippet": {
+        "publishedAt": "2025-11-05T05:58:40Z",
+        "channelId": "UCQlzehqgTr0yfzxQZogbbCg",
+        "title": "赤ちゃんウミガメの秘密",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUBbcZHzNRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUBbcZHzNRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUBbcZHzNRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUBbcZHzNRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUBbcZHzNRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "なんか気持ちいい",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "赤ちゃんウミガメの秘密",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5675352",
+        "likeCount": "135642",
+        "favoriteCount": "0",
+        "commentCount": "1020"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TY2eGKmiEcuZOtMD_F0ljXWpBRs",
+      "id": "HlTpcp9MQ1U",
+      "snippet": {
+        "publishedAt": "2025-11-12T11:00:38Z",
+        "channelId": "UC9ukibshloXG3gvUaKDjeGg",
+        "title": "世界がビビった海の巨大生物",
+        "description": "【楽曲提供：株式会社ウナシ】",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HlTpcp9MQ1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HlTpcp9MQ1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HlTpcp9MQ1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HlTpcp9MQ1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HlTpcp9MQ1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "観たくなる",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "賢いハリネズミ",
+          "title": "世界がビビった海の巨大生物",
+          "description": "【楽曲提供：株式会社ウナシ】"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1428137",
+        "likeCount": "35859",
+        "favoriteCount": "0",
+        "commentCount": "515"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "byakAyQrTwlG1R05pdSBFb4GE5E",
+      "id": "bDAYOx6FFPs",
+      "snippet": {
+        "publishedAt": "2025-11-11T18:55:01Z",
+        "channelId": "UCHbLDRGMyMnyqlkFOxLy94A",
+        "title": "ﾈｯｺ「赤ちゃんおこしたろ(ﾌﾞｯ」ｲｯﾇ「ええ加減にせえ！」 #shorts",
+        "description": "#柴犬 #柴プー #sora #sora2 #shibainu #ペキ柴 #cat #animals #cute #pets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bDAYOx6FFPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bDAYOx6FFPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bDAYOx6FFPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bDAYOx6FFPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bDAYOx6FFPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "柴犬MAXチャンネル",
+        "tags": [
+          "sora",
+          "sora2",
+          "柴犬",
+          "シバイヌ",
+          "shibainu",
+          "ネコ",
+          "cat",
+          "ほんわか"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ﾈｯｺ「赤ちゃんおこしたろ(ﾌﾞｯ」ｲｯﾇ「ええ加減にせえ！」 #shorts",
+          "description": "#柴犬 #柴プー #sora #sora2 #shibainu #ペキ柴 #cat #animals #cute #pets"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3298867",
+        "likeCount": "39127",
+        "favoriteCount": "0",
+        "commentCount": "146"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FZC_6AT20HdBObH4yWzhuAXFwjA",
+      "id": "YdAeiyiPDFk",
+      "snippet": {
+        "publishedAt": "2025-11-11T12:22:00Z",
+        "channelId": "UCRN-el8GnAUaZ7FirUEMZOg",
+        "title": "Cats vs Dogs: The Most Perfectly Satisfying Moments Ranked! #shorts #viralvideo #cat #dog #animals",
+        "description": "Get ready for the ultimate battle of pure satisfaction! In this video, we’re ranking the most perfectly satisfying cat vs dog moments caught on camera — from flawless reactions to adorable teamwork and unexpectedly smooth interactions. Whether you’re a cat lover or a dog fan, these moments will make you smile, relax, and replay! 😸🐕✨\nSit back and enjoy the perfect harmony of pets being their cutest selves.\n\n#CatsVsDogs #SatisfyingMoments #PerfectlySatisfying #PetCompilation #CatMoments #DogMoments #CuteAnimals #PetShowdown #RelaxingVideo #AnimalRanking",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdAeiyiPDFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdAeiyiPDFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdAeiyiPDFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YdAeiyiPDFk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YdAeiyiPDFk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ranked & Ready",
+        "tags": [
+          "cats vs dogs",
+          "satisfying moments",
+          "satisfying pets",
+          "cat moments",
+          "dog moments",
+          "cat vs dog compilation",
+          "relaxing pet videos",
+          "satisfying video",
+          "pet ranking",
+          "animal compilation",
+          "cute animals",
+          "viral pets",
+          "trending pets",
+          "perfect fit moments",
+          "pet showdown"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "猫 vs 犬：最高に満足できる瞬間ランキング！ #shorts #viralvideo #cat #dog #animals",
+          "description": "究極の満足感バトルに備えましょう！この動画では、完璧なリアクションから愛らしいチームワーク、そして意外にもスムーズなやり取りまで、カメラに捉えられた猫と犬の最高に満足できる瞬間をランキング形式でご紹介します。猫好きの方にも犬好きの方にも、きっと笑顔になり、リラックスして、何度も繰り返し見返したくなる瞬間ばかりです！😸🐕✨\nペットたちが最高にキュートな姿で繰り広げる、完璧なハーモニーをお楽しみください。\n\n#CatsVsDogs #SatisfyingMoments #PerfectlySatisfying #PetCompilation #CatMoments #DogMoments #CuteAnimals #PetShowdown #RelaxingVideo #AnimalRanking"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21980011",
+        "likeCount": "1048416",
+        "favoriteCount": "0",
+        "commentCount": "2882"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XcFjOtB80evG1KEzTqCz_HG7ScA",
+      "id": "pgPEeBh1Gc8",
+      "snippet": {
+        "publishedAt": "2025-11-11T02:50:01Z",
+        "channelId": "UCYI9wqnKtqSyr4Mbd3TGpwQ",
+        "title": "ボスが来た瞬間だけ仕事する警察犬",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pgPEeBh1Gc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pgPEeBh1Gc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgPEeBh1Gc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pgPEeBh1Gc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pgPEeBh1Gc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "バズもふ動画",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ボスが来た瞬間だけ仕事する警察犬",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1167211",
+        "likeCount": "21914",
+        "favoriteCount": "0",
+        "commentCount": "79"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "plg46WmSsO8_q3goBajrbMH3NuA",
+      "id": "4xthynIKsng",
+      "snippet": {
+        "publishedAt": "2025-11-14T11:00:19Z",
+        "channelId": "UCFGbDVRF-uj65PuJV0dKyvg",
+        "title": "【猫凸】社長の新居で娘と遊んでみた！",
+        "description": "くらっし社長書籍出版に向けてのクラファンはこちら！\nhttps://camp-fire.jp/projects/861337/preview?token=7x87porh&utm_campaign=cp_po_share_c_msg_projects_show\n\nパクっと広HO‼\nYouTube\nhttps://www.youtube.com/@paku-koho\nTikTok\nhttps://www.tiktok.com/@pakukoho?_t=8pF5hgCCcs6&_r=1\nInstagram\nhttps://www.instagram.com/miracaale_koho?igsh=bWxybjM5eHlrZzV3&utm_source=qr\n\n映像&キャスティング会社\n株式会社MIRACALE\n\n▼TikTok\nhttps://www.tiktok.com/@miracaleoffice\n▼Instagram\nhttps://www.instagram.com/kurasian/\n▼Twitter\nhttps://twitter.com/Tsubasa_Kura\n\n俳優、インフルエンサー、クリエイターetc\nエージェント多数在籍中！\nhttps://www.miracale.jp/what-s-agent\n\n▼企画、会社で使いたいもの\nhttps://www.amazon.jp/hz/wishlist/ls/BEES86PFMNB2?ref_=wl_share\n\n▼お問い合わせ先\nsupport@miracale.co.jp\n\n#日本一怒らない社長 #くらっし社長",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4xthynIKsng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4xthynIKsng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4xthynIKsng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4xthynIKsng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4xthynIKsng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "くらっし社長-株式会社MIRACALE",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【猫凸】社長の新居で娘と遊んでみた！",
+          "description": "くらっし社長書籍出版に向けてのクラファンはこちら！\nhttps://camp-fire.jp/projects/861337/preview?token=7x87porh&utm_campaign=cp_po_share_c_msg_projects_show\n\nパクっと広HO‼\nYouTube\nhttps://www.youtube.com/@paku-koho\nTikTok\nhttps://www.tiktok.com/@pakukoho?_t=8pF5hgCCcs6&_r=1\nInstagram\nhttps://www.instagram.com/miracaale_koho?igsh=bWxybjM5eHlrZzV3&utm_source=qr\n\n映像&キャスティング会社\n株式会社MIRACALE\n\n▼TikTok\nhttps://www.tiktok.com/@miracaleoffice\n▼Instagram\nhttps://www.instagram.com/kurasian/\n▼Twitter\nhttps://twitter.com/Tsubasa_Kura\n\n俳優、インフルエンサー、クリエイターetc\nエージェント多数在籍中！\nhttps://www.miracale.jp/what-s-agent\n\n▼企画、会社で使いたいもの\nhttps://www.amazon.jp/hz/wishlist/ls/BEES86PFMNB2?ref_=wl_share\n\n▼お問い合わせ先\nsupport@miracale.co.jp\n\n#日本一怒らない社長 #くらっし社長"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1014875",
+        "likeCount": "19405",
+        "favoriteCount": "0",
+        "commentCount": "82"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ci6YfkzAg5SFgcWhtChSpdpnviM",
+      "id": "-6SELflyBbg",
+      "snippet": {
+        "publishedAt": "2025-11-07T11:53:42Z",
+        "channelId": "UCLWz1bk9kDtc4nN4A0uO2DQ",
+        "title": "Risked his life to save a dog / 목숨걸고 강아지 구출 #ai #funny #animals #cute #fyp",
+        "description": "The waves were closing in, but he couldn’t abandon a life. 🐕💦 #courage #heartwarming #reallifehero #dog #ai #funny #animals #cute #fyp #감동 #구조견 #용기 #생명 #감동실화 #brave #dogrescue #courage #heartwarming #reallifehero #勇気 #感動ストーリー #実話 #valiente #rescate #coraje #historiaincreíble #émotion #sauvetage #chien #touchant #mutig #herzergreifend #hund #wahreGeschichte #बहादुरी #दिलछूनेवाला #साहस #कुत्ता #प्रेरणादायक #冒著生命危險 #救援 #真實故事 #暖心 #狗狗 #coragem #heroideverdade #inspiração #شجاعة #بطولة #قصةحقيقية #كلب",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-6SELflyBbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-6SELflyBbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-6SELflyBbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-6SELflyBbg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-6SELflyBbg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zoopedition",
+        "tags": [
+          "ai",
+          "funny",
+          "animals",
+          "cute",
+          "fyp",
+          "감동",
+          "구조견",
+          "용기",
+          "생명",
+          "감동실화",
+          "brave",
+          "dogrescue",
+          "courage",
+          "heartwarming",
+          "reallifehero",
+          "勇気",
+          "感動ストーリー",
+          "実話",
+          "valiente",
+          "rescate",
+          "coraje",
+          "historiaincreíble",
+          "émotion",
+          "sauvetage",
+          "chien",
+          "touchant",
+          "mutig",
+          "herzergreifend",
+          "hund",
+          "wahreGeschichte",
+          "बहादुरी",
+          "दिलछूनेवाला",
+          "साहस",
+          "कुत्ता",
+          "प्रेरणादायक",
+          "冒著生命危險",
+          "救援",
+          "真實故事",
+          "暖心",
+          "狗狗",
+          "coragem",
+          "heroideverdade",
+          "inspiração",
+          "شجاعة",
+          "بطولة",
+          "قصةحقيقية",
+          "كلب"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "命がけで犬を救出 #ai #funny #animals #cute #fyp #感動 #勇気",
+          "description": "津波が迫っても、命を見捨てることはできなかった。🐶🌊 #勇気 #実話 #感動ストーリー #犬"
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT15S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "19295593",
+        "likeCount": "369988",
+        "favoriteCount": "0",
+        "commentCount": "1677"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xMRhJUX6sWtyxzBL4tr1yg9nPPg",
+      "id": "135zX2JBMzA",
+      "snippet": {
+        "publishedAt": "2025-11-10T13:00:03Z",
+        "channelId": "UCCPq0KDmdL6zrZBS8HDIVkw",
+        "title": "Fear Factor Dogs Edition! 🤪 Watch the Synchronized Scream and Jump of These Two Chihuahuas!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/135zX2JBMzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/135zX2JBMzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/135zX2JBMzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/135zX2JBMzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/135zX2JBMzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chobi Cat",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Fear Factor Dogs Edition! 🤪 Watch the Synchronized Scream and Jump of These Two Chihuahuas!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
         "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2721592",
-        "likeCount": "112931",
+        "viewCount": "14964199",
+        "likeCount": "258542",
         "favoriteCount": "0",
-        "commentCount": "665"
+        "commentCount": "2976"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OvQ0C_tk-g1zBIl2rLetz-eCXvs",
-      "id": "_F9SL86ktEc",
+      "etag": "IeoiCzuSNkBUlOee4VLvuRpGarA",
+      "id": "5_uvcKKNCrY",
       "snippet": {
-        "publishedAt": "2025-08-24T09:00:59Z",
-        "channelId": "UCH4mDLuwJ71CClXEfMN_b4Q",
-        "title": "男の地雷を踏んだフクロウ　#shorts #animals #funny #動物 #鳥 #可愛い #面白い #癒し",
-        "description": "引用: https://youtube.com/@Renji_Iijima?si=yTF1uPITLVWtYHo4    飯島レンジ様",
+        "publishedAt": "2025-11-16T01:00:13Z",
+        "channelId": "UCGxa9ItmRHEPzSj6swbs9aw",
+        "title": "史上最ヤバいゴールデンレトリバー瞬間TOP8",
+        "description": "史上最ヤバいゴールデンレトリバー瞬間TOP8",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_F9SL86ktEc/default.jpg",
+            "url": "https://i.ytimg.com/vi/5_uvcKKNCrY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_F9SL86ktEc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_uvcKKNCrY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_F9SL86ktEc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_uvcKKNCrY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/_F9SL86ktEc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_uvcKKNCrY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/_F9SL86ktEc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_uvcKKNCrY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "DAIKAN TV JAPAN",
+        "channelTitle": "なぜ",
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "男の地雷を踏んだフクロウ　#shorts #animals #funny #動物 #鳥 #可愛い #面白い #癒し",
-          "description": "引用: https://youtube.com/@Renji_Iijima?si=yTF1uPITLVWtYHo4    飯島レンジ様"
+          "title": "史上最ヤバいゴールデンレトリバー瞬間TOP8",
+          "description": "史上最ヤバいゴールデンレトリバー瞬間TOP8"
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3797724",
-        "likeCount": "165597",
-        "favoriteCount": "0",
-        "commentCount": "1599"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "zEZmoSbMXjB2Y5qQkiHUaaQdAYQ",
-      "id": "MDHh6cKIbQw",
-      "snippet": {
-        "publishedAt": "2025-08-28T11:41:00Z",
-        "channelId": "UCVaT6R8RqW6Gmwkf7hipWTA",
-        "title": "かわいすぎるアシカのハプニング",
-        "description": "かわいすぎるアシカのハプニング",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MDHh6cKIbQw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MDHh6cKIbQw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MDHh6cKIbQw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MDHh6cKIbQw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MDHh6cKIbQw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "まとめの達人",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "かわいすぎるアシカのハプニング",
-          "description": "かわいすぎるアシカのハプニング"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT18S",
+        "duration": "PT52S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2524,291 +2107,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1609999",
-        "likeCount": "30591",
+        "viewCount": "515109",
+        "likeCount": "14096",
         "favoriteCount": "0",
-        "commentCount": "268"
+        "commentCount": "114"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ScKc13gLQQcyv_g7cW_TnjMP-tk",
-      "id": "5r2rPa-d4ck",
+      "etag": "YDKU1S8Q5p45vct3hYdh10nvBsM",
+      "id": "jy_8iQtFOrU",
       "snippet": {
-        "publishedAt": "2025-08-29T18:01:26Z",
-        "channelId": "UCQZi2YXSxc6BSK4mZHql8ag",
-        "title": "This is awesome 👏",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5r2rPa-d4ck/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5r2rPa-d4ck/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5r2rPa-d4ck/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5r2rPa-d4ck/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5r2rPa-d4ck/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SportsNation",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "This is awesome 👏",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "46606387",
-        "favoriteCount": "0",
-        "commentCount": "2959"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "FexV7Rv3N19SeC46hya7g4kRfbg",
-      "id": "VgiuH6uv3A4",
-      "snippet": {
-        "publishedAt": "2025-09-02T09:28:00Z",
-        "channelId": "UCcBkkrs19GIHc6k3l5UGxiw",
-        "title": "プロが選ぶ！飼いやすい猫種ランキングTOP10！　＃猫 ＃飼い方 ＃猫種 #ペットショップ",
-        "description": "【ビークラブ猫店】\n〒305-0817 茨城県つくば市研究学園3-3\n猫の事なら「ビークラブ猫店」にお任せ😊\n\n#ペットショップ #飼い方 #子猫 #ブリーダー #保護猫 #猫のいる暮らし",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VgiuH6uv3A4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VgiuH6uv3A4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VgiuH6uv3A4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VgiuH6uv3A4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VgiuH6uv3A4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "キャットブリーダー 沢辺",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "プロが選ぶ！飼いやすい猫種ランキングTOP10！　＃猫 ＃飼い方 ＃猫種 #ペットショップ",
-          "description": "【ビークラブ猫店】\n〒305-0817 茨城県つくば市研究学園3-3\n猫の事なら「ビークラブ猫店」にお任せ😊\n\n#ペットショップ #飼い方 #子猫 #ブリーダー #保護猫 #猫のいる暮らし"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "555782",
-        "likeCount": "12037",
-        "favoriteCount": "0",
-        "commentCount": "399"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eYv-8ILv29GBigo3DOihkJvW9ps",
-      "id": "VigKzMhc9uY",
-      "snippet": {
-        "publishedAt": "2025-09-05T15:29:45Z",
-        "channelId": "UCqv_hqsBfOHoijrEDAsPYWw",
-        "title": "結婚できない男　猫Ver",
-        "description": "Thank you very much!\n引用元：jared_and_milo\n\n使用させていただいた音声\n声と音の小部屋 酉月（こえとおとのこべや　ゆうげつ）",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VigKzMhc9uY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VigKzMhc9uY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VigKzMhc9uY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VigKzMhc9uY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VigKzMhc9uY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ニヤリハット",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "結婚できない男　猫Ver",
-          "description": "Thank you very much!\n引用元：jared_and_milo\n\n使用させていただいた音声\n声と音の小部屋 酉月（こえとおとのこべや　ゆうげつ）"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "351385",
-        "likeCount": "13194",
-        "favoriteCount": "0",
-        "commentCount": "88"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hiFoVxj64sFhFz5JH47eJCn53-4",
-      "id": "bLtZP9ZB9WM",
-      "snippet": {
-        "publishedAt": "2025-08-29T10:01:08Z",
-        "channelId": "UCFh85p2OyoOxpGyI7TH0eoA",
-        "title": "愛する子猫を人間に託した母猫#猫 #猫動画 #猫のいる暮らし #感動",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bLtZP9ZB9WM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bLtZP9ZB9WM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bLtZP9ZB9WM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bLtZP9ZB9WM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bLtZP9ZB9WM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "奇跡の1分",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "愛する子猫を人間に託した母猫#猫 #猫動画 #猫のいる暮らし #感動",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT51S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1340153",
-        "likeCount": "66581",
-        "favoriteCount": "0",
-        "commentCount": "867"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "m7rujGxPaCaodAfi6uEi5Wx1Jos",
-      "id": "2KaUiUmxG8g",
-      "snippet": {
-        "publishedAt": "2025-08-31T12:00:05Z",
+        "publishedAt": "2025-11-15T12:01:34Z",
         "channelId": "UC_uufhAV9cEMy216huCrMzA",
-        "title": "フェネックの良い所だけ紹介したら怒られたので悪い所も発表してみたwwwww",
+        "title": "ハスキーとゴールデンレトリバーのヤバさを並べてみたｗｗｗｗｗ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2KaUiUmxG8g/default.jpg",
+            "url": "https://i.ytimg.com/vi/jy_8iQtFOrU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2KaUiUmxG8g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jy_8iQtFOrU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2KaUiUmxG8g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jy_8iQtFOrU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2KaUiUmxG8g/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/jy_8iQtFOrU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2KaUiUmxG8g/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jy_8iQtFOrU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -2821,20 +2157,20 @@
           "雑学",
           "オールマイティラボ",
           "イッヌネコ大学",
-          "フェネック",
-          "柴犬"
+          "ハスキー",
+          "ゴールデンレトリバー"
         ],
         "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "フェネックの良い所だけ紹介したら怒られたので悪い所も発表してみたwwwww",
+          "title": "ハスキーとゴールデンレトリバーのヤバさを並べてみたｗｗｗｗｗ",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT1M3S",
+        "duration": "PT59S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2843,122 +2179,184 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "898672",
-        "likeCount": "29264",
+        "viewCount": "493720",
+        "likeCount": "10884",
         "favoriteCount": "0",
-        "commentCount": "206"
+        "commentCount": "128"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "reDHPi37Luq6wKHPxLX1Mn8kbkU",
-      "id": "sQwMQWpRyNs",
+      "etag": "NegA68sEqL-hRNRMQjWD-q0bO28",
+      "id": "bXPAd1oifxY",
       "snippet": {
-        "publishedAt": "2025-08-31T13:19:30Z",
-        "channelId": "UChTYXmkz2oPnpzIYuOgzf6w",
-        "title": "にゃんこたちが喧嘩している最中に、魚を持って現れた男性",
+        "publishedAt": "2025-11-14T11:01:19Z",
+        "channelId": "UCzC6hTB5XfNmtD5WpaGn6Ew",
+        "title": "#shorts#猫#面白い#笑える#ほっこり#癒し",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sQwMQWpRyNs/default.jpg",
+            "url": "https://i.ytimg.com/vi/bXPAd1oifxY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sQwMQWpRyNs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bXPAd1oifxY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sQwMQWpRyNs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bXPAd1oifxY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/sQwMQWpRyNs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/bXPAd1oifxY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/sQwMQWpRyNs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bXPAd1oifxY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ふわまるん ",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "にゃんこたちが喧嘩している最中に、魚を持って現れた男性",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT48S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "755171",
-        "likeCount": "9626",
-        "favoriteCount": "0",
-        "commentCount": "147"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "sBnr4-O9pv5UPsJ6kaLVi4ZWX9o",
-      "id": "dQr_TagQNI4",
-      "snippet": {
-        "publishedAt": "2025-09-05T10:01:18Z",
-        "channelId": "UC4URX_WLZ2EHWuIOtTpYXyA",
-        "title": "愛犬なら当てて当然だよ...ね？",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dQr_TagQNI4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dQr_TagQNI4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dQr_TagQNI4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dQr_TagQNI4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dQr_TagQNI4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "あかびんたん",
+        "channelTitle": "バズレート【面白動画まとめ】",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "愛犬なら当てて当然だよ...ね？",
+          "title": "#shorts#猫#面白い#笑える#ほっこり#癒し",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT1M9S",
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "651601",
+        "likeCount": "26511",
+        "favoriteCount": "0",
+        "commentCount": "338"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YLB3WFM5gN3tRwfHupATGFgGbew",
+      "id": "ACdGvv0o4bI",
+      "snippet": {
+        "publishedAt": "2025-11-11T17:00:23Z",
+        "channelId": "UC0Sq9_yM_rM6NSSVEnF1p9Q",
+        "title": "Ranking Best Owl Moments",
+        "description": "#ranking #shorts #owl #funny",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ACdGvv0o4bI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ACdGvv0o4bI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ACdGvv0o4bI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ACdGvv0o4bI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ACdGvv0o4bI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "StreamerClipz",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ranking Best Owl Moments",
+          "description": "#ranking #shorts #owl #funny"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11176406",
+        "likeCount": "395519",
+        "favoriteCount": "0",
+        "commentCount": "3859"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "knZV86c51Fpdk8zGb7dYh30EDPY",
+      "id": "lmJh-vtRMiE",
+      "snippet": {
+        "publishedAt": "2025-11-15T08:00:57Z",
+        "channelId": "UC7DcY9Brw0oi6NfDJR9qFvg",
+        "title": "ライオンのような野良犬の結末は？",
+        "description": "VOICEVOX：四国めたん\n\n#感動 #感動する話 #感動なみだ #保護 #犬 #愛犬 #信頼 #涙 #愛 #ショート",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lmJh-vtRMiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lmJh-vtRMiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lmJh-vtRMiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lmJh-vtRMiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lmJh-vtRMiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1分感動シアター",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ライオンのような野良犬の結末は？",
+          "description": "VOICEVOX：四国めたん\n\n#感動 #感動する話 #感動なみだ #保護 #犬 #愛犬 #信頼 #涙 #愛 #ショート"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2967,57 +2365,119 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "277724",
-        "likeCount": "10843",
+        "viewCount": "457526",
+        "likeCount": "19795",
         "favoriteCount": "0",
-        "commentCount": "68"
+        "commentCount": "216"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NHl2PQSZz6I_HOUen62vrkZqu7I",
-      "id": "4kigfbw5NTU",
+      "etag": "wlkk6-gWFItAXzkOfJIKIWf9qUs",
+      "id": "JwW95o3NgtU",
       "snippet": {
-        "publishedAt": "2025-09-01T22:00:09Z",
-        "channelId": "UCkAhwU1U-lityMJmQBSjexA",
-        "title": "道路で爆睡⁉️お兄ちゃん来たのに気づかないゴールデン😂　　　　#ゴールデンレトリバー #大型犬　#犬　#かわいい犬 #犬のいる暮らし",
-        "description": "",
+        "publishedAt": "2025-11-17T17:33:56Z",
+        "channelId": "UCn4UOcHWNBSg0QpKJspxczw",
+        "title": "犬の警戒心は信じるべきだった",
+        "description": "引用元：joe.and.jamie",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4kigfbw5NTU/default.jpg",
+            "url": "https://i.ytimg.com/vi/JwW95o3NgtU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4kigfbw5NTU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JwW95o3NgtU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4kigfbw5NTU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JwW95o3NgtU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4kigfbw5NTU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/JwW95o3NgtU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/4kigfbw5NTU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JwW95o3NgtU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "毎日わんちゃん動画🍀かわいい犬たち🐶",
-        "categoryId": "15",
+        "channelTitle": "海外ストーリー",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "道路で爆睡⁉️お兄ちゃん来たのに気づかないゴールデン😂　　　　#ゴールデンレトリバー #大型犬　#犬　#かわいい犬 #犬のいる暮らし",
-          "description": ""
+          "title": "犬の警戒心は信じるべきだった",
+          "description": "引用元：joe.and.jamie"
         },
         "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "329747",
+        "likeCount": "9785",
+        "favoriteCount": "0",
+        "commentCount": "145"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o3315KG_S0ZPfdyWqgtYgny7JYQ",
+      "id": "tKhN5jEsgk0",
+      "snippet": {
+        "publishedAt": "2025-11-12T09:12:09Z",
+        "channelId": "UCe1ccVu6RXvzwlWc6uZRu5g",
+        "title": "プロのトリマーに出会った猫の反応は？",
+        "description": "トリミング中、パンチを繰り出す猫。\nしかし相手はベテランスタッフ。\nどんな攻撃にも動じず、逆にイタズラで応戦します。\n戸惑う猫の表情がなんとも言えませんね。\nまるで「負けたニャ…」って顔です。\n\n動画が気に入ったら、チャンネル登録といいねをお願いします！\n\n#猫 #ねこ #猫動画 #トリマー #猫パンチ \n#トリミング #面白動画 #癒し動画 #猫の気持ち #ショート動画\n\n\n🎤VOICEVOX:東北きりたん",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tKhN5jEsgk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tKhN5jEsgk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tKhN5jEsgk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tKhN5jEsgk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tKhN5jEsgk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "にゃんぱんち! Punch",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "プロのトリマーに出会った猫の反応は？",
+          "description": "トリミング中、パンチを繰り出す猫。\nしかし相手はベテランスタッフ。\nどんな攻撃にも動じず、逆にイタズラで応戦します。\n戸惑う猫の表情がなんとも言えませんね。\nまるで「負けたニャ…」って顔です。\n\n動画が気に入ったら、チャンネル登録といいねをお願いします！\n\n#猫 #ねこ #猫動画 #トリマー #猫パンチ \n#トリミング #面白動画 #癒し動画 #猫の気持ち #ショート動画\n\n\n🎤VOICEVOX:東北きりたん"
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT25S",
@@ -3029,60 +2489,122 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "602584",
-        "likeCount": "5142",
+        "viewCount": "803402",
+        "likeCount": "22815",
         "favoriteCount": "0",
-        "commentCount": "52"
+        "commentCount": "84"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "LGWrVdCVzilrKDXYciedtXCFBt4",
-      "id": "-2Le6Q_46ok",
+      "etag": "fX9S5e8IR2mGGQu6U8NPGqJDtqs",
+      "id": "bNMJmSW2Deo",
       "snippet": {
-        "publishedAt": "2025-08-30T10:00:00Z",
-        "channelId": "UCYWJ6l4o_fBeeKeBuw15wAg",
-        "title": "【おどじ】間違えて妹に座るおどじな兄ハスキーwww",
-        "description": "",
+        "publishedAt": "2025-11-15T02:48:01Z",
+        "channelId": "UCyxqA4wHX9MZv34_0YJL2ig",
+        "title": "世界でバズった小さなモンスター",
+        "description": "出典: https://www.instagram.com/kornishon_marmozet?igsh=aTJzdWZrZWhuc3Y0",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-2Le6Q_46ok/default.jpg",
+            "url": "https://i.ytimg.com/vi/bNMJmSW2Deo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-2Le6Q_46ok/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNMJmSW2Deo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-2Le6Q_46ok/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNMJmSW2Deo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-2Le6Q_46ok/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNMJmSW2Deo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-2Le6Q_46ok/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bNMJmSW2Deo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "善ちゃんちスタイル",
+        "channelTitle": "僕はバズ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界でバズった小さなモンスター",
+          "description": "出典: https://www.instagram.com/kornishon_marmozet?igsh=aTJzdWZrZWhuc3Y0"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "655591",
+        "likeCount": "15539",
+        "favoriteCount": "0",
+        "commentCount": "170"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SI8U_7fGSW2xxYnj7wzhXZlC1YQ",
+      "id": "CzpLFYwKmKk",
+      "snippet": {
+        "publishedAt": "2025-11-15T02:37:03Z",
+        "channelId": "UCNSlAP9eTnZwcMK5Mij6Rqw",
+        "title": "リズム感良すぎ笑　#shorts#動物#かわいい#可愛い#癒し#癒し動画 #鳥 #リズミカル #邪魔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CzpLFYwKmKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CzpLFYwKmKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CzpLFYwKmKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CzpLFYwKmKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CzpLFYwKmKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "癒しのお届け便【可愛い動物】",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "【おどじ】間違えて妹に座るおどじな兄ハスキーwww",
+          "title": "リズム感良すぎ笑　#shorts#動物#かわいい#可愛い#癒し#癒し動画 #鳥 #リズミカル #邪魔",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3091,60 +2613,373 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "778494",
-        "likeCount": "18845",
+        "viewCount": "459617",
+        "likeCount": "19566",
         "favoriteCount": "0",
-        "commentCount": "95"
+        "commentCount": "623"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "pB0-O4S8H61jKYFlh8_j2Yteaag",
-      "id": "e7vysLFqmxs",
+      "etag": "O4lLG1f60pZaO9cdmG6WnXcd9eo",
+      "id": "67fGStSu6qo",
       "snippet": {
-        "publishedAt": "2025-09-03T18:11:57Z",
-        "channelId": "UCoRVnrDmJ1Ywt11YHxfAjSw",
-        "title": "Can Starbucks Make a Water for our Dog Nolan?",
-        "description": "Can Starbucks Make a Water for our Dog Nolan?",
+        "publishedAt": "2025-11-10T05:47:02Z",
+        "channelId": "UC3k_kQzuTL0jHMhJDQAGW-g",
+        "title": "\"Who did this?\" Funny Baby Blames Dogs for Kitchen Mess!",
+        "description": "When mom asks the ultimate question, \"Who did this?\" the baby, completely covered in flour, doesn't miss a beat. He immediately points the finger at his loyal partners in crime: a Siberian Husky and a Golden Retriever (and the cat!). The dogs look on innocently as the baby tries to sell the story. The baby's adorable guilty laugh at the end is the best part!#FunnyBaby #BabyBlamesDog #KitchenMess #SiberianHusky #GoldenRetriever #KidsAreFunny #CuteBaby #BabiesAndPets #FunnyDogs #Guilty",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/e7vysLFqmxs/default.jpg",
+            "url": "https://i.ytimg.com/vi/67fGStSu6qo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/e7vysLFqmxs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/67fGStSu6qo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/e7vysLFqmxs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/67fGStSu6qo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/e7vysLFqmxs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/67fGStSu6qo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/e7vysLFqmxs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/67fGStSu6qo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "The Richey Family",
+        "channelTitle": "ElephantExplore",
+        "tags": [
+          "funny baby",
+          "baby blames dog",
+          "who did this",
+          "baby points at dog",
+          "kitchen mess",
+          "baby flour mess",
+          "siberian husky",
+          "golden retriever",
+          "babies and pets",
+          "husky and baby",
+          "golden retriever and baby",
+          "funny dogs",
+          "cat",
+          "cute baby",
+          "kids are funny",
+          "baby laughing",
+          "hilarious video",
+          "guilty baby",
+          "innocent dogs",
+          "viral baby",
+          "baby blames husky for mess",
+          "baby covered in flour",
+          "funny kids pointing",
+          "baby makes a mess",
+          "partner in crime",
+          "funny video",
+          "cute",
+          "lol",
+          "shorts",
+          "viral"
+        ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "スターバックスは私たちの犬ノーランのために水を用意してくれる？",
-          "description": "スターバックスは私たちの犬ノーランのために水を用意してくれる？"
+          "title": "「誰がこんなことをしたの？」面白い赤ちゃんがキッチンの汚れを犬のせいにする！",
+          "description": "お母さんが究極の質問「誰がやったの？」と尋ねると、小麦粉まみれの赤ちゃんは一瞬の迷いもなく、すぐに忠実な相棒であるシベリアンハスキーとゴールデンレトリバー（そして猫！）を指差します。赤ちゃんが言い訳をしようと必死に語るのを、犬たちは無邪気に見守っています。最後に見せる、赤ちゃんの愛らしい罪悪感に満ちた笑い声は最高です！#FunnyBaby #BabyBlamesDog #KitchenMess #SiberianHusky #GoldenRetriever #KidsAreFunny #CuteBaby #BabiesAndPets #FunnyDogs #Guilty"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3632550",
+        "likeCount": "70455",
+        "favoriteCount": "0",
+        "commentCount": "1041"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sYzSgrurZBFf73bUk0uQsKFPgd4",
+      "id": "W_pGXTqBTRE",
+      "snippet": {
+        "publishedAt": "2025-11-07T11:01:10Z",
+        "channelId": "UCNwtrKfqZGQF0qZtVnSU_Mw",
+        "title": "お爺さんとイノシシの感動ストーリー　#動物のいる暮らし #動物 #いのしし",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W_pGXTqBTRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W_pGXTqBTRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W_pGXTqBTRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W_pGXTqBTRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W_pGXTqBTRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ペットにしたい",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "お爺さんとイノシシの感動ストーリー　#動物のいる暮らし #動物 #いのしし",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT2M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3208923",
+        "likeCount": "70389",
+        "favoriteCount": "0",
+        "commentCount": "688"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "94PnblOHqTiH2B_AJFePZlj-Xp4",
+      "id": "q6dBnnGxz4c",
+      "snippet": {
+        "publishedAt": "2025-11-11T09:26:40Z",
+        "channelId": "UCiNwcnMDShpDb-aDHswUWIw",
+        "title": "配達中に大型犬と出会ったら？",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6dBnnGxz4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6dBnnGxz4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6dBnnGxz4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q6dBnnGxz4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q6dBnnGxz4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ワクワク",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "配達中に大型犬と出会ったら？",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "978776",
+        "likeCount": "27608",
+        "favoriteCount": "0",
+        "commentCount": "176"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Pe7Y9wZqiPwQqTy1oTzkidtQv_A",
+      "id": "11WinUDIH7U",
+      "snippet": {
+        "publishedAt": "2025-11-14T10:41:17Z",
+        "channelId": "UCGV5gnL5jzeuepHf-Sp8hsw",
+        "title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #JhoanDuran",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/11WinUDIH7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/11WinUDIH7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/11WinUDIH7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/11WinUDIH7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/11WinUDIH7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Elliotte Staub",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "フィリーズがMLBトレード期限前にオールスタークローザーのジョアン・デュランを獲得👀🔥 #JhoanDuran",
+          "description": ""
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT1M13S",
+        "duration": "PT1M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7702870",
+        "likeCount": "334214",
+        "favoriteCount": "0",
+        "commentCount": "2542"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tqBs-HEGlagh7oyF9xoJYj0ZqEA",
+      "id": "iRyj_8dUP1k",
+      "snippet": {
+        "publishedAt": "2025-11-15T02:00:03Z",
+        "channelId": "UCAVoE61iuEJwhjzgpH340NA",
+        "title": "K9 golden retriever dog pushes a barrel to save everyone in bus! #story #dog",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRyj_8dUP1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRyj_8dUP1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRyj_8dUP1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iRyj_8dUP1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iRyj_8dUP1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Golden Retrieverr Story",
+        "tags": [
+          "K9 dog warning bus driver",
+          "dog saves passengers",
+          "K9 dog saves bus",
+          "golden retriever saves bus",
+          "golden retriever police dog",
+          "police K9 dog",
+          "golden retriever intelligent dog",
+          "dog pushes barrel",
+          "dog stops bus",
+          "smart dog saves people",
+          "dog blocks bus",
+          "dog enters bus",
+          "dog saves tourists",
+          "animal shorts",
+          "golden retriever animation",
+          "emotional dog story",
+          "golden retrieverr",
+          "animal animation",
+          "feel good",
+          "shorts feed",
+          "shorts",
+          "short",
+          "trending shorts",
+          "viral shorts",
+          "fyp"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "警察犬ゴールデンレトリバーが樽を押してバスの乗客全員を救出！ #ストーリー #犬",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3153,60 +2988,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "14971848",
-        "likeCount": "392694",
+        "viewCount": "9238107",
+        "likeCount": "101302",
         "favoriteCount": "0",
-        "commentCount": "255"
+        "commentCount": "339"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vhBrx_cJiML6VFiupLKmTeLbYYg",
-      "id": "akEOxVuPOXw",
+      "etag": "WNHoeJoB4f4qjpjqhL9-Qm7rZaY",
+      "id": "BJgW1qBgCZY",
       "snippet": {
-        "publishedAt": "2025-09-04T12:00:06Z",
-        "channelId": "UCa1icFZOpMhpJF77nq-f4oA",
-        "title": "もっちゃんの病状と動画に関するご報告です😢 #猫",
+        "publishedAt": "2025-11-13T05:45:01Z",
+        "channelId": "UCS9wlXLeVxTqXgPWU3kn7EQ",
+        "title": "水族館でラッコが水槽から出て小さな子供に抱きつく🦦👦 #ラッコ #children @chiero_piero",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/akEOxVuPOXw/default.jpg",
+            "url": "https://i.ytimg.com/vi/BJgW1qBgCZY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/akEOxVuPOXw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BJgW1qBgCZY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/akEOxVuPOXw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BJgW1qBgCZY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/akEOxVuPOXw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/BJgW1qBgCZY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/akEOxVuPOXw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BJgW1qBgCZY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ねこぞー@猫のお役立ち情報",
-        "categoryId": "15",
+        "channelTitle": "チエロ@可愛い10秒をお届け中",
+        "categoryId": "26",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "もっちゃんの病状と動画に関するご報告です😢 #猫",
+          "title": "水族館でラッコが水槽から出て小さな子供に抱きつく🦦👦 #ラッコ #children @chiero_piero",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT1M",
+        "duration": "PT11S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3215,60 +3050,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "341933",
-        "likeCount": "27843",
+        "viewCount": "609954",
+        "likeCount": "4392",
         "favoriteCount": "0",
-        "commentCount": "383"
+        "commentCount": "78"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3g8F89JpnTryAB4_292TWLOJUc0",
-      "id": "H2b6Rt3lJ-A",
+      "etag": "jIpZkCmdNiF65wMvpNOrT-d7gEM",
+      "id": "2lBFyxw2NMU",
       "snippet": {
-        "publishedAt": "2025-09-01T11:00:33Z",
-        "channelId": "UC3CN-6HD65mLjZe_nO0KcCg",
-        "title": "世界一可愛いと言われた猫がオエオエした1日　#cat #保護猫",
-        "description": "",
+        "publishedAt": "2025-11-14T11:00:09Z",
+        "channelId": "UCgdjAy82I-ysUMxvtPzNLBA",
+        "title": "Dog Protects Baby—Heartwarming Moment!",
+        "description": "Dog Protects Baby—Heartwarming Moment!\n💖 En estos momentos extraordinarios, los animales mostraron que el amor y la lealtad no tienen fronteras.\n🐕 Observa cómo estos héroes con pelaje salvaron vidas humanas en situaciones extremas.\n🎥 Videos motivadores para recordar que los animales también tienen corazón.\n\n⚠️ AI-Generated Video Notice\nThis video is fully created by AI. All characters, scenes and events are fictional, with no connection to real people or facts. It’s for entertainment/creative use only. No real individuals or entities were harmed, and any similarity to reality is coincidental.\n⚠️ No animals or humans were harmed in the production of this content !",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/H2b6Rt3lJ-A/default.jpg",
+            "url": "https://i.ytimg.com/vi/2lBFyxw2NMU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/H2b6Rt3lJ-A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2lBFyxw2NMU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/H2b6Rt3lJ-A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2lBFyxw2NMU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/H2b6Rt3lJ-A/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/2lBFyxw2NMU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/H2b6Rt3lJ-A/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2lBFyxw2NMU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "つなまよの親バカ日記",
-        "categoryId": "15",
+        "channelTitle": "Emeline Lefrançois",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
+        "defaultLanguage": "es",
         "localized": {
-          "title": "世界一可愛いと言われた猫がオエオエした1日　#cat #保護猫",
-          "description": ""
+          "title": "Dog Protects Baby—Heartwarming Moment!",
+          "description": "Dog Protects Baby—Heartwarming Moment!\n💖 En estos momentos extraordinarios, los animales mostraron que el amor y la lealtad no tienen fronteras.\n🐕 Observa cómo estos héroes con pelaje salvaron vidas humanas en situaciones extremas.\n🎥 Videos motivadores para recordar que los animales también tienen corazón.\n\n⚠️ AI-Generated Video Notice\nThis video is fully created by AI. All characters, scenes and events are fictional, with no connection to real people or facts. It’s for entertainment/creative use only. No real individuals or entities were harmed, and any similarity to reality is coincidental.\n⚠️ No animals or humans were harmed in the production of this content !"
         },
-        "defaultAudioLanguage": "ja"
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT1M3S",
+        "duration": "PT52S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3277,10 +3112,214 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "858009",
-        "likeCount": "39329",
+        "viewCount": "28319421",
+        "likeCount": "526735",
         "favoriteCount": "0",
-        "commentCount": "222"
+        "commentCount": "13927"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pJZRlKkl4nbF30gl1cL3CfMxAp8",
+      "id": "pCJ0KSqR6nk",
+      "snippet": {
+        "publishedAt": "2025-11-12T11:18:23Z",
+        "channelId": "UCEQCLSTvrNgDzKjVZdWQCZA",
+        "title": "#funny #funnybaby #relatable",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pCJ0KSqR6nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pCJ0KSqR6nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pCJ0KSqR6nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pCJ0KSqR6nk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pCJ0KSqR6nk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wszdhbb",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#面白い #面白い赤ちゃん #共感できる",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3332092",
+        "likeCount": "110560",
+        "favoriteCount": "0",
+        "commentCount": "1249"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3gbjUaoGfq_I1oUteZZ0D9087jE",
+      "id": "6wr6FNX2-LU",
+      "snippet": {
+        "publishedAt": "2025-11-16T08:30:09Z",
+        "channelId": "UCH_QLndqhJTjQkWLlTY1blA",
+        "title": "「ゾウ送りつけてやる」ボツワナのゾウ問題についての雑学",
+        "description": "「ゾウ送りつけてやる」ボツワナのゾウ問題についての雑学を紹介しています。 \n皆さんの知っている雑学やあるあるもぜひコメントで！  \n\nVOICEVOX:四国めたん",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wr6FNX2-LU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wr6FNX2-LU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wr6FNX2-LU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6wr6FNX2-LU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6wr6FNX2-LU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "がばがば雑学の人",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "「ゾウ送りつけてやる」ボツワナのゾウ問題についての雑学",
+          "description": "「ゾウ送りつけてやる」ボツワナのゾウ問題についての雑学を紹介しています。 \n皆さんの知っている雑学やあるあるもぜひコメントで！  \n\nVOICEVOX:四国めたん"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "417695",
+        "likeCount": "10815",
+        "favoriteCount": "0",
+        "commentCount": "840"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hz_SOR3DJMMuJE48LUNYMOa21Fg",
+      "id": "vbvTLXR002g",
+      "snippet": {
+        "publishedAt": "2025-11-13T11:53:01Z",
+        "channelId": "UCtq-YnnMcvIB3MFF8zfl1-Q",
+        "title": "「武装色の覇気(泥)」をまとい大人達を恐怖させる柴犬 #shorts #柴犬 #shibainu",
+        "description": "☆シヴァ犬こむぎっす！全まとめ☆\nhttps://youtube.com/playlist?list=PLkigft6nHUkKmWhRJdvMXdvK1UTGWfsQq\n\n今回の動画\n↓↓↓\n\n【動画編集者】\n・ママ\n\n【音源】\n・https://dova-s.jp/_mobile/\n\n#柴犬\n#癒し\n#dog\n\n【関連動画】\n主人給兩隻狗狗洗澡，柴犬滿臉寫著拒絕\nhttps://www.youtube.com/watch?v=Mv8_RC_Xc6U\n【柴犬】本当にあった怖くない話\nhttps://www.youtube.com/watch?v=RXry5cGY6JQ\n【しゃべる】最後のご飯を早食いし、ものすごく後悔してる柴犬\nhttps://www.youtube.com/watch?v=Jh8PZFJZEek\n【Magic】下手な手品に感動してくれる柴犬！\nhttps://www.youtube.com/watch?v=c-X7UkQ_38Y\n【大暴れ】柴犬が初めての河川敷、散歩で興奮状態に\nhttps://www.youtube.com/watch?v=hQBgCyho39k\n【おもしろ動画】どうでもいい柴犬の日常ニュース\nhttps://www.youtube.com/watch?v=aF9Ob-F4u5s\n【おもちゃ】家に謎の物体「ぷぴぷぴ」がやってきた【柴犬】\nhttps://www.youtube.com/watch?v=mtERXYoUlno\n【しゃべる】ブチ切れ！物にあたる柴犬\nhttps://www.youtube.com/watch?v=S346F_jSsfk\n【しゃべる】ご飯が食べたいと駄々をこねる柴犬\nhttps://www.youtube.com/watch?v=l9k2QVWKZXs\n【柴犬】病院の注射にプチギレる犬\nhttps://www.youtube.com/watch?v=NDjhps0wukM\n【柴犬】塩対応から最高のお出迎えをする犬\nhttps://www.youtube.com/watch?v=zgpSymtIyD4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vbvTLXR002g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vbvTLXR002g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vbvTLXR002g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vbvTLXR002g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vbvTLXR002g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "シヴァ犬こむぎっす-KOMUGI",
+        "tags": [
+          "dog",
+          "ペット",
+          "動物",
+          "家族",
+          "可愛い",
+          "癒し",
+          "柴犬",
+          "かわいい",
+          "family",
+          "ファミリー"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "「武装色の覇気(泥)」をまとい大人達を恐怖させる柴犬 #shorts #柴犬 #shibainu",
+          "description": "☆シヴァ犬こむぎっす！全まとめ☆\nhttps://youtube.com/playlist?list=PLkigft6nHUkKmWhRJdvMXdvK1UTGWfsQq\n\n今回の動画\n↓↓↓\n\n【動画編集者】\n・ママ\n\n【音源】\n・https://dova-s.jp/_mobile/\n\n#柴犬\n#癒し\n#dog\n\n【関連動画】\n主人給兩隻狗狗洗澡，柴犬滿臉寫著拒絕\nhttps://www.youtube.com/watch?v=Mv8_RC_Xc6U\n【柴犬】本当にあった怖くない話\nhttps://www.youtube.com/watch?v=RXry5cGY6JQ\n【しゃべる】最後のご飯を早食いし、ものすごく後悔してる柴犬\nhttps://www.youtube.com/watch?v=Jh8PZFJZEek\n【Magic】下手な手品に感動してくれる柴犬！\nhttps://www.youtube.com/watch?v=c-X7UkQ_38Y\n【大暴れ】柴犬が初めての河川敷、散歩で興奮状態に\nhttps://www.youtube.com/watch?v=hQBgCyho39k\n【おもしろ動画】どうでもいい柴犬の日常ニュース\nhttps://www.youtube.com/watch?v=aF9Ob-F4u5s\n【おもちゃ】家に謎の物体「ぷぴぷぴ」がやってきた【柴犬】\nhttps://www.youtube.com/watch?v=mtERXYoUlno\n【しゃべる】ブチ切れ！物にあたる柴犬\nhttps://www.youtube.com/watch?v=S346F_jSsfk\n【しゃべる】ご飯が食べたいと駄々をこねる柴犬\nhttps://www.youtube.com/watch?v=l9k2QVWKZXs\n【柴犬】病院の注射にプチギレる犬\nhttps://www.youtube.com/watch?v=NDjhps0wukM\n【柴犬】塩対応から最高のお出迎えをする犬\nhttps://www.youtube.com/watch?v=zgpSymtIyD4"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "614115",
+        "likeCount": "8923",
+        "favoriteCount": "0",
+        "commentCount": "149"
       }
     }
   ],

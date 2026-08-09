@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "KgFkRihLIGp8pl_N7Z-hBEfD1t4",
+  "etag": "F5J4knYwQM9hvXm6CeMt06JVvRE",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "3QgT-XktnGvspCtB45l_jETz1Bc",
+      "etag": "RNgBrQKPCqoNAFhelGhtIaBEQi0",
       "id": "tdH06bfA1j4",
       "snippet": {
         "publishedAt": "2026-08-06T04:35:52Z",
@@ -58,263 +58,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3618732",
-        "likeCount": "206021",
+        "viewCount": "4384557",
+        "likeCount": "229701",
         "favoriteCount": "0",
-        "commentCount": "2053"
+        "commentCount": "2238"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "U3HNSs86zTxFSlqn_Gro4ZEWak0",
-      "id": "b41hUGwlqMM",
-      "snippet": {
-        "publishedAt": "2026-08-06T17:30:09Z",
-        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
-        "title": "How Noise Cancelling Headphones Work 🤔",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Zack D. Films",
-        "categoryId": "19",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How Noise Cancelling Headphones Work 🤔",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3048990",
-        "likeCount": "237821",
-        "favoriteCount": "0",
-        "commentCount": "994"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "sBFROZJp4GRSdLtYw3TrdIb-TG8",
-      "id": "GD0tqRdxFjk",
-      "snippet": {
-        "publishedAt": "2026-07-25T21:02:40Z",
-        "channelId": "UCAYTr-LOiD3i5IdAL7kh4Fw",
-        "title": "I Built a Transparent Screen Into My PC Case",
-        "description": "I Built a Transparent Screen Into My PC Case",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Chris Builds",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I Built a Transparent Screen Into My PC Case",
-          "description": "I Built a Transparent Screen Into My PC Case"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "25798505",
-        "likeCount": "1545859",
-        "favoriteCount": "0",
-        "commentCount": "5082"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "99vk96R44CEV3BOw2fX9cixGy_s",
-      "id": "EKzPGTXgCWU",
-      "snippet": {
-        "publishedAt": "2026-08-05T03:18:43Z",
-        "channelId": "UCkSVnUZq3q14lVajaQAlLpA",
-        "title": "A 3D Printed Key can UNLOCK Every Suitcase 😭",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Nathan Espinoza",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "A 3D Printed Key can UNLOCK Every Suitcase 😭",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M1S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3035624",
-        "likeCount": "160389",
-        "favoriteCount": "0",
-        "commentCount": "1572"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6oRS0HlfX99BFOywm0-5Z01y5zk",
-      "id": "_m06Sa9EBP8",
-      "snippet": {
-        "publishedAt": "2026-08-03T22:05:57Z",
-        "channelId": "UCGo0VEAAJW0o0FZdQ-wmTmQ",
-        "title": "Flock Cameras now track you via Bluetooth?! #ninjasarebutterflies #flock #camera #security",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Ninjas Are Butterflies ",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Flock Cameras now track you via Bluetooth?! #ninjasarebutterflies #flock #camera #security",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT54S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "867561",
-        "likeCount": "74724",
-        "favoriteCount": "0",
-        "commentCount": "4651"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VPSBsmp4JQBpqSy_b4C8hARCEl0",
+      "etag": "JALlrlq8QYdQSxnbW1B5VFlo26M",
       "id": "mPD0mDOI_MI",
       "snippet": {
         "publishedAt": "2026-08-04T22:47:52Z",
@@ -378,150 +130,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1205429",
-        "likeCount": "69391",
+        "viewCount": "2064489",
+        "likeCount": "110244",
         "favoriteCount": "0",
-        "commentCount": "537"
+        "commentCount": "885"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3L0-lIESHJ8YinAABZVokXwV96c",
-      "id": "mMiDHUh-m0w",
-      "snippet": {
-        "publishedAt": "2026-08-04T20:09:03Z",
-        "channelId": "UCCQi3X-PJGmd6DrPN9Rb6iw",
-        "title": "This is “Not” an N64 😉",
-        "description": "Check out the M64 from Mod Retro 👇\nhttps://modretro.com/products/m64",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Garett",
-        "tags": [
-          "Garett",
-          "Garett the Gamer",
-          "Garett the Gamer Shorts"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "This is “Not” an N64 😉",
-          "description": "Check out the M64 from Mod Retro 👇\nhttps://modretro.com/products/m64"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "929496",
-        "likeCount": "118861",
-        "favoriteCount": "0",
-        "commentCount": "1570"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PvzRDatETL8FmmAyodHTdySTUEQ",
-      "id": "aMXPzI-8jX0",
-      "snippet": {
-        "publishedAt": "2026-08-04T22:25:36Z",
-        "channelId": "UCPvRdfUooqCf0zPOYvbBzVA",
-        "title": "Why is Baby-Blue Thermal Paste so rare?",
-        "description": "Using Baby-Blue thermal paste to celebrate the latest addition to the Yeester family ☺️ will take a small break to make sure we get off on the right foot, after which I have tons of tech tinkering content planned, so stay tuned! Love you all #pc #pctips #pcbuilding #mryeester \n\nneed new thermal paste? check out YeesterPaste and all my thermal paste accessories! www.yeesterpaste.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "mryeester",
-        "tags": [
-          "PC",
-          "PC tips",
-          "PC building",
-          "mryeester"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Why is Baby-Blue Thermal Paste so rare?",
-          "description": "Using Baby-Blue thermal paste to celebrate the latest addition to the Yeester family ☺️ will take a small break to make sure we get off on the right foot, after which I have tons of tech tinkering content planned, so stay tuned! Love you all #pc #pctips #pcbuilding #mryeester \n\nneed new thermal paste? check out YeesterPaste and all my thermal paste accessories! www.yeesterpaste.com"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1333671",
-        "likeCount": "104053",
-        "favoriteCount": "0",
-        "commentCount": "2750"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UqlWCwqc2Rqi3-pjyFwaBTpDMdQ",
+      "etag": "62xm2RuWhetapJyA-gegbnHipXk",
       "id": "sglSftkhmGA",
       "snippet": {
         "publishedAt": "2026-08-06T21:30:04Z",
@@ -595,15 +212,521 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "489014",
-        "likeCount": "13232",
+        "viewCount": "1438428",
+        "likeCount": "33931",
         "favoriteCount": "0",
-        "commentCount": "191"
+        "commentCount": "508"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6N8vCd3o2NmhqwFwKFxua5S_Vdo",
+      "etag": "PeClFsl35Wqe84j1dAeNIoA3EV0",
+      "id": "b41hUGwlqMM",
+      "snippet": {
+        "publishedAt": "2026-08-06T17:30:09Z",
+        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
+        "title": "How Noise Cancelling Headphones Work 🤔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zack D. Films",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Noise Cancelling Headphones Work 🤔",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3317399",
+        "likeCount": "253099",
+        "favoriteCount": "0",
+        "commentCount": "1041"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bqpzNLYrrhkz6bdRdisNdE8G0gg",
+      "id": "EKzPGTXgCWU",
+      "snippet": {
+        "publishedAt": "2026-08-05T03:18:43Z",
+        "channelId": "UCkSVnUZq3q14lVajaQAlLpA",
+        "title": "A 3D Printed Key can UNLOCK Every Suitcase 😭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EKzPGTXgCWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nathan Espinoza",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "A 3D Printed Key can UNLOCK Every Suitcase 😭",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3681624",
+        "likeCount": "189367",
+        "favoriteCount": "0",
+        "commentCount": "1947"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ylNiZYAo7qbM458pHUBHT0F7G3Q",
+      "id": "GD0tqRdxFjk",
+      "snippet": {
+        "publishedAt": "2026-07-25T21:02:40Z",
+        "channelId": "UCAYTr-LOiD3i5IdAL7kh4Fw",
+        "title": "I Built a Transparent Screen Into My PC Case",
+        "description": "I Built a Transparent Screen Into My PC Case",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Builds",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Built a Transparent Screen Into My PC Case",
+          "description": "I Built a Transparent Screen Into My PC Case"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "26300466",
+        "likeCount": "1569075",
+        "favoriteCount": "0",
+        "commentCount": "5030"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_CWvdPUK4e-nHvp0Y3z_gVa17kc",
+      "id": "_m06Sa9EBP8",
+      "snippet": {
+        "publishedAt": "2026-08-03T22:05:57Z",
+        "channelId": "UCGo0VEAAJW0o0FZdQ-wmTmQ",
+        "title": "Flock Cameras now track you via Bluetooth?! #ninjasarebutterflies #flock #camera #security",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_m06Sa9EBP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ninjas Are Butterflies ",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Flock Cameras now track you via Bluetooth?! #ninjasarebutterflies #flock #camera #security",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "952024",
+        "likeCount": "79958",
+        "favoriteCount": "0",
+        "commentCount": "5067"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TcH6xzcxE4XVAwAqrSXwSq-agrk",
+      "id": "aMXPzI-8jX0",
+      "snippet": {
+        "publishedAt": "2026-08-04T22:25:36Z",
+        "channelId": "UCPvRdfUooqCf0zPOYvbBzVA",
+        "title": "Why is Baby-Blue Thermal Paste so rare?",
+        "description": "Using Baby-Blue thermal paste to celebrate the latest addition to the Yeester family ☺️ will take a small break to make sure we get off on the right foot, after which I have tons of tech tinkering content planned, so stay tuned! Love you all #pc #pctips #pcbuilding #mryeester \n\nneed new thermal paste? check out YeesterPaste and all my thermal paste accessories! www.yeesterpaste.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aMXPzI-8jX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "mryeester",
+        "tags": [
+          "PC",
+          "PC tips",
+          "PC building",
+          "mryeester"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why is Baby-Blue Thermal Paste so rare?",
+          "description": "Using Baby-Blue thermal paste to celebrate the latest addition to the Yeester family ☺️ will take a small break to make sure we get off on the right foot, after which I have tons of tech tinkering content planned, so stay tuned! Love you all #pc #pctips #pcbuilding #mryeester \n\nneed new thermal paste? check out YeesterPaste and all my thermal paste accessories! www.yeesterpaste.com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1849636",
+        "likeCount": "138730",
+        "favoriteCount": "0",
+        "commentCount": "3105"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wst0KIeUK30HwgEyp2Q67Uoj7bg",
+      "id": "mMiDHUh-m0w",
+      "snippet": {
+        "publishedAt": "2026-08-04T20:09:03Z",
+        "channelId": "UCCQi3X-PJGmd6DrPN9Rb6iw",
+        "title": "This is “Not” an N64 😉",
+        "description": "Check out the M64 from Mod Retro 👇\nhttps://modretro.com/products/m64",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mMiDHUh-m0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Garett",
+        "tags": [
+          "Garett",
+          "Garett the Gamer",
+          "Garett the Gamer Shorts"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "This is “Not” an N64 😉",
+          "description": "Check out the M64 from Mod Retro 👇\nhttps://modretro.com/products/m64"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "980071",
+        "likeCount": "123011",
+        "favoriteCount": "0",
+        "commentCount": "1611"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Od4bZYZ56dRHeMS3mLqncj0aSW4",
+      "id": "EKDuAjoPM-I",
+      "snippet": {
+        "publishedAt": "2026-08-05T21:10:19Z",
+        "channelId": "UCBzaCJIah02A1CttN-0nEtg",
+        "title": "You Have Been Using WD-40 Wrong 😳",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ReallyHotTea",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "You Have Been Using WD-40 Wrong 😳",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "904383",
+        "likeCount": "18118",
+        "favoriteCount": "0",
+        "commentCount": "153"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NV7NSII48N_5PxInHaAg-ufMizA",
+      "id": "Thh2i5SJAUw",
+      "snippet": {
+        "publishedAt": "2026-08-06T11:21:50Z",
+        "channelId": "UCw-kmsEgwTcljJEHvlEmiXQ",
+        "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
+        "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HARDWARE EN",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
+          "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2356765",
+        "likeCount": "81106",
+        "favoriteCount": "0",
+        "commentCount": "575"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CJBaGsFRlltNJNoMG3bR1V85mMo",
       "id": "kH_EKGTijv8",
       "snippet": {
         "publishedAt": "2026-08-05T18:57:03Z",
@@ -644,8 +767,7 @@
         "localized": {
           "title": "Sony Just Ruined the PS5",
           "description": "check out hxsain.com\n\n#shorts\u200b"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT48S",
@@ -657,15 +779,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1294047",
-        "likeCount": "81218",
+        "viewCount": "1486836",
+        "likeCount": "86512",
         "favoriteCount": "0",
-        "commentCount": "2916"
+        "commentCount": "3023"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EvcmPQ-mDEUeubZ4_sTnDtxpOFE",
+      "etag": "ceKJ80dO6J57bfOvBtoq-Vn1Af0",
+      "id": "Pu-T8bn4G8A",
+      "snippet": {
+        "publishedAt": "2026-08-08T19:30:16Z",
+        "channelId": "UC0KHZ5fenxT7CH2kjy9j4nw",
+        "title": "Nintendo Switch 2 Zelda Edition!",
+        "description": "Nintendo announced a special edition Nintendo Switch 2!\n#nintendoswitch2 #skit #nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pu-T8bn4G8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pu-T8bn4G8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pu-T8bn4G8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pu-T8bn4G8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pu-T8bn4G8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Teedle",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Nintendo Switch 2 Zelda Edition!",
+          "description": "Nintendo announced a special edition Nintendo Switch 2!\n#nintendoswitch2 #skit #nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "277156",
+        "likeCount": "31336",
+        "favoriteCount": "0",
+        "commentCount": "260"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qz2hfhRIxNlyQVmbjPu1uhc5Akc",
       "id": "qPYglT-pCSk",
       "snippet": {
         "publishedAt": "2026-08-02T00:45:33Z",
@@ -719,158 +903,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1478963",
-        "likeCount": "97463",
+        "viewCount": "1505584",
+        "likeCount": "98477",
         "favoriteCount": "0",
-        "commentCount": "4319"
+        "commentCount": "4366"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vj1piVOG3kecTUcs5poCcOmo1nQ",
-      "id": "_sLS0c_0xz8",
-      "snippet": {
-        "publishedAt": "2026-08-06T14:58:01Z",
-        "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
-        "title": "ChatGPT Created Ticket",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Aaron Rheins",
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "ChatGPT Created Ticket",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "727814",
-        "likeCount": "29856",
-        "favoriteCount": "0",
-        "commentCount": "518"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "9K7SvBvfdt9BWRvuHXNofpcZGrA",
-      "id": "OcWmwj-SZOM",
-      "snippet": {
-        "publishedAt": "2026-08-04T22:00:20Z",
-        "channelId": "UCYtHYzxsUH_QCZtrldLMyUg",
-        "title": "Alexa Is Making Creepy Noises And Revealing Private Details #Alexa #AI #Privacy #Viral",
-        "description": "Alexa Devices Make Creepy Noises and Reveal Users’ Private Personal Details\nCheck Out Quartering VLOGS : https://www.youtube.com/@QuarteringVlogs \nMultiple users share unsettling Alexa experiences, including a device making unexplained typing noises at 3 a.m., questioning a young child about her family, and unexpectedly referencing someone’s nursing-school history. The incidents have renewed concerns about smart speakers listening inside homes, retaining personal information, and speaking without being prompted.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "QuarteringLive",
-        "tags": [
-          "amazon alexa",
-          "alexa",
-          "smart speaker",
-          "artificial intelligence",
-          "privacy concerns",
-          "personal data",
-          "home surveillance",
-          "voice assistant",
-          "unexplained noises",
-          "creepy technology",
-          "data collection",
-          "child privacy",
-          "nursing school",
-          "amazon echo",
-          "cybersecurity",
-          "viral video",
-          "smart home privacy"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Alexa Is Making Creepy Noises And Revealing Private Details #Alexa #AI #Privacy #Viral",
-          "description": "Alexa Devices Make Creepy Noises and Reveal Users’ Private Personal Details\nCheck Out Quartering VLOGS : https://www.youtube.com/@QuarteringVlogs \nMultiple users share unsettling Alexa experiences, including a device making unexplained typing noises at 3 a.m., questioning a young child about her family, and unexpectedly referencing someone’s nursing-school history. The incidents have renewed concerns about smart speakers listening inside homes, retaining personal information, and speaking without being prompted."
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT2M58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "755005",
-        "likeCount": "47767",
-        "favoriteCount": "0",
-        "commentCount": "496"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "rmzL15AOCvcTYzUdjwP4puTm_Fc",
+      "etag": "qRhkjVT73eVCEgW_N_RBM8kwj5w",
       "id": "wX_A61HGWNg",
       "snippet": {
         "publishedAt": "2026-08-06T08:02:08Z",
@@ -924,15 +965,343 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "650146",
-        "likeCount": "44350",
+        "viewCount": "967858",
+        "likeCount": "62604",
         "favoriteCount": "0",
-        "commentCount": "7047"
+        "commentCount": "10336"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EhaElix-a83fVofNFoh8k7jxStk",
+      "etag": "R8ntWjGO1WAwUbGfP4EcwIEhCuw",
+      "id": "Aet5tZZulK4",
+      "snippet": {
+        "publishedAt": "2026-08-08T04:37:48Z",
+        "channelId": "UC55OTzCsvi4Azq2u1Ddw4Yw",
+        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Arun ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+          "description": ""
+        },
+        "defaultAudioLanguage": "it"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3686798",
+        "likeCount": "26359",
+        "favoriteCount": "0",
+        "commentCount": "94"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YtCKM07bcSi9f0CHnho8wusSe8Q",
+      "id": "f4VdofF9GQ0",
+      "snippet": {
+        "publishedAt": "2026-08-06T03:00:25Z",
+        "channelId": "UC4k2sEjl7eDhSwXaUjr3aLA",
+        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr Tungtungsahur Blue ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11216636",
+        "likeCount": "98980",
+        "favoriteCount": "0",
+        "commentCount": "99"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ecbYqJBt79hy91FPi5jBC0qeraE",
+      "id": "OcWmwj-SZOM",
+      "snippet": {
+        "publishedAt": "2026-08-04T22:00:20Z",
+        "channelId": "UCYtHYzxsUH_QCZtrldLMyUg",
+        "title": "Alexa Is Making Creepy Noises And Revealing Private Details #Alexa #AI #Privacy #Viral",
+        "description": "Support The Show & Try Our Coffee: https://coffeebrandcoffee.com/ Alexa Devices Make Creepy Noises and Reveal Users’ Private Personal Details\nCheck Out Quartering VLOGS : https://www.youtube.com/@QuarteringVlogs \nMultiple users share unsettling Alexa experiences, including a device making unexplained typing noises at 3 a.m., questioning a young child about her family, and unexpectedly referencing someone’s nursing-school history. The incidents have renewed concerns about smart speakers listening inside homes, retaining personal information, and speaking without being prompted.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OcWmwj-SZOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "QuarteringLive",
+        "tags": [
+          "amazon alexa",
+          "alexa",
+          "smart speaker",
+          "artificial intelligence",
+          "privacy concerns",
+          "personal data",
+          "home surveillance",
+          "voice assistant",
+          "unexplained noises",
+          "creepy technology",
+          "data collection",
+          "child privacy",
+          "nursing school",
+          "amazon echo",
+          "cybersecurity",
+          "viral video",
+          "smart home privacy"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Alexa Is Making Creepy Noises And Revealing Private Details #Alexa #AI #Privacy #Viral",
+          "description": "Support The Show & Try Our Coffee: https://coffeebrandcoffee.com/ Alexa Devices Make Creepy Noises and Reveal Users’ Private Personal Details\nCheck Out Quartering VLOGS : https://www.youtube.com/@QuarteringVlogs \nMultiple users share unsettling Alexa experiences, including a device making unexplained typing noises at 3 a.m., questioning a young child about her family, and unexpectedly referencing someone’s nursing-school history. The incidents have renewed concerns about smart speakers listening inside homes, retaining personal information, and speaking without being prompted."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "831387",
+        "likeCount": "52437",
+        "favoriteCount": "0",
+        "commentCount": "522"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nixjjsuYzomQet3i8lT4r48k5tw",
+      "id": "wPdGVZVwkpA",
+      "snippet": {
+        "publishedAt": "2026-08-06T17:13:37Z",
+        "channelId": "UCRJ4v7YE5nvri9ARLuMXaCQ",
+        "title": "INSANE Switch Easter Egg?!  #retrogaming #nintendo #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPdGVZVwkpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPdGVZVwkpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPdGVZVwkpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wPdGVZVwkpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wPdGVZVwkpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rob Law",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "INSANE Switch Easter Egg?!  #retrogaming #nintendo #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "356176",
+        "likeCount": "8943",
+        "favoriteCount": "0",
+        "commentCount": "175"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TpEI9UBGs_9dhpKJLiAVpIDBbcU",
+      "id": "_sLS0c_0xz8",
+      "snippet": {
+        "publishedAt": "2026-08-06T14:58:01Z",
+        "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
+        "title": "ChatGPT Created Ticket",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aaron Rheins",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ChatGPT Created Ticket",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "771385",
+        "likeCount": "31668",
+        "favoriteCount": "0",
+        "commentCount": "535"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mNAfjoVO5-Fwq7taXgXaDrt1ukA",
       "id": "Nxl_5XN3KAo",
       "snippet": {
         "publishedAt": "2026-08-05T11:26:15Z",
@@ -1007,15 +1376,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1216459",
-        "likeCount": "67831",
+        "viewCount": "1632742",
+        "likeCount": "83628",
         "favoriteCount": "0",
-        "commentCount": "414"
+        "commentCount": "489"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vulertKt0E4HUGYmd9zbQRY6KPo",
+      "etag": "Qoc4b4j9KCRea2HoehWAC_H5nq0",
       "id": "c78f1teu6Tk",
       "snippet": {
         "publishedAt": "2026-08-07T20:03:55Z",
@@ -1069,15 +1438,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "150099",
-        "likeCount": "14911",
+        "viewCount": "208647",
+        "likeCount": "18683",
         "favoriteCount": "0",
-        "commentCount": "301"
+        "commentCount": "361"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Xl1zFU7HikgPd7BaiCFrHC5ARKY",
+      "etag": "WxPRQBmN_wzjDexQg83BJDt7tCk",
+      "id": "D-NfEr50If4",
+      "snippet": {
+        "publishedAt": "2026-08-08T14:15:14Z",
+        "channelId": "UCBNqzxdXbV3Oki_aKtiS5UA",
+        "title": "Choose $10 Per Step or $100 Per Hour Gaming? 🤔",
+        "description": "Choose $10 Per Step or $100 Per Hour Gaming? 🤔 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-NfEr50If4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-NfEr50If4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-NfEr50If4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-NfEr50If4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-NfEr50If4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NYKentertain",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Choose $10 Per Step or $100 Per Hour Gaming? 🤔",
+          "description": "Choose $10 Per Step or $100 Per Hour Gaming? 🤔 #shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "587887",
+        "likeCount": "26542",
+        "favoriteCount": "0",
+        "commentCount": "185"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gxzRKVuyK_ZvOPiI-MuTk_nk4XE",
       "id": "Cz2dCa1t55Y",
       "snippet": {
         "publishedAt": "2026-08-05T15:00:12Z",
@@ -1131,15 +1562,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "367958",
-        "likeCount": "36497",
+        "viewCount": "383514",
+        "likeCount": "37626",
         "favoriteCount": "0",
-        "commentCount": "279"
+        "commentCount": "285"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NO_P0Hd9RrO_8jydnrbn2xA_gww",
+      "etag": "80HGNFlg4SW9LEsM-ttSh7nSjmQ",
       "id": "yd1KgZSDoVs",
       "snippet": {
         "publishedAt": "2026-08-01T11:11:45Z",
@@ -1192,92 +1623,79 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1765449",
-        "likeCount": "49379",
+        "viewCount": "1840717",
+        "likeCount": "50951",
         "favoriteCount": "0",
-        "commentCount": "109"
+        "commentCount": "118"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AZVJ-18G-B1TWTfRgJnWuPu4Ziw",
-      "id": "t6MAZW-joCo",
+      "etag": "YIs3Bz1S64EOwZdgaLXo7p9yVaE",
+      "id": "XiSMWonFuQQ",
       "snippet": {
-        "publishedAt": "2026-08-02T17:00:04Z",
+        "publishedAt": "2026-08-08T17:13:04Z",
         "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-        "title": "I Followed ChatGPT’s PC Build Guide (2026)",
-        "description": "Take your network to the next level with Omada’s Fusion 2.5G Gateway. Learn more using our link: https://tplinksystemsinc.pxf.io/Fusion_2.5G_Linus\n\nWith OpenAI plugging internet access into ChatGPT’s tail-end, I decided to re-evaluate just how fresh Sam Altman’s tech tips really are! And if they’re good enough to replace me… With that in mind, I’ll be following ChatGibidi every step of the way from our parts list to assembly.\n\nDiscuss on the forum: https://linustechtips.com/topic/1641357-i-followed-chatgpt%E2%80%99s-pc-build-guide-2026/\n\nCheck out the parts from the build! \n---\nCPU: AMD Ryzen 5 9600X: https://geni.us/fx2vJq\nCooler: Thermalright Peerless Assassin 120 SE: https://geni.us/voRQ7\nMotherboard: MSI PRO B650M-A WiFi Micro-ATX: https://geni.us/0BXeAaC\nMemory: Patriot Viper Elite 5 32GB DDR5 CL6000: https://geni.us/7s6Pt\nSSD: Silicon Power 1TB UD90 NVMe 4.0 Gen4 PCIe M.2: https://geni.us/a2iK\nGPU: ASRock AMD Radeon RX 7700 XT Challenger: https://geni.us/tjZT5D\nPSU: MSI MAG A750GL PCIE5 80+ Gold: https://geni.us/9pvqXsF\n\n---\n\nCheck out our Channel Partners:\nSecretlab - Grab a TITAN Evo ergonomic gaming chair:  https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n► SHOP LTT PRODUCTS: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► DIVE DEEPER ON THE LTT LABS WEBSITE: https://lmg.gg/labs\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\nPurchases made through some store links may provide some compensation to Linus Media Group. Affiliate links powered in part by https://affilimate.com/?aid=ghz1izbpb\n\nLinus Sebastian is an investor in Framework Computer, Inc and HexOS by Eshtek.\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:34 Prompting our build\n3:56 Sponsor\n4:15 Let's start building!\n5:47 Installing the CPU\n8:15 Installing the SSD\n10:09 Do NOT try this at home\n10:15 Installing RAM\n10:48 Reviewing our parts\n12:17 The CPU Cooler\n19:40 Prepping the Case\n22:22 The PSU\n25:05 Installing the GPU\n28:02 Ridiculous.\n29:14 Final Cabling\n32:27 We're booted!\n32:53 In-game Performance\n33:56 Conclusion\n34:12 Omada\n34:58 Outro",
+        "title": "Rating Every Version of Windows",
+        "description": "Traditional carriers leave your calls, texts, and identity exposed. Cape protects them with built-in defenses against signaling attacks, daily IMSI rotation, and privacy-first mobile service.\n\nUse code LTT and get 33% off your first 6 months: https://cape.co/LTT\n\nApp Download Links:\nApple: https://lmg.gg/CapeIOS\nGoogle: https://lmg.gg/CapeAndroid\n\nCape is also now available on the Accrescent App Store: https://accrescent.app/\n\nHot take, Windows [insert version here] is the best and Windows [insert your favorite version of windows] sucks. Hot take, I KNOW... But where does Linus rank them all? Let's find out!\n\nDiscuss on the forum: https://linustechtips.com/topic/1641622-ranking-every-version-of-windows/\n\nCheck out our Channel Partners:\nSecretlab - Grab a TITAN Evo ergonomic gaming chair:  https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n► SHOP LTT PRODUCTS: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► DIVE DEEPER ON THE LTT LABS WEBSITE: https://lmg.gg/labs\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\nPurchases made through some store links may provide some compensation to Linus Media Group. Affiliate links powered in part by https://affilimate.com/?aid=ghz1izbpb\n\nLinus Sebastian is an investor in Framework Computer, Inc and HexOS by Eshtek.\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:10 Windows 1 & 2\n2:30 Windows 3\n4:37 Start Me Up!\n6:53 Windows 98\n9:14 I don't want to talk about it.\n11:05 Windows XP\n14:42 Windows Vista\n17:33 Windows 7\n18:47 What do you mean you don't have a touchscreen?\n20:26 Windows 8.1\n22:12 Windows 10\n25:43 Windows 11\n28:50 Credits",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/t6MAZW-joCo/default.jpg",
+            "url": "https://i.ytimg.com/vi/XiSMWonFuQQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/t6MAZW-joCo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XiSMWonFuQQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/t6MAZW-joCo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XiSMWonFuQQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/t6MAZW-joCo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/XiSMWonFuQQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/t6MAZW-joCo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XiSMWonFuQQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "Linus Tech Tips",
         "tags": [
-          "Linus",
-          "LinusTech",
-          "AI",
-          "ChatGPT",
-          "ChatGibidi",
-          "Gibidi",
-          "Build Guide",
-          "PC Build Guide",
-          "Tech Tips",
-          "AMD",
-          "Ryzen",
-          "9600X",
-          "7700 XT",
-          "GPU",
-          "Fail",
-          "AI 2026",
-          "Gemini",
-          "LLM",
-          "Vlog",
-          "Build Log",
-          "Sam Altman",
-          "Scam Altman",
-          "In-game Performance",
-          "Cyberpunk 2077",
-          "Marvel Rivals",
-          "007 First Light",
-          "Valorant",
-          "PC",
-          "PCMR",
-          "Tech Support"
+          "Tier List",
+          "Ranking",
+          "Windows",
+          "Microsoft",
+          "Windows 3.1",
+          "Windows 95",
+          "Windows 98",
+          "Windows XP",
+          "Windows ME",
+          "Windows 7",
+          "Windows Vista",
+          "Windows 8",
+          "Windows 8.1",
+          "Windows 10",
+          "Windows 11",
+          "Linux",
+          "SteamOS"
         ],
         "categoryId": "28",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "I Followed ChatGPT’s PC Build Guide (2026)",
-          "description": "Take your network to the next level with Omada’s Fusion 2.5G Gateway. Learn more using our link: https://tplinksystemsinc.pxf.io/Fusion_2.5G_Linus\n\nWith OpenAI plugging internet access into ChatGPT’s tail-end, I decided to re-evaluate just how fresh Sam Altman’s tech tips really are! And if they’re good enough to replace me… With that in mind, I’ll be following ChatGibidi every step of the way from our parts list to assembly.\n\nDiscuss on the forum: https://linustechtips.com/topic/1641357-i-followed-chatgpt%E2%80%99s-pc-build-guide-2026/\n\nCheck out the parts from the build! \n---\nCPU: AMD Ryzen 5 9600X: https://geni.us/fx2vJq\nCooler: Thermalright Peerless Assassin 120 SE: https://geni.us/voRQ7\nMotherboard: MSI PRO B650M-A WiFi Micro-ATX: https://geni.us/0BXeAaC\nMemory: Patriot Viper Elite 5 32GB DDR5 CL6000: https://geni.us/7s6Pt\nSSD: Silicon Power 1TB UD90 NVMe 4.0 Gen4 PCIe M.2: https://geni.us/a2iK\nGPU: ASRock AMD Radeon RX 7700 XT Challenger: https://geni.us/tjZT5D\nPSU: MSI MAG A750GL PCIE5 80+ Gold: https://geni.us/9pvqXsF\n\n---\n\nCheck out our Channel Partners:\nSecretlab - Grab a TITAN Evo ergonomic gaming chair:  https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n► SHOP LTT PRODUCTS: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► DIVE DEEPER ON THE LTT LABS WEBSITE: https://lmg.gg/labs\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\nPurchases made through some store links may provide some compensation to Linus Media Group. Affiliate links powered in part by https://affilimate.com/?aid=ghz1izbpb\n\nLinus Sebastian is an investor in Framework Computer, Inc and HexOS by Eshtek.\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:34 Prompting our build\n3:56 Sponsor\n4:15 Let's start building!\n5:47 Installing the CPU\n8:15 Installing the SSD\n10:09 Do NOT try this at home\n10:15 Installing RAM\n10:48 Reviewing our parts\n12:17 The CPU Cooler\n19:40 Prepping the Case\n22:22 The PSU\n25:05 Installing the GPU\n28:02 Ridiculous.\n29:14 Final Cabling\n32:27 We're booted!\n32:53 In-game Performance\n33:56 Conclusion\n34:12 Omada\n34:58 Outro"
+          "title": "Rating Every Version of Windows",
+          "description": "Traditional carriers leave your calls, texts, and identity exposed. Cape protects them with built-in defenses against signaling attacks, daily IMSI rotation, and privacy-first mobile service.\n\nUse code LTT and get 33% off your first 6 months: https://cape.co/LTT\n\nApp Download Links:\nApple: https://lmg.gg/CapeIOS\nGoogle: https://lmg.gg/CapeAndroid\n\nCape is also now available on the Accrescent App Store: https://accrescent.app/\n\nHot take, Windows [insert version here] is the best and Windows [insert your favorite version of windows] sucks. Hot take, I KNOW... But where does Linus rank them all? Let's find out!\n\nDiscuss on the forum: https://linustechtips.com/topic/1641622-ranking-every-version-of-windows/\n\nCheck out our Channel Partners:\nSecretlab - Grab a TITAN Evo ergonomic gaming chair:  https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n► SHOP LTT PRODUCTS: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► DIVE DEEPER ON THE LTT LABS WEBSITE: https://lmg.gg/labs\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\nPurchases made through some store links may provide some compensation to Linus Media Group. Affiliate links powered in part by https://affilimate.com/?aid=ghz1izbpb\n\nLinus Sebastian is an investor in Framework Computer, Inc and HexOS by Eshtek.\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:10 Windows 1 & 2\n2:30 Windows 3\n4:37 Start Me Up!\n6:53 Windows 98\n9:14 I don't want to talk about it.\n11:05 Windows XP\n14:42 Windows Vista\n17:33 Windows 7\n18:47 What do you mean you don't have a touchscreen?\n20:26 Windows 8.1\n22:12 Windows 10\n25:43 Windows 11\n28:50 Credits"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT35M7S",
+        "duration": "PT28M58S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1286,15 +1704,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1288889",
-        "likeCount": "41794",
+        "viewCount": "513303",
+        "likeCount": "22577",
         "favoriteCount": "0",
-        "commentCount": "4618"
+        "commentCount": "3567"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GJWO9MOnD31Zcg1CFFqAauuujvs",
+      "etag": "h6Af9wCknGI9FWcToqqzCnAvuZc",
+      "id": "wZcOpO5uRMw",
+      "snippet": {
+        "publishedAt": "2026-07-29T14:44:42Z",
+        "channelId": "UC3YjvvijQxvcYuKvrppocBA",
+        "title": "Brought Rotatrix to Open Sauce last week and the reactions were crazy",
+        "description": "Rotatrix is a new type of 3D controller for CAD and design that gives you direct 1:1 rotation of the model on screen, along with smooth pan, zoom and mouse cursor control. Preorders open now at rotatrix.com\n\n#cad #3dprinting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wZcOpO5uRMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wZcOpO5uRMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wZcOpO5uRMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wZcOpO5uRMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wZcOpO5uRMw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "David Liu Creates",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Brought Rotatrix to Open Sauce last week and the reactions were crazy",
+          "description": "Rotatrix is a new type of 3D controller for CAD and design that gives you direct 1:1 rotation of the model on screen, along with smooth pan, zoom and mouse cursor control. Preorders open now at rotatrix.com\n\n#cad #3dprinting"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "396670",
+        "likeCount": "11067",
+        "favoriteCount": "0",
+        "commentCount": "145"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OfzHPFGreNdI9nygEXNGoCpviiQ",
+      "id": "FXAp5LuJFWk",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:17:19Z",
+        "channelId": "UC_8h_p0UeYlWFaeQ8A_w0YQ",
+        "title": "I Built An IRL Homescreen For My Games",
+        "description": "This whole setup costs less than Mario Kart😭\n\nThe top part of the pusher mechanism is based on a model by zwindler & melyemelo ’Rack, pinion / gear & bracket for SG90 servo’ on makerworld\n#interactivetechnology #retrogaming #wiirphysical #wiigames #projectionmapping #nintendo #retro #makergamer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FXAp5LuJFWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FXAp5LuJFWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXAp5LuJFWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FXAp5LuJFWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FXAp5LuJFWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "almostinventor",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Built An IRL Homescreen For My Games",
+          "description": "This whole setup costs less than Mario Kart😭\n\nThe top part of the pusher mechanism is based on a model by zwindler & melyemelo ’Rack, pinion / gear & bracket for SG90 servo’ on makerworld\n#interactivetechnology #retrogaming #wiirphysical #wiigames #projectionmapping #nintendo #retro #makergamer"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "474419",
+        "likeCount": "16541",
+        "favoriteCount": "0",
+        "commentCount": "289"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AL0kw6IbWaGU0NT5KYQgfRhy-4g",
       "id": "TBQCsmg5TiA",
       "snippet": {
         "publishedAt": "2026-08-02T20:27:40Z",
@@ -1348,77 +1890,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1221837",
-        "likeCount": "73106",
+        "viewCount": "1621132",
+        "likeCount": "95704",
         "favoriteCount": "0",
-        "commentCount": "1660"
+        "commentCount": "2083"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HKCkj6Dn_j-lcLLqEIAZIXUwxGA",
-      "id": "EKDuAjoPM-I",
-      "snippet": {
-        "publishedAt": "2026-08-05T21:10:19Z",
-        "channelId": "UCBzaCJIah02A1CttN-0nEtg",
-        "title": "You Have Been Using WD-40 Wrong 😳",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EKDuAjoPM-I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ReallyHotTea",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "You Have Been Using WD-40 Wrong 😳",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "430642",
-        "likeCount": "9169",
-        "favoriteCount": "0",
-        "commentCount": "87"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mq-VdhDREW_J8usUDh6iSoQRPak",
+      "etag": "M3AJaP0UDWMUEyumCbyeaQpDn5Y",
       "id": "YjuAkra83lY",
       "snippet": {
         "publishedAt": "2026-07-31T03:09:46Z",
@@ -1472,15 +1952,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1328933",
-        "likeCount": "114886",
+        "viewCount": "1388725",
+        "likeCount": "118140",
         "favoriteCount": "0",
-        "commentCount": "1012"
+        "commentCount": "1040"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "x9NqFqxTGVdVSGE3s8Up2XOKO5I",
+      "etag": "6Xhz6-saHbq8KhCMF0D8K7OYjwE",
       "id": "_mzTNtRqx2k",
       "snippet": {
         "publishedAt": "2026-08-04T12:12:48Z",
@@ -1534,15 +2014,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "955469",
-        "likeCount": "23903",
+        "viewCount": "1221097",
+        "likeCount": "29805",
         "favoriteCount": "0",
-        "commentCount": "164"
+        "commentCount": "188"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "SD1W2Nj8NoQKtxSDgOOQZg92mkE",
+      "etag": "mrNnm0Jg_gzwS0X4Yke3hSXB-4g",
       "id": "Z6z_feacXW8",
       "snippet": {
         "publishedAt": "2026-08-01T00:05:00Z",
@@ -1596,44 +2076,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3746065",
-        "likeCount": "97171",
+        "viewCount": "3834131",
+        "likeCount": "98518",
         "favoriteCount": "0",
-        "commentCount": "5670"
+        "commentCount": "5743"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "K6SHUk54M2DEfASIKLAiOYA3XlQ",
-      "id": "YpJkUhYQxz4",
+      "etag": "lCnrBCiZtEaJZp-Iw_sVwkS-Was",
+      "id": "3p1UMgicd4U",
       "snippet": {
-        "publishedAt": "2026-08-06T14:00:04Z",
+        "publishedAt": "2026-08-08T21:00:09Z",
         "channelId": "UCBS1NUWY7oC6FFHaXQy4zAA",
-        "title": "Reviving a Completely Smashed Graphics Card 😱",
+        "title": "Buying Sub $500 Laptops in 2026 (Beware)",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YpJkUhYQxz4/default.jpg",
+            "url": "https://i.ytimg.com/vi/3p1UMgicd4U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YpJkUhYQxz4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3p1UMgicd4U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YpJkUhYQxz4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3p1UMgicd4U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YpJkUhYQxz4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3p1UMgicd4U/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YpJkUhYQxz4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3p1UMgicd4U/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -1643,13 +2123,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Reviving a Completely Smashed Graphics Card 😱",
+          "title": "Buying Sub $500 Laptops in 2026 (Beware)",
           "description": ""
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT1M16S",
+        "duration": "PT1M18S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1658,15 +2138,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "247635",
-        "likeCount": "27896",
+        "viewCount": "166410",
+        "likeCount": "18992",
         "favoriteCount": "0",
-        "commentCount": "594"
+        "commentCount": "1040"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "R4q1QFfqkcqAwCe4lZQptKblgEg",
+      "etag": "QgSDba0SDgk_PHsQ_YHFtYWDN1U",
+      "id": "wx2-R7-3yLo",
+      "snippet": {
+        "publishedAt": "2026-08-08T22:13:21Z",
+        "channelId": "UC4gEs2SNPr8GBNcdbQGnLjg",
+        "title": "Scratched Platter Data Recovery... #tech",
+        "description": "If you need data recovery services, use the link below\n\nhttps://mdrepairs.com/mail-in-data-recovery/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wx2-R7-3yLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wx2-R7-3yLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wx2-R7-3yLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wx2-R7-3yLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wx2-R7-3yLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MDrepairs",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Scratched Platter Data Recovery... #tech",
+          "description": "If you need data recovery services, use the link below\n\nhttps://mdrepairs.com/mail-in-data-recovery/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "209203",
+        "likeCount": "18843",
+        "favoriteCount": "0",
+        "commentCount": "273"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dlAg4c8NqQsW0v5YWpxCuHL391A",
       "id": "Eo5w2S-h5dI",
       "snippet": {
         "publishedAt": "2026-07-31T10:48:54Z",
@@ -1734,15 +2276,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5583576",
-        "likeCount": "168057",
+        "viewCount": "5698385",
+        "likeCount": "170074",
         "favoriteCount": "0",
-        "commentCount": "17014"
+        "commentCount": "17192"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "taAW9swJ4YPVHT89yRABZ_Brlg8",
+      "etag": "SH8JnZoSOSqmpSMRfUUiwRd1zx8",
       "id": "7LHAREM6auc",
       "snippet": {
         "publishedAt": "2026-07-23T13:10:51Z",
@@ -1795,60 +2337,76 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "9027591",
-        "likeCount": "747478",
+        "viewCount": "9306053",
+        "likeCount": "770610",
         "favoriteCount": "0",
-        "commentCount": "1983"
+        "commentCount": "2059"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xZpdWJ6HdZfZcue7X0KcfuXcPy0",
-      "id": "f4VdofF9GQ0",
+      "etag": "dzn6_DPH-5Q6ETW_2tMp8Pv0mQQ",
+      "id": "HZOYCMkic0E",
       "snippet": {
-        "publishedAt": "2026-08-06T03:00:25Z",
-        "channelId": "UC4k2sEjl7eDhSwXaUjr3aLA",
-        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
-        "description": "",
+        "publishedAt": "2026-08-09T00:56:15Z",
+        "channelId": "UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "title": "Galaxy Z Fold 8 DURABILITY TEST - is the new 'Titanium Screen' real?",
+        "description": "Its time to durability test the Galaxy Z Fold8 - the new 'wide' folding phone from Samsung. Get protection for your own phone from dbrand HERE: https://www.dbrand.com/shop/fold-8 The Z Fold 8 is probably the new globally favorite form factor for the folding phones. If apple says its going to be the favorite, than its going to be the favorite. Samsung did beat apple to the punch though - which is normal. \n\nWhich of the folding phones is your favorite? \nDo you think Apples new Folding phone is going to survive?",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/default.jpg",
+            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Mr Tungtungsahur Blue ",
-        "categoryId": "22",
+        "channelTitle": "JerryRigEverything",
+        "tags": [
+          "Samsung Z Fold 8",
+          "Z fold 8",
+          "Z Fold8",
+          "Fold 8",
+          "Folding phone",
+          "apple folding phone",
+          "new folding phone",
+          "folding smartphone",
+          "best smartphone",
+          "cool smartphone",
+          "Samsung fold",
+          "Z fold 8 durability test",
+          "fold 8 scratch test",
+          "jerryrigeverything"
+        ],
+        "categoryId": "26",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
-          "description": ""
+          "title": "Galaxy Z Fold 8 DURABILITY TEST - is the new 'Titanium Screen' real?",
+          "description": "Its time to durability test the Galaxy Z Fold8 - the new 'wide' folding phone from Samsung. Get protection for your own phone from dbrand HERE: https://www.dbrand.com/shop/fold-8 The Z Fold 8 is probably the new globally favorite form factor for the folding phones. If apple says its going to be the favorite, than its going to be the favorite. Samsung did beat apple to the punch though - which is normal. \n\nWhich of the folding phones is your favorite? \nDo you think Apples new Folding phone is going to survive?"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT11S",
+        "duration": "PT9M8S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1857,15 +2415,76 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "7440744",
-        "likeCount": "68444",
+        "viewCount": "581577",
+        "likeCount": "26552",
         "favoriteCount": "0",
-        "commentCount": "78"
+        "commentCount": "1732"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "e04J63MZmhtQXO1s29ORKt1cm3E",
+      "etag": "9PyUszvTjdRJqQ1cUe5ZURP2nzQ",
+      "id": "tzLexHl_dAI",
+      "snippet": {
+        "publishedAt": "2026-08-01T02:30:33Z",
+        "channelId": "UCauwuLshnfWfCb7hO5fTMBw",
+        "title": "Waterdrop durability on JBL mud go4 bass test",
+        "description": "#shorts \n#ytshorts \n#jbl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jbl world trend ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Waterdrop durability on JBL mud go4 bass test",
+          "description": "#shorts \n#ytshorts \n#jbl"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5683330",
+        "likeCount": "62560",
+        "favoriteCount": "0",
+        "commentCount": "290"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7R3ZkR4kFlSU2Y0f1HQj7-2qO94",
       "id": "NCfwtQzYgDw",
       "snippet": {
         "publishedAt": "2026-08-03T23:18:04Z",
@@ -1919,15 +2538,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "324950",
-        "likeCount": "29048",
+        "viewCount": "337671",
+        "likeCount": "30044",
         "favoriteCount": "0",
-        "commentCount": "1428"
+        "commentCount": "1452"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "YxtPv48Xzy7E5r_rPIFnljr0KNs",
+      "etag": "8U_WGJdkcokiX8Rt6RwHuI_LDI4",
       "id": "awFTa5rr8F8",
       "snippet": {
         "publishedAt": "2026-08-07T17:52:51Z",
@@ -1981,15 +2600,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "163431",
-        "likeCount": "13513",
+        "viewCount": "203434",
+        "likeCount": "15852",
         "favoriteCount": "0",
-        "commentCount": "294"
+        "commentCount": "344"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fSLBHEg0huFyx4uSABBGJaEaQc0",
+      "etag": "dzAT-qzdapwTzmJMMid3LkINjNk",
       "id": "Mt1mD1eoWdE",
       "snippet": {
         "publishedAt": "2026-08-01T03:20:50Z",
@@ -2043,15 +2662,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4893233",
-        "likeCount": "45824",
+        "viewCount": "4968332",
+        "likeCount": "46332",
         "favoriteCount": "0",
-        "commentCount": "37"
+        "commentCount": "39"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4d2jnxC2W7HRoADvQg8F4TMdmGI",
+      "etag": "7FAOUux039gHvhwVMR3c_N12T7U",
       "id": "jlPTNwm-Ng0",
       "snippet": {
         "publishedAt": "2026-08-06T18:47:15Z",
@@ -2118,59 +2737,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "443573",
-        "likeCount": "25516",
+        "viewCount": "478422",
+        "likeCount": "26652",
         "favoriteCount": "0",
-        "commentCount": "2104"
+        "commentCount": "2184"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Z_aSG5rIVIqPO0eli9G8tA8swf4",
-      "id": "tzLexHl_dAI",
+      "etag": "pvKYwo9K6K3vSrnwBGirMFpRAu8",
+      "id": "zO7sfyBSoJM",
       "snippet": {
-        "publishedAt": "2026-08-01T02:30:33Z",
-        "channelId": "UCauwuLshnfWfCb7hO5fTMBw",
-        "title": "Waterdrop durability on JBL mud go4 bass test",
-        "description": "#shorts \n#ytshorts \n#jbl",
+        "publishedAt": "2026-08-08T11:00:21Z",
+        "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+        "title": "Is the PS4 the BEST Deal for Gaming in 2026? #tech #technology #shorts #pc",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/default.jpg",
+            "url": "https://i.ytimg.com/vi/zO7sfyBSoJM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zO7sfyBSoJM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zO7sfyBSoJM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zO7sfyBSoJM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/tzLexHl_dAI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zO7sfyBSoJM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Jbl world trend ",
-        "categoryId": "22",
+        "channelTitle": "Salem Techsperts",
+        "categoryId": "28",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Waterdrop durability on JBL mud go4 bass test",
-          "description": "#shorts \n#ytshorts \n#jbl"
-        }
+          "title": "Is the PS4 the BEST Deal for Gaming in 2026? #tech #technology #shorts #pc",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT26S",
+        "duration": "PT1M6S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2179,15 +2799,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5232773",
-        "likeCount": "55985",
+        "viewCount": "148192",
+        "likeCount": "18518",
         "favoriteCount": "0",
-        "commentCount": "212"
+        "commentCount": "379"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Mkrg5rPePx7H4AQPJ1s4d_tWHkA",
+      "etag": "QNPaIlWUAlXj9eTyl7Dhj7QaEeI",
       "id": "qkP52DgrRmM",
       "snippet": {
         "publishedAt": "2026-07-27T19:46:07Z",
@@ -2243,77 +2863,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1249080",
-        "likeCount": "52579",
+        "viewCount": "1293118",
+        "likeCount": "53275",
         "favoriteCount": "0",
-        "commentCount": "7192"
+        "commentCount": "7327"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PHyYNBQDNPCqISRVDvZRA6XbnHk",
-      "id": "xOcaz2iSJq8",
-      "snippet": {
-        "publishedAt": "2026-08-02T11:30:39Z",
-        "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
-        "title": "Fixing a broken laptop fan #tech #technology #shorts #pc",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xOcaz2iSJq8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xOcaz2iSJq8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xOcaz2iSJq8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xOcaz2iSJq8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xOcaz2iSJq8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Salem Techsperts",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Fixing a broken laptop fan #tech #technology #shorts #pc",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT1M8S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "581754",
-        "likeCount": "71315",
-        "favoriteCount": "0",
-        "commentCount": "603"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "14OJxXVFN1CIAnmXjrGevXBc-UY",
+      "etag": "cvIJ9koBCg5yOxLn6CrydxgIg2Y",
       "id": "0ZXjGLCqAgM",
       "snippet": {
         "publishedAt": "2026-08-02T09:02:34Z",
@@ -2366,15 +2924,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "272362",
-        "likeCount": "31406",
+        "viewCount": "276046",
+        "likeCount": "31731",
         "favoriteCount": "0",
-        "commentCount": "1405"
+        "commentCount": "1424"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AUXOM5Or_rxvgYpr-7y3nTbSyA4",
+      "etag": "3E6RZRo6AhPWPtBHMV1igmMh-3c",
       "id": "WZ7tqrsWcvc",
       "snippet": {
         "publishedAt": "2026-07-27T14:59:57Z",
@@ -2428,15 +2986,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1452471",
-        "likeCount": "32897",
+        "viewCount": "1563288",
+        "likeCount": "35394",
         "favoriteCount": "0",
-        "commentCount": "172"
+        "commentCount": "179"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "iZis2IoIWvLObeA0EgT9RmgBhqQ",
+      "etag": "hYI8wQe67xshh3YaDsaNQ0fEM54",
+      "id": "DRp-eh2pCFo",
+      "snippet": {
+        "publishedAt": "2026-07-20T12:25:23Z",
+        "channelId": "UCvvCA2SuOClkOMK1j7QIdNA",
+        "title": "Steam Controller Drives Itself to the Charger",
+        "description": "Credit: fossprime via IG\n\nRay Foss built an open-source project that turns the Steam Controller's haptic vibration motors into a locomotion system - allowing the controller to navigate itself to its charging dock without any external motors, wheels, or robotic arms. An overhead camera tracks the controller's real-time position and orientation. Computer vision calculates the path to the magnetic charging puck. The software then fires precisely timed vibration pulses through the built-in haptic motors, which nudge the controller across the desk surface in the correct direction, adjusting continuously as it approaches and slowing before docking. The engineering insight here is using hardware designed for one purpose - tactile feedback - to do something it was never intended to do. Haptic motors create vibration. Vibration on a surface creates movement. Movement can be directed. That chain of logic is the entire project. It combines computer vision, browser-based hardware access, and timing precision to solve a robotics problem with parts that already existed in the device.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Who Could Have Thought?",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Steam Controller Drives Itself to the Charger",
+          "description": "Credit: fossprime via IG\n\nRay Foss built an open-source project that turns the Steam Controller's haptic vibration motors into a locomotion system - allowing the controller to navigate itself to its charging dock without any external motors, wheels, or robotic arms. An overhead camera tracks the controller's real-time position and orientation. Computer vision calculates the path to the magnetic charging puck. The software then fires precisely timed vibration pulses through the built-in haptic motors, which nudge the controller across the desk surface in the correct direction, adjusting continuously as it approaches and slowing before docking. The engineering insight here is using hardware designed for one purpose - tactile feedback - to do something it was never intended to do. Haptic motors create vibration. Vibration on a surface creates movement. Movement can be directed. That chain of logic is the entire project. It combines computer vision, browser-based hardware access, and timing precision to solve a robotics problem with parts that already existed in the device."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1464015",
+        "likeCount": "27867",
+        "favoriteCount": "0",
+        "commentCount": "835"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aOC5Cvu1pde1d7VeFcPlVk6dYb4",
       "id": "0WP6kEO3i8g",
       "snippet": {
         "publishedAt": "2026-08-05T03:37:29Z",
@@ -2505,448 +3125,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "428190",
-        "likeCount": "37117",
+        "viewCount": "445231",
+        "likeCount": "38171",
         "favoriteCount": "0",
-        "commentCount": "5122"
+        "commentCount": "5246"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "88oHf6cw1211WBWaOfLSvqBPfW8",
-      "id": "DRp-eh2pCFo",
-      "snippet": {
-        "publishedAt": "2026-07-20T12:25:23Z",
-        "channelId": "UCvvCA2SuOClkOMK1j7QIdNA",
-        "title": "Steam Controller Drives Itself to the Charger",
-        "description": "Credit: fossprime via IG\n\nRay Foss built an open-source project that turns the Steam Controller's haptic vibration motors into a locomotion system - allowing the controller to navigate itself to its charging dock without any external motors, wheels, or robotic arms. An overhead camera tracks the controller's real-time position and orientation. Computer vision calculates the path to the magnetic charging puck. The software then fires precisely timed vibration pulses through the built-in haptic motors, which nudge the controller across the desk surface in the correct direction, adjusting continuously as it approaches and slowing before docking. The engineering insight here is using hardware designed for one purpose - tactile feedback - to do something it was never intended to do. Haptic motors create vibration. Vibration on a surface creates movement. Movement can be directed. That chain of logic is the entire project. It combines computer vision, browser-based hardware access, and timing precision to solve a robotics problem with parts that already existed in the device.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DRp-eh2pCFo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Who Could Have Thought?",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Steam Controller Drives Itself to the Charger",
-          "description": "Credit: fossprime via IG\n\nRay Foss built an open-source project that turns the Steam Controller's haptic vibration motors into a locomotion system - allowing the controller to navigate itself to its charging dock without any external motors, wheels, or robotic arms. An overhead camera tracks the controller's real-time position and orientation. Computer vision calculates the path to the magnetic charging puck. The software then fires precisely timed vibration pulses through the built-in haptic motors, which nudge the controller across the desk surface in the correct direction, adjusting continuously as it approaches and slowing before docking. The engineering insight here is using hardware designed for one purpose - tactile feedback - to do something it was never intended to do. Haptic motors create vibration. Vibration on a surface creates movement. Movement can be directed. That chain of logic is the entire project. It combines computer vision, browser-based hardware access, and timing precision to solve a robotics problem with parts that already existed in the device."
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1375803",
-        "likeCount": "25777",
-        "favoriteCount": "0",
-        "commentCount": "802"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XkplpmhchxNRSPR_Eick30clIu0",
-      "id": "n0eUgPDuwds",
-      "snippet": {
-        "publishedAt": "2026-07-30T13:00:08Z",
-        "channelId": "UCMdHtNaNVv1TlX1HPf9mHwA",
-        "title": "introducing the vitawear smartband a next-generation wearable gadget#shortsfeed#trending",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/n0eUgPDuwds/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/n0eUgPDuwds/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/n0eUgPDuwds/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/n0eUgPDuwds/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/n0eUgPDuwds/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Md Atik",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "introducing the vitawear smartband a next-generation wearable gadget#shortsfeed#trending",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3809684",
-        "likeCount": "338654",
-        "favoriteCount": "0",
-        "commentCount": "1348"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jSFpJDhmJi1SLWDGPu_EkdTRCbM",
-      "id": "Thh2i5SJAUw",
-      "snippet": {
-        "publishedAt": "2026-08-06T11:21:50Z",
-        "channelId": "UCw-kmsEgwTcljJEHvlEmiXQ",
-        "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
-        "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "HARDWARE EN",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
-          "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "739747",
-        "likeCount": "25033",
-        "favoriteCount": "0",
-        "commentCount": "250"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cSftq2ySrXKS6yRhcsv-9aNaxbs",
-      "id": "A2B7oI0FYqo",
-      "snippet": {
-        "publishedAt": "2026-08-07T14:00:11Z",
-        "channelId": "UCR-DXc1voovS8nhAvccRZhg",
-        "title": "Intel just matched Apple Silicon. Seriously.",
-        "description": "Intel's upped their efficiency game in a big way. The XPS 13 surprised me.\n\nMentioned in this video:\n\n  - Dell XPS 13: https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps13dx13260laptop\n  - MacBook Neo: https://www.apple.com/macbook-neo/\n  - My benchmark data for the XPS 13: https://github.com/geerlingguy/sbc-reviews/issues/111\n  - My benchmark data for the MacBook Neo: https://github.com/geerlingguy/sbc-reviews/issues/102\n\nThe XPS 13 shown in this video was provided on temporary loan from Dell. I am returning the laptop to Dell, and they had no control over the content of this video.\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - XPS 13\n00:49 - Improvements over the Neo\n01:35 - Some things are worse\n02:33 - Linux on the XPS 13\n02:52 - Not all fun and games\n03:23 - Intel efficiency\n04:43 - Still a budget laptop",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/A2B7oI0FYqo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/A2B7oI0FYqo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/A2B7oI0FYqo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/A2B7oI0FYqo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/A2B7oI0FYqo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jeff Geerling",
-        "tags": [
-          "dell",
-          "xps",
-          "13",
-          "laptop",
-          "intel",
-          "core 5",
-          "soc",
-          "chip",
-          "cpu",
-          "hpl",
-          "efficiency",
-          "top500",
-          "benchmark",
-          "review",
-          "macbook",
-          "neo",
-          "budget",
-          "school",
-          "student",
-          "headphone",
-          "teacher",
-          "education",
-          "discount",
-          "699",
-          "599",
-          "tested",
-          "benchmarked",
-          "geekbench",
-          "gpu",
-          "igpu",
-          "npu",
-          "ai",
-          "display",
-          "touchscreen",
-          "speakers",
-          "sound",
-          "linux",
-          "fedora",
-          "windows",
-          "macos",
-          "compared",
-          "comparison",
-          "idle",
-          "power",
-          "consumption",
-          "noise",
-          "fans"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Intel just matched Apple Silicon. Seriously.",
-          "description": "Intel's upped their efficiency game in a big way. The XPS 13 surprised me.\n\nMentioned in this video:\n\n  - Dell XPS 13: https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps13dx13260laptop\n  - MacBook Neo: https://www.apple.com/macbook-neo/\n  - My benchmark data for the XPS 13: https://github.com/geerlingguy/sbc-reviews/issues/111\n  - My benchmark data for the MacBook Neo: https://github.com/geerlingguy/sbc-reviews/issues/102\n\nThe XPS 13 shown in this video was provided on temporary loan from Dell. I am returning the laptop to Dell, and they had no control over the content of this video.\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - XPS 13\n00:49 - Improvements over the Neo\n01:35 - Some things are worse\n02:33 - Linux on the XPS 13\n02:52 - Not all fun and games\n03:23 - Intel efficiency\n04:43 - Still a budget laptop"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT5M47S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "441316",
-        "likeCount": "15593",
-        "favoriteCount": "0",
-        "commentCount": "1976"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "yz9tGAqna1dsCJNmujqas1mUVIo",
-      "id": "LbqhOhjBwiM",
-      "snippet": {
-        "publishedAt": "2026-07-13T16:13:06Z",
-        "channelId": "UCoqCi0ymtSQp_iDS9-Oh5sg",
-        "title": "🧠 ACTIVETRACK IS A GAME CHANGER / Don’t forget to check the description 🎰",
-        "description": "Compact. Smooth. Creator-ready.\nThe DJI Osmo Pocket 3 is a pocket-sized vlogging camera designed for creators who want professional-looking video without carrying bulky equipment. With a large 1-inch sensor, mechanical gimbal stabilization, and smart subject tracking, it makes filming smooth, sharp content incredibly easy.\n\n⸻\n\n✨ Key Features\n\n• 1-inch CMOS sensor — detailed footage and strong low-light performance\n• 4K video up to 120fps — smooth, cinematic slow-motion clips\n• 3-axis mechanical stabilization — steady footage while walking or moving\n• ActiveTrack 6.0 — keeps faces and moving subjects centered\n• 2-inch rotating touchscreen — quickly switches between horizontal and vertical filming\n• Fast focusing for clear, reliable shots\n• Compact, lightweight design — easy to carry anywhere\n• Built-in microphones for clear everyday audio\n\n⸻\n\n🎯 Perfect For\n\n• YouTube and daily vlogging\n• TikTok, Reels and Shorts\n• Travel and lifestyle content\n• Walking and talking videos\n• Events, family memories and cinematic clips\n• Creators upgrading from smartphone video\n\n⸻\n\n🔒 Why It’s a Great Choice\n\nThe DJI Osmo Pocket 3 combines excellent image quality, reliable tracking, and true mechanical stabilization in one tiny device. It is ideal for creators who want polished footage without setting up a full camera rig.\n\n⸻\n\n🛒 Check it out here:\n👉 https://amzn.to/44w30ee\n\nFollow @TheDigitalCameraClub  for compact camera finds and creator gear 🎬✨\n\n⸻\n\n#djiosmopocket3 \n#osmopocket \n#vloggingcamera \n#contentcreatorgear \n#pocketcamera \n#4kcamera \n#travelvlog \n#youtubecamera",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LbqhOhjBwiM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LbqhOhjBwiM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LbqhOhjBwiM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LbqhOhjBwiM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LbqhOhjBwiM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "The Digital Camera Club",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "🧠 ACTIVETRACK IS A GAME CHANGER / Don’t forget to check the description 🎰",
-          "description": "Compact. Smooth. Creator-ready.\nThe DJI Osmo Pocket 3 is a pocket-sized vlogging camera designed for creators who want professional-looking video without carrying bulky equipment. With a large 1-inch sensor, mechanical gimbal stabilization, and smart subject tracking, it makes filming smooth, sharp content incredibly easy.\n\n⸻\n\n✨ Key Features\n\n• 1-inch CMOS sensor — detailed footage and strong low-light performance\n• 4K video up to 120fps — smooth, cinematic slow-motion clips\n• 3-axis mechanical stabilization — steady footage while walking or moving\n• ActiveTrack 6.0 — keeps faces and moving subjects centered\n• 2-inch rotating touchscreen — quickly switches between horizontal and vertical filming\n• Fast focusing for clear, reliable shots\n• Compact, lightweight design — easy to carry anywhere\n• Built-in microphones for clear everyday audio\n\n⸻\n\n🎯 Perfect For\n\n• YouTube and daily vlogging\n• TikTok, Reels and Shorts\n• Travel and lifestyle content\n• Walking and talking videos\n• Events, family memories and cinematic clips\n• Creators upgrading from smartphone video\n\n⸻\n\n🔒 Why It’s a Great Choice\n\nThe DJI Osmo Pocket 3 combines excellent image quality, reliable tracking, and true mechanical stabilization in one tiny device. It is ideal for creators who want polished footage without setting up a full camera rig.\n\n⸻\n\n🛒 Check it out here:\n👉 https://amzn.to/44w30ee\n\nFollow @TheDigitalCameraClub  for compact camera finds and creator gear 🎬✨\n\n⸻\n\n#djiosmopocket3 \n#osmopocket \n#vloggingcamera \n#contentcreatorgear \n#pocketcamera \n#4kcamera \n#travelvlog \n#youtubecamera"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4640995",
-        "likeCount": "145987",
-        "favoriteCount": "0",
-        "commentCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JHDOhimdvSNbBu3mYzjrIqNr9yg",
-      "id": "Qq3JVVAimUs",
-      "snippet": {
-        "publishedAt": "2026-08-07T22:19:26Z",
-        "channelId": "UCj90H0kh6iLVK-gEWJ0BkxQ",
-        "title": "Reverse Engineering the Alphabet | Android Evolution, Digital Privacy, and Google Doodles History",
-        "description": "Android Evolution, Digital Privacy, and Google Doodles History | Reverse Engineering the Alphabet | GR Music Entertainment\n\nThe provided text details the Android version history, tracing the operating system's evolution from its 2007 beta to its current iterations. It outlines how Google transitioned from using internal code names like \"Astro Boy\" to a long-running confectionery-themed naming convention that ended with Android 10. The documentation highlights significant technical milestones, including the introduction of the Android Market, the shift to Material Design, and the implementation of the Android Runtime (ART). Each major release is categorized by its API level and release date, showcasing a steady progression in hardware support and user interface refinement. Additionally, the records describe essential features such as multitasking improvements, enhanced security protocols, and the development of specialized versions for wearable technology. Ultimately, these sources serve as a comprehensive chronological archive of the software's growth and its impact on the mobile industry.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Qq3JVVAimUs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Qq3JVVAimUs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qq3JVVAimUs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Qq3JVVAimUs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Qq3JVVAimUs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "GR Music Entertainment",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Reverse Engineering the Alphabet | Android Evolution, Digital Privacy, and Google Doodles History",
-          "description": "Android Evolution, Digital Privacy, and Google Doodles History | Reverse Engineering the Alphabet | GR Music Entertainment\n\nThe provided text details the Android version history, tracing the operating system's evolution from its 2007 beta to its current iterations. It outlines how Google transitioned from using internal code names like \"Astro Boy\" to a long-running confectionery-themed naming convention that ended with Android 10. The documentation highlights significant technical milestones, including the introduction of the Android Market, the shift to Material Design, and the implementation of the Android Runtime (ART). Each major release is categorized by its API level and release date, showcasing a steady progression in hardware support and user interface refinement. Additionally, the records describe essential features such as multitasking improvements, enhanced security protocols, and the development of specialized versions for wearable technology. Ultimately, these sources serve as a comprehensive chronological archive of the software's growth and its impact on the mobile industry."
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT4M17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "AE",
-            "AF",
-            "AT",
-            "BD",
-            "EG",
-            "IN",
-            "LB",
-            "NP",
-            "PK",
-            "VN"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "78339",
-        "likeCount": "754",
-        "favoriteCount": "0",
-        "commentCount": "82"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Tw8TjlOFkSOToIptweq9lUPwgV8",
+      "etag": "0vOjT-jIFWt8L_TNhZ2ikf2t3OM",
       "id": "L8c3IJa7cnU",
       "snippet": {
         "publishedAt": "2026-08-07T16:00:40Z",
@@ -3028,302 +3215,78 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "133121",
-        "likeCount": "7861",
+        "viewCount": "199282",
+        "likeCount": "10221",
         "favoriteCount": "0",
-        "commentCount": "483"
+        "commentCount": "624"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zJVkUzJTYuNOiU04Bq2fZQQnLUk",
-      "id": "cwXDjO_7tG0",
+      "etag": "dBJZxHiETX7AhWtu9HD4-k0jJGw",
+      "id": "PzfgLPfA-qo",
       "snippet": {
-        "publishedAt": "2026-08-03T19:20:25Z",
-        "channelId": "UCEcrRXW3oEYfUctetZTAWLw",
-        "title": "There's a new Flip phone in town 🤙",
-        "description": "",
+        "publishedAt": "2026-08-07T10:23:43Z",
+        "channelId": "UCFl0XuVGRTDQLFcs1WlWbrg",
+        "title": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!",
+        "description": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!\n\niPhone 17 Pro Max vs Galaxy Z Fold 7 - Ultimate Speed Test 🚀⚡📱\n\nWelcome to the ultimate speed battle between Apple's iPhone 17 Pro Max and the powerful Galaxy Z Fold 7! 🔥\n\nIn this video, we compare:\n\n✅ Boot-Up Speed Test\n✅ App Launch Speed\n✅ RAM Management Test\n✅ Multitasking Performance\n✅ Gaming Performance\n✅ Benchmark Scores\n✅ UI Smoothness & Animations\n✅ Real-World Speed Comparison\n\nCan the Galaxy Z Fold 7 outperform the blazing-fast iPhone 17 Pro Max? 🤔 Watch till the end and find out the ultimate speed champion! 🏆🚀⚡\n\n#iPhone17ProMax #GalaxyZFold7 #SpeedTest #SamsungVsiPhone #Apple #Samsung #SmartphoneComparison #Tech #PhoneBattle #PerformanceTest #MobileSpeedTest #TechShorts #FoldablePhones #2026Tech #AndroidVsiPhone 🚀🔥📱⚡",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cwXDjO_7tG0/default.jpg",
+            "url": "https://i.ytimg.com/vi/PzfgLPfA-qo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cwXDjO_7tG0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PzfgLPfA-qo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cwXDjO_7tG0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PzfgLPfA-qo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cwXDjO_7tG0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PzfgLPfA-qo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cwXDjO_7tG0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PzfgLPfA-qo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "WVFRM Podcast",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "There's a new Flip phone in town 🤙",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M50S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "194100",
-        "likeCount": "7185",
-        "favoriteCount": "0",
-        "commentCount": "152"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jpGZau5QqnO5hSXV0hgan4m6Cfc",
-      "id": "r3Yxl4PjtYQ",
-      "snippet": {
-        "publishedAt": "2026-08-07T18:30:39Z",
-        "channelId": "UCO2x-p9gg9TLKneXlibGR7w",
-        "title": "Apple's Cheapest Ecosystem Broke Me",
-        "description": "Turns out, not everything Apple makes on the low-end is like the MacBook Neo...\nThanks to @FitnexaAI for sponsoring this video. Check out Fitnexa SomniPods 3 here and get $10 off with coupon SNAZZY10: https://go.fitnexa.com/XMBmhF\nGet your Window Cap at Copland Supply! - https://copland.supply/products/hat-2\n\n*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nA complete current-generation Apple ecosystem for $1,925 — MacBook Neo, iPhone 17e, base iPad, Apple Watch SE 3, and AirPods 4 — and after 30 days living on Apple's cheapest hardware, only two of the five are worth your money. The MacBook Neo genuinely surprised: 8GB of RAM handled Premiere Pro, Final Cut Pro, and DaVinci Resolve without a hiccup, its last-gen A-series chip runs circles around the M1 Air, and the macOS 27 Golden Gate beta made it faster, while the Apple Watch SE 3 delivers 95% of the Ultra 2 experience — always-on display, Double Tap, apnea detection without a blood oxygen sensor post-Masimo — for $219. The iPhone 17e is the disaster nobody expected: dropped frames at 60Hz, constant app relaunches, thermals so bad the display dims into unreadability outdoors, and no Apple Intelligence or new Siri in iOS 27 — a used iPhone 15 Pro at the same price is the better buy every single time. The base iPad is worse still, with decade-old silicon, a dim non-laminated display, and performance that makes the 17e look like a speed queen, while the AirPods 4 lose the seal, the bass, and Ultra Wideband Precision Finding for $30 less than AirPods Pro 3. With RAM crisis price hikes hitting Macs and iPads and Apple's new Apple Upgrade Program lease-to-own scheme designed to keep you renting forever, the real answer is buy to own — or buy used, because the magic was in the hardware all along.\n\n0:00 Under $2K for a whole ecosystem?!\n0:40 The troll toll comes for Cupertino\n1:53 Apple wants you leasing forever\n3:26 MacBook Neo: shame on me\n6:44 iPhone 17e: I cracked at week three\n9:52 The iPad I never finished setting up\n12:18 Apple Watch SE 3 stole the show\n16:08 AirPods 4 kept exactly one thing\n17:43 The magic was in the hardware all along\n18:27 Buy the used Lexus, not the new Corolla\n\n#Apple #RAM #budgettech #Fitnexa #SomniPods3 #SleepEarbuds #SleepTechAlso",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/r3Yxl4PjtYQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/r3Yxl4PjtYQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/r3Yxl4PjtYQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/r3Yxl4PjtYQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/r3Yxl4PjtYQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Snazzy Labs",
-        "tags": [
-          "snazzy labs",
-          "apple",
-          "budget apple",
-          "cheapest apple",
-          "macbook neo",
-          "macbook neo review",
-          "iphone 17e",
-          "iphone 17e review",
-          "base ipad",
-          "ipad 2026",
-          "apple watch se 3",
-          "apple watch se",
-          "airpods 4",
-          "airpods 4 review",
-          "airpods pro 3",
-          "iphone 15 pro",
-          "apple upgrade program",
-          "apple price increase",
-          "ram crisis",
-          "ram prices",
-          "macos 27",
-          "golden gate",
-          "ios 27",
-          "8gb ram",
-          "m1 air",
-          "iphone air",
-          "apple ecosystem",
-          "refurbished iphone",
-          "used iphone",
-          "budget tech",
-          "apple deals",
-          "apple 2026",
-          "tech review"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Apple's Cheapest Ecosystem Broke Me",
-          "description": "Turns out, not everything Apple makes on the low-end is like the MacBook Neo...\nThanks to @FitnexaAI for sponsoring this video. Check out Fitnexa SomniPods 3 here and get $10 off with coupon SNAZZY10: https://go.fitnexa.com/XMBmhF\nGet your Window Cap at Copland Supply! - https://copland.supply/products/hat-2\n\n*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nA complete current-generation Apple ecosystem for $1,925 — MacBook Neo, iPhone 17e, base iPad, Apple Watch SE 3, and AirPods 4 — and after 30 days living on Apple's cheapest hardware, only two of the five are worth your money. The MacBook Neo genuinely surprised: 8GB of RAM handled Premiere Pro, Final Cut Pro, and DaVinci Resolve without a hiccup, its last-gen A-series chip runs circles around the M1 Air, and the macOS 27 Golden Gate beta made it faster, while the Apple Watch SE 3 delivers 95% of the Ultra 2 experience — always-on display, Double Tap, apnea detection without a blood oxygen sensor post-Masimo — for $219. The iPhone 17e is the disaster nobody expected: dropped frames at 60Hz, constant app relaunches, thermals so bad the display dims into unreadability outdoors, and no Apple Intelligence or new Siri in iOS 27 — a used iPhone 15 Pro at the same price is the better buy every single time. The base iPad is worse still, with decade-old silicon, a dim non-laminated display, and performance that makes the 17e look like a speed queen, while the AirPods 4 lose the seal, the bass, and Ultra Wideband Precision Finding for $30 less than AirPods Pro 3. With RAM crisis price hikes hitting Macs and iPads and Apple's new Apple Upgrade Program lease-to-own scheme designed to keep you renting forever, the real answer is buy to own — or buy used, because the magic was in the hardware all along.\n\n0:00 Under $2K for a whole ecosystem?!\n0:40 The troll toll comes for Cupertino\n1:53 Apple wants you leasing forever\n3:26 MacBook Neo: shame on me\n6:44 iPhone 17e: I cracked at week three\n9:52 The iPad I never finished setting up\n12:18 Apple Watch SE 3 stole the show\n16:08 AirPods 4 kept exactly one thing\n17:43 The magic was in the hardware all along\n18:27 Buy the used Lexus, not the new Corolla\n\n#Apple #RAM #budgettech #Fitnexa #SomniPods3 #SleepEarbuds #SleepTechAlso"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT19M44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "121757",
-        "likeCount": "4918",
-        "favoriteCount": "0",
-        "commentCount": "569"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ZlhacwVPVI7y6QEG1_bMn4rZpbY",
-      "id": "qs3EgFssM9Y",
-      "snippet": {
-        "publishedAt": "2026-08-01T13:18:12Z",
-        "channelId": "UCg6-bldIlQyI8bl_MNYMofw",
-        "title": "I bought a macbook neo then THIS happened!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qs3EgFssM9Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qs3EgFssM9Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qs3EgFssM9Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qs3EgFssM9Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qs3EgFssM9Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Keenan Bank",
-        "tags": [
-          "best buy",
-          "macbook neo",
-          "macbook neo review",
-          "kindness"
-        ],
+        "channelTitle": "TECH DSI ",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "I bought a macbook neo then THIS happened!",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "479087",
-        "likeCount": "22075",
-        "favoriteCount": "0",
-        "commentCount": "376"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "FonZQ9Li3GTXcwzyHJxe3qAq_nY",
-      "id": "xqXueap-5kI",
-      "snippet": {
-        "publishedAt": "2026-07-31T02:16:32Z",
-        "channelId": "UCldKPEByoPHOGkqlIIqSayw",
-        "title": "”‘Are You the Technician? My Charging Port Is Dirty.’ #phonerepair #fyp #viral #cleaning  #kindness",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xqXueap-5kI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xqXueap-5kI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xqXueap-5kI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xqXueap-5kI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xqXueap-5kI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
+          "title": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!",
+          "description": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!\n\niPhone 17 Pro Max vs Galaxy Z Fold 7 - Ultimate Speed Test 🚀⚡📱\n\nWelcome to the ultimate speed battle between Apple's iPhone 17 Pro Max and the powerful Galaxy Z Fold 7! 🔥\n\nIn this video, we compare:\n\n✅ Boot-Up Speed Test\n✅ App Launch Speed\n✅ RAM Management Test\n✅ Multitasking Performance\n✅ Gaming Performance\n✅ Benchmark Scores\n✅ UI Smoothness & Animations\n✅ Real-World Speed Comparison\n\nCan the Galaxy Z Fold 7 outperform the blazing-fast iPhone 17 Pro Max? 🤔 Watch till the end and find out the ultimate speed champion! 🏆🚀⚡\n\n#iPhone17ProMax #GalaxyZFold7 #SpeedTest #SamsungVsiPhone #Apple #Samsung #SmartphoneComparison #Tech #PhoneBattle #PerformanceTest #MobileSpeedTest #TechShorts #FoldablePhones #2026Tech #AndroidVsiPhone 🚀🔥📱⚡"
         },
-        "channelTitle": "MasterGotech ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "”‘Are You the Technician? My Charging Port Is Dirty.’ #phonerepair #fyp #viral #cleaning  #kindness",
-          "description": ""
-        }
+        "defaultAudioLanguage": "es"
       },
       "contentDetails": {
-        "duration": "PT1M34S",
+        "duration": "PT10S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "196019",
-        "likeCount": "15610",
+        "viewCount": "478327",
+        "likeCount": "15129",
         "favoriteCount": "0",
-        "commentCount": "202"
+        "commentCount": "51"
       }
     }
   ],
   "nextPageToken": "CDIQAA",
   "pageInfo": {
-    "totalResults": 177,
+    "totalResults": 188,
     "resultsPerPage": 50
   }
 }

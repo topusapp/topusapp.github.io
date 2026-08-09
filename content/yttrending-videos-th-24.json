@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "0jFhS7XcBxpUQ2JvAAFPATWTFgo",
+  "etag": "fOKRMhVlZYA_5DeZkPMPfZQnb5o",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "uf7EJzAmGI9nwpfEw0vIqubkfJo",
+      "etag": "jaWyDpNOfcdqrRDsINB1noXFGcY",
       "id": "IL7y_P6DYDk",
       "snippet": {
         "publishedAt": "2026-08-08T00:00:02Z",
@@ -58,15 +58,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "819381",
-        "likeCount": "20223",
+        "viewCount": "1380416",
+        "likeCount": "32867",
         "favoriteCount": "0",
-        "commentCount": "53"
+        "commentCount": "96"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wagb145boiGoHrhwy4YwGXSvgFQ",
+      "etag": "BBcSqle-FUANAMmx576_5MWXEso",
       "id": "EjFEljXk5sM",
       "snippet": {
         "publishedAt": "2026-08-08T01:43:25Z",
@@ -120,15 +120,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "772438",
-        "likeCount": "12973",
+        "viewCount": "1242094",
+        "likeCount": "18388",
         "favoriteCount": "0",
-        "commentCount": "36"
+        "commentCount": "54"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XkuTEOLiiDdoi3A7QWrBoq49-Ao",
+      "etag": "zTm_F5-JWLzI-UkiHeI7SDc-iPU",
       "id": "aJoKp2FN75o",
       "snippet": {
         "publishedAt": "2026-08-07T10:33:18Z",
@@ -185,430 +185,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "686176",
-        "likeCount": "8817",
+        "viewCount": "834807",
+        "likeCount": "10169",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4RgDdNoqwQk38SrMxwhq0kCc1vs",
-      "id": "CoylbfN6dvQ",
-      "snippet": {
-        "publishedAt": "2026-08-01T01:59:39Z",
-        "channelId": "UCSZYkeZSO6ZHJRBS_G4UYLg",
-        "title": "ทำไมต้องเป็นเรา ทำแบบนี้เสียใจนะ #jamsai #แจ่มใส #jamsaijs",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jamsai JS",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ทำไมต้องเป็นเรา ทำแบบนี้เสียใจนะ #jamsai #แจ่มใส #jamsaijs",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT49S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3507727",
-        "likeCount": "68808",
-        "favoriteCount": "0",
-        "commentCount": "435"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aDEZanvjea2YzvfNAiqswgUcxc8",
-      "id": "qPqkrBKBO7U",
-      "snippet": {
-        "publishedAt": "2026-08-07T10:00:13Z",
-        "channelId": "UCGHnzDqnktsCGLb6XS6w3XQ",
-        "title": "อย่าหาทำ! ขโมยขนมจนโดนปล่อยเกาะเจอดีเข้าให้",
-        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MeowSading",
-        "tags": [
-          "#สัตว์เลี้ยง",
-          "#แมว",
-          "#dog",
-          "#cat",
-          "#animal",
-          "#เรื่องเล่า",
-          "#เล่าเรื่อง",
-          "#สัตว์โลกน่ารัก",
-          "#น่ารัก",
-          "#shorts",
-          "#viral",
-          "#ตลก",
-          "#funny",
-          "#comedy",
-          "#ฮาๆ",
-          "#หมา",
-          "#หมาน่ารัก",
-          "#แมวน่ารัก"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อย่าหาทำ! ขโมยขนมจนโดนปล่อยเกาะเจอดีเข้าให้",
-          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "745611",
-        "likeCount": "39542",
-        "favoriteCount": "0",
-        "commentCount": "122"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fjOeEneoWshoDvf-pT4hySX-Ekw",
-      "id": "xl16Yl-GHQY",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:00:14Z",
-        "channelId": "UCXm0bpjlfB0AF-ZdPhT0K1A",
-        "title": "สะเทือนขวัญ! เสียงปืนสนั่นโรงเรียน l EP.2254 l 7 ส.ค.69 l#โหนกระแส",
-        "description": "มาร่วมตีแผ่กระแสที่แรงที่สุดในสังคม กับรายการ #โหนกระแส \nเวลา จันทร์-ศุกร์ เวลา 12.35 น. ทางช่อง3HD กดเลข33\n\nกดติดตามได้ที่\nYouTube : http://bit.ly/3YKjDO8\nFan Page : https://www.facebook.com/HKS2017/\nTwitter : https://twitter.com/HoneKrasae\nTiktok : https://www.tiktok.com/@honekrasae_official\n\n🎉 ร่วมสมัครเป็น VIP Membership กับโหนกระแส คลิก ▶︎ https://www.youtube.com/channel/UCXm0bpjlfB0AF-ZdPhT0K1A/join",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "โหนกระแส [Hone-Krasae] official",
-        "tags": [
-          "โหนกระแส",
-          "ดูออนไลน์",
-          "ย้อนหลัง",
-          "กระแส",
-          "มาแรง",
-          "ข่าว",
-          "สังคม",
-          "hks",
-          "ตีแผ่",
-          "หนุ่ม",
-          "หนุ่ม กรรชัย",
-          "โหนกระแสย้อนหลัง",
-          "หนุ่ม กรรชัย กำเนิดพลอย",
-          "เกาะกระแส",
-          "โหนกระแส ล่าสุดวันนี้",
-          "โหนกระแส ล่าสุด",
-          "แฉ",
-          "โหนกระแสแต่เช้า",
-          "โหนกระแสแต่เช้าย้อนหลัง",
-          "ข่าวย้อนหลัง",
-          "โหนกระแส หนุ่มกรรชัยล่าสุด"
-        ],
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "สะเทือนขวัญ! เสียงปืนสนั่นโรงเรียน l EP.2254 l 7 ส.ค.69 l#โหนกระแส",
-          "description": "มาร่วมตีแผ่กระแสที่แรงที่สุดในสังคม กับรายการ #โหนกระแส \nเวลา จันทร์-ศุกร์ เวลา 12.35 น. ทางช่อง3HD กดเลข33\n\nกดติดตามได้ที่\nYouTube : http://bit.ly/3YKjDO8\nFan Page : https://www.facebook.com/HKS2017/\nTwitter : https://twitter.com/HoneKrasae\nTiktok : https://www.tiktok.com/@honekrasae_official\n\n🎉 ร่วมสมัครเป็น VIP Membership กับโหนกระแส คลิก ▶︎ https://www.youtube.com/channel/UCXm0bpjlfB0AF-ZdPhT0K1A/join"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1H28M59S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1131084",
-        "likeCount": "13560",
-        "favoriteCount": "0",
-        "commentCount": "2286"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VJJpBPP9YaBpDNtT_ICofW0I9Pc",
-      "id": "ryNlCKVxhy4",
-      "snippet": {
-        "publishedAt": "2026-08-05T08:35:29Z",
-        "channelId": "UCqVwZbw0fPWqKo3orrNKPZQ",
-        "title": "ผิงโซเซ ตอน ปากกาวิเศษ 🖋🤓",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "pingsosay",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "ผิงโซเซ ตอน ปากกาวิเศษ 🖋🤓",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1022184",
-        "likeCount": "25842",
-        "favoriteCount": "0",
-        "commentCount": "33"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8XxuFzD5QNoeJrYh-6i5FP2AClE",
-      "id": "Nfee3bDO3V0",
-      "snippet": {
-        "publishedAt": "2026-08-04T05:05:33Z",
-        "channelId": "UCIohbbQUGh7FrO-UQJFa15A",
-        "title": "โนบิตะใจสลาย! เมื่อไม่มีโดราเอมอนอีกต่อไป #doraemon #cartoon #anime #shorts",
-        "description": "โดราเอมอนตอน: โดราเอมอนกลับมาแล้ว \nเรื่องย่อ: ปาฏิหาริย์น้ำยาโกหก 800! วันที่น้ำตาโนบิตะไหลริน\nโดราเอมอนเดินทางกลับโลกอนาคตไปแล้ว ทิ้งให้โนบิตะต้องใช้ชีวิตอยู่เพียงลำพัง วันหนึ่งในเทศกาล April Fool's Day ไจแอนท์และซูเนโอะดันเล่นแรง โกหกโนบิตะว่า \"โดราเอมอนกลับมาแล้ว\" โนบิตะดีใจสุดขีดถึงขั้นทุบกระปุกไปซื้อโดรายากิมาเตรียมต้อนรับ แต่พอรู้ว่าโดนหลอกเขาก็ใจสลายและร้องไห้อย่างหนัก โชคดีที่โดราเอมอนทิ้งของขวัญชิ้นสุดท้ายไว้ให้ นั่นคือ \"น้ำยาโกหก 800\" ที่ทำให้ทุกคำพูดกลายเป็นเรื่องตรงข้าม โนบิตะใช้มันแก้แค้นเพื่อนจอมแสบจนสะใจ แต่ก็ยังเศร้าอยู่ดีเพราะเพื่อนรักไม่อยู่แล้ว ทว่าความเศร้านั้นก็จบลง เมื่อโนบิตะเผลอพูดว่า \"โดราเอมอนจะไม่กลับมาอีกแล้ว\" ฤทธิ์ของน้ำยาจึงทำงานและดึงตัวโดราเอมอนกลับมาหาเขาสร้างปาฏิหาริย์แห่งรอยน้ำตาในที่สุด!\n#doraemon #cartoon #anime #อนิเมะ #การ์ตูน",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ไอเอ สปอยอนิเมะ",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "โนบิตะใจสลาย! เมื่อไม่มีโดราเอมอนอีกต่อไป #doraemon #cartoon #anime #shorts",
-          "description": "โดราเอมอนตอน: โดราเอมอนกลับมาแล้ว \nเรื่องย่อ: ปาฏิหาริย์น้ำยาโกหก 800! วันที่น้ำตาโนบิตะไหลริน\nโดราเอมอนเดินทางกลับโลกอนาคตไปแล้ว ทิ้งให้โนบิตะต้องใช้ชีวิตอยู่เพียงลำพัง วันหนึ่งในเทศกาล April Fool's Day ไจแอนท์และซูเนโอะดันเล่นแรง โกหกโนบิตะว่า \"โดราเอมอนกลับมาแล้ว\" โนบิตะดีใจสุดขีดถึงขั้นทุบกระปุกไปซื้อโดรายากิมาเตรียมต้อนรับ แต่พอรู้ว่าโดนหลอกเขาก็ใจสลายและร้องไห้อย่างหนัก โชคดีที่โดราเอมอนทิ้งของขวัญชิ้นสุดท้ายไว้ให้ นั่นคือ \"น้ำยาโกหก 800\" ที่ทำให้ทุกคำพูดกลายเป็นเรื่องตรงข้าม โนบิตะใช้มันแก้แค้นเพื่อนจอมแสบจนสะใจ แต่ก็ยังเศร้าอยู่ดีเพราะเพื่อนรักไม่อยู่แล้ว ทว่าความเศร้านั้นก็จบลง เมื่อโนบิตะเผลอพูดว่า \"โดราเอมอนจะไม่กลับมาอีกแล้ว\" ฤทธิ์ของน้ำยาจึงทำงานและดึงตัวโดราเอมอนกลับมาหาเขาสร้างปาฏิหาริย์แห่งรอยน้ำตาในที่สุด!\n#doraemon #cartoon #anime #อนิเมะ #การ์ตูน"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT2M39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1492116",
-        "likeCount": "99856",
-        "favoriteCount": "0",
-        "commentCount": "290"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "gUIOUZoAB-cddhO8IdUXUBur5R8",
-      "id": "D-xhYklcM_w",
-      "snippet": {
-        "publishedAt": "2026-08-05T18:00:16Z",
-        "channelId": "UCV5aEtM2sL4YoZ9zhbJWOtg",
-        "title": "SUBSCRIBE FOR 7 YEARS OF GOOD LUCK! 🍀😅 - #dance #funny #couple #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "More Jasmin and James",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "SUBSCRIBE FOR 7 YEARS OF GOOD LUCK! 🍀😅 - #dance #funny #couple #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "40669954",
-        "likeCount": "472780",
-        "favoriteCount": "0",
-        "commentCount": "509"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2Trm4BdTlrv5T-oPs_Qr2keYgfc",
+      "etag": "2yprQdL3BYDrVhGg25esEpTTWTw",
       "id": "IewMe3MdhMs",
       "snippet": {
         "publishedAt": "2026-08-07T17:00:03Z",
@@ -696,44 +281,335 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1578870",
-        "likeCount": "133722",
+        "viewCount": "2438495",
+        "likeCount": "167117",
         "favoriteCount": "0",
-        "commentCount": "10922"
+        "commentCount": "13710"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rc1cBQrn7D812CgbaJzPTIaS36E",
-      "id": "Y6l3h4AhqeE",
+      "etag": "Zc9HrXYOZmFdBekaH8B0CeVjtlY",
+      "id": "CoylbfN6dvQ",
       "snippet": {
-        "publishedAt": "2026-07-31T15:19:26Z",
-        "channelId": "UCiYIANX4EEG8Okzqy8rAMTw",
-        "title": "เมื่ออดีตผู้กองบอกโค้ดลับทหารยามผิด #สปอยหนัง #รีวิวหนัง #movie #shorts",
-        "description": "เมื่ออดีตผู้กองบอกโค้ดลับทหารยามผิด เขาแค่อยากรู้ว่าทหารยามจะปฏิบัติหน้าที่ได้เข้มงวดและจริงจังแค่ไหน ซึ่งผลลัพธ์ก็คือ ทหารยามคนนี้สอบผ่านการทดสอบไปได้อย่างยอดเยี่ยม!\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #หนังตลก #ตลก #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #movie #film\nDisclaimer: This video features short movie clips accompanied by commentary to provide a concise and clear summary. The content is used under fair use guidelines for the purposes of review and discussion.\nThis content is intended for a general audience  and is not made specifically for children.\nAll footage is used for commentary, criticism, and educational purposes.",
+        "publishedAt": "2026-08-01T01:59:39Z",
+        "channelId": "UCSZYkeZSO6ZHJRBS_G4UYLg",
+        "title": "ทำไมต้องเป็นเรา ทำแบบนี้เสียใจนะ #jamsai #แจ่มใส #jamsaijs",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Y6l3h4AhqeE/default.jpg",
+            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Y6l3h4AhqeE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Y6l3h4AhqeE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Y6l3h4AhqeE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Y6l3h4AhqeE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CoylbfN6dvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jamsai JS",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ทำไมต้องเป็นเรา ทำแบบนี้เสียใจนะ #jamsai #แจ่มใส #jamsaijs",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3843591",
+        "likeCount": "74223",
+        "favoriteCount": "0",
+        "commentCount": "492"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kFYtK4QeqAJmeCsedJu8Ph8kIk0",
+      "id": "ryNlCKVxhy4",
+      "snippet": {
+        "publishedAt": "2026-08-05T08:35:29Z",
+        "channelId": "UCqVwZbw0fPWqKo3orrNKPZQ",
+        "title": "ผิงโซเซ ตอน ปากกาวิเศษ 🖋🤓",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ryNlCKVxhy4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "pingsosay",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "ผิงโซเซ ตอน ปากกาวิเศษ 🖋🤓",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1328373",
+        "likeCount": "32133",
+        "favoriteCount": "0",
+        "commentCount": "43"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NIQrSUWQe-tqXt9YQ4CU-FMowMQ",
+      "id": "qPqkrBKBO7U",
+      "snippet": {
+        "publishedAt": "2026-08-07T10:00:13Z",
+        "channelId": "UCGHnzDqnktsCGLb6XS6w3XQ",
+        "title": "อย่าหาทำ! ขโมยขนมจนโดนปล่อยเกาะเจอดีเข้าให้",
+        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MeowSading",
+        "tags": [
+          "#สัตว์เลี้ยง",
+          "#แมว",
+          "#dog",
+          "#cat",
+          "#animal",
+          "#เรื่องเล่า",
+          "#เล่าเรื่อง",
+          "#สัตว์โลกน่ารัก",
+          "#น่ารัก",
+          "#shorts",
+          "#viral",
+          "#ตลก",
+          "#funny",
+          "#comedy",
+          "#ฮาๆ",
+          "#หมา",
+          "#หมาน่ารัก",
+          "#แมวน่ารัก"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "อย่าหาทำ! ขโมยขนมจนโดนปล่อยเกาะเจอดีเข้าให้",
+          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "815851",
+        "likeCount": "41734",
+        "favoriteCount": "0",
+        "commentCount": "129"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UOO_B8K43P2sn-pheQPkegtUa8Q",
+      "id": "xl16Yl-GHQY",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:00:14Z",
+        "channelId": "UCXm0bpjlfB0AF-ZdPhT0K1A",
+        "title": "สะเทือนขวัญ! เสียงปืนสนั่นโรงเรียน l EP.2254 l 7 ส.ค.69 l#โหนกระแส",
+        "description": "มาร่วมตีแผ่กระแสที่แรงที่สุดในสังคม กับรายการ #โหนกระแส \nเวลา จันทร์-ศุกร์ เวลา 12.35 น. ทางช่อง3HD กดเลข33\n\nกดติดตามได้ที่\nYouTube : http://bit.ly/3YKjDO8\nFan Page : https://www.facebook.com/HKS2017/\nTwitter : https://twitter.com/HoneKrasae\nTiktok : https://www.tiktok.com/@honekrasae_official\n\n🎉 ร่วมสมัครเป็น VIP Membership กับโหนกระแส คลิก ▶︎ https://www.youtube.com/channel/UCXm0bpjlfB0AF-ZdPhT0K1A/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xl16Yl-GHQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "โหนกระแส [Hone-Krasae] official",
+        "tags": [
+          "โหนกระแส",
+          "ดูออนไลน์",
+          "ย้อนหลัง",
+          "กระแส",
+          "มาแรง",
+          "ข่าว",
+          "สังคม",
+          "hks",
+          "ตีแผ่",
+          "หนุ่ม",
+          "หนุ่ม กรรชัย",
+          "โหนกระแสย้อนหลัง",
+          "หนุ่ม กรรชัย กำเนิดพลอย",
+          "เกาะกระแส",
+          "โหนกระแส ล่าสุดวันนี้",
+          "โหนกระแส ล่าสุด",
+          "แฉ",
+          "โหนกระแสแต่เช้า",
+          "โหนกระแสแต่เช้าย้อนหลัง",
+          "ข่าวย้อนหลัง",
+          "โหนกระแส หนุ่มกรรชัยล่าสุด"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "สะเทือนขวัญ! เสียงปืนสนั่นโรงเรียน l EP.2254 l 7 ส.ค.69 l#โหนกระแส",
+          "description": "มาร่วมตีแผ่กระแสที่แรงที่สุดในสังคม กับรายการ #โหนกระแส \nเวลา จันทร์-ศุกร์ เวลา 12.35 น. ทางช่อง3HD กดเลข33\n\nกดติดตามได้ที่\nYouTube : http://bit.ly/3YKjDO8\nFan Page : https://www.facebook.com/HKS2017/\nTwitter : https://twitter.com/HoneKrasae\nTiktok : https://www.tiktok.com/@honekrasae_official\n\n🎉 ร่วมสมัครเป็น VIP Membership กับโหนกระแส คลิก ▶︎ https://www.youtube.com/channel/UCXm0bpjlfB0AF-ZdPhT0K1A/join"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1H28M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1327879",
+        "likeCount": "14842",
+        "favoriteCount": "0",
+        "commentCount": "2535"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dfPXb2_sucxwA4X0YVYXTyw-Efk",
+      "id": "20MhmFU-3Ns",
+      "snippet": {
+        "publishedAt": "2026-08-04T10:00:21Z",
+        "channelId": "UCiYIANX4EEG8Okzqy8rAMTw",
+        "title": "นักฆ่าถึงกับท้อ!รวมฉากรอดของชายหนุ่มดวงแข็ง#สปอยหนัง #รีวิวหนัง #movie #shorts",
+        "description": "สปอยหนังเรื่อง : sledge hammer\nเรื่องย่อ :เรื่องราวของเจ้าหน้าที่ฝ่ายสืบสวนสุดโต่งผู้รักและไว้ใจอุปกรณ์คู่ใจยิ่งกว่าสิ่งใด\nเขาต้องจับคู่ทำงานร่วมกับคู่หูสาวผู้เฉียบแหลมและมีเหตุผลเพื่อคลี่คลายคดีต่างๆ\nวิธีการทำงานอันแหวกแนวและสร้างความวุ่นวายของเขาทำให้ผู้บังคับบัญชาต้องปวดหัวอยู่เสมอ\nแม้จะเต็มไปด้วยความอลหม่านแต่ความร่วมมือของทั้งสองกลับช่วยแก้ไขสถานการณ์ได้สำเร็จ\nผลงานชุดนี้ถ่ายทอดการทำงานของเจ้าหน้าที่ผ่านมุมมองตลกขบขันที่ล้อเลียนแนวสืบสวน\n\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #หนังตลก #ตลก #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #movie #film\nDisclaimer: This video features short movie clips accompanied by commentary to provide a concise and clear summary. The content is used under fair use guidelines for the purposes of review and discussion.\nThis content is intended for a general audience  and is not made specifically for children.\nAll footage is used for commentary, criticism, and educational purposes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/20MhmFU-3Ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/20MhmFU-3Ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/20MhmFU-3Ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/20MhmFU-3Ns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/20MhmFU-3Ns/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -800,13 +676,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เมื่ออดีตผู้กองบอกโค้ดลับทหารยามผิด #สปอยหนัง #รีวิวหนัง #movie #shorts",
-          "description": "เมื่ออดีตผู้กองบอกโค้ดลับทหารยามผิด เขาแค่อยากรู้ว่าทหารยามจะปฏิบัติหน้าที่ได้เข้มงวดและจริงจังแค่ไหน ซึ่งผลลัพธ์ก็คือ ทหารยามคนนี้สอบผ่านการทดสอบไปได้อย่างยอดเยี่ยม!\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #หนังตลก #ตลก #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #movie #film\nDisclaimer: This video features short movie clips accompanied by commentary to provide a concise and clear summary. The content is used under fair use guidelines for the purposes of review and discussion.\nThis content is intended for a general audience  and is not made specifically for children.\nAll footage is used for commentary, criticism, and educational purposes."
+          "title": "นักฆ่าถึงกับท้อ!รวมฉากรอดของชายหนุ่มดวงแข็ง#สปอยหนัง #รีวิวหนัง #movie #shorts",
+          "description": "สปอยหนังเรื่อง : sledge hammer\nเรื่องย่อ :เรื่องราวของเจ้าหน้าที่ฝ่ายสืบสวนสุดโต่งผู้รักและไว้ใจอุปกรณ์คู่ใจยิ่งกว่าสิ่งใด\nเขาต้องจับคู่ทำงานร่วมกับคู่หูสาวผู้เฉียบแหลมและมีเหตุผลเพื่อคลี่คลายคดีต่างๆ\nวิธีการทำงานอันแหวกแนวและสร้างความวุ่นวายของเขาทำให้ผู้บังคับบัญชาต้องปวดหัวอยู่เสมอ\nแม้จะเต็มไปด้วยความอลหม่านแต่ความร่วมมือของทั้งสองกลับช่วยแก้ไขสถานการณ์ได้สำเร็จ\nผลงานชุดนี้ถ่ายทอดการทำงานของเจ้าหน้าที่ผ่านมุมมองตลกขบขันที่ล้อเลียนแนวสืบสวน\n\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #หนังตลก #ตลก #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #movie #film\nDisclaimer: This video features short movie clips accompanied by commentary to provide a concise and clear summary. The content is used under fair use guidelines for the purposes of review and discussion.\nThis content is intended for a general audience  and is not made specifically for children.\nAll footage is used for commentary, criticism, and educational purposes."
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT56S",
+        "duration": "PT1M24S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -815,15 +691,201 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2390423",
-        "likeCount": "95579",
+        "viewCount": "1486861",
+        "likeCount": "55722",
         "favoriteCount": "0",
-        "commentCount": "175"
+        "commentCount": "72"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sZa8ERFczhuBjW0vUx0bYRV9xqU",
+      "etag": "XI6eRFV1bU8hog7P8FeNRlX5Dq4",
+      "id": "Nfee3bDO3V0",
+      "snippet": {
+        "publishedAt": "2026-08-04T05:05:33Z",
+        "channelId": "UCIohbbQUGh7FrO-UQJFa15A",
+        "title": "โนบิตะใจสลาย! เมื่อไม่มีโดราเอมอนอีกต่อไป #doraemon #cartoon #anime #shorts",
+        "description": "โดราเอมอนตอน: โดราเอมอนกลับมาแล้ว \nเรื่องย่อ: ปาฏิหาริย์น้ำยาโกหก 800! วันที่น้ำตาโนบิตะไหลริน\nโดราเอมอนเดินทางกลับโลกอนาคตไปแล้ว ทิ้งให้โนบิตะต้องใช้ชีวิตอยู่เพียงลำพัง วันหนึ่งในเทศกาล April Fool's Day ไจแอนท์และซูเนโอะดันเล่นแรง โกหกโนบิตะว่า \"โดราเอมอนกลับมาแล้ว\" โนบิตะดีใจสุดขีดถึงขั้นทุบกระปุกไปซื้อโดรายากิมาเตรียมต้อนรับ แต่พอรู้ว่าโดนหลอกเขาก็ใจสลายและร้องไห้อย่างหนัก โชคดีที่โดราเอมอนทิ้งของขวัญชิ้นสุดท้ายไว้ให้ นั่นคือ \"น้ำยาโกหก 800\" ที่ทำให้ทุกคำพูดกลายเป็นเรื่องตรงข้าม โนบิตะใช้มันแก้แค้นเพื่อนจอมแสบจนสะใจ แต่ก็ยังเศร้าอยู่ดีเพราะเพื่อนรักไม่อยู่แล้ว ทว่าความเศร้านั้นก็จบลง เมื่อโนบิตะเผลอพูดว่า \"โดราเอมอนจะไม่กลับมาอีกแล้ว\" ฤทธิ์ของน้ำยาจึงทำงานและดึงตัวโดราเอมอนกลับมาหาเขาสร้างปาฏิหาริย์แห่งรอยน้ำตาในที่สุด!\n#doraemon #cartoon #anime #อนิเมะ #การ์ตูน",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nfee3bDO3V0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ไอเอ สปอยอนิเมะ",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "โนบิตะใจสลาย! เมื่อไม่มีโดราเอมอนอีกต่อไป #doraemon #cartoon #anime #shorts",
+          "description": "โดราเอมอนตอน: โดราเอมอนกลับมาแล้ว \nเรื่องย่อ: ปาฏิหาริย์น้ำยาโกหก 800! วันที่น้ำตาโนบิตะไหลริน\nโดราเอมอนเดินทางกลับโลกอนาคตไปแล้ว ทิ้งให้โนบิตะต้องใช้ชีวิตอยู่เพียงลำพัง วันหนึ่งในเทศกาล April Fool's Day ไจแอนท์และซูเนโอะดันเล่นแรง โกหกโนบิตะว่า \"โดราเอมอนกลับมาแล้ว\" โนบิตะดีใจสุดขีดถึงขั้นทุบกระปุกไปซื้อโดรายากิมาเตรียมต้อนรับ แต่พอรู้ว่าโดนหลอกเขาก็ใจสลายและร้องไห้อย่างหนัก โชคดีที่โดราเอมอนทิ้งของขวัญชิ้นสุดท้ายไว้ให้ นั่นคือ \"น้ำยาโกหก 800\" ที่ทำให้ทุกคำพูดกลายเป็นเรื่องตรงข้าม โนบิตะใช้มันแก้แค้นเพื่อนจอมแสบจนสะใจ แต่ก็ยังเศร้าอยู่ดีเพราะเพื่อนรักไม่อยู่แล้ว ทว่าความเศร้านั้นก็จบลง เมื่อโนบิตะเผลอพูดว่า \"โดราเอมอนจะไม่กลับมาอีกแล้ว\" ฤทธิ์ของน้ำยาจึงทำงานและดึงตัวโดราเอมอนกลับมาหาเขาสร้างปาฏิหาริย์แห่งรอยน้ำตาในที่สุด!\n#doraemon #cartoon #anime #อนิเมะ #การ์ตูน"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1687980",
+        "likeCount": "109317",
+        "favoriteCount": "0",
+        "commentCount": "328"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3sg-On9RTDKteEM7fayJ-w531sE",
+      "id": "D-xhYklcM_w",
+      "snippet": {
+        "publishedAt": "2026-08-05T18:00:16Z",
+        "channelId": "UCV5aEtM2sL4YoZ9zhbJWOtg",
+        "title": "SUBSCRIBE FOR 7 YEARS OF GOOD LUCK! 🍀😅 - #dance #funny #couple #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-xhYklcM_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "More Jasmin and James",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "SUBSCRIBE FOR 7 YEARS OF GOOD LUCK! 🍀😅 - #dance #funny #couple #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "51092246",
+        "likeCount": "565236",
+        "favoriteCount": "0",
+        "commentCount": "648"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pzWCJ287mTYwzzyuKssIcTBP3oc",
+      "id": "pMlSELlSeCs",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:00:37Z",
+        "channelId": "UC7eYLXZB92DT3eFXqIoZcKw",
+        "title": "ยิ่งสืบเรื่องพ่อเขายิ่งพบความลับที่คาดไม่ถึง #สปอยหนัง #สรุปหนัง #เล่าเรื่องหนัง #shorts",
+        "description": "ชื่อเรื่อง: The Wrecking Crew (2026)\n\nเรื่องย่อ: เมื่อพ่อของเจมส์จากไปจากเหตุการณ์ที่ดูเหมือนเป็นเพียงอุบัติเหตุ เขากลับเริ่มสงสัยว่าความจริงอาจซับซ้อนกว่านั้น โดยเฉพาะเมื่อในงานกลับมีบุคคลจากวงการอาชญากรรมปรากฏตัวมากมาย\n\nเจมส์ อดีตทหารหน่วย Navy SEAL ต้องกลับมาเผชิญหน้ากับ จอห์นนี่ น้องชายต่างแม่ที่มีนิสัยแตกต่างจากเขาอย่างสิ้นเชิง ทั้งคู่ต้องร่วมมือกันค้นหาความจริงเบื้องหลังการเสียชีวิตของพ่อ และพบว่าความลับที่พ่อทิ้งเอาไว้กำลังพาพวกเขาเข้าไปพัวพันกับกลุ่มอาชญากรรมและยากูซ่า\n\nยิ่งสองพี่น้องสืบลึกลงไปเท่าไร พวกเขาก็ยิ่งพบว่าคดีนี้อาจไม่ใช่อุบัติเหตุธรรมดา และความจริงที่กำลังจะเปิดเผยอาจเปลี่ยนความสัมพันธ์ของทั้งคู่ไปตลอดกาล\n\n🎥ผู้กำกับ: Ángel Manuel Soto\n⭐นักแสดงนำ:\n• Dave Bautista — James Hale\n• Jason Momoa — Jonny Hale\n• Temuera Morrison\n• Morena Baccarin\n• Jacob Batalon\n• Stephen Root\n• Miyavi\n• Roimata Fox\n\n🏆คะแนนรีวิว:\n• IMDb: 6.4/10 จากประมาณ 52,000 เรตติ้ง\n• Rotten Tomatoes: 74% จากนักวิจารณ์ 70 รีวิว\n• Rotten Tomatoes Audience: 66% จากผู้ชมกว่า 1,000 เรตติ้ง\n\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #TheWreckingCrew #TheWreckingCrew2026 #หนังแอคชั่น #หนังระทึกขวัญ #หนังอาชญากรรม #หนังสืบสวน #หนังปริศนา",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMlSELlSeCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMlSELlSeCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMlSELlSeCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pMlSELlSeCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pMlSELlSeCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BNC037 CHANNEL",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ยิ่งสืบเรื่องพ่อเขายิ่งพบความลับที่คาดไม่ถึง #สปอยหนัง #สรุปหนัง #เล่าเรื่องหนัง #shorts",
+          "description": "ชื่อเรื่อง: The Wrecking Crew (2026)\n\nเรื่องย่อ: เมื่อพ่อของเจมส์จากไปจากเหตุการณ์ที่ดูเหมือนเป็นเพียงอุบัติเหตุ เขากลับเริ่มสงสัยว่าความจริงอาจซับซ้อนกว่านั้น โดยเฉพาะเมื่อในงานกลับมีบุคคลจากวงการอาชญากรรมปรากฏตัวมากมาย\n\nเจมส์ อดีตทหารหน่วย Navy SEAL ต้องกลับมาเผชิญหน้ากับ จอห์นนี่ น้องชายต่างแม่ที่มีนิสัยแตกต่างจากเขาอย่างสิ้นเชิง ทั้งคู่ต้องร่วมมือกันค้นหาความจริงเบื้องหลังการเสียชีวิตของพ่อ และพบว่าความลับที่พ่อทิ้งเอาไว้กำลังพาพวกเขาเข้าไปพัวพันกับกลุ่มอาชญากรรมและยากูซ่า\n\nยิ่งสองพี่น้องสืบลึกลงไปเท่าไร พวกเขาก็ยิ่งพบว่าคดีนี้อาจไม่ใช่อุบัติเหตุธรรมดา และความจริงที่กำลังจะเปิดเผยอาจเปลี่ยนความสัมพันธ์ของทั้งคู่ไปตลอดกาล\n\n🎥ผู้กำกับ: Ángel Manuel Soto\n⭐นักแสดงนำ:\n• Dave Bautista — James Hale\n• Jason Momoa — Jonny Hale\n• Temuera Morrison\n• Morena Baccarin\n• Jacob Batalon\n• Stephen Root\n• Miyavi\n• Roimata Fox\n\n🏆คะแนนรีวิว:\n• IMDb: 6.4/10 จากประมาณ 52,000 เรตติ้ง\n• Rotten Tomatoes: 74% จากนักวิจารณ์ 70 รีวิว\n• Rotten Tomatoes Audience: 66% จากผู้ชมกว่า 1,000 เรตติ้ง\n\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #TheWreckingCrew #TheWreckingCrew2026 #หนังแอคชั่น #หนังระทึกขวัญ #หนังอาชญากรรม #หนังสืบสวน #หนังปริศนา"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "615906",
+        "likeCount": "31370",
+        "favoriteCount": "0",
+        "commentCount": "144"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BIu_VeU0fnq8Zbs9caVw-U2AA18",
       "id": "5geQfcH0fPg",
       "snippet": {
         "publishedAt": "2026-08-06T09:00:38Z",
@@ -899,282 +961,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "718324",
-        "likeCount": "34106",
+        "viewCount": "867856",
+        "likeCount": "39562",
         "favoriteCount": "0",
-        "commentCount": "2583"
+        "commentCount": "2968"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bEQALHHTV4nN875w5bbK5GIr55M",
-      "id": "drsqG3tZbv0",
-      "snippet": {
-        "publishedAt": "2026-08-02T12:00:03Z",
-        "channelId": "UCl54wNQPZgQeb0LUAAzfJLA",
-        "title": "เพียงตอบ 3 คำถามชะตาชีวิตก็เปลี่ยนตลอดกาล",
-        "description": "ชื่อเรื่อง: The Curse of Turandot (2021)\nผู้กำกับ: Zheng Xiaolong\nนักแสดงนำ:\nGuan Xiaotong\nDylan Sprouse\nJiang Wen\nHu Jun\nCollin Chou\nSophie Marceau\n\nคะแนนรีวิว\nIMDb: 4.8/10\nTMDb: ประมาณ 6.0/10\nDouban (จีน): ประมาณ 3.6/10\n\nเรื่องย่อ: เมื่อหญิงสาวผู้ถูกคำสาปจากกำไลโบราณ ต้องใช้ชีวิตอยู่ในโลกที่ไร้สีสัน และมีเพียง \"รักแท้\" เท่านั้นที่จะทำลายคำสาปได้ แต่ผู้ที่เข้ารับบททดสอบจะต้องตอบปริศนาทั้ง 3 ข้อให้ถูกต้อง เพราะหากพลาดแม้แต่ข้อเดียว ก็ต้องแลกด้วยชีวิต\n\nเรื่องราวแฟนตาซี โรแมนติก และแอ็กชัน ที่ดัดแปลงจากตำนานเจ้าหญิงทูรันดอท ถ่ายทอดการผจญภัยของหญิงสาวผู้ต้องเผชิญชะตากรรม พร้อมปริศนาที่อาจเปลี่ยนโชคชะตาของทั้งสองอาณาจักร\n\n\n#TheCurseOfTurandot #TheCurseOfTurandot2021 #สปอยหนัง #เล่าหนัง #สรุปหนัง #รีวิวหนัง #หนังจีน #หนังแฟนตาซี #หนังโรแมนติก #หนังแอ็กชัน #เจ้าหญิง #เจ้าชาย #คำสาป #กำไลต้องสาป #ปริศนา #รักแท้ #หนังน่าดู #หนังดี #แนะนำหนัง #เรื่องย่อหนัง #ภาพยนตร์  #รีวิวหนัง #หนังใหม่ #หนังน่าดู  #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/drsqG3tZbv0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/drsqG3tZbv0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/drsqG3tZbv0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/drsqG3tZbv0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/drsqG3tZbv0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Zorp สปอยหนัง",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เพียงตอบ 3 คำถามชะตาชีวิตก็เปลี่ยนตลอดกาล",
-          "description": "ชื่อเรื่อง: The Curse of Turandot (2021)\nผู้กำกับ: Zheng Xiaolong\nนักแสดงนำ:\nGuan Xiaotong\nDylan Sprouse\nJiang Wen\nHu Jun\nCollin Chou\nSophie Marceau\n\nคะแนนรีวิว\nIMDb: 4.8/10\nTMDb: ประมาณ 6.0/10\nDouban (จีน): ประมาณ 3.6/10\n\nเรื่องย่อ: เมื่อหญิงสาวผู้ถูกคำสาปจากกำไลโบราณ ต้องใช้ชีวิตอยู่ในโลกที่ไร้สีสัน และมีเพียง \"รักแท้\" เท่านั้นที่จะทำลายคำสาปได้ แต่ผู้ที่เข้ารับบททดสอบจะต้องตอบปริศนาทั้ง 3 ข้อให้ถูกต้อง เพราะหากพลาดแม้แต่ข้อเดียว ก็ต้องแลกด้วยชีวิต\n\nเรื่องราวแฟนตาซี โรแมนติก และแอ็กชัน ที่ดัดแปลงจากตำนานเจ้าหญิงทูรันดอท ถ่ายทอดการผจญภัยของหญิงสาวผู้ต้องเผชิญชะตากรรม พร้อมปริศนาที่อาจเปลี่ยนโชคชะตาของทั้งสองอาณาจักร\n\n\n#TheCurseOfTurandot #TheCurseOfTurandot2021 #สปอยหนัง #เล่าหนัง #สรุปหนัง #รีวิวหนัง #หนังจีน #หนังแฟนตาซี #หนังโรแมนติก #หนังแอ็กชัน #เจ้าหญิง #เจ้าชาย #คำสาป #กำไลต้องสาป #ปริศนา #รักแท้ #หนังน่าดู #หนังดี #แนะนำหนัง #เรื่องย่อหนัง #ภาพยนตร์  #รีวิวหนัง #หนังใหม่ #หนังน่าดู  #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT2M49S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2137262",
-        "likeCount": "97891",
-        "favoriteCount": "0",
-        "commentCount": "333"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "RppvhylCLIq-9Vt9gggR87bezBQ",
-      "id": "R-VxcNhiybE",
-      "snippet": {
-        "publishedAt": "2026-08-05T09:00:03Z",
-        "channelId": "UCwPkAnO2tpaYUbFWdmtNzfw",
-        "title": "เมื่อแม่ให้ลูกชายไปฝึกทหารเพื่อปรับปรุงตัว",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vibe Feed",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อแม่ให้ลูกชายไปฝึกทหารเพื่อปรับปรุงตัว",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "819550",
-        "likeCount": "42273",
-        "favoriteCount": "0",
-        "commentCount": "132"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ut4YRgBetC7KfLihyenpVsOchlc",
-      "id": "r9goD9y6oU8",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:00:08Z",
-        "channelId": "UCSRDPpOKhbUid2e-UlPx-lQ",
-        "title": "ชาวบ้านมั่นใจว่าแตงโมมีพิษแน่ๆ",
-        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Cowpibarao",
-        "tags": [
-          "#สัตว์เลี้ยง",
-          "#แมว",
-          "#dog",
-          "#cat",
-          "#animal",
-          "#เรื่องเล่า",
-          "#เล่าเรื่อง",
-          "#สัตว์โลกน่ารัก",
-          "#น่ารัก",
-          "#shorts",
-          "#viral",
-          "#ตลก",
-          "#funny",
-          "#comedy",
-          "#ฮาๆ",
-          "#หมา",
-          "#หมาน่ารัก",
-          "#แมวน่ารัก"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ชาวบ้านมั่นใจว่าแตงโมมีพิษแน่ๆ",
-          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "567441",
-        "likeCount": "7444",
-        "favoriteCount": "0",
-        "commentCount": "10"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "eYQwZasU8uViAKvwIjLE0MZqaps",
-      "id": "8YNsUWIFmg4",
-      "snippet": {
-        "publishedAt": "2026-08-01T01:05:35Z",
-        "channelId": "UCN8pDbdpLI20LVaC_3oQuVQ",
-        "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mundos Salvajes",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "es",
-        "localized": {
-          "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "37543304",
-        "likeCount": "1005881",
-        "favoriteCount": "0",
-        "commentCount": "14486"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "9XgfLurApVwXddUis3M63CYyhME",
+      "etag": "LxBch0qRdcg_O6tiR-KYhK4TGfM",
       "id": "ZTufEC47zsY",
       "snippet": {
         "publishedAt": "2026-08-07T08:30:15Z",
@@ -1264,144 +1059,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "541669",
-        "likeCount": "28656",
+        "viewCount": "715776",
+        "likeCount": "36261",
         "favoriteCount": "0",
-        "commentCount": "28"
+        "commentCount": "43"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "qTK4LH9-63BHW5931bLDnFhtXdw",
-      "id": "nrOmRP_v1gA",
-      "snippet": {
-        "publishedAt": "2026-08-07T12:36:04Z",
-        "channelId": "UC1uKC-HEciJA4UYsbAAozZQ",
-        "title": "หมอนแฮร์รี่พ็อตเตอร์!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Pavin's TH-ENG Corner",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "หมอนแฮร์รี่พ็อตเตอร์!",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "456826",
-        "likeCount": "33649",
-        "favoriteCount": "0",
-        "commentCount": "94"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tFrIwLLNbYqlOHZePSzn8GDgscI",
-      "id": "VieSXT_F5Hc",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:30:01Z",
-        "channelId": "UCYYE_Fgyu5tyVLd7simf0uQ",
-        "title": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง",
-        "description": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง #แมว #ทาสแมว #บันเทิง #คลิปสั้น #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Moon Hand",
-        "tags": [
-          "shorts",
-          "คลิปสั้น",
-          "แมวอาบน้ำ"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง",
-          "description": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง #แมว #ทาสแมว #บันเทิง #คลิปสั้น #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "621006",
-        "likeCount": "8686",
-        "favoriteCount": "0",
-        "commentCount": "13"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "GyTAqCfdEwhQQPtu0lckvOqyzhU",
+      "etag": "ByOzfoyNtUdKtzdKH2aSmOxudas",
       "id": "uN0AOD009jQ",
       "snippet": {
         "publishedAt": "2026-08-06T10:56:49Z",
@@ -1460,436 +1126,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "544892",
-        "likeCount": "16544",
+        "viewCount": "714303",
+        "likeCount": "21662",
         "favoriteCount": "0",
-        "commentCount": "58"
+        "commentCount": "78"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sw-lrAMd_SAXq_cUW3cvd4b5x98",
-      "id": "KfYcHeIdW2k",
-      "snippet": {
-        "publishedAt": "2026-08-04T11:00:01Z",
-        "channelId": "UC1TQmF4ECNtddMuvwlN4uGA",
-        "title": "เมื่อตัวตลกในงานวันเกิด ไม่ใช่ตัวตลกอย่างที่คิด! #สาระความรู้ #sigmaboy",
-        "description": "#shorts #viralshorts #สาระความรู้ #เรื่องเล่า #ซิกม่าบอย",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ซิกม่าบอย เล่าเรื่อง",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อตัวตลกในงานวันเกิด ไม่ใช่ตัวตลกอย่างที่คิด! #สาระความรู้ #sigmaboy",
-          "description": "#shorts #viralshorts #สาระความรู้ #เรื่องเล่า #ซิกม่าบอย"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M3S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1034713",
-        "favoriteCount": "0",
-        "commentCount": "139"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cfdFV7f2rGDsbxrLuS1sM_SVObw",
-      "id": "8oDLt0T0L2Q",
-      "snippet": {
-        "publishedAt": "2026-07-31T09:45:25Z",
-        "channelId": "UC7n3c4N1lRXNvppFD799hkQ",
-        "title": "เปิดการ์ดตอนเล่นคอนเสิร์ตแต่กลับเจอแบบนี้! #shorts #viral",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TaleTime",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เปิดการ์ดตอนเล่นคอนเสิร์ตแต่กลับเจอแบบนี้! #shorts #viral",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2044779",
-        "likeCount": "72704",
-        "favoriteCount": "0",
-        "commentCount": "178"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ffKgVq5hbM7aVTDz4EQS4FThI88",
-      "id": "ZCFBBGBNCFE",
-      "snippet": {
-        "publishedAt": "2026-08-07T04:00:37Z",
-        "channelId": "UCWXCAM8i0N6ZdShx8EqPSzg",
-        "title": "Я нашла K-Pop Охотниц на Демонов в своей комнате !!!",
-        "description": "💖 Наш мерч - https://kratk.ru/m/IjMxGKit\n🕹️ Игра \"Бруно и Аришнев Беги и Лети\" для Android - https://play.google.com/store/apps/details?id=com.greenblueinteractive.brunoandarishnevrunandfly\n🕹️ Игра \"Бруно и Аришнев Беги и Лети\" для Apple - https://apps.apple.com/app/bruno-and-arishnev-run-and-fly/id6746455156\n\n● VK - https://vk.com/brunobroo\n● Rutube - https://rutube.ru/channel/836193/\n● Телеграмм - https://t.me/+0Rj8ZIB33-E2OTFi\n● Instagram - https://www.instagram.com/vilyambruno/ \n● TikTok - https://www.tiktok.com/@brunobroo?_t=8pp7blKAtxH&_r=1",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BRUNO",
-        "tags": [
-          "Вильям Бруно",
-          "Вильям",
-          "Бруно",
-          "Челлендж",
-          "челендж",
-          "Бруно и Алина"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ru",
-        "localized": {
-          "title": "ฉันเจอนักล่าปีศาจเคป๊อปอยู่ในห้องของฉัน!!!",
-          "description": "🕹️ เกม “บรูโนและอาริชเนฟ: วิ่งและบิน” สำหรับ Android - https://play.google.com/store/apps/details?id=com.greenblueinteractive.brunoandarishnevrunandfly\n🕹️ เกม “บรูโนและอาริชเนฟ: วิ่งและบิน” สำหรับ Apple - https://apps.apple.com/app/bruno-and-arishnev-run-and-fly/id6746455156\n\n● วีเค - https://vk.com/brunobroo\n● รูทูบ - https://rutube.ru/channel/836193/\n● เทเลแกรม - https://t.me/+0Rj8ZIB33-E2OTFi\n● อินสตาแกรม - https://www.instagram.com/vilyambruno/\n● ติ๊กต็อก - https://www.tiktok.com/@brunobroo?_t=8pp7blKAtxH&_r=1"
-        },
-        "defaultAudioLanguage": "ru"
-      },
-      "contentDetails": {
-        "duration": "PT1M7S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "7271917",
-        "likeCount": "273500",
-        "favoriteCount": "0",
-        "commentCount": "517"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "l0O9iaf-QY4nKflKdd0R6XWlqmY",
-      "id": "IgDhxRmRSXs",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:21:33Z",
-        "channelId": "UCCVbBMsFzOuU_lROmRTIsLQ",
-        "title": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย",
-        "description": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย #หมา #สุนัขแสนรู้ #บันเทิง #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ต้องฟังให้จบ",
-        "tags": [
-          "ให้หมาจับโจร"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย",
-          "description": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย #หมา #สุนัขแสนรู้ #บันเทิง #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "508276",
-        "likeCount": "5862",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mM9g413iQjXKxgEMFz4TKKc_eYs",
-      "id": "7xUpG9p0-mQ",
-      "snippet": {
-        "publishedAt": "2026-08-01T09:15:01Z",
-        "channelId": "UCjVb9mJZTeuPLN4hOjmvQnw",
-        "title": "วางใกล้งูเห่า🧁‼️ #คู่มือมนุษย์ #สกุชชี่ #บี้เดอะสกา #bietheska",
-        "description": "วิธีเอาตัวรอดเมื่อเพื่อนขอยืมสกุชชี่ | คู่มือมนุษย์ EP.115",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7xUpG9p0-mQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7xUpG9p0-mQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7xUpG9p0-mQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7xUpG9p0-mQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7xUpG9p0-mQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Bie The Ska",
-        "tags": [
-          "Bie The Ska",
-          "บี้เดอะสกา",
-          "bietheska",
-          "theskafilm",
-          "เดอะสกาฟิล์ม",
-          "บี้",
-          "bie",
-          "เดอะสกา",
-          "the ska",
-          "บี้ เดอะสกา",
-          "พี่บี้",
-          "theskagang",
-          "theska",
-          "ska",
-          "คู่มือมนุษย์",
-          "คู่มือมนุษย์ EP.115",
-          "คู่มือมนุษย์ตอนใหม่",
-          "วิธีเอาตัวรอดเมื่อเพื่อนขอยืมสกุชชี่",
-          "วิธีเอาตัวรอด",
-          "เพื่อนขอยืมสกุชชี่",
-          "เพื่อนยืมแล้วไม่คืน",
-          "วิธีปฏิเสธเพื่อน",
-          "วิธีรักษาสกุชชี่",
-          "สกุชชี่",
-          "สกุชชี่น่ารัก",
-          "squishy",
-          "ของเล่นสกุชชี่",
-          "ห้ามจับสกุชชี่",
-          "ซ่อนสกุชชี่",
-          "ป้องกันสกุชชี่",
-          "แกล้งเพื่อน",
-          "ชีวิตนักเรียน",
-          "ตลกไทย",
-          "คลิปตลก",
-          "คลิปฮา",
-          "ละครสั้น",
-          "school comedy",
-          "thai comedy",
-          "คู่มือเอาตัวรอด"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "วางใกล้งูเห่า🧁‼️ #คู่มือมนุษย์ #สกุชชี่ #บี้เดอะสกา #bietheska",
-          "description": "วิธีเอาตัวรอดเมื่อเพื่อนขอยืมสกุชชี่ | คู่มือมนุษย์ EP.115"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1708264",
-        "likeCount": "13764",
-        "favoriteCount": "0",
-        "commentCount": "15"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "iJGTyfDjIlXYRl50G_2hb0MDREk",
-      "id": "fpNchPVoTjk",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:09:50Z",
-        "channelId": "UCj53nvM9aUs781JwKqXfZag",
-        "title": "จะเป็นอย่างไรเมื่อพาปู่มาเที่ยวออกมาเที่ยวนอกบ้านบ้าง  #ตลก #funny",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jizo Vibe",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "จะเป็นอย่างไรเมื่อพาปู่มาเที่ยวออกมาเที่ยวนอกบ้านบ้าง  #ตลก #funny",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1119198",
-        "likeCount": "30111",
-        "favoriteCount": "0",
-        "commentCount": "28"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4Lgch-yy-TGPYaU0hWR_83d_BcY",
+      "etag": "8pn0TnC3nTamFxAMcFY7OFxwIy4",
       "id": "xW4RI87A3HA",
       "snippet": {
         "publishedAt": "2026-08-06T08:20:43Z",
@@ -1943,60 +1188,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "596332",
-        "likeCount": "10451",
+        "viewCount": "897579",
+        "likeCount": "15030",
         "favoriteCount": "0",
-        "commentCount": "15"
+        "commentCount": "17"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Hh6pYzOFIBrdm6lwJzLHVYeQwPk",
-      "id": "n_sQdJ8B2P4",
+      "etag": "BRAnB6LwClqUdmfAWDLM_y_IdOk",
+      "id": "8YNsUWIFmg4",
       "snippet": {
-        "publishedAt": "2026-08-04T10:00:05Z",
-        "channelId": "UC7eYLXZB92DT3eFXqIoZcKw",
-        "title": "เธอถ่ายรูปเล่นแต่กลับกลายเป็นพยานของคดีอันตราย #สปอยหนัง #สรุปหนัง #เล่าเรื่องหนัง #shorts",
-        "description": "ชื่อเรื่อง: Standoff (2016)\n\nเรื่องย่อ: แอนนาบังเอิญบันทึกหลักฐานสำคัญที่ไม่ควรเห็น ทำให้เธอตกเป็นเป้าหมายของคนร้ายผู้ไร้ความปรานี ระหว่างหลบหนี เธอได้รับความช่วยเหลือจากอดีตทหารที่ใช้ชีวิตอย่างโดดเดี่ยว หลังจากสูญเสียครอบครัว\n\nแม้จะมีทรัพยากรจำกัด แต่เขาตัดสินใจยืนหยัดปกป้องแอนนา พร้อมเผชิญหน้ากับสถานการณ์ที่กดดันทั้งร่างกายและจิตใจ เรื่องราวการเสียสละ ความกล้าหาญ และการไถ่บาป จึงเริ่มต้นขึ้นในบ้านไม้หลังเล็กที่กลายเป็นสมรภูมิแห่งความหวัง\n\n🎥ผู้กำกับ: Adam Alleca\n⭐นักแสดงนำ:\n•Thomas Jane\nLaurence Fishburne\nElla Ballentine\nTed Atherton\nJim Watson\nJoanna Douglas\n\n🏆คะแนนรีวิว:\nIMDb: 6.1/10\nRotten Tomatoes (Tomatometer): 57%\nRotten Tomatoes (Audience Score): 50%\nMetacritic: 36/100\n\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #Standoff #Standoff2016 #หนังแอ็กชัน #หนังระทึกขวัญ #หนังเอาชีวิตรอด",
+        "publishedAt": "2026-08-01T01:05:35Z",
+        "channelId": "UCN8pDbdpLI20LVaC_3oQuVQ",
+        "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/n_sQdJ8B2P4/default.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/n_sQdJ8B2P4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/n_sQdJ8B2P4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/n_sQdJ8B2P4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/n_sQdJ8B2P4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "BNC037 CHANNEL",
-        "categoryId": "1",
+        "channelTitle": "Mundos Salvajes",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
+        "defaultLanguage": "es",
         "localized": {
-          "title": "เธอถ่ายรูปเล่นแต่กลับกลายเป็นพยานของคดีอันตราย #สปอยหนัง #สรุปหนัง #เล่าเรื่องหนัง #shorts",
-          "description": "ชื่อเรื่อง: Standoff (2016)\n\nเรื่องย่อ: แอนนาบังเอิญบันทึกหลักฐานสำคัญที่ไม่ควรเห็น ทำให้เธอตกเป็นเป้าหมายของคนร้ายผู้ไร้ความปรานี ระหว่างหลบหนี เธอได้รับความช่วยเหลือจากอดีตทหารที่ใช้ชีวิตอย่างโดดเดี่ยว หลังจากสูญเสียครอบครัว\n\nแม้จะมีทรัพยากรจำกัด แต่เขาตัดสินใจยืนหยัดปกป้องแอนนา พร้อมเผชิญหน้ากับสถานการณ์ที่กดดันทั้งร่างกายและจิตใจ เรื่องราวการเสียสละ ความกล้าหาญ และการไถ่บาป จึงเริ่มต้นขึ้นในบ้านไม้หลังเล็กที่กลายเป็นสมรภูมิแห่งความหวัง\n\n🎥ผู้กำกับ: Adam Alleca\n⭐นักแสดงนำ:\n•Thomas Jane\nLaurence Fishburne\nElla Ballentine\nTed Atherton\nJim Watson\nJoanna Douglas\n\n🏆คะแนนรีวิว:\nIMDb: 6.1/10\nRotten Tomatoes (Tomatometer): 57%\nRotten Tomatoes (Audience Score): 50%\nMetacritic: 36/100\n\n#สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังบู๊ #หนังมันส์ๆ #Standoff #Standoff2016 #หนังแอ็กชัน #หนังระทึกขวัญ #หนังเอาชีวิตรอด"
-        },
-        "defaultAudioLanguage": "th"
+          "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
+          "description": ""
+        }
       },
       "contentDetails": {
-        "duration": "PT2M23S",
+        "duration": "PT1M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2005,76 +1249,396 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1057306",
-        "likeCount": "46731",
+        "viewCount": "47610903",
+        "likeCount": "1207351",
         "favoriteCount": "0",
-        "commentCount": "102"
+        "commentCount": "17274"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wC0uD2p_x0l6L-FSWEJyqp9_7eE",
-      "id": "BeBi82dRuuU",
+      "etag": "HsyBtItoNslgpDhPWD8bwC67FYo",
+      "id": "u7yxP4CMm14",
       "snippet": {
-        "publishedAt": "2026-08-03T03:21:55Z",
-        "channelId": "UCTlUyM7w8gu8oP2nHtuOn2A",
-        "title": "เมื่อครูฝึกลำเอียง #viral #viralvideo #interesting",
-        "description": "",
+        "publishedAt": "2026-08-08T02:30:19Z",
+        "channelId": "UCjVb9mJZTeuPLN4hOjmvQnw",
+        "title": "เจอประจำ ครูพละสายลำเอียง 🏀⛹️ #เจอประจำ #ครูพละ #บี้เดอะสกา #bietheska",
+        "description": "เจอประจำ ตอน ครูพละ [EP.34]",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/default.jpg",
+            "url": "https://i.ytimg.com/vi/u7yxP4CMm14/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u7yxP4CMm14/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u7yxP4CMm14/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/u7yxP4CMm14/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u7yxP4CMm14/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Deepocean story",
-        "categoryId": "22",
+        "channelTitle": "Bie The Ska",
+        "tags": [
+          "Bie The Ska",
+          "บี้เดอะสกา",
+          "bietheska",
+          "theskafilm",
+          "aksehteib",
+          "เดอะสกาฟิล์ม",
+          "บี้",
+          "bie",
+          "เดอะสกา",
+          "the ska",
+          "บี้ เดอะสกา",
+          "พี่บี้",
+          "theskagang",
+          "theska",
+          "ska",
+          "เจอประจำep34",
+          "เจอประจำep.34",
+          "เจอประจำวิชาพละ",
+          "เจอประจำครูพละในโรงเรียน",
+          "ครูพละ",
+          "ครูพละในโรงเรียน",
+          "ครู",
+          "ครูพละฮาๆ",
+          "ครูพละขำๆ",
+          "นักเรียน",
+          "ครูพละ EP.34",
+          "พลศึกษา",
+          "คลิปครูพละ",
+          "คลิปตลกในโรงเรียน",
+          "คลิปโรงเรียนสนุกๆ",
+          "ครูพละสายโหด",
+          "ครูสอนพละ",
+          "ครูพลศึกษา",
+          "ครูสอน",
+          "โรงเรียน",
+          "เปิดเทอม",
+          "เรียนหนังสือ",
+          "วิชาพละ",
+          "เจอประจำ ตอน ครูพละ[ep.34]"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เมื่อครูฝึกลำเอียง #viral #viralvideo #interesting",
-          "description": ""
-        }
+          "title": "เจอประจำ ครูพละสายลำเอียง 🏀⛹️ #เจอประจำ #ครูพละ #บี้เดอะสกา #bietheska",
+          "description": "เจอประจำ ตอน ครูพละ [EP.34]"
+        },
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT38S",
+        "duration": "PT1M7S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1097128",
-        "likeCount": "18453",
+        "viewCount": "543983",
+        "likeCount": "7611",
         "favoriteCount": "0",
-        "commentCount": "31"
+        "commentCount": "21"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "C3ooGL69QXCVt6d-cOjZIVJKrb8",
+      "etag": "pI_JkTXreRJRCraFBFu5ZFqUUnE",
+      "id": "3OKD7CZD4iE",
+      "snippet": {
+        "publishedAt": "2026-08-07T12:00:10Z",
+        "channelId": "UCl54wNQPZgQeb0LUAAzfJLA",
+        "title": "เธอซื้อแอปเปิลกว่าร้อยลูกแต่ไม่ได้กินแม้แต่ลูกเดียว",
+        "description": "ชื่อเรื่อง: Mom (2017)\nผู้กำกับ: Ravi Udyawar\nนักแสดงนำ:\nSridevi\nNawazuddin Siddiqui\nAkshaye Khanna\nSajal Aly\nAdnan Siddiqui\nAbhimanyu Singh\n\n🏆 คะแนนรีวิว\n• IMDb: ⭐ 7.2/10\n• Rotten Tomatoes (Tomatometer): ⭐ 80%\n• Rotten Tomatoes (Audience): ⭐ 84%\n• Google Users: ⭐ 92% ชื่นชอบภาพยนตร์เรื่องนี้\n\nเรื่องย่อ: เมื่อผู้เป็นแม่ต้องเผชิญกับเหตุการณ์ที่ไม่มีใครอยากให้เกิดขึ้น และความยุติธรรมกลับไม่เป็นอย่างที่หวัง เธอจึงตัดสินใจออกตามหาความจริงด้วยตัวเอง พร้อมเผชิญหน้ากับอุปสรรคที่ยากเกินคาด\n\n#Mom2017 #หนังอินเดีย #สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังระทึกขวัญ #หนังดราม่า",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3OKD7CZD4iE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3OKD7CZD4iE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3OKD7CZD4iE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3OKD7CZD4iE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3OKD7CZD4iE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zorp สปอยหนัง",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เธอซื้อแอปเปิลกว่าร้อยลูกแต่ไม่ได้กินแม้แต่ลูกเดียว",
+          "description": "ชื่อเรื่อง: Mom (2017)\nผู้กำกับ: Ravi Udyawar\nนักแสดงนำ:\nSridevi\nNawazuddin Siddiqui\nAkshaye Khanna\nSajal Aly\nAdnan Siddiqui\nAbhimanyu Singh\n\n🏆 คะแนนรีวิว\n• IMDb: ⭐ 7.2/10\n• Rotten Tomatoes (Tomatometer): ⭐ 80%\n• Rotten Tomatoes (Audience): ⭐ 84%\n• Google Users: ⭐ 92% ชื่นชอบภาพยนตร์เรื่องนี้\n\nเรื่องย่อ: เมื่อผู้เป็นแม่ต้องเผชิญกับเหตุการณ์ที่ไม่มีใครอยากให้เกิดขึ้น และความยุติธรรมกลับไม่เป็นอย่างที่หวัง เธอจึงตัดสินใจออกตามหาความจริงด้วยตัวเอง พร้อมเผชิญหน้ากับอุปสรรคที่ยากเกินคาด\n\n#Mom2017 #หนังอินเดีย #สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง #หนังสนุก #หนังระทึกขวัญ #หนังดราม่า"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "666190",
+        "likeCount": "29606",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b6XY1-2GsGsBjloOp-TQVVqFU6c",
+      "id": "R-VxcNhiybE",
+      "snippet": {
+        "publishedAt": "2026-08-05T09:00:03Z",
+        "channelId": "UCwPkAnO2tpaYUbFWdmtNzfw",
+        "title": "เมื่อแม่ให้ลูกชายไปฝึกทหารเพื่อปรับปรุงตัว",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R-VxcNhiybE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vibe Feed",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อแม่ให้ลูกชายไปฝึกทหารเพื่อปรับปรุงตัว",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "956081",
+        "likeCount": "48823",
+        "favoriteCount": "0",
+        "commentCount": "157"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VJWESYgJpPl6UXYgiuhCy6rZHqo",
+      "id": "IsPltXajbJk",
+      "snippet": {
+        "publishedAt": "2026-08-08T06:00:32Z",
+        "channelId": "UCiJ7n0kpQtPKwjb5YZckELg",
+        "title": "เมื่อมือเริ่มมีตะขอเหมือนแมงมุม",
+        "description": "ชื่อเรื่อง: Spider-Man (ไอ้แมงมุม) [2002]\nผู้กำกับ: Sam Raimi (แซม ไรมี่)\nคะแนน:  IMDb: 7.4/10 Rotten Tomatoes: 90% (Tomatometer) / 67% (Audience Score)\nหาดูได้ที่: Netflix, Disney+ Hotstar, Apple TV (เช่า/ซื้อ)\n\nนักแสดงนำ\nTobey Maguire รับบท Peter Parker Spider-Man\nWillem Dafoe รับบท Norman Osborn Green Goblin\nKirsten Dunst รับบท Mary Jane Watson\nJames Franco รับบท Harry Osborn\nCliff Robertson รับบท Uncle Ben (Ben Parker) \n\nเรื่องย่อ\nปีเตอร์ พาร์กเกอร์ เด็กหนุ่มมัธยมสุดเนิร์ด ถูกแมงมุมดัดแปลงพันธุกรรมกัดระหว่างการชมทัศนศึกษา ทำให้เขาได้รับพลังพิเศษเหนือมนุษย์ ทั้งพละกำลัง การปีนป่าย และประสาทสัมผัสแบบแมงมุม หลังจากเหตุการณ์โศกนาฏกรรมสูญเสีย ลุงเบน ที่ตอกย้ำคำสอนว่า \"พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันยิ่งใหญ่\" ปีเตอร์จึงตัดสินใจใช้พลังนี้ออกปราบปรามอาชญากรรมในนาม \"สไปเดอร์แมน\" พร้อมกับต้องรับมือกับศัตรูตัวฉกาจอย่าง กรีน กอบลิน ซึ่งแท้จริงแล้วคือพ่อของเพื่อนสนิทเขาเอง\n\n#สปอยหนัง \n#เล่าหนัง \n#รีวิวหนัง \n#หนังใหม่ \n#หนังน่าดู \n#หนังแอ็คชั่น \n#เอาชีวิตรอด \n#สรุปหนัง \n#เรื่องย่อหนัง \n#ดูหนัง \n#รีวิวภาพยนตร์ \n#ห้ามพลาด \n#หนังสนุก \n#สปอย\n#ภาพยนตร์ \n#หนัง \n#เอาชีวิตรอด\n#หนังฝรั่ง\n#สไปเดอร์แมน",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IsPltXajbJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IsPltXajbJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IsPltXajbJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IsPltXajbJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IsPltXajbJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SNAPNIPS",
+        "tags": [
+          "movie",
+          "movies",
+          "หนัง",
+          "หนังสั้น",
+          "film",
+          "films",
+          "รีวิวหนัง",
+          "สปอยหนัง"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อมือเริ่มมีตะขอเหมือนแมงมุม",
+          "description": "ชื่อเรื่อง: Spider-Man (ไอ้แมงมุม) [2002]\nผู้กำกับ: Sam Raimi (แซม ไรมี่)\nคะแนน:  IMDb: 7.4/10 Rotten Tomatoes: 90% (Tomatometer) / 67% (Audience Score)\nหาดูได้ที่: Netflix, Disney+ Hotstar, Apple TV (เช่า/ซื้อ)\n\nนักแสดงนำ\nTobey Maguire รับบท Peter Parker Spider-Man\nWillem Dafoe รับบท Norman Osborn Green Goblin\nKirsten Dunst รับบท Mary Jane Watson\nJames Franco รับบท Harry Osborn\nCliff Robertson รับบท Uncle Ben (Ben Parker) \n\nเรื่องย่อ\nปีเตอร์ พาร์กเกอร์ เด็กหนุ่มมัธยมสุดเนิร์ด ถูกแมงมุมดัดแปลงพันธุกรรมกัดระหว่างการชมทัศนศึกษา ทำให้เขาได้รับพลังพิเศษเหนือมนุษย์ ทั้งพละกำลัง การปีนป่าย และประสาทสัมผัสแบบแมงมุม หลังจากเหตุการณ์โศกนาฏกรรมสูญเสีย ลุงเบน ที่ตอกย้ำคำสอนว่า \"พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันยิ่งใหญ่\" ปีเตอร์จึงตัดสินใจใช้พลังนี้ออกปราบปรามอาชญากรรมในนาม \"สไปเดอร์แมน\" พร้อมกับต้องรับมือกับศัตรูตัวฉกาจอย่าง กรีน กอบลิน ซึ่งแท้จริงแล้วคือพ่อของเพื่อนสนิทเขาเอง\n\n#สปอยหนัง \n#เล่าหนัง \n#รีวิวหนัง \n#หนังใหม่ \n#หนังน่าดู \n#หนังแอ็คชั่น \n#เอาชีวิตรอด \n#สรุปหนัง \n#เรื่องย่อหนัง \n#ดูหนัง \n#รีวิวภาพยนตร์ \n#ห้ามพลาด \n#หนังสนุก \n#สปอย\n#ภาพยนตร์ \n#หนัง \n#เอาชีวิตรอด\n#หนังฝรั่ง\n#สไปเดอร์แมน"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "565166",
+        "likeCount": "18862",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Bj_EIi2b0gCNgt9RMp-PvoYlMbA",
+      "id": "r9goD9y6oU8",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:00:08Z",
+        "channelId": "UCSRDPpOKhbUid2e-UlPx-lQ",
+        "title": "ชาวบ้านมั่นใจว่าแตงโมมีพิษแน่ๆ",
+        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r9goD9y6oU8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cowpibarao",
+        "tags": [
+          "#สัตว์เลี้ยง",
+          "#แมว",
+          "#dog",
+          "#cat",
+          "#animal",
+          "#เรื่องเล่า",
+          "#เล่าเรื่อง",
+          "#สัตว์โลกน่ารัก",
+          "#น่ารัก",
+          "#shorts",
+          "#viral",
+          "#ตลก",
+          "#funny",
+          "#comedy",
+          "#ฮาๆ",
+          "#หมา",
+          "#หมาน่ารัก",
+          "#แมวน่ารัก"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ชาวบ้านมั่นใจว่าแตงโมมีพิษแน่ๆ",
+          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "638683",
+        "likeCount": "8584",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pxobJQAXrvb9GZFOzM1KTo_0kys",
       "id": "1w_ym7Z17Sg",
       "snippet": {
         "publishedAt": "2026-08-08T00:34:26Z",
@@ -2151,15 +1715,759 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "283380",
-        "likeCount": "20828",
+        "viewCount": "434089",
+        "likeCount": "28738",
         "favoriteCount": "0",
-        "commentCount": "217"
+        "commentCount": "258"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ft-qywGF9G2kq2tMTGHfER7gRb4",
+      "etag": "ltRYaQPPveYG0RjV8tQXFIbstQo",
+      "id": "K_QF_wEzL7M",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:38:42Z",
+        "channelId": "UCxm5_Y8j9Bn7LxrSHMMJ0Pw",
+        "title": "Я спрятал маленькие продукты в магазине!",
+        "description": "🛍️ Купить официальный мерч - https://kratk.ru/m/VDWwqxHg\n\n🍉 Реклама/сотрудничество - arishnev.ads@gmail.com \nПозвать на день рождения (мероприятие) - arishnev1reklama@gmail.com \n\n#аришнев",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K_QF_wEzL7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K_QF_wEzL7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K_QF_wEzL7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K_QF_wEzL7M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K_QF_wEzL7M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Аришнев",
+        "tags": [
+          "аришнев",
+          "бруно",
+          "сафик",
+          "маша",
+          "маша аришнев"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "ฉันซ่อนอาหารจิ๋วไว้ในร้านค้า 🛒",
+          "description": "🍉 โฆษณา/ร่วมงาน - arishnev.ads@gmail.com\nเชิญไปงานวันเกิด (อีเวนต์) - arishnev1reklama@gmail.com\n\n#อาริชเนฟ"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4384499",
+        "likeCount": "199679",
+        "favoriteCount": "0",
+        "commentCount": "658"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nTErfxDIpKGRGP55emLuLvxs4jo",
+      "id": "ZCFBBGBNCFE",
+      "snippet": {
+        "publishedAt": "2026-08-07T04:00:37Z",
+        "channelId": "UCWXCAM8i0N6ZdShx8EqPSzg",
+        "title": "Я нашла K-Pop Охотниц на Демонов в своей комнате !!!",
+        "description": "💖 Наш мерч - https://kratk.ru/m/IjMxGKit\n🕹️ Игра \"Бруно и Аришнев Беги и Лети\" для Android - https://play.google.com/store/apps/details?id=com.greenblueinteractive.brunoandarishnevrunandfly\n🕹️ Игра \"Бруно и Аришнев Беги и Лети\" для Apple - https://apps.apple.com/app/bruno-and-arishnev-run-and-fly/id6746455156\n\n● VK - https://vk.com/brunobroo\n● Rutube - https://rutube.ru/channel/836193/\n● Телеграмм - https://t.me/+0Rj8ZIB33-E2OTFi\n● Instagram - https://www.instagram.com/vilyambruno/ \n● TikTok - https://www.tiktok.com/@brunobroo?_t=8pp7blKAtxH&_r=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZCFBBGBNCFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BRUNO",
+        "tags": [
+          "Вильям Бруно",
+          "Вильям",
+          "Бруно",
+          "Челлендж",
+          "челендж",
+          "Бруно и Алина"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "ฉันเจอนักล่าปีศาจเคป๊อปอยู่ในห้องของฉัน!!!",
+          "description": "🕹️ เกม “บรูโนและอาริชเนฟ: วิ่งและบิน” สำหรับ Android - https://play.google.com/store/apps/details?id=com.greenblueinteractive.brunoandarishnevrunandfly\n🕹️ เกม “บรูโนและอาริชเนฟ: วิ่งและบิน” สำหรับ Apple - https://apps.apple.com/app/bruno-and-arishnev-run-and-fly/id6746455156\n\n● วีเค - https://vk.com/brunobroo\n● รูทูบ - https://rutube.ru/channel/836193/\n● เทเลแกรม - https://t.me/+0Rj8ZIB33-E2OTFi\n● อินสตาแกรม - https://www.instagram.com/vilyambruno/\n● ติ๊กต็อก - https://www.tiktok.com/@brunobroo?_t=8pp7blKAtxH&_r=1"
+        },
+        "defaultAudioLanguage": "ru"
+      },
+      "contentDetails": {
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9017968",
+        "likeCount": "325333",
+        "favoriteCount": "0",
+        "commentCount": "609"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "suATendY_O-pxsEsgYu4H22EVw0",
+      "id": "nrOmRP_v1gA",
+      "snippet": {
+        "publishedAt": "2026-08-07T12:36:04Z",
+        "channelId": "UC1uKC-HEciJA4UYsbAAozZQ",
+        "title": "หมอนแฮร์รี่พ็อตเตอร์!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nrOmRP_v1gA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pavin's TH-ENG Corner",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "หมอนแฮร์รี่พ็อตเตอร์!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "510860",
+        "likeCount": "35650",
+        "favoriteCount": "0",
+        "commentCount": "97"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WPDRu2Mc_tF4X73sI_BIa1FtC4A",
+      "id": "0IDH3S5FeMk",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:25:04Z",
+        "channelId": "UCSI7jhfIwPg8F0wl6czfFkg",
+        "title": "เขาหิวเลยเคาะกระจก ขอข้าวกินหน่อย",
+        "description": "เขาหิวเลยเคาะกระจก มาขอข้าวกินหน่อย #ช่วยเหลือ #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0IDH3S5FeMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0IDH3S5FeMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0IDH3S5FeMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0IDH3S5FeMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0IDH3S5FeMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "น้องฮิปโป",
+        "tags": [
+          "shorts",
+          "ขอความช่วยเหลือ"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เขาหิวเลยเคาะกระจก ขอข้าวกินหน่อย",
+          "description": "เขาหิวเลยเคาะกระจก มาขอข้าวกินหน่อย #ช่วยเหลือ #บันเทิง #shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "383049",
+        "likeCount": "5237",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ybr4ctdSY4lD13k2MhGNCwmhAY8",
+      "id": "gc6UC-LpTuw",
+      "snippet": {
+        "publishedAt": "2026-08-08T11:30:35Z",
+        "channelId": "UCfoXuLwwvN--a_wrxY-17Mw",
+        "title": "ทำพลาดครั้งเดียว…แต่แก้จนโคตรว้าว!",
+        "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gc6UC-LpTuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gc6UC-LpTuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gc6UC-LpTuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gc6UC-LpTuw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gc6UC-LpTuw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PANDA STORY",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "ทำพลาดครั้งเดียว…แต่แก้จนโคตรว้าว!",
+          "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "407848",
+        "likeCount": "7946",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vbd35ds2tuGALGbpVearysSR-_E",
+      "id": "eXT1vCS-1BY",
+      "snippet": {
+        "publishedAt": "2026-08-08T03:00:22Z",
+        "channelId": "UCiHQ5AywCFKF6q-C5dIguVQ",
+        "title": "เอาชีวิตรอดจาก SCP-67 ชายที่ดังที่สุดในโลก!!! (SPD RUN)",
+        "description": "Directed BY SPD\nProd.BY SpriteDer SPD\nContent creative BY  SPD\n\nEnglish subtitle available soon.\n\nติดต่องาน สปอนเซอร์ : SpriteDerSPD@online-station.net\n______________________________________________________________________________\n\nProducer\nKhachonsak Maksri\n\nCreative\nSanhawat Milintakup\nNapatcha Phutphimai\n\nEditor\nMethasit Jaihan\nSaengjaa Tapa\nNattapat Lertlumnaphakul\nKhattiya Jaidee\n\nGraphic & 3D Designer\nSupakiet Khumnet\n\nPropmaster\nSirichai Kiyapat\nTongchayz Indee\nPrommat Maneechot\nWongsathorn Wannatim\nPatanin Kumboonmee\n\nCostume\nArthit Sricharoen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXT1vCS-1BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXT1vCS-1BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXT1vCS-1BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eXT1vCS-1BY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eXT1vCS-1BY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SpriteDer SPD",
+        "tags": [
+          "spd",
+          "spriteder",
+          "spdnightshift",
+          "กะดึก",
+          "ผจญภัยกลางคืน",
+          "เรื่องลี้ลับ",
+          "ผจญภัยจริง",
+          "ผจญภัยirl",
+          "urbex",
+          "urbexexploration",
+          "urbexthailand",
+          "abandonedhouse",
+          "abandonedplaces",
+          "haunted",
+          "hauntedhouse",
+          "hauntedplace",
+          "midnightchallenge",
+          "3amchallenge",
+          "scp",
+          "scpfoundation",
+          "scpthai",
+          "scpirl",
+          "anomaly",
+          "backrooms",
+          "backroomsirl",
+          "secretroom",
+          "traproom",
+          "mysteriousplace",
+          "scaryvideo",
+          "granny",
+          "scb",
+          "พี่ไปร์ท",
+          "สไปรท์ spd"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เอาชีวิตรอดจาก SCP-67 ชายที่ดังที่สุดในโลก!!! (SPD RUN)",
+          "description": "Directed BY SPD\nProd.BY SpriteDer SPD\nContent creative BY  SPD\n\nEnglish subtitle available soon.\n\nติดต่องาน สปอนเซอร์ : SpriteDerSPD@online-station.net\n______________________________________________________________________________\n\nProducer\nKhachonsak Maksri\n\nCreative\nSanhawat Milintakup\nNapatcha Phutphimai\n\nEditor\nMethasit Jaihan\nSaengjaa Tapa\nNattapat Lertlumnaphakul\nKhattiya Jaidee\n\nGraphic & 3D Designer\nSupakiet Khumnet\n\nPropmaster\nSirichai Kiyapat\nTongchayz Indee\nPrommat Maneechot\nWongsathorn Wannatim\nPatanin Kumboonmee\n\nCostume\nArthit Sricharoen"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT58M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1033366",
+        "likeCount": "14681",
+        "favoriteCount": "0",
+        "commentCount": "1426"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "llcXcSfv2SQZv7tMWScFUrYt8ec",
+      "id": "ZyuEi_ETjps",
+      "snippet": {
+        "publishedAt": "2026-08-09T05:24:51Z",
+        "channelId": "UCqa1rgkjlosLbUciO4P7-eA",
+        "title": "เลือกอันไหนดี? #funny",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZyuEi_ETjps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZyuEi_ETjps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZyuEi_ETjps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZyuEi_ETjps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZyuEi_ETjps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "บ่าวอาม",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เลือกอันไหนดี? #funny",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "275696",
+        "likeCount": "4861",
+        "favoriteCount": "0",
+        "commentCount": "364"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MUoNxMXeF6UZnXb0Wnb8dM1kqAE",
+      "id": "yZ9flclUdFA",
+      "snippet": {
+        "publishedAt": "2026-08-08T23:34:18Z",
+        "channelId": "UC6I0LPHmH0WL1OkcLyKwchg",
+        "title": "ค่าน้ำมันแพง😄 #funny #comedy",
+        "description": "ค่าน้ำมันแพง😄 #funny #comedy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZ9flclUdFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZ9flclUdFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZ9flclUdFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZ9flclUdFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZ9flclUdFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Espaço Rústico",
+        "tags": [
+          "ค่าน้ำมันแพง"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ค่าน้ำมันแพง😄 #funny #comedy",
+          "description": "ค่าน้ำมันแพง😄 #funny #comedy"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "363854",
+        "likeCount": "5967",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qgeBv3tLqZmVyo1WThN__yW9i68",
+      "id": "VieSXT_F5Hc",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:30:01Z",
+        "channelId": "UCYYE_Fgyu5tyVLd7simf0uQ",
+        "title": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง",
+        "description": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง #แมว #ทาสแมว #บันเทิง #คลิปสั้น #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VieSXT_F5Hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Moon Hand",
+        "tags": [
+          "shorts",
+          "คลิปสั้น",
+          "แมวอาบน้ำ"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง",
+          "description": "เธอจะอาบน้ำแมว มันไม่ชอบเลยหนีไปซ่อนในกล่อง #แมว #ทาสแมว #บันเทิง #คลิปสั้น #shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "671577",
+        "likeCount": "9284",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iebWp8gjSdjhv-NH59zqnxX1n0E",
+      "id": "KfYcHeIdW2k",
+      "snippet": {
+        "publishedAt": "2026-08-04T11:00:01Z",
+        "channelId": "UC1TQmF4ECNtddMuvwlN4uGA",
+        "title": "เมื่อตัวตลกในงานวันเกิด ไม่ใช่ตัวตลกอย่างที่คิด! #สาระความรู้ #sigmaboy",
+        "description": "#shorts #viralshorts #สาระความรู้ #เรื่องเล่า #ซิกม่าบอย",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KfYcHeIdW2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ซิกม่าบอย เล่าเรื่อง",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อตัวตลกในงานวันเกิด ไม่ใช่ตัวตลกอย่างที่คิด! #สาระความรู้ #sigmaboy",
+          "description": "#shorts #viralshorts #สาระความรู้ #เรื่องเล่า #ซิกม่าบอย"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1125849",
+        "favoriteCount": "0",
+        "commentCount": "149"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mOqXdC9qulGGOoDTRClSlbJO68E",
+      "id": "IgDhxRmRSXs",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:21:33Z",
+        "channelId": "UCCVbBMsFzOuU_lROmRTIsLQ",
+        "title": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย",
+        "description": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย #หมา #สุนัขแสนรู้ #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IgDhxRmRSXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ต้องฟังให้จบ",
+        "tags": [
+          "ให้หมาจับโจร"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย",
+          "description": "เธอให้หมาจัดการโจรเข้าบ้าน มันไปเล่นกับโจรเฉย #หมา #สุนัขแสนรู้ #บันเทิง #shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "581356",
+        "likeCount": "6549",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SBFv0kmnevgEyAnJPoRPEAWRAdg",
       "id": "ZVMgWOLAIvY",
       "snippet": {
         "publishedAt": "2026-08-07T10:19:18Z",
@@ -2249,191 +2557,117 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "445791",
-        "likeCount": "23560",
+        "viewCount": "576695",
+        "likeCount": "29752",
         "favoriteCount": "0",
-        "commentCount": "33"
+        "commentCount": "40"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PtuxWvg9fADMd1CSAyxyw8QPbD0",
-      "id": "wq1MeFdjcZs",
+      "etag": "l8fCMdzb_YJk2gLXHTHaqebSUMY",
+      "id": "CB2lV6g9qIw",
       "snippet": {
-        "publishedAt": "2026-08-07T23:00:25Z",
-        "channelId": "UCv57-6TsgJT_FJ47mhIpO3w",
-        "title": "เมื่อทั้งครอบครัวช่วยกันแข่งกับสายฝน ⛈️",
-        "description": "คลิปนี้เป็นการเล่าเหตุการณ์ของผู้อื่น เพื่อความบันเทิง    \nไม่ได้สนับสนุน หรือแนะนำให้เลียนแบบ \n\n\nเครดิต Credit : 欧阳娟娟\n\n\nCopyright Notice:\nAll videos on this channel are used under the principles of Section 107 of the U.S. Copyright Act (Fair Use) for purposes such as commentary, criticism, education, and transformative content.\n\nIf you are the copyright owner and believe your content has been used in a way that concerns you, please contact me first. I will promptly review your request and remove the content if appropriate.\n\n📩 Email: gookozaa2@gmail.com",
+        "publishedAt": "2026-08-08T10:15:31Z",
+        "channelId": "UCi67r0G8_838brHzoS3ZU5g",
+        "title": "ศิลปินวาดภาพนิรนามทำให้จิตรกรระดับตำนานต้องยอมแพ้ #shorts",
+        "description": "ชื่อเรื่อง : Lovers of the Red Sky 2021 รอยรักลิขิตเลือด\nซีรีส์เกาหลีแนวย้อนยุค โรแมนติก และแฟนตาซี ปี 2021 ความยาว 16 ตอน นำแสดงโดย คิมยูจอง, อันฮโยซอบ, กงมยอง และควักชียัง\nThis Video is Made For Entertainment purposes only",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/default.jpg",
+            "url": "https://i.ytimg.com/vi/CB2lV6g9qIw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CB2lV6g9qIw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CB2lV6g9qIw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/CB2lV6g9qIw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CB2lV6g9qIw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "เหลากะจุย",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "เมื่อทั้งครอบครัวช่วยกันแข่งกับสายฝน ⛈️",
-          "description": "คลิปนี้เป็นการเล่าเหตุการณ์ของผู้อื่น เพื่อความบันเทิง    \nไม่ได้สนับสนุน หรือแนะนำให้เลียนแบบ \n\n\nเครดิต Credit : 欧阳娟娟\n\n\nCopyright Notice:\nAll videos on this channel are used under the principles of Section 107 of the U.S. Copyright Act (Fair Use) for purposes such as commentary, criticism, education, and transformative content.\n\nIf you are the copyright owner and believe your content has been used in a way that concerns you, please contact me first. I will promptly review your request and remove the content if appropriate.\n\n📩 Email: gookozaa2@gmail.com"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "309858",
-        "likeCount": "3843",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Jd-ht2pCZ5jJIqJtfUPMz6rNdjo",
-      "id": "NjjLAvVSJFU",
-      "snippet": {
-        "publishedAt": "2026-08-03T09:16:08Z",
-        "channelId": "UCxm5_Y8j9Bn7LxrSHMMJ0Pw",
-        "title": "Руми против дыма!",
-        "description": "🛍️ Купить официальный мерч - https://kratk.ru/m/VDWwqxHg\n\n🍉 Реклама/сотрудничество - arishnev.ads@gmail.com \nПозвать на день рождения (мероприятие) - arishnev1reklama@gmail.com \n\n#аришнев",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NjjLAvVSJFU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NjjLAvVSJFU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NjjLAvVSJFU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NjjLAvVSJFU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NjjLAvVSJFU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Аришнев",
+        "channelTitle": "GEN-Z สปอยหนัง",
         "tags": [
-          "аришнев",
-          "бруно",
-          "сафик",
-          "маша",
-          "маша аришнев"
+          "อู๋จุน",
+          "เบย์เบลด",
+          "พี่แป้ง",
+          "เพลง",
+          "spd",
+          "การ์ตูน",
+          "พี่อู๋",
+          "beyblade x",
+          "สปอยหนัง",
+          "พี่อู๋จุน",
+          "หนังผี",
+          "หนัง",
+          "ผี",
+          "อนิเมะ",
+          "ปลากัด",
+          "หลอนไดอารี่",
+          "ดูการ์ตูน",
+          "หนังสั้น",
+          "หนังตลก",
+          "กิน",
+          "ติ๊กต็อก",
+          "asmr",
+          "ปลูกสวน roblox",
+          "พี่แป้งซีบิ้ง",
+          "อู๋จุนไฮเอน",
+          "อาอู๋",
+          "99คืนในป่า",
+          "ตกปลา",
+          "กินอาหาร",
+          "คนกินอาหาร",
+          "soda pop",
+          "พี่แป้ง zbing",
+          "อาจุมม่า",
+          "asmr กิน",
+          "แมงกะพรุนหัวกระสุน",
+          "grow a garden",
+          "ตลกๆ",
+          "ต่อตอบิโด",
+          "roblox",
+          "ไก่ชน",
+          "tiktok",
+          "สปอยอนิเมะ",
+          "มายเมทเนท",
+          "น้องบีม",
+          "พี่ไปรท์",
+          "คนท้อง",
+          "minecraft",
+          "บิ๊กไบค์",
+          "รถแต่ง",
+          "อันนาช็อปบึงกาฬ",
+          "เพลงแดนซ์",
+          "วัวชน",
+          "zbing z",
+          "พญานาค",
+          "เกม"
         ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ru",
-        "localized": {
-          "title": "รูมิสู้กับควัน!",
-          "description": "🍉 โฆษณา/ความร่วมมือ - arishnev.ads@gmail.com\nเชิญไปร่วมงานวันเกิด (กิจกรรม) - arishnev1reklama@gmail.com\n\n#arishnev"
-        },
-        "defaultAudioLanguage": "ru"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "16604552",
-        "likeCount": "910358",
-        "favoriteCount": "0",
-        "commentCount": "1822"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PqpEMERE5vinspfI92fwU5DYk2A",
-      "id": "GI20liHu3c0",
-      "snippet": {
-        "publishedAt": "2026-08-07T08:00:37Z",
-        "channelId": "UC5P4ptx81r1qacwi1iivhMQ",
-        "title": "เมื่อกษัตริย์มาเยี่ยมบ้านโนบิตะ? #doraemon #cartoon #anime #shorts",
-        "description": "โดราเอมอนตอน: ลูกแพร์รับแขก \nเรื่องย่อ: บ้านโนบิสุดป่วน! เมื่อกษัตริย์ต่างแดนขอมาเยือนถึงถิ่น\nโนบิตะเผลอกินลูกแพร์รับแขกเข้าไป เลยเผลอไปเชิญกษัตริย์อาคันจากต่างประเทศมาต้อนรับที่บ้านแบบงงๆ โดราเอมอนรู้ความจริงก็เหงื่อตก พยายามเสกอาหารหรูๆ มาเลี้ยงแต่กษัตริย์กลับเบื่ออาหารแพงๆ ซะงั้น โชคดี (หรือโชคร้าย?) ที่พ่อกับแม่ของโนบิตะกลับมาพอดี และด้วยความที่ไม่รู้ว่าแขกเป็นใคร เลยเสิร์ฟทั้งน้ำหวานชงลดราคา สตูว์ค้างคืน แถมพ่อยังเต้นโชว์จนล้มทับกษัตริย์อีกต่างหาก! โดราเอมอนกลัวจะโดนจับข้อหาหมิ่นพระบรมเดชานุภาพ แต่พลิกล็อก! กษัตริย์กลับถูกใจความเรียบง่ายและเป็นกันเองแบบสุดๆ ยกให้เป็นวันที่สนุกที่สุดในทริปนี้ไปเลย!\n#doraemon #cartoon #anime #การ์ตูน #อนิเมะ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GI20liHu3c0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GI20liHu3c0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GI20liHu3c0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GI20liHu3c0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GI20liHu3c0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kuro สปอยอนิเมะ",
         "categoryId": "1",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เมื่อกษัตริย์มาเยี่ยมบ้านโนบิตะ? #doraemon #cartoon #anime #shorts",
-          "description": "โดราเอมอนตอน: ลูกแพร์รับแขก \nเรื่องย่อ: บ้านโนบิสุดป่วน! เมื่อกษัตริย์ต่างแดนขอมาเยือนถึงถิ่น\nโนบิตะเผลอกินลูกแพร์รับแขกเข้าไป เลยเผลอไปเชิญกษัตริย์อาคันจากต่างประเทศมาต้อนรับที่บ้านแบบงงๆ โดราเอมอนรู้ความจริงก็เหงื่อตก พยายามเสกอาหารหรูๆ มาเลี้ยงแต่กษัตริย์กลับเบื่ออาหารแพงๆ ซะงั้น โชคดี (หรือโชคร้าย?) ที่พ่อกับแม่ของโนบิตะกลับมาพอดี และด้วยความที่ไม่รู้ว่าแขกเป็นใคร เลยเสิร์ฟทั้งน้ำหวานชงลดราคา สตูว์ค้างคืน แถมพ่อยังเต้นโชว์จนล้มทับกษัตริย์อีกต่างหาก! โดราเอมอนกลัวจะโดนจับข้อหาหมิ่นพระบรมเดชานุภาพ แต่พลิกล็อก! กษัตริย์กลับถูกใจความเรียบง่ายและเป็นกันเองแบบสุดๆ ยกให้เป็นวันที่สนุกที่สุดในทริปนี้ไปเลย!\n#doraemon #cartoon #anime #การ์ตูน #อนิเมะ"
+          "title": "ศิลปินวาดภาพนิรนามทำให้จิตรกรระดับตำนานต้องยอมแพ้ #shorts",
+          "description": "ชื่อเรื่อง : Lovers of the Red Sky 2021 รอยรักลิขิตเลือด\nซีรีส์เกาหลีแนวย้อนยุค โรแมนติก และแฟนตาซี ปี 2021 ความยาว 16 ตอน นำแสดงโดย คิมยูจอง, อันฮโยซอบ, กงมยอง และควักชียัง\nThis Video is Made For Entertainment purposes only"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT3M",
+        "duration": "PT2M50S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2442,328 +2676,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "445153",
-        "likeCount": "35274",
+        "viewCount": "428837",
+        "likeCount": "23751",
         "favoriteCount": "0",
-        "commentCount": "32"
+        "commentCount": "86"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GlorZQnGIFUa_Qjwpf3e3S8diOM",
-      "id": "IskrPTe8yaQ",
+      "etag": "0EC3fUgljqMzxspb-xJSlpRPEXE",
+      "id": "_SljhWXjI78",
       "snippet": {
-        "publishedAt": "2026-08-04T15:31:11Z",
-        "channelId": "UCmRdmejnd9_5dGp9blpRRMA",
-        "title": "taxi 🚕 😇 #funny ##shorts",
+        "publishedAt": "2026-08-08T07:28:25Z",
+        "channelId": "UCJthTLn7Dn0uv9BTbFqjDYg",
+        "title": "ปมในใจวัยเกเร #51talk #51talkthailand #เรียนภาษาอังกฤษ #51Talk15Years #อันนาช็อปบึงกาฬ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/_SljhWXjI78/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_SljhWXjI78/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_SljhWXjI78/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/_SljhWXjI78/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_SljhWXjI78/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "YoSi The Hothead",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "taxi 🚕 😇 #funny ##shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT56S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "745135",
-        "likeCount": "9108",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wfERFvqjlR3y42ZkQhlEGKQ2xSM",
-      "id": "X-wn48MIxDs",
-      "snippet": {
-        "publishedAt": "2026-08-07T05:11:55Z",
-        "channelId": "UCvGnbHx-py77j0RFkznchXg",
-        "title": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts",
-        "description": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts \n*📌 Disclaimer*\n\nThis video is shared for educational, documentary, and informational purposes only. It aims to raise awareness about wildlife, animal behavior, and nature. No animals were harmed, encouraged, or manipulated for the creation of this narration. All footage belongs to its respective owners. If you are the copyright owner and have any concerns, please contact us before submitting a claim, and we will address the issue promptly.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "คืนดูหนัง",
-        "categoryId": "22",
+        "channelTitle": "อันนาช็อปบึงกาฬ",
+        "categoryId": "26",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts",
-          "description": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts \n*📌 Disclaimer*\n\nThis video is shared for educational, documentary, and informational purposes only. It aims to raise awareness about wildlife, animal behavior, and nature. No animals were harmed, encouraged, or manipulated for the creation of this narration. All footage belongs to its respective owners. If you are the copyright owner and have any concerns, please contact us before submitting a claim, and we will address the issue promptly."
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT2M3S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "388789",
-        "likeCount": "10473",
-        "favoriteCount": "0",
-        "commentCount": "52"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jEpq8vTR0SrO7hRfuA9hxRHdir4",
-      "id": "9ycPatexuW0",
-      "snippet": {
-        "publishedAt": "2026-08-04T10:00:22Z",
-        "channelId": "UCqMwaIVQAfguOkhxsInP-ag",
-        "title": "นักเรียนดวงดีที่แท้คือสายลับ FBI 😂",
-        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9ycPatexuW0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9ycPatexuW0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9ycPatexuW0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9ycPatexuW0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9ycPatexuW0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CowBro",
-        "tags": [
-          "#สัตว์เลี้ยง",
-          "#แมว",
-          "#dog",
-          "#cat",
-          "#animal",
-          "#เรื่องเล่า",
-          "#เล่าเรื่อง",
-          "#สัตว์โลกน่ารัก",
-          "#น่ารัก",
-          "#shorts",
-          "#viral",
-          "#ตลก",
-          "#funny",
-          "#comedy",
-          "#ฮาๆ",
-          "#หมา",
-          "#หมาน่ารัก",
-          "#แมวน่ารัก"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "นักเรียนดวงดีที่แท้คือสายลับ FBI 😂",
-          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "642003",
-        "likeCount": "8001",
-        "favoriteCount": "0",
-        "commentCount": "14"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "evnOyxBRSpYQcuVVlwiPvfyyqaw",
-      "id": "LX31puGRxqA",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:30:20Z",
-        "channelId": "UCfoXuLwwvN--a_wrxY-17Mw",
-        "title": "แอบชอบมานาน…สุดท้ายได้ถ่ายรูปคู่ก่อนจบ",
-        "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LX31puGRxqA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LX31puGRxqA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LX31puGRxqA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LX31puGRxqA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LX31puGRxqA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PANDA STORY",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "แอบชอบมานาน…สุดท้ายได้ถ่ายรูปคู่ก่อนจบ",
-          "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT1M10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "372527",
-        "likeCount": "10904",
-        "favoriteCount": "0",
-        "commentCount": "13"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SJrA8szkYgJ2hyPpreB1N4MXjkE",
-      "id": "ULHPSQcolSE",
-      "snippet": {
-        "publishedAt": "2026-08-06T12:47:38Z",
-        "channelId": "UCRBUmDdWYeIG3H6ySFJJyag",
-        "title": "No!! ไอบี้EP.281 #โบ๊ะบ๊ะshorts #funny",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ไอบี้ Family ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "No!! ไอบี้EP.281 #โบ๊ะบ๊ะshorts #funny",
+          "title": "ปมในใจวัยเกเร #51talk #51talkthailand #เรียนภาษาอังกฤษ #51Talk15Years #อันนาช็อปบึงกาฬ",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT15S",
+        "duration": "PT2M13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2772,15 +2738,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "372440",
-        "likeCount": "3530",
+        "viewCount": "613470",
+        "likeCount": "17586",
         "favoriteCount": "0",
-        "commentCount": "6"
+        "commentCount": "91"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PJ-8fPTzkw0MiRanpdUYpo9l6iQ",
+      "etag": "vS83hqctjchSDIJ-snRINO9oZ18",
       "id": "yqha0eV33z8",
       "snippet": {
         "publishedAt": "2026-08-06T11:12:22Z",
@@ -2891,99 +2857,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "499497",
-        "likeCount": "19118",
+        "viewCount": "720850",
+        "likeCount": "25606",
         "favoriteCount": "0",
-        "commentCount": "19"
+        "commentCount": "23"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2i1pPyWoxKnmkfSn05-ctZWhzSo",
-      "id": "8NOP56cE9kI",
+      "etag": "h_BLbwei7pLa3qXN8IqcHHMMCtg",
+      "id": "GI20liHu3c0",
       "snippet": {
-        "publishedAt": "2026-08-06T05:30:14Z",
-        "channelId": "UCcQkFvkgNt_HrnFw3_WT8Bg",
-        "title": "คุณรู้ไหมว่าชิซุกะชอบกินอะไรมากที่สุด? #anime #shorts #สปอยการ์ตูน #fyp #โดราเอมอน",
-        "description": "ชื่อเรื่อง : Doraemon #shorts #anime #สปอยการ์ตูน #โดราเอมอน",
+        "publishedAt": "2026-08-07T08:00:37Z",
+        "channelId": "UC5P4ptx81r1qacwi1iivhMQ",
+        "title": "เมื่อกษัตริย์มาเยี่ยมบ้านโนบิตะ? #doraemon #cartoon #anime #shorts",
+        "description": "โดราเอมอนตอน: ลูกแพร์รับแขก \nเรื่องย่อ: บ้านโนบิสุดป่วน! เมื่อกษัตริย์ต่างแดนขอมาเยือนถึงถิ่น\nโนบิตะเผลอกินลูกแพร์รับแขกเข้าไป เลยเผลอไปเชิญกษัตริย์อาคันจากต่างประเทศมาต้อนรับที่บ้านแบบงงๆ โดราเอมอนรู้ความจริงก็เหงื่อตก พยายามเสกอาหารหรูๆ มาเลี้ยงแต่กษัตริย์กลับเบื่ออาหารแพงๆ ซะงั้น โชคดี (หรือโชคร้าย?) ที่พ่อกับแม่ของโนบิตะกลับมาพอดี และด้วยความที่ไม่รู้ว่าแขกเป็นใคร เลยเสิร์ฟทั้งน้ำหวานชงลดราคา สตูว์ค้างคืน แถมพ่อยังเต้นโชว์จนล้มทับกษัตริย์อีกต่างหาก! โดราเอมอนกลัวจะโดนจับข้อหาหมิ่นพระบรมเดชานุภาพ แต่พลิกล็อก! กษัตริย์กลับถูกใจความเรียบง่ายและเป็นกันเองแบบสุดๆ ยกให้เป็นวันที่สนุกที่สุดในทริปนี้ไปเลย!\n#doraemon #cartoon #anime #การ์ตูน #อนิเมะ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8NOP56cE9kI/default.jpg",
+            "url": "https://i.ytimg.com/vi/GI20liHu3c0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8NOP56cE9kI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GI20liHu3c0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8NOP56cE9kI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GI20liHu3c0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8NOP56cE9kI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GI20liHu3c0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8NOP56cE9kI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GI20liHu3c0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TORA สปอยอนิเมะ",
-        "tags": [
-          "สปอยการ์ตูน",
-          "สปอยอนิเมะ",
-          "เล่าเรื่องการ์ตูน",
-          "เล่าเรื่องอนิเมะ",
-          "การ์ตูนสั้น",
-          "การ์ตูนอนิเมะ",
-          "สรุปการ์ตูน",
-          "สรุปอนิเมะ",
-          "เรื่องย่อการ์ตูน",
-          "เรื่องย่ออนิเมะ",
-          "การ์ตูนสนุก ๆ",
-          "การ์ตูนแฟนตาซี",
-          "การ์ตูนดราม่า",
-          "การ์ตูนลึกลับ",
-          "การ์ตูนรักโรแมนติก",
-          "อนิเมะดัง",
-          "อนิเมะสั้น",
-          "รีวิวการ์ตูน",
-          "รีวิวอนิเมะ",
-          "สปอยอนิเมะมาแรง",
-          "เล่าเรื่องการ์ตูนสั้น",
-          "สรุปอนิเมะใน 2 นาที",
-          "การ์ตูนสั้นจบในตอน",
-          "อนิเมะสั้นแนะนำ",
-          "anime spoiler",
-          "short cartoon",
-          "anime cartoon",
-          "anime recap",
-          "Shorts",
-          "Short Film",
-          "Short Anime",
-          "Draemon",
-          "โดราเอมอน",
-          "โดเรมอน",
-          "โนบิตะ",
-          "fyp",
-          "movie"
-        ],
+        "channelTitle": "Kuro สปอยอนิเมะ",
         "categoryId": "1",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "คุณรู้ไหมว่าชิซุกะชอบกินอะไรมากที่สุด? #anime #shorts #สปอยการ์ตูน #fyp #โดราเอมอน",
-          "description": "ชื่อเรื่อง : Doraemon #shorts #anime #สปอยการ์ตูน #โดราเอมอน"
+          "title": "เมื่อกษัตริย์มาเยี่ยมบ้านโนบิตะ? #doraemon #cartoon #anime #shorts",
+          "description": "โดราเอมอนตอน: ลูกแพร์รับแขก \nเรื่องย่อ: บ้านโนบิสุดป่วน! เมื่อกษัตริย์ต่างแดนขอมาเยือนถึงถิ่น\nโนบิตะเผลอกินลูกแพร์รับแขกเข้าไป เลยเผลอไปเชิญกษัตริย์อาคันจากต่างประเทศมาต้อนรับที่บ้านแบบงงๆ โดราเอมอนรู้ความจริงก็เหงื่อตก พยายามเสกอาหารหรูๆ มาเลี้ยงแต่กษัตริย์กลับเบื่ออาหารแพงๆ ซะงั้น โชคดี (หรือโชคร้าย?) ที่พ่อกับแม่ของโนบิตะกลับมาพอดี และด้วยความที่ไม่รู้ว่าแขกเป็นใคร เลยเสิร์ฟทั้งน้ำหวานชงลดราคา สตูว์ค้างคืน แถมพ่อยังเต้นโชว์จนล้มทับกษัตริย์อีกต่างหาก! โดราเอมอนกลัวจะโดนจับข้อหาหมิ่นพระบรมเดชานุภาพ แต่พลิกล็อก! กษัตริย์กลับถูกใจความเรียบง่ายและเป็นกันเองแบบสุดๆ ยกให้เป็นวันที่สนุกที่สุดในทริปนี้ไปเลย!\n#doraemon #cartoon #anime #การ์ตูน #อนิเมะ"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT1M45S",
+        "duration": "PT3M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2992,231 +2919,180 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "494734",
-        "likeCount": "25889",
+        "viewCount": "600550",
+        "likeCount": "47019",
         "favoriteCount": "0",
-        "commentCount": "83"
+        "commentCount": "42"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fn2oHMc_FrdTwUVuKztdmxEGTwc",
-      "id": "50Cv18HoUXE",
+      "etag": "3UxqV-qDF5nPHDjyKkxfUOYBSWc",
+      "id": "IskrPTe8yaQ",
       "snippet": {
-        "publishedAt": "2026-08-03T05:00:05Z",
-        "channelId": "UC2yeBqlDYBjTGbCC357PIig",
-        "title": "ทำไม Tony ตั้งชื่อระบบ Lockdown ว่ามาตรการ Barn Door #ironman #tonystark #mcu #marvel #superhero",
+        "publishedAt": "2026-08-04T15:31:11Z",
+        "channelId": "UCmRdmejnd9_5dGp9blpRRMA",
+        "title": "taxi 🚕 😇 #funny ##shorts",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/50Cv18HoUXE/default.jpg",
+            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/50Cv18HoUXE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/50Cv18HoUXE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/50Cv18HoUXE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/50Cv18HoUXE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IskrPTe8yaQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ให้มันรู้แล้ว รู้เล่า",
+        "channelTitle": "YoSi The Hothead",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "taxi 🚕 😇 #funny ##shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1042206",
+        "likeCount": "12703",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qjbUFbrGFx94jgd49itg17VkgG8",
+      "id": "X-wn48MIxDs",
+      "snippet": {
+        "publishedAt": "2026-08-07T05:11:55Z",
+        "channelId": "UCvGnbHx-py77j0RFkznchXg",
+        "title": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts",
+        "description": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts \n*📌 Disclaimer*\n\nThis video is shared for educational, documentary, and informational purposes only. It aims to raise awareness about wildlife, animal behavior, and nature. No animals were harmed, encouraged, or manipulated for the creation of this narration. All footage belongs to its respective owners. If you are the copyright owner and have any concerns, please contact us before submitting a claim, and we will address the issue promptly.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X-wn48MIxDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "คืนดูหนัง",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ทำไม Tony ตั้งชื่อระบบ Lockdown ว่ามาตรการ Barn Door #ironman #tonystark #mcu #marvel #superhero",
+          "title": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts",
+          "description": "🐵💔 ลิงน้อยทำกรอบรูปรูปโปรดแตก! หนีออกจากบ้าน สุดท้ายซึ้งจนน้ำตาซึม 😭❤️#trending #shorts \n*📌 Disclaimer*\n\nThis video is shared for educational, documentary, and informational purposes only. It aims to raise awareness about wildlife, animal behavior, and nature. No animals were harmed, encouraged, or manipulated for the creation of this narration. All footage belongs to its respective owners. If you are the copyright owner and have any concerns, please contact us before submitting a claim, and we will address the issue promptly."
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "544377",
+        "likeCount": "13907",
+        "favoriteCount": "0",
+        "commentCount": "61"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nVZ5fFtTK05FzJGrH1SODREmIcU",
+      "id": "BeBi82dRuuU",
+      "snippet": {
+        "publishedAt": "2026-08-03T03:21:55Z",
+        "channelId": "UCTlUyM7w8gu8oP2nHtuOn2A",
+        "title": "เมื่อครูฝึกลำเอียง #viral #viralvideo #interesting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BeBi82dRuuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Deepocean story",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อครูฝึกลำเอียง #viral #viralvideo #interesting",
           "description": ""
         }
-      },
-      "contentDetails": {
-        "duration": "PT48S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "881623",
-        "likeCount": "47774",
-        "favoriteCount": "0",
-        "commentCount": "238"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2GApjeRBHK_jfLhMt8_9sN0c12k",
-      "id": "okKzQleKdgg",
-      "snippet": {
-        "publishedAt": "2026-08-03T05:30:23Z",
-        "channelId": "UCL7r8fdbYdS-eO3e5mM1nug",
-        "title": "เมื่อโนบิตะทำให้กลางวันและกลางคืนสลับกันจะเกิดอะไรขึ้น #Anime #อนิเมะ #การ์ตูน #สปอยอนิเมะ #doraemon",
-        "description": "ชื่อเรื่อง: Doraemon\n\n#Anime #อนิเมะ #การ์ตูน #สปอยอนิเมะ #การ์ตูนสั้น #สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #หนังตลก #ตลก #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง#หนังบู๊ #หนังสงคราม",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/okKzQleKdgg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/okKzQleKdgg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/okKzQleKdgg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/okKzQleKdgg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/okKzQleKdgg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Short Scene",
-        "tags": [
-          "สปอยหนัง",
-          "รีวิวหนัง",
-          "สรุปหนัง",
-          "เล่าเรื่องหนัง",
-          "หนัง",
-          "ภาพยนตร์",
-          "ซีรีส์",
-          "หนังใหม่",
-          "หนังดัง",
-          "หนังดี",
-          "หนังสนุก",
-          "หนังมันส์",
-          "หนังตลก",
-          "หนังผี",
-          "หนังรัก",
-          "หนังแอ็คชั่น",
-          "หนังดราม่า",
-          "หนังไซไฟ",
-          "หนังแฟนตาซี",
-          "หนังอนิเมะ",
-          "หนังไทย",
-          "หนังเกาหลี",
-          "หนังฝรั่ง",
-          "หนังจีน",
-          "หนังญี่ปุ่น",
-          "หนังอินเดีย",
-          "วิเคราะห์หนัง",
-          "ฉากเด็ด",
-          "เบื้องหลัง",
-          "หนังแนะนำ",
-          "Movie",
-          "Anime",
-          "สปอยซีรีส์",
-          "รีวิวซีรีส์",
-          "สรุปซีรีส์",
-          "เล่าเรื่องซีรีส์",
-          "ซีรีส์ใหม่",
-          "ซีรีส์ดัง",
-          "ซีรีส์ดี",
-          "ซีรีส์สนุก",
-          "ซีรีส์มันส์",
-          "ซีรีส์ตลก",
-          "ซีรีส์ผี",
-          "ซีรีส์รัก",
-          "ซีรีส์แอ็คชั่น",
-          "ซีรีส์ดราม่า",
-          "ซีรีส์ไซไฟ",
-          "ซีรีส์แฟนตาซี",
-          "ซีรีส์อนิเมะ"
-        ],
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อโนบิตะทำให้กลางวันและกลางคืนสลับกันจะเกิดอะไรขึ้น #Anime #อนิเมะ #การ์ตูน #สปอยอนิเมะ #doraemon",
-          "description": "ชื่อเรื่อง: Doraemon\n\n#Anime #อนิเมะ #การ์ตูน #สปอยอนิเมะ #การ์ตูนสั้น #สปอยหนัง #เล่าหนัง #รีวิวหนัง #หนังใหม่ #หนังน่าดู #หนังตลก #ตลก #สรุปหนัง #เรื่องย่อหนัง #ดูหนัง #รีวิวภาพยนตร์ #ห้ามพลาด #หนังสนุก #สปอย #ภาพยนตร์ #หนัง#หนังบู๊ #หนังสงคราม"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M50S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "919329",
-        "likeCount": "52082",
-        "favoriteCount": "0",
-        "commentCount": "76"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "txKKjE206xm0U3PkhNN8VTmH8js",
-      "id": "Db03wSB9ypA",
-      "snippet": {
-        "publishedAt": "2026-08-06T11:59:05Z",
-        "channelId": "UCdl3kniX-tYS1gssVocbTWA",
-        "title": "เมื่อฮอจะตกแต่ไม่มีใครยอมสละชีพ! 🚁 #หนังสั้นสะท้อนสังคม #แจกเงินหมื่น #ซอฟต์พาวเวอร์ #Parody #Comedy",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Db03wSB9ypA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Db03wSB9ypA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Db03wSB9ypA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Db03wSB9ypA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Db03wSB9ypA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ละครสั้น สะกิดใจ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อฮอจะตกแต่ไม่มีใครยอมสละชีพ! 🚁 #หนังสั้นสะท้อนสังคม #แจกเงินหมื่น #ซอฟต์พาวเวอร์ #Parody #Comedy",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
         "duration": "PT38S",
@@ -3228,70 +3104,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "405593",
-        "likeCount": "6582",
+        "viewCount": "1342520",
+        "likeCount": "22128",
         "favoriteCount": "0",
-        "commentCount": "10"
+        "commentCount": "35"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5pCBImvlKPndlM9CCXXei5_9404",
-      "id": "IsPltXajbJk",
+      "etag": "R9FqdY8tPN-gtssmP5ckdsw1z4Q",
+      "id": "8oDLt0T0L2Q",
       "snippet": {
-        "publishedAt": "2026-08-08T06:00:32Z",
-        "channelId": "UCiJ7n0kpQtPKwjb5YZckELg",
-        "title": "เมื่อมือเริ่มมีตะขอเหมือนแมงมุม",
-        "description": "ชื่อเรื่อง: Spider-Man (ไอ้แมงมุม) [2002]\nผู้กำกับ: Sam Raimi (แซม ไรมี่)\nคะแนน:  IMDb: 7.4/10 Rotten Tomatoes: 90% (Tomatometer) / 67% (Audience Score)\nหาดูได้ที่: Netflix, Disney+ Hotstar, Apple TV (เช่า/ซื้อ)\n\nนักแสดงนำ\nTobey Maguire รับบท Peter Parker Spider-Man\nWillem Dafoe รับบท Norman Osborn Green Goblin\nKirsten Dunst รับบท Mary Jane Watson\nJames Franco รับบท Harry Osborn\nCliff Robertson รับบท Uncle Ben (Ben Parker) \n\nเรื่องย่อ\nปีเตอร์ พาร์กเกอร์ เด็กหนุ่มมัธยมสุดเนิร์ด ถูกแมงมุมดัดแปลงพันธุกรรมกัดระหว่างการชมทัศนศึกษา ทำให้เขาได้รับพลังพิเศษเหนือมนุษย์ ทั้งพละกำลัง การปีนป่าย และประสาทสัมผัสแบบแมงมุม หลังจากเหตุการณ์โศกนาฏกรรมสูญเสีย ลุงเบน ที่ตอกย้ำคำสอนว่า \"พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันยิ่งใหญ่\" ปีเตอร์จึงตัดสินใจใช้พลังนี้ออกปราบปรามอาชญากรรมในนาม \"สไปเดอร์แมน\" พร้อมกับต้องรับมือกับศัตรูตัวฉกาจอย่าง กรีน กอบลิน ซึ่งแท้จริงแล้วคือพ่อของเพื่อนสนิทเขาเอง\n\n#สปอยหนัง \n#เล่าหนัง \n#รีวิวหนัง \n#หนังใหม่ \n#หนังน่าดู \n#หนังแอ็คชั่น \n#เอาชีวิตรอด \n#สรุปหนัง \n#เรื่องย่อหนัง \n#ดูหนัง \n#รีวิวภาพยนตร์ \n#ห้ามพลาด \n#หนังสนุก \n#สปอย\n#ภาพยนตร์ \n#หนัง \n#เอาชีวิตรอด\n#หนังฝรั่ง\n#สไปเดอร์แมน",
+        "publishedAt": "2026-07-31T09:45:25Z",
+        "channelId": "UC7n3c4N1lRXNvppFD799hkQ",
+        "title": "เปิดการ์ดตอนเล่นคอนเสิร์ตแต่กลับเจอแบบนี้! #shorts #viral",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IsPltXajbJk/default.jpg",
+            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IsPltXajbJk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IsPltXajbJk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IsPltXajbJk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/IsPltXajbJk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8oDLt0T0L2Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "SNAPNIPS",
-        "tags": [
-          "movie",
-          "movies",
-          "หนัง",
-          "หนังสั้น",
-          "film",
-          "films",
-          "รีวิวหนัง",
-          "สปอยหนัง"
-        ],
-        "categoryId": "1",
+        "channelTitle": "TaleTime",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เมื่อมือเริ่มมีตะขอเหมือนแมงมุม",
-          "description": "ชื่อเรื่อง: Spider-Man (ไอ้แมงมุม) [2002]\nผู้กำกับ: Sam Raimi (แซม ไรมี่)\nคะแนน:  IMDb: 7.4/10 Rotten Tomatoes: 90% (Tomatometer) / 67% (Audience Score)\nหาดูได้ที่: Netflix, Disney+ Hotstar, Apple TV (เช่า/ซื้อ)\n\nนักแสดงนำ\nTobey Maguire รับบท Peter Parker Spider-Man\nWillem Dafoe รับบท Norman Osborn Green Goblin\nKirsten Dunst รับบท Mary Jane Watson\nJames Franco รับบท Harry Osborn\nCliff Robertson รับบท Uncle Ben (Ben Parker) \n\nเรื่องย่อ\nปีเตอร์ พาร์กเกอร์ เด็กหนุ่มมัธยมสุดเนิร์ด ถูกแมงมุมดัดแปลงพันธุกรรมกัดระหว่างการชมทัศนศึกษา ทำให้เขาได้รับพลังพิเศษเหนือมนุษย์ ทั้งพละกำลัง การปีนป่าย และประสาทสัมผัสแบบแมงมุม หลังจากเหตุการณ์โศกนาฏกรรมสูญเสีย ลุงเบน ที่ตอกย้ำคำสอนว่า \"พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันยิ่งใหญ่\" ปีเตอร์จึงตัดสินใจใช้พลังนี้ออกปราบปรามอาชญากรรมในนาม \"สไปเดอร์แมน\" พร้อมกับต้องรับมือกับศัตรูตัวฉกาจอย่าง กรีน กอบลิน ซึ่งแท้จริงแล้วคือพ่อของเพื่อนสนิทเขาเอง\n\n#สปอยหนัง \n#เล่าหนัง \n#รีวิวหนัง \n#หนังใหม่ \n#หนังน่าดู \n#หนังแอ็คชั่น \n#เอาชีวิตรอด \n#สรุปหนัง \n#เรื่องย่อหนัง \n#ดูหนัง \n#รีวิวภาพยนตร์ \n#ห้ามพลาด \n#หนังสนุก \n#สปอย\n#ภาพยนตร์ \n#หนัง \n#เอาชีวิตรอด\n#หนังฝรั่ง\n#สไปเดอร์แมน"
-        },
-        "defaultAudioLanguage": "th"
+          "title": "เปิดการ์ดตอนเล่นคอนเสิร์ตแต่กลับเจอแบบนี้! #shorts #viral",
+          "description": ""
+        }
       },
       "contentDetails": {
-        "duration": "PT2M17S",
+        "duration": "PT17S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3300,15 +3165,262 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "290513",
-        "likeCount": "11268",
+        "viewCount": "2095520",
+        "likeCount": "74171",
         "favoriteCount": "0",
-        "commentCount": "32"
+        "commentCount": "179"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JrMQoO1-2AqTd6I0U-5KKnhkOKE",
+      "etag": "n0bWIyd_xsCkfUhtw-ggp1Mritk",
+      "id": "HU0z1UsOIGk",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:36:33Z",
+        "channelId": "UCYRsqX4IimFOIRZdgYDO2mw",
+        "title": "ปัดเจอแฟนในห้องคนอื่น #BadAi #shorts",
+        "description": "Credit : whatthefshow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HU0z1UsOIGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HU0z1UsOIGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HU0z1UsOIGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HU0z1UsOIGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HU0z1UsOIGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BadAi",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ปัดเจอแฟนในห้องคนอื่น #BadAi #shorts",
+          "description": "Credit : whatthefshow"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "493175",
+        "likeCount": "48687",
+        "favoriteCount": "0",
+        "commentCount": "204"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DuWVuihLr6aZCeYWSItNJtougsQ",
+      "id": "5JrN4ABx7fI",
+      "snippet": {
+        "publishedAt": "2026-08-08T12:50:05Z",
+        "channelId": "UCY_Pt12jZh_AOBmTEn-4g4A",
+        "title": "โฆษณาปั่นๆของพี่โด้เเก#funny #viralvideo #shortvideo #short",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5JrN4ABx7fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5JrN4ABx7fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5JrN4ABx7fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5JrN4ABx7fI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5JrN4ABx7fI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lazy channel",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "โฆษณาปั่นๆของพี่โด้เเก#funny #viralvideo #shortvideo #short",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "366173",
+        "likeCount": "10674",
+        "favoriteCount": "0",
+        "commentCount": "100"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W-865Su9hfnolb7Kbk_09kIN5jY",
+      "id": "wq1MeFdjcZs",
+      "snippet": {
+        "publishedAt": "2026-08-07T23:00:25Z",
+        "channelId": "UCv57-6TsgJT_FJ47mhIpO3w",
+        "title": "เมื่อทั้งครอบครัวช่วยกันแข่งกับสายฝน ⛈️",
+        "description": "คลิปนี้เป็นการเล่าเหตุการณ์ของผู้อื่น เพื่อความบันเทิง    \nไม่ได้สนับสนุน หรือแนะนำให้เลียนแบบ \n\n\nเครดิต Credit : 欧阳娟娟\n\n\nCopyright Notice:\nAll videos on this channel are used under the principles of Section 107 of the U.S. Copyright Act (Fair Use) for purposes such as commentary, criticism, education, and transformative content.\n\nIf you are the copyright owner and believe your content has been used in a way that concerns you, please contact me first. I will promptly review your request and remove the content if appropriate.\n\n📩 Email: gookozaa2@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wq1MeFdjcZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เหลากะจุย",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "เมื่อทั้งครอบครัวช่วยกันแข่งกับสายฝน ⛈️",
+          "description": "คลิปนี้เป็นการเล่าเหตุการณ์ของผู้อื่น เพื่อความบันเทิง    \nไม่ได้สนับสนุน หรือแนะนำให้เลียนแบบ \n\n\nเครดิต Credit : 欧阳娟娟\n\n\nCopyright Notice:\nAll videos on this channel are used under the principles of Section 107 of the U.S. Copyright Act (Fair Use) for purposes such as commentary, criticism, education, and transformative content.\n\nIf you are the copyright owner and believe your content has been used in a way that concerns you, please contact me first. I will promptly review your request and remove the content if appropriate.\n\n📩 Email: gookozaa2@gmail.com"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "380619",
+        "likeCount": "4379",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0N4NsaVMCf2wxauId4_xG_XN6_o",
+      "id": "fpNchPVoTjk",
+      "snippet": {
+        "publishedAt": "2026-08-03T11:09:50Z",
+        "channelId": "UCj53nvM9aUs781JwKqXfZag",
+        "title": "จะเป็นอย่างไรเมื่อพาปู่มาเที่ยวออกมาเที่ยวนอกบ้านบ้าง  #ตลก #funny",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fpNchPVoTjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jizo Vibe",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "จะเป็นอย่างไรเมื่อพาปู่มาเที่ยวออกมาเที่ยวนอกบ้านบ้าง  #ตลก #funny",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1226159",
+        "likeCount": "32031",
+        "favoriteCount": "0",
+        "commentCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i-UdCcaINqeOhlFE9IPneU360EI",
       "id": "zLgCZ-qFMLc",
       "snippet": {
         "publishedAt": "2026-08-03T22:45:06Z",
@@ -3362,211 +3474,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "24206123",
-        "likeCount": "283152",
+        "viewCount": "33267953",
+        "likeCount": "378293",
         "favoriteCount": "0",
-        "commentCount": "429"
+        "commentCount": "579"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "f_ezLx1IBjMokf9zsDv4kIE7m3w",
-      "id": "cJIyTdSxlMk",
+      "etag": "OsbXIt_gtGFx5rTNkxrfLegv9uM",
+      "id": "0tzK4570Xnc",
       "snippet": {
-        "publishedAt": "2026-08-05T11:30:34Z",
-        "channelId": "UCiZCTVmLShoGu6CGl8-VlTg",
-        "title": "Jeffy Gets His Tongue Stuck to a Frozen Railing 😭❄️",
-        "description": "Jeffy the chihuahua licks a frozen metal railing outside in the snow and gets stuck. Luckily Tim comes over to rescue him.\n\nHe starts to panic and cannot pull himself free. Tim saves the day and tries to help Jeffy escape from the icy rail, becoming the cutest friendship video between 2 best dog friends ever.\n\nThis cute, heartwarming and funny dog video is part of the Tim & Jeffy dog series.\n\n\n#Shorts #Chihuahua #FunnyDogs",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tim and Jeffy",
-        "tags": [
-          "Chihuahua",
-          "Chihuahua drama",
-          "Chihuahua fails",
-          "Chihuahua life",
-          "Chihuahua love",
-          "Cute chihuahua",
-          "Dog comedy",
-          "Dog hiding",
-          "Dog owner",
-          "Dog videos",
-          "Funny animals",
-          "Funny dog",
-          "Funny pets",
-          "Hilarious pets",
-          "Pet antics",
-          "Pet owner",
-          "Small dog",
-          "funny videos",
-          "funniest videos",
-          "tim and jeffy",
-          "timjeffy",
-          "tim & jeffy",
-          "tim&jeffy",
-          "jeffy chihuahua",
-          "jeffy",
-          "tim jeffy"
-        ],
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Jeffy Gets His Tongue Stuck to a Frozen Railing 😭❄️",
-          "description": "Jeffy the chihuahua licks a frozen metal railing outside in the snow and gets stuck. Luckily Tim comes over to rescue him.\n\nHe starts to panic and cannot pull himself free. Tim saves the day and tries to help Jeffy escape from the icy rail, becoming the cutest friendship video between 2 best dog friends ever.\n\nThis cute, heartwarming and funny dog video is part of the Tim & Jeffy dog series.\n\n\n#Shorts #Chihuahua #FunnyDogs"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "14140409",
-        "likeCount": "174681",
-        "favoriteCount": "0",
-        "commentCount": "577"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "F0GvaOgpONl-8rzsWWfqVR3aquc",
-      "id": "U5QLpxKMfbY",
-      "snippet": {
-        "publishedAt": "2026-08-04T12:09:31Z",
-        "channelId": "UCr-37spsXFoYGM0RcqtQNyA",
-        "title": "ถ้าห้องน้ำเปิดๆ ปิดๆล่ะ หนีบนิ้วดิ่ #เปิ้ลนาคร",
+        "publishedAt": "2026-08-08T11:59:53Z",
+        "channelId": "UCYxMxZx2Sd_W1EE8P-lWCvg",
+        "title": "Butsukari-otoko🔥",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/U5QLpxKMfbY/default.jpg",
+            "url": "https://i.ytimg.com/vi/0tzK4570Xnc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/U5QLpxKMfbY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0tzK4570Xnc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/U5QLpxKMfbY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0tzK4570Xnc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/U5QLpxKMfbY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0tzK4570Xnc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/U5QLpxKMfbY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0tzK4570Xnc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "PAEK CH",
+        "channelTitle": "Malakit Shikiri",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ถ้าห้องน้ำเปิดๆ ปิดๆล่ะ หนีบนิ้วดิ่ #เปิ้ลนาคร",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "564907",
-        "likeCount": "11456",
-        "favoriteCount": "0",
-        "commentCount": "48"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "xidE5I_DOURhLIYe3BPWMjUgeHM",
-      "id": "8uUXoTnvNm4",
-      "snippet": {
-        "publishedAt": "2026-07-30T11:00:36Z",
-        "channelId": "UCgkaxhM8eQ0dm5Wjv16iurQ",
-        "title": "เด็กสาวขอความช่วยเหลือจากคนแปลกหน้า",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8uUXoTnvNm4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8uUXoTnvNm4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8uUXoTnvNm4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8uUXoTnvNm4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8uUXoTnvNm4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MrBug",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เด็กสาวขอความช่วยเหลือจากคนแปลกหน้า",
+          "title": "Butsukari-otoko🔥",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT57S",
+        "duration": "PT34S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3575,60 +3536,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2528708",
-        "likeCount": "125662",
+        "viewCount": "310120",
+        "likeCount": "8631",
         "favoriteCount": "0",
-        "commentCount": "289"
+        "commentCount": "389"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lvZLpUVlVgTqH3YOMVQxMqSwsUc",
-      "id": "sPONAlLmf0I",
+      "etag": "xY9YJwgOBQIY6cm1m7fFAU9budY",
+      "id": "ULHPSQcolSE",
       "snippet": {
-        "publishedAt": "2026-08-03T14:17:27Z",
-        "channelId": "UC8TgWSPvFoDoq6ej-vBEYAw",
-        "title": "ชายคนนี้แบกหินยักษ์ 150 กิโลกรัมไว้บนหลัง #shorts #หนัง #สปอยหนัง #ดูหนัง #สปอย #หนังเก่า",
-        "description": "ไอ้หนุ่มหมัด 18 ท่านรก หรือ Shaolin Wooden Men (1976) เป็นหนังจีนกำลังภายใน นำแสดงโดย เฉินหลง เล่าเรื่องราวของเด็กหนุ่มใบ้ ที่เข้าวัดเส้าหลินเพื่อฝึกวิชาแก้แค้นให้พ่อ จนต้องเผชิญหน้ากับการทดสอบผ่านด่านมนุษย์ไม้สุดโห #jackiechan #jackie #เฉินหลง",
+        "publishedAt": "2026-08-06T12:47:38Z",
+        "channelId": "UCRBUmDdWYeIG3H6ySFJJyag",
+        "title": "No!! ไอบี้EP.281 #โบ๊ะบ๊ะshorts #funny",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sPONAlLmf0I/default.jpg",
+            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sPONAlLmf0I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sPONAlLmf0I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/sPONAlLmf0I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/sPONAlLmf0I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ULHPSQcolSE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "CORN & CO",
+        "channelTitle": "ไอบี้ Family ",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ชายคนนี้แบกหินยักษ์ 150 กิโลกรัมไว้บนหลัง #shorts #หนัง #สปอยหนัง #ดูหนัง #สปอย #หนังเก่า",
-          "description": "ไอ้หนุ่มหมัด 18 ท่านรก หรือ Shaolin Wooden Men (1976) เป็นหนังจีนกำลังภายใน นำแสดงโดย เฉินหลง เล่าเรื่องราวของเด็กหนุ่มใบ้ ที่เข้าวัดเส้าหลินเพื่อฝึกวิชาแก้แค้นให้พ่อ จนต้องเผชิญหน้ากับการทดสอบผ่านด่านมนุษย์ไม้สุดโห #jackiechan #jackie #เฉินหลง"
+          "title": "No!! ไอบี้EP.281 #โบ๊ะบ๊ะshorts #funny",
+          "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT2M26S",
+        "duration": "PT15S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3637,10 +3598,10 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "965221",
-        "likeCount": "33525",
+        "viewCount": "464767",
+        "likeCount": "4364",
         "favoriteCount": "0",
-        "commentCount": "42"
+        "commentCount": "6"
       }
     }
   ],

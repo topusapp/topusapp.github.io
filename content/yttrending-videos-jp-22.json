@@ -1,15 +1,15 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "R5JHsGMTmyod7xYVYOUPoe2wXUE",
+  "etag": "2mmCJ1kiRxNkHEBMKl-v90oZgwY",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "0yTA9B5HU0lbv18HL7G8cdIEG7s",
+      "etag": "nL_lQSrAz2Kl4Mu_Y2g7S7va2II",
       "id": "MWN5ciA6XNc",
       "snippet": {
         "publishedAt": "2026-08-07T13:02:17Z",
         "channelId": "UCi1BJwid3jwSLCZ4lCiK99w",
-        "title": "おぎはな、YouTubeはじめました⭐️",
+        "title": "【初投稿】おぎはな、YouTubeはじめました⭐️",
         "description": "はじめまして🌸\n\n≠MEの尾木波菜（おぎはな）です。\n\nこの度個人チャンネルを開設しました！\n編集など全て自分でしているので、\n不慣れな部分もあると思いますがマイペースに楽しみます♪\n\nぜひチャンネル登録よろしくお願いします！",
         "thumbnails": {
           "default": {
@@ -43,10 +43,10 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "おぎはな、YouTubeはじめました⭐️",
+          "title": "【初投稿】おぎはな、YouTubeはじめました⭐️",
           "description": "はじめまして🌸\n\n≠MEの尾木波菜（おぎはな）です。\n\nこの度個人チャンネルを開設しました！\n編集など全て自分でしているので、\n不慣れな部分もあると思いますがマイペースに楽しみます♪\n\nぜひチャンネル登録よろしくお願いします！"
         },
-        "defaultAudioLanguage": "ar"
+        "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
         "duration": "PT11M18S",
@@ -58,15 +58,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "74761",
-        "likeCount": "6538",
+        "viewCount": "92437",
+        "likeCount": "7320",
         "favoriteCount": "0",
-        "commentCount": "591"
+        "commentCount": "624"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zLsKDPsZExPUG4jujoQ4uRPLxCU",
+      "etag": "SAiYEEGuwn5ANs1MPr21hhIJ-XA",
       "id": "peVXIxo74Uo",
       "snippet": {
         "publishedAt": "2026-08-03T22:00:12Z",
@@ -141,15 +141,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "79635",
-        "likeCount": "1747",
+        "viewCount": "82390",
+        "likeCount": "1788",
         "favoriteCount": "0",
         "commentCount": "37"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "On71OwW94dGtsqXYp2aJjPU7P_Q",
+      "etag": "osFqQxLZ88fQZt8uQGxraotCpAs",
       "id": "a2crRGTJGfI",
       "snippet": {
         "publishedAt": "2026-08-01T09:00:26Z",
@@ -202,10 +202,10 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "147152",
-        "likeCount": "1583",
+        "viewCount": "180450",
+        "likeCount": "2049",
         "favoriteCount": "0",
-        "commentCount": "120"
+        "commentCount": "152"
       }
     }
   ],

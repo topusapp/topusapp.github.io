@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "U0r-jhb7Rcia5277VJcWNX-F7B4",
+  "etag": "NBXE0XMAY6NzWhcc-k_xJGvSi9M",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "TMY1BLJVkYIjOcAW0m-zTCFJtI8",
+      "etag": "dt0018w8jO2CzhEfyI7yQo2OMIU",
       "id": "jpIm9Oy8oW4",
       "snippet": {
         "publishedAt": "2026-08-05T16:02:42Z",
@@ -58,15 +58,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "430914",
-        "likeCount": "22478",
+        "viewCount": "544361",
+        "likeCount": "27521",
         "favoriteCount": "0",
-        "commentCount": "59"
+        "commentCount": "66"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aDBX4Ox6V-pxRCHDsXc4yn5bGlI",
+      "etag": "3fPFOFe-xcs6yRakoTENiZiQg34",
       "id": "n41yt1UufbQ",
       "snippet": {
         "publishedAt": "2026-08-08T06:19:25Z",
@@ -120,15 +120,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "84645",
-        "likeCount": "3073",
+        "viewCount": "158774",
+        "likeCount": "4306",
         "favoriteCount": "0",
-        "commentCount": "291"
+        "commentCount": "469"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "p2Ku2doOZlyryohzmdhHaktslkU",
+      "etag": "X0LoLdQ0X0nPXuCX7gXBm3uuosg",
       "id": "0W4j7bPmJxg",
       "snippet": {
         "publishedAt": "2026-08-08T10:30:06Z",
@@ -198,15 +198,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "67604",
-        "likeCount": "2004",
+        "viewCount": "292768",
+        "likeCount": "5499",
         "favoriteCount": "0",
-        "commentCount": "82"
+        "commentCount": "198"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NIUZZ-bZl7loji8NH03Ox5rNAI0",
+      "etag": "GZtSTjMTNivhfx44h1Aivd1CDDU",
+      "id": "doUnZD7pxGQ",
+      "snippet": {
+        "publishedAt": "2026-08-08T13:27:37Z",
+        "channelId": "UCE4w8Xle0IPZHyUYDX5Jq2w",
+        "title": "Said good bye to my family, arrived back home, did unpacking and all my groceries.",
+        "description": "Journey back home is always emotional missing my family so much. Got back home safely, did my groceries and honestly nothing is more satisfying than a fully restocked kitchen and full fridge! Restocking all my favorite groceries, organizing every shelf, and filling my fridge with healthy essentials always feels like a fresh start.\n\n#travelhome  #grocery  #kitchenorganization  #restock  #fridgerestock  #fridgeorganization  #restockwithme  #groceryhaul  KitchenOrganization PantryOrganizationSatisfying organizing\nKitchenEssentials HomeOrganization RestockingGroceries\nOrganizedHome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/doUnZD7pxGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/doUnZD7pxGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/doUnZD7pxGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/doUnZD7pxGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/doUnZD7pxGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sham Glam Official ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Said good bye to my family, arrived back home, did unpacking and all my groceries.",
+          "description": "Journey back home is always emotional missing my family so much. Got back home safely, did my groceries and honestly nothing is more satisfying than a fully restocked kitchen and full fridge! Restocking all my favorite groceries, organizing every shelf, and filling my fridge with healthy essentials always feels like a fresh start.\n\n#travelhome  #grocery  #kitchenorganization  #restock  #fridgerestock  #fridgeorganization  #restockwithme  #groceryhaul  KitchenOrganization PantryOrganizationSatisfying organizing\nKitchenEssentials HomeOrganization RestockingGroceries\nOrganizedHome"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT2M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "406379",
+        "likeCount": "25763",
+        "favoriteCount": "0",
+        "commentCount": "160"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BEr5Luk95Ay9ycI5VUcGnS8G3eI",
       "id": "yodks-4Jj6c",
       "snippet": {
         "publishedAt": "2026-08-04T06:35:01Z",
@@ -291,15 +353,110 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "217974",
-        "likeCount": "5338",
+        "viewCount": "221130",
+        "likeCount": "5383",
         "favoriteCount": "0",
         "commentCount": "362"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7eMMJ9-cWSVW9N5rKt55-BxeZwI",
+      "etag": "KvuLp_aNq-s4nZbKLxiCSoun0Rk",
+      "id": "Q1bRYXB69so",
+      "snippet": {
+        "publishedAt": "2026-08-08T16:58:39Z",
+        "channelId": "UCLeBjrmfpAFGqDRJNL1PF5g",
+        "title": "life update: Netflix show, a thank you gift & travel to Korea with me",
+        "description": "❤️ Check out The Rotten Files on Netflix coming Friday 8/14 -  click \"Remind Me\" for all the updates!  https://www.netflix.com/title/82814173\n❤️ Free Merch (just pay shipping) on Friday 8/14, 3pm EST:  https://rmmerchshop.myshopify.com \n❤️ 2500 pieces only, all packed and shipped by the Soo family",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MissMangoButt",
+        "tags": [
+          "dating",
+          "Stephanie Soo",
+          "MissMangoButt",
+          "Stephanie Soo Storytime",
+          "Stephanie Soo Story",
+          "Stephanie Soo Podcast",
+          "Podcast",
+          "Storytime",
+          "Story",
+          "Stephanie Soo Husband",
+          "Husband",
+          "Face Reveal",
+          "Korea",
+          "flying to korea",
+          "seoul korea",
+          "seoul vlog",
+          "korea vlog",
+          "korean couple",
+          "korean girl",
+          "korean makeup",
+          "korean skincare",
+          "black friday",
+          "seoul apartment tour",
+          "going to korea",
+          "moving to korea",
+          "nyc",
+          "surprise",
+          "birthday surprise",
+          "rottenmango",
+          "therottenfiles",
+          "netflix"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "تحديث عن حياتي: مسلسل على Netflix، هدية شكر، وسافروا معي إلى كوريا",
+          "description": "❤️ شاهدوا مسلسل The Rotten Files على نتفليكس ابتداءً من الجمعة 14 أغسطس - اضغطوا على \"تذكير\" لتلقّي جميع التحديثات! https://www.netflix.com/title/82814173\n❤️ منتجات مجانية (ادفعوا فقط تكلفة الشحن) يوم الجمعة 14 أغسطس، الساعة 3 مساءً بتوقيت شرق الولايات المتحدة: https://rmmerchshop.myshopify.com\n❤️ 2500 قطعة فقط، جميعها مُغلّفة ومُشحونة من قِبل عائلة سو"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "291028",
+        "likeCount": "41628",
+        "favoriteCount": "0",
+        "commentCount": "7523"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "u6ynP-T1wNtstK0V0shEK6J3hps",
       "id": "WbOnnSi6eQ0",
       "snippet": {
         "publishedAt": "2026-08-04T13:11:49Z",
@@ -353,15 +510,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "52250",
-        "likeCount": "1535",
+        "viewCount": "53785",
+        "likeCount": "1566",
         "favoriteCount": "0",
-        "commentCount": "214"
+        "commentCount": "215"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Bt7Dd4Hb8ZxCavRUJt4iNLlj968",
+      "etag": "rm-OixjVpqnnwpQ210aR3Nthm4Q",
       "id": "RtBCH_-dlqs",
       "snippet": {
         "publishedAt": "2026-08-07T10:32:29Z",
@@ -402,8 +559,7 @@
         "localized": {
           "title": "ким бу",
           "description": ""
-        },
-        "defaultAudioLanguage": "tr"
+        }
       },
       "contentDetails": {
         "duration": "PT51S",
@@ -415,15 +571,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "361902",
-        "likeCount": "7133",
+        "viewCount": "495673",
+        "likeCount": "9213",
         "favoriteCount": "0",
-        "commentCount": "402"
+        "commentCount": "479"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VJjrE28UGiAMDVy7W0GfXMUSBMk",
+      "etag": "3hR3kMkunorSul-mKG4_lhloPmo",
       "id": "1jbW4bsBCNw",
       "snippet": {
         "publishedAt": "2026-08-03T13:57:37Z",
@@ -477,15 +633,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "60073",
-        "likeCount": "7042",
+        "viewCount": "61415",
+        "likeCount": "7147",
         "favoriteCount": "0",
-        "commentCount": "250"
+        "commentCount": "252"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7MaDare3s0IE-_xbCc0JOqEKGOY",
+      "etag": "9uTCmerS_YOqrCcEOD8RSWOTF48",
       "id": "v8g8DCVS_hA",
       "snippet": {
         "publishedAt": "2026-08-06T17:27:11Z",
@@ -547,15 +703,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "183169",
-        "likeCount": "7349",
+        "viewCount": "209973",
+        "likeCount": "8050",
         "favoriteCount": "0",
-        "commentCount": "358"
+        "commentCount": "371"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "13hXzmsKdAASK2FATCa_asTS7so",
+      "etag": "vDRLvpvteN8mfs-Msys5KEcpZec",
       "id": "q4g3w8Vb9Gw",
       "snippet": {
         "publishedAt": "2026-08-05T12:50:12Z",
@@ -609,15 +765,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "48039",
-        "likeCount": "689",
+        "viewCount": "52321",
+        "likeCount": "713",
         "favoriteCount": "0",
-        "commentCount": "33"
+        "commentCount": "34"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zt3kEJWtf9MWS8CQvcPypQlaufg",
+      "etag": "xi7lCwzUmEuDTuWcc1GMASJBMbo",
       "id": "whxobAqeY34",
       "snippet": {
         "publishedAt": "2026-07-30T11:08:11Z",
@@ -671,15 +827,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "94679",
-        "likeCount": "1116",
+        "viewCount": "95940",
+        "likeCount": "1127",
         "favoriteCount": "0",
         "commentCount": "159"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NorjEx5qEz7U2YvTGV6HQHYbhc8",
+      "etag": "iCeH-p5FDdvVphZAVB-w5jcbNhA",
       "id": "G-ywA1D9-9o",
       "snippet": {
         "publishedAt": "2026-07-30T15:03:30Z",
@@ -733,15 +889,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "254743",
-        "likeCount": "14189",
+        "viewCount": "263054",
+        "likeCount": "14380",
         "favoriteCount": "0",
-        "commentCount": "731"
+        "commentCount": "758"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZO8ofN8Tar1MevqGOR1MxgahkM0",
+      "etag": "owxyj6iAxv4m1VOqqsuMCwrGJ7o",
       "id": "PvES0tlNVFo",
       "snippet": {
         "publishedAt": "2026-07-31T13:11:43Z",
@@ -794,15 +950,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "158092",
-        "likeCount": "2541",
+        "viewCount": "160583",
+        "likeCount": "2567",
         "favoriteCount": "0",
         "commentCount": "285"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rDfPobZeFbAtp4BW_xy6DBv2RE4",
+      "etag": "tGCS0eeStaFy_15dD9aBtG9-aM4",
       "id": "OgBVer0QS5o",
       "snippet": {
         "publishedAt": "2026-07-28T11:22:58Z",
@@ -893,15 +1049,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "524402",
-        "likeCount": "16663",
+        "viewCount": "529029",
+        "likeCount": "16721",
         "favoriteCount": "0",
-        "commentCount": "2868"
+        "commentCount": "2877"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "oedeqrdX07KtZpgKkM5SNHVBHnI",
+      "etag": "YntRqi6HgwfvdFVQTlWBf1y4GEE",
       "id": "1j20ho8BP9Q",
       "snippet": {
         "publishedAt": "2026-07-27T10:32:28Z",
@@ -975,15 +1131,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "723841",
-        "likeCount": "20025",
+        "viewCount": "755301",
+        "likeCount": "20679",
         "favoriteCount": "0",
-        "commentCount": "2309"
+        "commentCount": "2324"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 14,
+    "totalResults": 16,
     "resultsPerPage": 50
   }
 }

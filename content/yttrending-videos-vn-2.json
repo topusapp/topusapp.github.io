@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "99rXi1pILsK61gh12utIaTkD2nI",
+  "etag": "wwNusX_LjAZRl6Ym4zz3Sg_JE_8",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "Q71K89gBygnezcdMYI9wBvXL4Ko",
+      "etag": "eIqke6BxGOLH3kmXW02b6ahiqvI",
       "id": "gj85voMfYbM",
       "snippet": {
         "publishedAt": "2026-08-07T10:45:02Z",
@@ -83,15 +83,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1180731",
-        "likeCount": "31019",
+        "viewCount": "1447618",
+        "likeCount": "38387",
         "favoriteCount": "0",
-        "commentCount": "550"
+        "commentCount": "683"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QnoWItiv19uhP_gTUV2fMuDLgCs",
+      "etag": "MyVjcuztmOl27xclABfBQbTX2CA",
+      "id": "18Jxwi1R-0U",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:14:33Z",
+        "channelId": "UCh79IazPBN62-27J7qZuVkw",
+        "title": "Chiếc xe biết tự đi theo chủ và cái kết #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mèo Lém Lỉnh",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Chiếc xe biết tự đi theo chủ và cái kết #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "947298",
+        "likeCount": "6662",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6DbUZjmR_dDey2cx93PSlV4xPco",
       "id": "12VKcLIb-UU",
       "snippet": {
         "publishedAt": "2026-08-04T06:45:08Z",
@@ -173,76 +235,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2260188",
-        "likeCount": "71450",
+        "viewCount": "2559574",
+        "likeCount": "78189",
         "favoriteCount": "0",
-        "commentCount": "149"
+        "commentCount": "155"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PFj0XIWh3ovypTsqhrTyTkDqyv4",
-      "id": "PrvY_udpEhs",
-      "snippet": {
-        "publishedAt": "2026-08-03T08:50:08Z",
-        "channelId": "UCS7RRZGkDwMzfUvkDEnagFg",
-        "title": "Thay thế nón bảo hiểm luôn",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tường Tinh Tế",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Thay thế nón bảo hiểm luôn",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1814693",
-        "likeCount": "10667",
-        "favoriteCount": "0",
-        "commentCount": "42"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8EqOTQPKA2ngb0XoDs-GxSWB1BI",
+      "etag": "6r0S2yTPsdYlXB2OOL2famaQzEE",
       "id": "4sIHiKPvPf0",
       "snippet": {
         "publishedAt": "2026-08-06T10:44:15Z",
@@ -296,59 +297,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1254866",
-        "likeCount": "27144",
+        "viewCount": "1779366",
+        "likeCount": "35128",
         "favoriteCount": "0",
-        "commentCount": "120"
+        "commentCount": "169"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dsHBLcNHgohTptsUJVAvXJpAg7U",
-      "id": "pHWHUu7qMMc",
+      "etag": "LdajiaJ-jOFxLatN0C3Ay9i3mP8",
+      "id": "PrvY_udpEhs",
       "snippet": {
-        "publishedAt": "2026-08-01T04:16:58Z",
-        "channelId": "UC2TTCLQk-NcGdbAQGF20Auw",
-        "title": "sao lại dắt xd của tôi đi chỗ khác vậy trời #moto #xemaygiare #motothanhly",
+        "publishedAt": "2026-08-03T08:50:08Z",
+        "channelId": "UCS7RRZGkDwMzfUvkDEnagFg",
+        "title": "Thay thế nón bảo hiểm luôn",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/default.jpg",
+            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PrvY_udpEhs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Phóng Đổ Tim Em",
-        "categoryId": "22",
+        "channelTitle": "Tường Tinh Tế",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "sao lại dắt xd của tôi đi chỗ khác vậy trời #moto #xemaygiare #motothanhly",
+          "title": "Thay thế nón bảo hiểm luôn",
           "description": ""
         }
       },
       "contentDetails": {
-        "duration": "PT37S",
+        "duration": "PT11S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -357,15 +358,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2931780",
-        "likeCount": "39386",
+        "viewCount": "2091465",
+        "likeCount": "12493",
         "favoriteCount": "0",
-        "commentCount": "290"
+        "commentCount": "57"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "h1vuAIOx4xNnZpIVj6580KF7aRk",
+      "etag": "-OXLsyphdJfRLXXz1a1UWrFp0o0",
       "id": "jI3uVxS_Zmg",
       "snippet": {
         "publishedAt": "2026-08-05T11:30:22Z",
@@ -442,15 +443,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "834318",
-        "likeCount": "5698",
+        "viewCount": "1069486",
+        "likeCount": "7506",
         "favoriteCount": "0",
-        "commentCount": "10"
+        "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bUxQi2oDNi9PWlZPtD2cE3oIpgI",
+      "etag": "sVQQxLX24Zj38zZLR5xmkxu3Z5c",
       "id": "oX3EV3qpVoA",
       "snippet": {
         "publishedAt": "2026-08-03T13:30:15Z",
@@ -503,15 +504,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1750169",
-        "likeCount": "14296",
+        "viewCount": "2176851",
+        "likeCount": "17609",
         "favoriteCount": "0",
-        "commentCount": "39"
+        "commentCount": "49"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZRV-x-I_KpwHxTcxTElHt6pPpME",
+      "etag": "UFNrIkdVotkDs_OtzaprcpXe9ag",
       "id": "3gFPAA3ASrs",
       "snippet": {
         "publishedAt": "2026-08-04T03:20:07Z",
@@ -564,391 +565,84 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1201500",
-        "likeCount": "12385",
+        "viewCount": "1434352",
+        "likeCount": "14572",
         "favoriteCount": "0",
-        "commentCount": "65"
+        "commentCount": "72"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jShv0eNjnjGZcfu_kJSaiVNTeD8",
-      "id": "Ry3t9xlatXc",
+      "etag": "TPlAeqm0eczn5u4e5z-XMyrtLFc",
+      "id": "J24ui_JcxLk",
       "snippet": {
-        "publishedAt": "2026-07-31T12:00:35Z",
-        "channelId": "UC79Nf-r6dJkR_39kz-Vg3XA",
-        "title": "Tổ đua đang hình thành quay xe nhanh còn kịp",
-        "description": "",
+        "publishedAt": "2026-08-08T04:35:21Z",
+        "channelId": "UCO2vmtR9bbANW7BO4z0IDBQ",
+        "title": "Ninja Bike Đã Thật Sự Gắn \"MÓN NÀY\" Lên Xe Sao",
+        "description": "Ninja Bkie Đã Thật Sự Gắn MÓN NÀY Lên Xe .\nDescription: \nWhat’s cooler than a Ninja bike? A Ninja bike with a real-looking Katana! 🏍️⚔️\nIn this video, a biker decided to take his \"Ninja\" theme to the next level by mounting a Katana prop on the back of his motorcycle. It definitely turned heads and earned some respect from the crowd, but it also caught the attention of the local police. 👮\u200d♂️\nWatch the full interaction to see how the officer reacted when he realized there was a \"weapon\" on the road. Is it a real sword or just a cool accessory? Let’s find out!\nvia :@ninjagraves\n\nThe79 Story không chỉ kể chuyện, mà còn mang đến cho bạn một góc nhìn mới mẻ và những giây phút giải trí đầy ý nghĩa.\n👉 Đừng quên Đăng ký kênh để không bỏ lỡ những câu chuyện thú vị tiếp theo vào mỗi ngày!\n\nTAG: #the79story #NinjaBike #Katana #MotorcycleLife #PoliceInteraction #BikerStory #nịnabike #motovlog #bikerlife #shorts #ynghia #cauchuyenmoingay #tinhhuongbatngo  #facts #viral",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/default.jpg",
+            "url": "https://i.ytimg.com/vi/J24ui_JcxLk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J24ui_JcxLk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J24ui_JcxLk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/J24ui_JcxLk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J24ui_JcxLk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "CHUYỆN THƯỜNG NGÀY",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Tổ đua đang hình thành quay xe nhanh còn kịp",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2660440",
-        "likeCount": "34592",
-        "favoriteCount": "0",
-        "commentCount": "123"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "z8AGLnZe6647I6asvfxuTsk_yEw",
-      "id": "glQc8-mw0lA",
-      "snippet": {
-        "publishedAt": "2026-08-05T03:30:22Z",
-        "channelId": "UCOLULviJyBZWOhAjaFYcVWw",
-        "title": "Biker hỗ trợ xe cứu thương tới bệnh viện! @mamikaaya",
-        "description": "cre: @mamikaaya on IG",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Nhà Trong Ngõ",
+        "channelTitle": "The79 Story",
         "tags": [
-          "moto",
-          "biker",
-          "cop",
-          "thể thao",
-          "tốc độ",
-          "giải trí",
-          "xe máy",
-          "hài hước"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Biker hỗ trợ xe cứu thương tới bệnh viện! @mamikaaya",
-          "description": "cre: @mamikaaya on IG"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1023299",
-        "likeCount": "8219",
-        "favoriteCount": "0",
-        "commentCount": "49"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "X98WSzY1DuE9fKN3Rt5oH4TNwbY",
-      "id": "lGf5gcOENcg",
-      "snippet": {
-        "publishedAt": "2026-08-04T13:28:19Z",
-        "channelId": "UCi4kJqzT_a_lGg1aBv7kSOg",
-        "title": "Tình huống bất ổn khi tôi cho bạn gái mượn xe 1 ngày",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Cô Em Hề Hước ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Tình huống bất ổn khi tôi cho bạn gái mượn xe 1 ngày",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1242391",
-        "likeCount": "9887",
-        "favoriteCount": "0",
-        "commentCount": "29"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EpJJuRr5WWzPHow8wjxvLmncsOs",
-      "id": "yPa7zi3c_BY",
-      "snippet": {
-        "publishedAt": "2026-08-05T04:55:22Z",
-        "channelId": "UCM2HAjmwzQUA5APcHuiS_8g",
-        "title": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳",
-        "description": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳 \n\nCre: Respect Owner.\n\n► Sao Sáng, khám phá mọi điều xung quanh.\n► Hãy nhấn thích và đăng ký kênh nếu bạn thấy nội dung hay và hữu ít nhé! 😽\n\n#biker #moto #shorts #viral\n\n⚠️ Copyright Disclaimer:\nUnder section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research.\nAll copyright, trademarks, and intellectual property rights belong to their respective owners. No copyright infringement intended. If you are the owner and would like this content removed or credited differently, please contact me directly (quan.oxford@gmail.com).",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SaoSang",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳",
-          "description": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳 \n\nCre: Respect Owner.\n\n► Sao Sáng, khám phá mọi điều xung quanh.\n► Hãy nhấn thích và đăng ký kênh nếu bạn thấy nội dung hay và hữu ít nhé! 😽\n\n#biker #moto #shorts #viral\n\n⚠️ Copyright Disclaimer:\nUnder section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research.\nAll copyright, trademarks, and intellectual property rights belong to their respective owners. No copyright infringement intended. If you are the owner and would like this content removed or credited differently, please contact me directly (quan.oxford@gmail.com)."
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "917966",
-        "likeCount": "7736",
-        "favoriteCount": "0",
-        "commentCount": "128"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mFr4KzIfaDVDEfFi4InjAEkval4",
-      "id": "18Jxwi1R-0U",
-      "snippet": {
-        "publishedAt": "2026-08-08T10:14:33Z",
-        "channelId": "UCh79IazPBN62-27J7qZuVkw",
-        "title": "Chiếc xe biết tự đi theo chủ và cái kết #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/18Jxwi1R-0U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mèo Lém Lỉnh",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Chiếc xe biết tự đi theo chủ và cái kết #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "291473",
-        "likeCount": "2611",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_65Ol8q5szz0oA-nMgQGhQRvzzM",
-      "id": "t_l8QUcUQe8",
-      "snippet": {
-        "publishedAt": "2026-08-05T00:26:07Z",
-        "channelId": "UCQNbp03BxLpn8HEr1OoYpYQ",
-        "title": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa",
-        "description": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa🔥 EXCITING THINGS | THÚ VỊ\n\nĐây là một thử thách đường phố cực kỳ kích thích: Nếu bạn có thể đập vỡ cái tấm nhìn giống như thủy tinh này, thì chiếc xe đạp xịn sò bên trong sẽ thuộc về bạn luôn! Nhìn tại hiện trường mà xem, ông anh lực lưỡng này đã dùng hết sức bình sinh, cơ bắp cuồn cuộn để nện, ấy thế mà cỗ máy này đến một vết xước nhẹ cũng không thèm xuất hiện. Thực ra, tấm bảng trong suốt này không phải thủy tinh đâu, em nó tên là nhựa Polycarbonate (hay còn gọi là nhựa PC). Điểm ăn tiền nhất của tấm nhựa này là khả năng chịu lực và độ dẻo dai thuộc hàng thượng thừa, gấp hơn 200 lần so với thủy tinh thông thường, thậm chí trong kính chống đạn cũng phải có mặt em nó. Nhìn thì tưởng là thủy tinh dễ vỡ, nhưng muốn đập nát nó thì đúng là \"vô vọng\".\n\nTại sao nó lại trâu bò đến thế? Bí mật nằm ở cấu trúc phân tử cực kỳ khăng khít của nhựa PC. Khi bị ngoại lực tấn công, nó sẽ không vỡ ra ngay đâu, mà lập tức đem cái lực vừa đập vào phân tán đều ra toàn bộ bề mặt. Nói một cách dễ hiểu là bao nhiêu lực sướng khổ là cả tấm nhựa sẽ cùng nhau gánh chịu hết. Thế nên trên sân khấu mới xuất hiện cảnh tượng tấu hài này: Người thử thách thì khí thế hừng hực, đập đôm đốp cành cạch, mồ hôi vã ra như tắm, còn tấm nhựa thì vẫn bất biến giữa dòng đời vạn biến, vững chắc như một vị thần.\n\nChúng tôi mang đến nội dung ngắn gọn, dễ hiểu, hấp dẫn và có giá trị thực tế, giúp bạn:\n✨ Mở rộng kiến thức mỗi ngày\n✨ Khám phá những điều mới lạ\n✨ Cập nhật xu hướng công nghệ & đời sống\n✨ Học thêm kỹ năng hữu ích\n\nNếu bạn yêu thích khám phá, tò mò về thế giới xung quanh và luôn muốn học thêm điều mới, Exciting Things – Thú Vị chính là nơi dành cho bạn.\n\n📌 Đăng ký kênh để không bỏ lỡ những video thú vị mỗi tuần!\n#ExcitingThings #ThuVi #DieuThuVi #KienThucBoIch #SuThatThuVi #FunFacts #KhamPhaTheGioi \n#MeoHayCuocSong #KienThucMoiNgay #CongNghe #HocMoiNgay #DidYouKnow",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "EXCITING THINGS",
-        "tags": [
-          "điều thú vị",
-          "kiến thức bổ ích",
-          "sự thật thú vị",
-          "khám phá thế giới",
-          "mẹo hay cuộc sống",
-          "công nghệ thú vị",
-          "fun facts",
-          "kiến thức mỗi ngày",
-          "exciting things"
+          "cops",
+          "bikers",
+          "Ninja Bike",
+          "Katana trên xe",
+          "Biker gắn kiếm",
+          "mô tô Ninja",
+          "độ xe độc lạ",
+          "Ninja motorcycle",
+          "Katana prop",
+          "cảnh sát dừng xe",
+          "Ninja bike mod",
+          "kiếm Nhật trên xe",
+          "The79 Story",
+          "biker Việt Nam",
+          "tình huống giao thông",
+          "xe độ chất",
+          "kiếm Katana",
+          "Kawasaki Ninja",
+          "biker và cảnh sát",
+          "phụ kiện xe máy",
+          "Ninja kiếm Nhật",
+          "reaction xe độ"
         ],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa",
-          "description": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa🔥 EXCITING THINGS | THÚ VỊ\n\nĐây là một thử thách đường phố cực kỳ kích thích: Nếu bạn có thể đập vỡ cái tấm nhìn giống như thủy tinh này, thì chiếc xe đạp xịn sò bên trong sẽ thuộc về bạn luôn! Nhìn tại hiện trường mà xem, ông anh lực lưỡng này đã dùng hết sức bình sinh, cơ bắp cuồn cuộn để nện, ấy thế mà cỗ máy này đến một vết xước nhẹ cũng không thèm xuất hiện. Thực ra, tấm bảng trong suốt này không phải thủy tinh đâu, em nó tên là nhựa Polycarbonate (hay còn gọi là nhựa PC). Điểm ăn tiền nhất của tấm nhựa này là khả năng chịu lực và độ dẻo dai thuộc hàng thượng thừa, gấp hơn 200 lần so với thủy tinh thông thường, thậm chí trong kính chống đạn cũng phải có mặt em nó. Nhìn thì tưởng là thủy tinh dễ vỡ, nhưng muốn đập nát nó thì đúng là \"vô vọng\".\n\nTại sao nó lại trâu bò đến thế? Bí mật nằm ở cấu trúc phân tử cực kỳ khăng khít của nhựa PC. Khi bị ngoại lực tấn công, nó sẽ không vỡ ra ngay đâu, mà lập tức đem cái lực vừa đập vào phân tán đều ra toàn bộ bề mặt. Nói một cách dễ hiểu là bao nhiêu lực sướng khổ là cả tấm nhựa sẽ cùng nhau gánh chịu hết. Thế nên trên sân khấu mới xuất hiện cảnh tượng tấu hài này: Người thử thách thì khí thế hừng hực, đập đôm đốp cành cạch, mồ hôi vã ra như tắm, còn tấm nhựa thì vẫn bất biến giữa dòng đời vạn biến, vững chắc như một vị thần.\n\nChúng tôi mang đến nội dung ngắn gọn, dễ hiểu, hấp dẫn và có giá trị thực tế, giúp bạn:\n✨ Mở rộng kiến thức mỗi ngày\n✨ Khám phá những điều mới lạ\n✨ Cập nhật xu hướng công nghệ & đời sống\n✨ Học thêm kỹ năng hữu ích\n\nNếu bạn yêu thích khám phá, tò mò về thế giới xung quanh và luôn muốn học thêm điều mới, Exciting Things – Thú Vị chính là nơi dành cho bạn.\n\n📌 Đăng ký kênh để không bỏ lỡ những video thú vị mỗi tuần!\n#ExcitingThings #ThuVi #DieuThuVi #KienThucBoIch #SuThatThuVi #FunFacts #KhamPhaTheGioi \n#MeoHayCuocSong #KienThucMoiNgay #CongNghe #HocMoiNgay #DidYouKnow"
+          "title": "Ninja Bike Đã Thật Sự Gắn \"MÓN NÀY\" Lên Xe Sao",
+          "description": "Ninja Bkie Đã Thật Sự Gắn MÓN NÀY Lên Xe .\nDescription: \nWhat’s cooler than a Ninja bike? A Ninja bike with a real-looking Katana! 🏍️⚔️\nIn this video, a biker decided to take his \"Ninja\" theme to the next level by mounting a Katana prop on the back of his motorcycle. It definitely turned heads and earned some respect from the crowd, but it also caught the attention of the local police. 👮\u200d♂️\nWatch the full interaction to see how the officer reacted when he realized there was a \"weapon\" on the road. Is it a real sword or just a cool accessory? Let’s find out!\nvia :@ninjagraves\n\nThe79 Story không chỉ kể chuyện, mà còn mang đến cho bạn một góc nhìn mới mẻ và những giây phút giải trí đầy ý nghĩa.\n👉 Đừng quên Đăng ký kênh để không bỏ lỡ những câu chuyện thú vị tiếp theo vào mỗi ngày!\n\nTAG: #the79story #NinjaBike #Katana #MotorcycleLife #PoliceInteraction #BikerStory #nịnabike #motovlog #bikerlife #shorts #ynghia #cauchuyenmoingay #tinhhuongbatngo  #facts #viral"
         },
-        "defaultAudioLanguage": "vi"
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT58S",
+        "duration": "PT55S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -957,15 +651,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1023187",
-        "likeCount": "7669",
+        "viewCount": "652784",
+        "likeCount": "12903",
         "favoriteCount": "0",
-        "commentCount": "114"
+        "commentCount": "69"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OLys3tNg40fyAX9FmAYOv7DfNT0",
+      "etag": "iDnoM60dbrUy5sRdv6z03y8fsag",
       "id": "gEKYaLRc3Fw",
       "snippet": {
         "publishedAt": "2026-08-07T11:30:38Z",
@@ -1052,15 +746,866 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "435689",
-        "likeCount": "7148",
+        "viewCount": "689780",
+        "likeCount": "13466",
         "favoriteCount": "0",
-        "commentCount": "12"
+        "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wVPFWMBHD6zc-wfbMx88DZR6Q84",
+      "etag": "hgpdxaGS8uV9Oa4jacfvhxdwmtE",
+      "id": "glQc8-mw0lA",
+      "snippet": {
+        "publishedAt": "2026-08-05T03:30:22Z",
+        "channelId": "UCOLULviJyBZWOhAjaFYcVWw",
+        "title": "Biker hỗ trợ xe cứu thương tới bệnh viện! @mamikaaya",
+        "description": "cre: @mamikaaya on IG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/glQc8-mw0lA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nhà Trong Ngõ",
+        "tags": [
+          "moto",
+          "biker",
+          "cop",
+          "thể thao",
+          "tốc độ",
+          "giải trí",
+          "xe máy",
+          "hài hước"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Biker hỗ trợ xe cứu thương tới bệnh viện! @mamikaaya",
+          "description": "cre: @mamikaaya on IG"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1250592",
+        "likeCount": "10023",
+        "favoriteCount": "0",
+        "commentCount": "58"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gy1H-eHflV94TQF1uiNzXjqv1d4",
+      "id": "pHWHUu7qMMc",
+      "snippet": {
+        "publishedAt": "2026-08-01T04:16:58Z",
+        "channelId": "UC2TTCLQk-NcGdbAQGF20Auw",
+        "title": "sao lại dắt xd của tôi đi chỗ khác vậy trời #moto #xemaygiare #motothanhly",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pHWHUu7qMMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phóng Đổ Tim Em",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "sao lại dắt xd của tôi đi chỗ khác vậy trời #moto #xemaygiare #motothanhly",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3032031",
+        "likeCount": "40884",
+        "favoriteCount": "0",
+        "commentCount": "304"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kU0BSiZ9ydlApTU8LOzj2mU8A_s",
+      "id": "Ry3t9xlatXc",
+      "snippet": {
+        "publishedAt": "2026-07-31T12:00:35Z",
+        "channelId": "UC79Nf-r6dJkR_39kz-Vg3XA",
+        "title": "Tổ đua đang hình thành quay xe nhanh còn kịp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ry3t9xlatXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CHUYỆN THƯỜNG NGÀY",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Tổ đua đang hình thành quay xe nhanh còn kịp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2877171",
+        "likeCount": "37168",
+        "favoriteCount": "0",
+        "commentCount": "132"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GFpEmK1Up1xee6tFSxnD3hFRgJQ",
+      "id": "lGf5gcOENcg",
+      "snippet": {
+        "publishedAt": "2026-08-04T13:28:19Z",
+        "channelId": "UCi4kJqzT_a_lGg1aBv7kSOg",
+        "title": "Tình huống bất ổn khi tôi cho bạn gái mượn xe 1 ngày",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lGf5gcOENcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cô Em Hề Hước ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Tình huống bất ổn khi tôi cho bạn gái mượn xe 1 ngày",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1442090",
+        "likeCount": "11488",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5nyXA4c8WI5SHgB1YoLfUC9ndpw",
+      "id": "yPa7zi3c_BY",
+      "snippet": {
+        "publishedAt": "2026-08-05T04:55:22Z",
+        "channelId": "UCM2HAjmwzQUA5APcHuiS_8g",
+        "title": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳",
+        "description": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳 \n\nCre: Respect Owner.\n\n► Sao Sáng, khám phá mọi điều xung quanh.\n► Hãy nhấn thích và đăng ký kênh nếu bạn thấy nội dung hay và hữu ít nhé! 😽\n\n#biker #moto #shorts #viral\n\n⚠️ Copyright Disclaimer:\nUnder section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research.\nAll copyright, trademarks, and intellectual property rights belong to their respective owners. No copyright infringement intended. If you are the owner and would like this content removed or credited differently, please contact me directly (quan.oxford@gmail.com).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yPa7zi3c_BY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SaoSang",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳",
+          "description": "Bằng Cách Nào Biker Có Thể Lái Xe Trên Mặt Nước 😳 \n\nCre: Respect Owner.\n\n► Sao Sáng, khám phá mọi điều xung quanh.\n► Hãy nhấn thích và đăng ký kênh nếu bạn thấy nội dung hay và hữu ít nhé! 😽\n\n#biker #moto #shorts #viral\n\n⚠️ Copyright Disclaimer:\nUnder section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research.\nAll copyright, trademarks, and intellectual property rights belong to their respective owners. No copyright infringement intended. If you are the owner and would like this content removed or credited differently, please contact me directly (quan.oxford@gmail.com)."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1101342",
+        "likeCount": "9276",
+        "favoriteCount": "0",
+        "commentCount": "145"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JHCWYuTasatB3S_VJtIVICgQpfs",
+      "id": "L3xOOKSPSOk",
+      "snippet": {
+        "publishedAt": "2026-08-08T11:01:29Z",
+        "channelId": "UCg7WjuuH8yv5IthZV_mfWSQ",
+        "title": "Anh lấy slime của em gái để dọn sạch xe #trendingshorts #trendingvideo #shorts #shortsviral",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L3xOOKSPSOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L3xOOKSPSOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L3xOOKSPSOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L3xOOKSPSOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L3xOOKSPSOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tony reviews",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Anh lấy slime của em gái để dọn sạch xe #trendingshorts #trendingvideo #shorts #shortsviral",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "329863",
+        "likeCount": "2229",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rSnFV-RRI2n7nJk_O2YqCf8MQMU",
+      "id": "t_l8QUcUQe8",
+      "snippet": {
+        "publishedAt": "2026-08-05T00:26:07Z",
+        "channelId": "UCQNbp03BxLpn8HEr1OoYpYQ",
+        "title": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa",
+        "description": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa🔥 EXCITING THINGS | THÚ VỊ\n\nĐây là một thử thách đường phố cực kỳ kích thích: Nếu bạn có thể đập vỡ cái tấm nhìn giống như thủy tinh này, thì chiếc xe đạp xịn sò bên trong sẽ thuộc về bạn luôn! Nhìn tại hiện trường mà xem, ông anh lực lưỡng này đã dùng hết sức bình sinh, cơ bắp cuồn cuộn để nện, ấy thế mà cỗ máy này đến một vết xước nhẹ cũng không thèm xuất hiện. Thực ra, tấm bảng trong suốt này không phải thủy tinh đâu, em nó tên là nhựa Polycarbonate (hay còn gọi là nhựa PC). Điểm ăn tiền nhất của tấm nhựa này là khả năng chịu lực và độ dẻo dai thuộc hàng thượng thừa, gấp hơn 200 lần so với thủy tinh thông thường, thậm chí trong kính chống đạn cũng phải có mặt em nó. Nhìn thì tưởng là thủy tinh dễ vỡ, nhưng muốn đập nát nó thì đúng là \"vô vọng\".\n\nTại sao nó lại trâu bò đến thế? Bí mật nằm ở cấu trúc phân tử cực kỳ khăng khít của nhựa PC. Khi bị ngoại lực tấn công, nó sẽ không vỡ ra ngay đâu, mà lập tức đem cái lực vừa đập vào phân tán đều ra toàn bộ bề mặt. Nói một cách dễ hiểu là bao nhiêu lực sướng khổ là cả tấm nhựa sẽ cùng nhau gánh chịu hết. Thế nên trên sân khấu mới xuất hiện cảnh tượng tấu hài này: Người thử thách thì khí thế hừng hực, đập đôm đốp cành cạch, mồ hôi vã ra như tắm, còn tấm nhựa thì vẫn bất biến giữa dòng đời vạn biến, vững chắc như một vị thần.\n\nChúng tôi mang đến nội dung ngắn gọn, dễ hiểu, hấp dẫn và có giá trị thực tế, giúp bạn:\n✨ Mở rộng kiến thức mỗi ngày\n✨ Khám phá những điều mới lạ\n✨ Cập nhật xu hướng công nghệ & đời sống\n✨ Học thêm kỹ năng hữu ích\n\nNếu bạn yêu thích khám phá, tò mò về thế giới xung quanh và luôn muốn học thêm điều mới, Exciting Things – Thú Vị chính là nơi dành cho bạn.\n\n📌 Đăng ký kênh để không bỏ lỡ những video thú vị mỗi tuần!\n#ExcitingThings #ThuVi #DieuThuVi #KienThucBoIch #SuThatThuVi #FunFacts #KhamPhaTheGioi \n#MeoHayCuocSong #KienThucMoiNgay #CongNghe #HocMoiNgay #DidYouKnow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t_l8QUcUQe8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EXCITING THINGS",
+        "tags": [
+          "điều thú vị",
+          "kiến thức bổ ích",
+          "sự thật thú vị",
+          "khám phá thế giới",
+          "mẹo hay cuộc sống",
+          "công nghệ thú vị",
+          "fun facts",
+          "kiến thức mỗi ngày",
+          "exciting things"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa",
+          "description": "Đập vỡ tấm \"thủy tinh\" này nhận ngay xe đạp và cái kết ra đi cái búa🔥 EXCITING THINGS | THÚ VỊ\n\nĐây là một thử thách đường phố cực kỳ kích thích: Nếu bạn có thể đập vỡ cái tấm nhìn giống như thủy tinh này, thì chiếc xe đạp xịn sò bên trong sẽ thuộc về bạn luôn! Nhìn tại hiện trường mà xem, ông anh lực lưỡng này đã dùng hết sức bình sinh, cơ bắp cuồn cuộn để nện, ấy thế mà cỗ máy này đến một vết xước nhẹ cũng không thèm xuất hiện. Thực ra, tấm bảng trong suốt này không phải thủy tinh đâu, em nó tên là nhựa Polycarbonate (hay còn gọi là nhựa PC). Điểm ăn tiền nhất của tấm nhựa này là khả năng chịu lực và độ dẻo dai thuộc hàng thượng thừa, gấp hơn 200 lần so với thủy tinh thông thường, thậm chí trong kính chống đạn cũng phải có mặt em nó. Nhìn thì tưởng là thủy tinh dễ vỡ, nhưng muốn đập nát nó thì đúng là \"vô vọng\".\n\nTại sao nó lại trâu bò đến thế? Bí mật nằm ở cấu trúc phân tử cực kỳ khăng khít của nhựa PC. Khi bị ngoại lực tấn công, nó sẽ không vỡ ra ngay đâu, mà lập tức đem cái lực vừa đập vào phân tán đều ra toàn bộ bề mặt. Nói một cách dễ hiểu là bao nhiêu lực sướng khổ là cả tấm nhựa sẽ cùng nhau gánh chịu hết. Thế nên trên sân khấu mới xuất hiện cảnh tượng tấu hài này: Người thử thách thì khí thế hừng hực, đập đôm đốp cành cạch, mồ hôi vã ra như tắm, còn tấm nhựa thì vẫn bất biến giữa dòng đời vạn biến, vững chắc như một vị thần.\n\nChúng tôi mang đến nội dung ngắn gọn, dễ hiểu, hấp dẫn và có giá trị thực tế, giúp bạn:\n✨ Mở rộng kiến thức mỗi ngày\n✨ Khám phá những điều mới lạ\n✨ Cập nhật xu hướng công nghệ & đời sống\n✨ Học thêm kỹ năng hữu ích\n\nNếu bạn yêu thích khám phá, tò mò về thế giới xung quanh và luôn muốn học thêm điều mới, Exciting Things – Thú Vị chính là nơi dành cho bạn.\n\n📌 Đăng ký kênh để không bỏ lỡ những video thú vị mỗi tuần!\n#ExcitingThings #ThuVi #DieuThuVi #KienThucBoIch #SuThatThuVi #FunFacts #KhamPhaTheGioi \n#MeoHayCuocSong #KienThucMoiNgay #CongNghe #HocMoiNgay #DidYouKnow"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1167041",
+        "likeCount": "8418",
+        "favoriteCount": "0",
+        "commentCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NrsN_-67KzhGPSDtAMSgxtdpoJU",
+      "id": "Nq7RBHPRGEQ",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:56:44Z",
+        "channelId": "UCb0dBPaHfDBW9S3YeEWrZ8A",
+        "title": "Khi Bạn Cao 6 Fit Và Lái Xe Lamborghini",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phức Tạp Phết",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Khi Bạn Cao 6 Fit Và Lái Xe Lamborghini",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "628151",
+        "likeCount": "13074",
+        "favoriteCount": "0",
+        "commentCount": "41"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vgy0AmA5jhUTFNNSJUKsr8-xtOg",
+      "id": "lISpQBYdltw",
+      "snippet": {
+        "publishedAt": "2026-08-06T13:04:10Z",
+        "channelId": "UCubyCUfe594dB2L6vrpC-Kw",
+        "title": "Những tình huống thú vị trên đường đi 🚙 #takhongngu",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lISpQBYdltw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lISpQBYdltw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lISpQBYdltw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lISpQBYdltw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lISpQBYdltw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ta Không Ngủ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Những tình huống thú vị trên đường đi 🚙 #takhongngu",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "652734",
+        "likeCount": "12241",
+        "favoriteCount": "0",
+        "commentCount": "73"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NuG57NiJEXf-tnPamZL6Q-KNN9k",
+      "id": "xtF0r-EJ56w",
+      "snippet": {
+        "publishedAt": "2026-08-06T09:15:33Z",
+        "channelId": "UCUWmsXMysGTu1mwjaHNs0bw",
+        "title": "Cô Em Hoảng Hốt Khi Thấy Chị Gái Ngủ Gật Lái Xe... Và Cái Kết Hài! 😂🚗",
+        "description": "Thấy chị gái vừa lái xe vừa ngủ gật, cô em sợ đến mức hét toáng lên. Nhưng sự thật phía sau lại khiến cả hai và mọi người cười nghiêng ngả. Xem hết video để đón xem cái kết nhé!\n#BeRongTV\n#ChiGai\n#NguGat\n#LaiXe\n#HaiHuoc\n#Funny\n#TinhHuongHai\n#BatNgo\n#Shorts\n#VideoHay\n#Trending",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BéRồngTV",
+        "tags": [
+          "BeRongTV",
+          "ShortsHai",
+          "HaiHuoc",
+          "TrollHai",
+          "VideoHai",
+          "HaiNgan",
+          "ShortsVui",
+          "CuoiXaStress",
+          "HaiMoiNgay",
+          "GiaiTriShorts",
+          "GiaiTri",
+          "ChiGai",
+          "NguGat",
+          "LaiXe",
+          "Funny",
+          "TinhHuongHai",
+          "BatNgo",
+          "Shorts"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Cô Em Hoảng Hốt Khi Thấy Chị Gái Ngủ Gật Lái Xe... Và Cái Kết Hài! 😂🚗",
+          "description": "Thấy chị gái vừa lái xe vừa ngủ gật, cô em sợ đến mức hét toáng lên. Nhưng sự thật phía sau lại khiến cả hai và mọi người cười nghiêng ngả. Xem hết video để đón xem cái kết nhé!\n#BeRongTV\n#ChiGai\n#NguGat\n#LaiXe\n#HaiHuoc\n#Funny\n#TinhHuongHai\n#BatNgo\n#Shorts\n#VideoHay\n#Trending"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "457401",
+        "likeCount": "3486",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HtGPr-zV0-K2bxUQyqNJXBzk7s4",
+      "id": "hULeOvrJm40",
+      "snippet": {
+        "publishedAt": "2026-08-05T03:28:33Z",
+        "channelId": "UCOIsgKOSuG_jZ3JSWdPGeog",
+        "title": "vận động viên đua xe đạp này thật thông minh",
+        "description": "Thanks for Watching, If You Are Interested In The Video, Please Subscribe And Like\n\n💟 TikTok : https://www.tiktok.com/@mrloctv\n\n💟 Discord : https://discord.gg/GHVdjJN\n\n💟 Fanpage : https://FB.com/mrloc1010",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hULeOvrJm40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hULeOvrJm40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hULeOvrJm40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hULeOvrJm40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hULeOvrJm40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrLocTV",
+        "tags": [
+          "funny",
+          "loc",
+          "vlog",
+          "tik tok",
+          "troll",
+          "mrloc"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "vận động viên đua xe đạp này thật thông minh",
+          "description": "Thanks for Watching, If You Are Interested In The Video, Please Subscribe And Like\n\n💟 TikTok : https://www.tiktok.com/@mrloctv\n\n💟 Discord : https://discord.gg/GHVdjJN\n\n💟 Fanpage : https://FB.com/mrloc1010"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "682296",
+        "likeCount": "3412",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rruoL5sPeXcTKEilHR1L06JKN5s",
+      "id": "UZZtTNF-6uw",
+      "snippet": {
+        "publishedAt": "2026-08-04T01:37:32Z",
+        "channelId": "UCNMLHN_6lDc804Zj5G-dCbw",
+        "title": "Tưởng mỗi anh có xe sang chắc #otocu #traodoioto #car #sieuxe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZZtTNF-6uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZZtTNF-6uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZZtTNF-6uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UZZtTNF-6uw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UZZtTNF-6uw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Xế iu Review",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Tưởng mỗi anh có xe sang chắc #otocu #traodoioto #car #sieuxe",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1024410",
+        "likeCount": "10568",
+        "favoriteCount": "0",
+        "commentCount": "78"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DslqefGP9YTISwYWY5r_xoJmLdk",
+      "id": "sI3KN-ovs5Y",
+      "snippet": {
+        "publishedAt": "2026-08-03T12:10:07Z",
+        "channelId": "UCDLu1lt2zN6ifAcOyaNGzkQ",
+        "title": "Bà lão đi xe điện bị chê vì không có xe mới #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mộc Quốc",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Bà lão đi xe điện bị chê vì không có xe mới #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1097971",
+        "likeCount": "9984",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OIrZ8AtZ-r7C3poMDsEFqXqhGxY",
       "id": "OtB9-L3E-KQ",
       "snippet": {
         "publishedAt": "2026-08-02T04:00:08Z",
@@ -1159,60 +1704,122 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1802798",
-        "likeCount": "15928",
+        "viewCount": "1816438",
+        "likeCount": "16032",
         "favoriteCount": "0",
-        "commentCount": "759"
+        "commentCount": "766"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TdZjRBBrtZj4BfUeqGqUEHAuRF4",
-      "id": "lISpQBYdltw",
+      "etag": "VIh0LfEM7SxSDurVcHMVNupEtXI",
+      "id": "2u-ujrbYuiI",
       "snippet": {
-        "publishedAt": "2026-08-06T13:04:10Z",
-        "channelId": "UCubyCUfe594dB2L6vrpC-Kw",
-        "title": "Những tình huống thú vị trên đường đi 🚙 #takhongngu",
-        "description": "",
+        "publishedAt": "2026-08-08T09:47:51Z",
+        "channelId": "UCZd3jN1izbKFfl3Ey8dUC2A",
+        "title": "Hơn 120 ô tô thủng lốp trên cao tốc do phế liệu rơi vãi",
+        "description": "Đã xác định phương tiện khiến hàng loạt ô tô thủng lốp trên cao tốc Bắc Nam, Mới đây vào ngày mồng 6 tháng 8, Cục Cảnh sát Giao thông đã xác định được phương tiện làm rơi hơn 10kg kim loại, khiến khoảng 70 xe ô tô con cùng xe container bị thủng lốp hàng lọat trên cao tốc Bắc Nam, Sau khi các đơn vị chức năng triển khai truy tìm, Đội Cảnh sát giao thông đường bộ cao tốc số 5 đã xác định, xe đầu kéo biển số Thanh Hóa làm rơi phế liệu khi chở phế phẩm công nghiệp từ Thanh Hóa vào thành phố Hồ Chí Minh, Phế liệu bắt đầu rơi từ cao tốc Đà Nẵng Quảng Ngãi kéo dài đến tận cao tốc Chí Thạnh Vân Phong, tổng chiều dài khoảng 337 km, Hiện lực lượng chức năng đã thu gom hàng chục kg phế liệu trên toàn bộ đoạn đường bị ảnh hưởng và tiếp tục xử lý các vi phạm\n\n► ĐIỂM TIN NEW24H : Kênh thông tin liên tục cập nhật những tin tức mới nhất trong ngày, tình hình chính trị, an ninh quốc phòng, đời sống pháp luật, xã hội, giao thông, thời sự trong nước và quốc tế. Giúp bạn không cần đọc báo vẫn nắm bắt được những sự kiện, tin tức diễn ra hàng ngày. \n---------------------------/-----------------------------\n#diemtinnew24h \n📧 Mọi vấn đề về Bản quyền, Cộng tác hoặc Gỡ bỏ nội dung, xin vui lòng liên hệ: diemtinnew24h@gmail.com",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lISpQBYdltw/default.jpg",
+            "url": "https://i.ytimg.com/vi/2u-ujrbYuiI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lISpQBYdltw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2u-ujrbYuiI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lISpQBYdltw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2u-ujrbYuiI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lISpQBYdltw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/2u-ujrbYuiI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lISpQBYdltw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2u-ujrbYuiI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Ta Không Ngủ",
+        "channelTitle": "Điểm Tin New24h",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Hơn 120 ô tô thủng lốp trên cao tốc do phế liệu rơi vãi",
+          "description": "Đã xác định phương tiện khiến hàng loạt ô tô thủng lốp trên cao tốc Bắc Nam, Mới đây vào ngày mồng 6 tháng 8, Cục Cảnh sát Giao thông đã xác định được phương tiện làm rơi hơn 10kg kim loại, khiến khoảng 70 xe ô tô con cùng xe container bị thủng lốp hàng lọat trên cao tốc Bắc Nam, Sau khi các đơn vị chức năng triển khai truy tìm, Đội Cảnh sát giao thông đường bộ cao tốc số 5 đã xác định, xe đầu kéo biển số Thanh Hóa làm rơi phế liệu khi chở phế phẩm công nghiệp từ Thanh Hóa vào thành phố Hồ Chí Minh, Phế liệu bắt đầu rơi từ cao tốc Đà Nẵng Quảng Ngãi kéo dài đến tận cao tốc Chí Thạnh Vân Phong, tổng chiều dài khoảng 337 km, Hiện lực lượng chức năng đã thu gom hàng chục kg phế liệu trên toàn bộ đoạn đường bị ảnh hưởng và tiếp tục xử lý các vi phạm\n\n► ĐIỂM TIN NEW24H : Kênh thông tin liên tục cập nhật những tin tức mới nhất trong ngày, tình hình chính trị, an ninh quốc phòng, đời sống pháp luật, xã hội, giao thông, thời sự trong nước và quốc tế. Giúp bạn không cần đọc báo vẫn nắm bắt được những sự kiện, tin tức diễn ra hàng ngày. \n---------------------------/-----------------------------\n#diemtinnew24h \n📧 Mọi vấn đề về Bản quyền, Cộng tác hoặc Gỡ bỏ nội dung, xin vui lòng liên hệ: diemtinnew24h@gmail.com"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "434284",
+        "likeCount": "5752",
+        "favoriteCount": "0",
+        "commentCount": "467"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Fpy44gAKnjwnf6aUARrlxeDagQ",
+      "id": "BiN0gsEgSTU",
+      "snippet": {
+        "publishedAt": "2026-08-08T01:00:06Z",
+        "channelId": "UCcTIJ9_76fXBfmlx2GDicAQ",
+        "title": "Chiếc xe đạp bị rơi ra một bánh 😂@Eryka.oficial.19",
+        "description": "Credit: @Respected owner",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kẻ Gáo ",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Những tình huống thú vị trên đường đi 🚙 #takhongngu",
-          "description": ""
+          "title": "Chiếc xe đạp bị rơi ra một bánh 😂@Eryka.oficial.19",
+          "description": "Credit: @Respected owner"
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT27S",
+        "duration": "PT13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1221,77 +1828,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "559230",
-        "likeCount": "10713",
+        "viewCount": "274158",
+        "likeCount": "1868",
         "favoriteCount": "0",
-        "commentCount": "71"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DsfUCSRStJQpGtbAAPXsD8cbt7I",
-      "id": "sI3KN-ovs5Y",
-      "snippet": {
-        "publishedAt": "2026-08-03T12:10:07Z",
-        "channelId": "UCDLu1lt2zN6ifAcOyaNGzkQ",
-        "title": "Bà lão đi xe điện bị chê vì không có xe mới #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sI3KN-ovs5Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mộc Quốc",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Bà lão đi xe điện bị chê vì không có xe mới #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1004582",
-        "likeCount": "8986",
-        "favoriteCount": "0",
-        "commentCount": "36"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Gj58vhrTME94rfHSNwwZxxvLj54",
+      "etag": "S4xJvqcwRaxCBF3nuEHYH3-7yW0",
       "id": "u9qyECdictw",
       "snippet": {
         "publishedAt": "2026-08-01T03:40:21Z",
@@ -1367,145 +1912,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1432280",
-        "likeCount": "8892",
+        "viewCount": "1465684",
+        "likeCount": "9194",
         "favoriteCount": "0",
         "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5fm_HbwxuuQpGh0NoBN61L4EXQ0",
-      "id": "FWL2h23SC4E",
-      "snippet": {
-        "publishedAt": "2026-08-01T08:25:41Z",
-        "channelId": "UCNMLHN_6lDc804Zj5G-dCbw",
-        "title": "cạn lời #otocu #automobile #car #traodoioto #muabanoto",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FWL2h23SC4E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FWL2h23SC4E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FWL2h23SC4E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/FWL2h23SC4E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/FWL2h23SC4E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Xế iu Review",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "cạn lời #otocu #automobile #car #traodoioto #muabanoto",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1670886",
-        "likeCount": "23228",
-        "favoriteCount": "0",
-        "commentCount": "524"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ccS129CZ3iSFvgKPdH9Iq7CRCIw",
-      "id": "hULeOvrJm40",
-      "snippet": {
-        "publishedAt": "2026-08-05T03:28:33Z",
-        "channelId": "UCOIsgKOSuG_jZ3JSWdPGeog",
-        "title": "vận động viên đua xe đạp này thật thông minh",
-        "description": "Thanks for Watching, If You Are Interested In The Video, Please Subscribe And Like\n\n💟 TikTok : https://www.tiktok.com/@mrloctv\n\n💟 Discord : https://discord.gg/GHVdjJN\n\n💟 Fanpage : https://FB.com/mrloc1010",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hULeOvrJm40/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hULeOvrJm40/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hULeOvrJm40/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hULeOvrJm40/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hULeOvrJm40/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MrLocTV",
-        "tags": [
-          "funny",
-          "loc",
-          "vlog",
-          "tik tok",
-          "troll",
-          "mrloc"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "vận động viên đua xe đạp này thật thông minh",
-          "description": "Thanks for Watching, If You Are Interested In The Video, Please Subscribe And Like\n\n💟 TikTok : https://www.tiktok.com/@mrloctv\n\n💟 Discord : https://discord.gg/GHVdjJN\n\n💟 Fanpage : https://FB.com/mrloc1010"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "569719",
-        "likeCount": "2840",
-        "favoriteCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_Xvr9Haj7j4rsb7OdAm7iG1f1M0",
+      "etag": "fA-djkt4DP1JwyZYoAhEdtTLIZI",
       "id": "FHyTcHFTfus",
       "snippet": {
         "publishedAt": "2026-07-27T12:27:32Z",
@@ -1559,15 +1974,200 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3553423",
-        "likeCount": "27542",
+        "viewCount": "3687805",
+        "likeCount": "28732",
         "favoriteCount": "0",
-        "commentCount": "160"
+        "commentCount": "163"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "n5MxhF7FKypLg5sHm6ubodmsDq8",
+      "etag": "yRXnC9ZEMFecAIsxUwEVlxH75Go",
+      "id": "-PmjavhjMq0",
+      "snippet": {
+        "publishedAt": "2026-08-09T09:49:08Z",
+        "channelId": "UC7Bz2t4HHgNj1DYvmEhyOtg",
+        "title": "Mẹo sửa xe bị móp này có thực sự hiệu quả 🤨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-PmjavhjMq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-PmjavhjMq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PmjavhjMq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-PmjavhjMq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-PmjavhjMq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TẠP HOÁ KỲ THÚ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Mẹo sửa xe bị móp này có thực sự hiệu quả 🤨",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "110799",
+        "likeCount": "2133",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uG6SSHtOcrexGGG_SBZcXZiw8QI",
+      "id": "ZnBkfxby13s",
+      "snippet": {
+        "publishedAt": "2026-08-04T11:15:34Z",
+        "channelId": "UCKrbkuPmY3g4g4_TM2ye3eQ",
+        "title": "Khám Phá Xe Đạp Ba Bánh Khổng Lồ Cực Độc Lạ Của Bố",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Miêu La Cà",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Khám Phá Xe Đạp Ba Bánh Khổng Lồ Cực Độc Lạ Của Bố",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "752602",
+        "likeCount": "5568",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zyUA_9b1z4Gqn0ySeFIBRIvIMrE",
+      "id": "0pvrKRq5H5E",
+      "snippet": {
+        "publishedAt": "2026-08-08T09:56:33Z",
+        "channelId": "UCVxGudjvaHXM72Ftqw0B4yQ",
+        "title": "Người tài xe vô ý thức khiến 2 mẹ con cũng phải bất lực 😩",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pvrKRq5H5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pvrKRq5H5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pvrKRq5H5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0pvrKRq5H5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0pvrKRq5H5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mạnh Mới Mẻ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Người tài xe vô ý thức khiến 2 mẹ con cũng phải bất lực 😩",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "268585",
+        "likeCount": "1967",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "heatuVUIETDDlgWELWGyv-LbjQs",
       "id": "oSUCyqt0U00",
       "snippet": {
         "publishedAt": "2026-07-28T12:16:05Z",
@@ -1621,15 +2221,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4178064",
-        "likeCount": "73015",
+        "viewCount": "4302916",
+        "likeCount": "74164",
         "favoriteCount": "0",
-        "commentCount": "163"
+        "commentCount": "166"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OT4rVskAb4Lt4vLLd4hToKLiTA0",
+      "etag": "RT4l4knQ4hXfkXHkgzNM0T1QcCU",
       "id": "m6zrLxaZD24",
       "snippet": {
         "publishedAt": "2026-08-03T02:30:26Z",
@@ -1683,366 +2283,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "764904",
-        "likeCount": "6130",
+        "viewCount": "788133",
+        "likeCount": "6320",
         "favoriteCount": "0",
         "commentCount": "94"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "M3NQk_yMOtuNXocDrb-wweexhRM",
-      "id": "xtF0r-EJ56w",
-      "snippet": {
-        "publishedAt": "2026-08-06T09:15:33Z",
-        "channelId": "UCUWmsXMysGTu1mwjaHNs0bw",
-        "title": "Cô Em Hoảng Hốt Khi Thấy Chị Gái Ngủ Gật Lái Xe... Và Cái Kết Hài! 😂🚗",
-        "description": "Thấy chị gái vừa lái xe vừa ngủ gật, cô em sợ đến mức hét toáng lên. Nhưng sự thật phía sau lại khiến cả hai và mọi người cười nghiêng ngả. Xem hết video để đón xem cái kết nhé!\n#BeRongTV\n#ChiGai\n#NguGat\n#LaiXe\n#HaiHuoc\n#Funny\n#TinhHuongHai\n#BatNgo\n#Shorts\n#VideoHay\n#Trending",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xtF0r-EJ56w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BéRồngTV",
-        "tags": [
-          "BeRongTV",
-          "ShortsHai",
-          "HaiHuoc",
-          "TrollHai",
-          "VideoHai",
-          "HaiNgan",
-          "ShortsVui",
-          "CuoiXaStress",
-          "HaiMoiNgay",
-          "GiaiTriShorts",
-          "GiaiTri",
-          "ChiGai",
-          "NguGat",
-          "LaiXe",
-          "Funny",
-          "TinhHuongHai",
-          "BatNgo",
-          "Shorts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Cô Em Hoảng Hốt Khi Thấy Chị Gái Ngủ Gật Lái Xe... Và Cái Kết Hài! 😂🚗",
-          "description": "Thấy chị gái vừa lái xe vừa ngủ gật, cô em sợ đến mức hét toáng lên. Nhưng sự thật phía sau lại khiến cả hai và mọi người cười nghiêng ngả. Xem hết video để đón xem cái kết nhé!\n#BeRongTV\n#ChiGai\n#NguGat\n#LaiXe\n#HaiHuoc\n#Funny\n#TinhHuongHai\n#BatNgo\n#Shorts\n#VideoHay\n#Trending"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "321270",
-        "likeCount": "2516",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MDcVistfljQnjm5VaM-pMmsnNtw",
-      "id": "ZnBkfxby13s",
-      "snippet": {
-        "publishedAt": "2026-08-04T11:15:34Z",
-        "channelId": "UCKrbkuPmY3g4g4_TM2ye3eQ",
-        "title": "Khám Phá Xe Đạp Ba Bánh Khổng Lồ Cực Độc Lạ Của Bố",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZnBkfxby13s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Miêu La Cà",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Khám Phá Xe Đạp Ba Bánh Khổng Lồ Cực Độc Lạ Của Bố",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT30S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "637256",
-        "likeCount": "4779",
-        "favoriteCount": "0",
-        "commentCount": "9"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mdVNhYsKmumoZaBOMh3e3CSqQmE",
-      "id": "BiN0gsEgSTU",
-      "snippet": {
-        "publishedAt": "2026-08-08T01:00:06Z",
-        "channelId": "UCcTIJ9_76fXBfmlx2GDicAQ",
-        "title": "Chiếc xe đạp bị rơi ra một bánh 😂@Eryka.oficial.19",
-        "description": "Credit: @Respected owner",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BiN0gsEgSTU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kẻ Gáo ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Chiếc xe đạp bị rơi ra một bánh 😂@Eryka.oficial.19",
-          "description": "Credit: @Respected owner"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "178422",
-        "likeCount": "1473",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tqlKXgTEIedWarTfhxfdlp-tNV4",
-      "id": "7CWW0u1Uoq0",
-      "snippet": {
-        "publishedAt": "2026-08-01T12:30:17Z",
-        "channelId": "UCQswRbNF9JEjwbnHOj85HAA",
-        "title": "Nhóm Biker Sốc Khi Ninja H2R Làm Điều Này Trước Mặt Họ 🔥",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7CWW0u1Uoq0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7CWW0u1Uoq0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7CWW0u1Uoq0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7CWW0u1Uoq0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7CWW0u1Uoq0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Long1000RR",
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Nhóm Biker Sốc Khi Ninja H2R Làm Điều Này Trước Mặt Họ 🔥",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1095964",
-        "favoriteCount": "0",
-        "commentCount": "130"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "zq4FQyic9mJ7tMzTF3G5VAZv4fI",
-      "id": "aspLgHRzXu4",
-      "snippet": {
-        "publishedAt": "2026-08-05T03:45:01Z",
-        "channelId": "UCO2vmtR9bbANW7BO4z0IDBQ",
-        "title": "Nữ Biker Sống Ảo Trong Đường Hầm Và Cái Kết",
-        "description": "Nữ Biker Sống Ảo Trong Đường Hầm và Cái Kết\nThis female biker thought she found the perfect spot for a photo shoot in the tunnel with her BMW S1000RR. But things took an unexpected turn when the police noticed them. See what happens when \"living for the gram\" meets a surprise inspection!\nvia: @lunaxrides\n\nThe79 Story không chỉ kể chuyện, mà còn mang đến cho bạn một góc nhìn mới mẻ và những giây phút giải trí đầy ý nghĩa.\n👉 Đừng quên Đăng ký kênh để không bỏ lỡ những câu chuyện thú vị tiếp theo vào mỗi ngày!\n\nTAG: #the79story #suthatthuvi #tịnhuongbatngo #bikerlife #bikergirl #motovlog #shorts #ynghia #cauchuyenmoingay #TrafficPolice #viral #facts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aspLgHRzXu4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aspLgHRzXu4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aspLgHRzXu4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aspLgHRzXu4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aspLgHRzXu4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "The79 Story",
-        "tags": [
-          "Female Biker",
-          "BMW S1000RR",
-          "Superbike",
-          "Girl on Bike",
-          "Motorcycle Lifestyle",
-          "Tunnel Photoshoot",
-          "Police Encounter",
-          "Unexpected Ending",
-          "Biker Life",
-          "Motorbike Fail",
-          "Sportbike",
-          "Lady Rider",
-          "Street Photography",
-          "Funny Biker Moments",
-          "Traffic Police",
-          "Moto Girl",
-          "Ride or Die",
-          "Viral Video",
-          "Motorcycle Community",
-          "the 79 story"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Nữ Biker Sống Ảo Trong Đường Hầm Và Cái Kết",
-          "description": "Nữ Biker Sống Ảo Trong Đường Hầm và Cái Kết\nThis female biker thought she found the perfect spot for a photo shoot in the tunnel with her BMW S1000RR. But things took an unexpected turn when the police noticed them. See what happens when \"living for the gram\" meets a surprise inspection!\nvia: @lunaxrides\n\nThe79 Story không chỉ kể chuyện, mà còn mang đến cho bạn một góc nhìn mới mẻ và những giây phút giải trí đầy ý nghĩa.\n👉 Đừng quên Đăng ký kênh để không bỏ lỡ những câu chuyện thú vị tiếp theo vào mỗi ngày!\n\nTAG: #the79story #suthatthuvi #tịnhuongbatngo #bikerlife #bikergirl #motovlog #shorts #ynghia #cauchuyenmoingay #TrafficPolice #viral #facts"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "606673",
-        "likeCount": "14641",
-        "favoriteCount": "0",
-        "commentCount": "89"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "kyabUkhtm2CYHw3ZyuvXS-FvaUY",
+      "etag": "7s6FBtCoopRbYof7Xl4Kuqsc89U",
       "id": "E59RPiCMgiw",
       "snippet": {
         "publishedAt": "2026-08-05T10:41:10Z",
@@ -2096,126 +2345,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "694860",
-        "likeCount": "4498",
+        "viewCount": "872462",
+        "likeCount": "5314",
         "favoriteCount": "0",
-        "commentCount": "66"
+        "commentCount": "73"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "189GYWt4pgOgYWFkRHu8k4KZ9DE",
-      "id": "NGUSRvNj234",
+      "etag": "wF74dYZO7bAjoqsC3vXpVhgJ4-g",
+      "id": "15ldFKdVvas",
       "snippet": {
-        "publishedAt": "2026-07-30T11:52:19Z",
-        "channelId": "UCZHIL22tcCDsEBOwW16szAg",
-        "title": "Có xe mới phải khoe/kykydaily #shortvideo",
-        "description": "",
+        "publishedAt": "2026-08-08T11:31:26Z",
+        "channelId": "UCQswRbNF9JEjwbnHOj85HAA",
+        "title": "Đây Là Lần Đầu Biker Này Tập Bốc Đầu 😳",
+        "description": "DISCLAIMER: HÀNH ĐỘNG DO CHUYÊN GIA THỰC HIỆN, XIN ĐỪNG THỬ LẶP LẠI.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NGUSRvNj234/default.jpg",
+            "url": "https://i.ytimg.com/vi/15ldFKdVvas/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NGUSRvNj234/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/15ldFKdVvas/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NGUSRvNj234/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/15ldFKdVvas/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/NGUSRvNj234/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/15ldFKdVvas/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/NGUSRvNj234/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/15ldFKdVvas/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Kỳ Kỳ daily",
-        "categoryId": "22",
+        "channelTitle": "Long1000RR",
+        "categoryId": "2",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Có xe mới phải khoe/kykydaily #shortvideo",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1557660",
-        "likeCount": "19460",
-        "favoriteCount": "0",
-        "commentCount": "110"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "o53_Fw_8I51At3drS_XVq5uz28A",
-      "id": "Nq7RBHPRGEQ",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:56:44Z",
-        "channelId": "UCb0dBPaHfDBW9S3YeEWrZ8A",
-        "title": "Khi Bạn Cao 6 Fit Và Lái Xe Lamborghini",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Nq7RBHPRGEQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phức Tạp Phết",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Khi Bạn Cao 6 Fit Và Lái Xe Lamborghini",
-          "description": ""
+          "title": "Đây Là Lần Đầu Biker Này Tập Bốc Đầu 😳",
+          "description": "DISCLAIMER: HÀNH ĐỘNG DO CHUYÊN GIA THỰC HIỆN, XIN ĐỪNG THỬ LẶP LẠI."
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT29S",
+        "duration": "PT32S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2224,60 +2407,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "382680",
-        "likeCount": "8023",
+        "viewCount": "265291",
         "favoriteCount": "0",
-        "commentCount": "19"
+        "commentCount": "35"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "cLKLtLnBdDk2aWV8edcuzpRGmV8",
-      "id": "g6dH4LsQ3dQ",
+      "etag": "08EhwSmLaXnm-koKyX6MRCYltdE",
+      "id": "zmm-u98Ak1U",
       "snippet": {
-        "publishedAt": "2026-08-01T09:20:46Z",
-        "channelId": "UCJfw_zfb_1_f5KlntXiuMzQ",
-        "title": "Bố mẹ chắt chiu mua xe cho con đi học, con lại dùng để làm điều này - Xem xong chỉ biết lắc đầu",
-        "description": "Một màn đốt lốp chỉ kéo dài vài giây nhưng có thể khiến lốp, phanh và nhiều bộ phận của xe bị hao mòn nhanh hơn bình thường. Không chỉ vậy, việc thực hiện trên đường còn có nguy cơ ảnh hưởng đến an toàn giao thông.\n\nChiếc xe không đơn thuần là phương tiện đi lại, mà với nhiều gia đình còn là thành quả của sự tiết kiệm và cố gắng trong thời gian dài.\n\nVideo mang tính chia sẻ và giáo dục, mong mọi người sử dụng phương tiện một cách an toàn và có trách nhiệm.",
+        "publishedAt": "2026-08-08T10:00:32Z",
+        "channelId": "UCW96UNel8c4LgX9a56U_lFg",
+        "title": "Hóa Ra Phanh Xe F1 Không Hề Đơn Giản",
+        "description": "Phanh xe F1 khác xe thường ở chỗ nó cực kỳ mạnh và được thiết kế để giảm tốc ở tốc độ rất cao. Xe sử dụng phanh carbon, lốp có độ bám lớn cùng lực ép khí động học, giúp tay đua có thể phanh với lực rất mạnh, thậm chí chịu gia tốc khoảng 4–5G. Vì vậy, điều khó không phải là phanh yếu, mà là kiểm soát lực phanh khổng lồ ở tốc độ cao.\n \n#shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/zmm-u98Ak1U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zmm-u98Ak1U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zmm-u98Ak1U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zmm-u98Ak1U/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zmm-u98Ak1U/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Thời Sự 247",
-        "categoryId": "22",
+        "channelTitle": "Cưng Quá Xá",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Bố mẹ chắt chiu mua xe cho con đi học, con lại dùng để làm điều này - Xem xong chỉ biết lắc đầu",
-          "description": "Một màn đốt lốp chỉ kéo dài vài giây nhưng có thể khiến lốp, phanh và nhiều bộ phận của xe bị hao mòn nhanh hơn bình thường. Không chỉ vậy, việc thực hiện trên đường còn có nguy cơ ảnh hưởng đến an toàn giao thông.\n\nChiếc xe không đơn thuần là phương tiện đi lại, mà với nhiều gia đình còn là thành quả của sự tiết kiệm và cố gắng trong thời gian dài.\n\nVideo mang tính chia sẻ và giáo dục, mong mọi người sử dụng phương tiện một cách an toàn và có trách nhiệm."
+          "title": "Hóa Ra Phanh Xe F1 Không Hề Đơn Giản",
+          "description": "Phanh xe F1 khác xe thường ở chỗ nó cực kỳ mạnh và được thiết kế để giảm tốc ở tốc độ rất cao. Xe sử dụng phanh carbon, lốp có độ bám lớn cùng lực ép khí động học, giúp tay đua có thể phanh với lực rất mạnh, thậm chí chịu gia tốc khoảng 4–5G. Vì vậy, điều khó không phải là phanh yếu, mà là kiểm soát lực phanh khổng lồ ở tốc độ cao.\n \n#shorts"
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT20S",
+        "duration": "PT16S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2286,77 +2468,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "847287",
-        "likeCount": "5821",
+        "viewCount": "307220",
+        "likeCount": "2652",
         "favoriteCount": "0",
-        "commentCount": "56"
+        "commentCount": "36"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xGmHnJkVt0HAG-jvJWOXiQiBei8",
-      "id": "pcYsPTMDkPM",
+      "etag": "YCYsxZiLc259ipTbhh6_a64ZeN8",
+      "id": "oM2LaCi8Kps",
       "snippet": {
-        "publishedAt": "2026-08-07T10:10:23Z",
-        "channelId": "UCKPyXfxnEPzrcgQGu8daEAg",
-        "title": "Dàn siêu xe Đồ Ăn Vặt chạy ngoài đường cực lạ mắt!",
-        "description": "",
+        "publishedAt": "2026-08-04T09:12:15Z",
+        "channelId": "UCXDtaF7cAbNkjCYpq6Nlziw",
+        "title": "Những ngày làm việc tồi tệ nhất của thợ máy🔧",
+        "description": "Đây là những gì xảy ra khi các thợ máy trải qua ngày tồi tệ nhất trong cuộc đời. Ở vị trí số 3, chắc hẳn hôm đó anh ấy chẳng còn muốn đụng đến công việc nữa. Ở vị trí số 2, khi một công việc chỉ mất vài giờ bỗng biến thành công việc kéo dài 20 giờ. Còn ở vị trí số 1, theo bạn, sau chuyện này mọi thứ có diễn ra suôn sẻ không?\n#na #shorts #mechanic #cars #garage",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pcYsPTMDkPM/default.jpg",
+            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pcYsPTMDkPM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pcYsPTMDkPM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pcYsPTMDkPM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pcYsPTMDkPM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Hà Ngọc",
-        "categoryId": "22",
+        "channelTitle": "Góc Phim Xịn",
+        "categoryId": "27",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Dàn siêu xe Đồ Ăn Vặt chạy ngoài đường cực lạ mắt!",
-          "description": ""
+          "title": "Những ngày làm việc tồi tệ nhất của thợ máy🔧",
+          "description": "Đây là những gì xảy ra khi các thợ máy trải qua ngày tồi tệ nhất trong cuộc đời. Ở vị trí số 3, chắc hẳn hôm đó anh ấy chẳng còn muốn đụng đến công việc nữa. Ở vị trí số 2, khi một công việc chỉ mất vài giờ bỗng biến thành công việc kéo dài 20 giờ. Còn ở vị trí số 1, theo bạn, sau chuyện này mọi thứ có diễn ra suôn sẻ không?\n#na #shorts #mechanic #cars #garage"
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT11S",
+        "duration": "PT23S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "208806",
-        "likeCount": "2036",
+        "viewCount": "600620",
+        "likeCount": "7459",
         "favoriteCount": "0",
-        "commentCount": "5"
+        "commentCount": "50"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xUmL4iwPpptQpJXhqEJlz6byjXQ",
+      "etag": "HJhBBEkagx15apbvWOHsrkbrzT0",
+      "id": "ENU8vBa-R7s",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:00:04Z",
+        "channelId": "UChU_V4VlT9NF2X4yzE4uXxQ",
+        "title": "ANH ZAI MAY MẮN GẶP ĐƯỢC TÔI ĐI XE GẦM CAO KHÔNG BỊ CHẾT MÁY TRÊN CON ĐƯỜNG NGẬP LŨ.",
+        "description": "#car #cleaning #funny #trollxe #xedepgiatot #ruaxehoicaocap #xedap  #doxe #carshow #jdm #cleancar #cleaning #pov #relaxing #stressfree #chanllenge #dusty #biker #motor #motorcycle #ngapnuoc #audi #mercedes #typhoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENU8vBa-R7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENU8vBa-R7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENU8vBa-R7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ENU8vBa-R7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ENU8vBa-R7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mê Xe Khó Bỏ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "ANH ZAI MAY MẮN GẶP ĐƯỢC TÔI ĐI XE GẦM CAO KHÔNG BỊ CHẾT MÁY TRÊN CON ĐƯỜNG NGẬP LŨ.",
+          "description": "#car #cleaning #funny #trollxe #xedepgiatot #ruaxehoicaocap #xedap  #doxe #carshow #jdm #cleancar #cleaning #pov #relaxing #stressfree #chanllenge #dusty #biker #motor #motorcycle #ngapnuoc #audi #mercedes #typhoon"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "397248",
+        "likeCount": "3229",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wKjc-Ktu93rHKqooY4o9kVfr_uc",
       "id": "7vvpep-FvFQ",
       "snippet": {
         "publishedAt": "2026-08-04T23:00:18Z",
@@ -2427,15 +2671,81 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "412301",
-        "likeCount": "6549",
+        "viewCount": "472782",
+        "likeCount": "7277",
         "favoriteCount": "0",
-        "commentCount": "355"
+        "commentCount": "374"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "pmxcqIy-MoHiqsVSkQnQXXxTj10",
+      "etag": "Lvn6lVMDF-aKCEgr3uE8yu_kjJM",
+      "id": "NGUSRvNj234",
+      "snippet": {
+        "publishedAt": "2026-07-30T11:52:19Z",
+        "channelId": "UCZHIL22tcCDsEBOwW16szAg",
+        "title": "Có xe mới phải khoe/kykydaily #shortvideo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NGUSRvNj234/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGUSRvNj234/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NGUSRvNj234/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NGUSRvNj234/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NGUSRvNj234/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kỳ Kỳ daily",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Có xe mới phải khoe/kykydaily #shortvideo",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1630402",
+        "likeCount": "20113",
+        "favoriteCount": "0",
+        "commentCount": "116"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "to40_Rj0pV2zvKt-x-tKrj-5AJc",
       "id": "V49lu86WxcY",
       "snippet": {
         "publishedAt": "2026-08-05T10:25:35Z",
@@ -2489,15 +2799,261 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "299574",
-        "likeCount": "2703",
+        "viewCount": "342450",
+        "likeCount": "3170",
         "favoriteCount": "0",
         "commentCount": "1"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "c5hBP_X3NLGm5wTl8gR26DHcHqI",
+      "etag": "NMTfhTuUVvssaM5Bx3z-UjBvXos",
+      "id": "YHTFHP4JcVo",
+      "snippet": {
+        "publishedAt": "2026-08-03T13:30:37Z",
+        "channelId": "UCLyXXHKj1_34hLYVBcRDMdw",
+        "title": "#edit",
+        "description": "#usa\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a No\n\nNo problem!\n\nThe Mercedes CLR GTR is a remarkable racing car\n\ncelebrated for its\n\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\n\nengine, it delivers over 600 horsepower.\n\nX\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\n\nremarkable top speed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\n\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control,\n\nparticularly during high-speed maneuvers.\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\n\nof the most exclusive and prestigious racing cars ever produced. s\n\nIts limited production run of just five units adds to its rarity, making it highly\n\nsought after by racing enthusiasts and collectors worldwide.\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\nby Krishn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nivolix Shorts",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#edit",
+          "description": "#usa\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a No\n\nNo problem!\n\nThe Mercedes CLR GTR is a remarkable racing car\n\ncelebrated for its\n\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\n\nengine, it delivers over 600 horsepower.\n\nX\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\n\nremarkable top speed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\n\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control,\n\nparticularly during high-speed maneuvers.\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\n\nof the most exclusive and prestigious racing cars ever produced. s\n\nIts limited production run of just five units adds to its rarity, making it highly\n\nsought after by racing enthusiasts and collectors worldwide.\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\nby Krishn"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5335617",
+        "likeCount": "51584",
+        "favoriteCount": "0",
+        "commentCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JFfs2k30IX9xi1jUux0h_RIb9nM",
+      "id": "VhXrzDHqhdk",
+      "snippet": {
+        "publishedAt": "2026-08-08T23:40:32Z",
+        "channelId": "UC1ucG1qFUa5-Dw9gctndcBQ",
+        "title": "Giám đốc nông dân 12  - Chiếc xe máy cũ #amnhacvacontim #utlien #trietlysong #viral",
+        "description": "Giám đốc nông dân 12  - Chiếc xe máy cũ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VhXrzDHqhdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VhXrzDHqhdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VhXrzDHqhdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VhXrzDHqhdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VhXrzDHqhdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Âm nhạc và con tim",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Giám đốc nông dân 12  - Chiếc xe máy cũ #amnhacvacontim #utlien #trietlysong #viral",
+          "description": "Giám đốc nông dân 12  - Chiếc xe máy cũ"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "144484",
+        "likeCount": "2567",
+        "favoriteCount": "0",
+        "commentCount": "32"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vc5pzMfhDwytfgR-zau248Lt9pc",
+      "id": "g6dH4LsQ3dQ",
+      "snippet": {
+        "publishedAt": "2026-08-01T09:20:46Z",
+        "channelId": "UCJfw_zfb_1_f5KlntXiuMzQ",
+        "title": "Bố mẹ chắt chiu mua xe cho con đi học, con lại dùng để làm điều này - Xem xong chỉ biết lắc đầu",
+        "description": "Một màn đốt lốp chỉ kéo dài vài giây nhưng có thể khiến lốp, phanh và nhiều bộ phận của xe bị hao mòn nhanh hơn bình thường. Không chỉ vậy, việc thực hiện trên đường còn có nguy cơ ảnh hưởng đến an toàn giao thông.\n\nChiếc xe không đơn thuần là phương tiện đi lại, mà với nhiều gia đình còn là thành quả của sự tiết kiệm và cố gắng trong thời gian dài.\n\nVideo mang tính chia sẻ và giáo dục, mong mọi người sử dụng phương tiện một cách an toàn và có trách nhiệm.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g6dH4LsQ3dQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thời Sự 247",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Bố mẹ chắt chiu mua xe cho con đi học, con lại dùng để làm điều này - Xem xong chỉ biết lắc đầu",
+          "description": "Một màn đốt lốp chỉ kéo dài vài giây nhưng có thể khiến lốp, phanh và nhiều bộ phận của xe bị hao mòn nhanh hơn bình thường. Không chỉ vậy, việc thực hiện trên đường còn có nguy cơ ảnh hưởng đến an toàn giao thông.\n\nChiếc xe không đơn thuần là phương tiện đi lại, mà với nhiều gia đình còn là thành quả của sự tiết kiệm và cố gắng trong thời gian dài.\n\nVideo mang tính chia sẻ và giáo dục, mong mọi người sử dụng phương tiện một cách an toàn và có trách nhiệm."
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "878735",
+        "likeCount": "6109",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tf_xP0cvjn0yzeeohjRrpKddZRc",
+      "id": "atdhQrXl0ow",
+      "snippet": {
+        "publishedAt": "2026-08-03T11:00:20Z",
+        "channelId": "UCcVdhWEw9LjDPRAKNyczfwg",
+        "title": "Thử Thách Chạy Qua Hai Chiếc Container Đối Đầu #crash #crashlabvn #beamngdrive",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crash Lab VN",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Thử Thách Chạy Qua Hai Chiếc Container Đối Đầu #crash #crashlabvn #beamngdrive",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "711224",
+        "likeCount": "6709",
+        "favoriteCount": "0",
+        "commentCount": "56"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iqfe-8LAp6M43fgqcSyrO4pYHK4",
       "id": "aMr7pVS3YEo",
       "snippet": {
         "publishedAt": "2026-08-04T04:00:05Z",
@@ -2560,261 +3116,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "449256",
-        "likeCount": "3047",
+        "viewCount": "483939",
+        "likeCount": "3239",
         "favoriteCount": "0",
         "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "MK-AZvpmf26oQggZRHAq1D1qf_A",
-      "id": "ipVsGZFPej4",
-      "snippet": {
-        "publishedAt": "2026-08-01T04:00:16Z",
-        "channelId": "UCEJ4szvAe6ugmfjsbDVCNNg",
-        "title": "Xe Càng Cao Cô Ấy Càng Thích #shorts",
-        "description": "Xe Càng Cao Cô Ấy Càng Thích #shorts \n\nCredit to @vaga_adrenalin\n\n© All images in this video are for illustrative purposes only. The main content lies in the narration and analysis, which are intended for educational and informational purposes. This video may contain copyrighted material used under the principles of Fair Use (Section 107 of the U.S. Copyright Act) for purposes such as education, commentary, and research. If you have any questions or concerns regarding the video, please contact: thuannv2k17@gmail.com\nI will respond and cooperate in a constructive manner. Thank you!\n\n© Mọi hình ảnh trong video chỉ mang tính minh họa. Nội dung chính của video nằm ở phần lời thoại và phân tích, với mục đích giáo dục và cung cấp kiến thức. Video có thể bao gồm một số tư liệu thuộc bản quyền và được sử dụng theo nguyên tắc “Sử dụng hợp lý – Fair Use” (Khoản 107, Đạo luật Bản quyền Hoa Kỳ) cho các mục đích như giáo dục, bình luận và nghiên cứu.\nNếu bạn có bất kỳ câu hỏi hoặc vấn đề nào liên quan đến video, vui lòng liên hệ: thuannv2k17@gmail.com\nMình sẽ phản hồi và hợp tác trên tinh thần xây dựng. Xin cảm ơn!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Cười và Biết",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Xe Càng Cao Cô Ấy Càng Thích #shorts",
-          "description": "Xe Càng Cao Cô Ấy Càng Thích #shorts \n\nCredit to @vaga_adrenalin\n\n© All images in this video are for illustrative purposes only. The main content lies in the narration and analysis, which are intended for educational and informational purposes. This video may contain copyrighted material used under the principles of Fair Use (Section 107 of the U.S. Copyright Act) for purposes such as education, commentary, and research. If you have any questions or concerns regarding the video, please contact: thuannv2k17@gmail.com\nI will respond and cooperate in a constructive manner. Thank you!\n\n© Mọi hình ảnh trong video chỉ mang tính minh họa. Nội dung chính của video nằm ở phần lời thoại và phân tích, với mục đích giáo dục và cung cấp kiến thức. Video có thể bao gồm một số tư liệu thuộc bản quyền và được sử dụng theo nguyên tắc “Sử dụng hợp lý – Fair Use” (Khoản 107, Đạo luật Bản quyền Hoa Kỳ) cho các mục đích như giáo dục, bình luận và nghiên cứu.\nNếu bạn có bất kỳ câu hỏi hoặc vấn đề nào liên quan đến video, vui lòng liên hệ: thuannv2k17@gmail.com\nMình sẽ phản hồi và hợp tác trên tinh thần xây dựng. Xin cảm ơn!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "976866",
-        "likeCount": "6636",
-        "favoriteCount": "0",
-        "commentCount": "19"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wXhponQ-kRbJ7zRVPA-12ivdtCk",
-      "id": "eJ6XR2NeU10",
-      "snippet": {
-        "publishedAt": "2026-08-05T04:28:47Z",
-        "channelId": "UCJ-C5HDP2HH57wyDeJJ3p3w",
-        "title": "Hóa ra là vậy #oto #traodoioto #automobile #muabanoto",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eJ6XR2NeU10/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eJ6XR2NeU10/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eJ6XR2NeU10/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eJ6XR2NeU10/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eJ6XR2NeU10/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Lão Hạc Mê Xe",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Hóa ra là vậy #oto #traodoioto #automobile #muabanoto",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "387144",
-        "likeCount": "4616",
-        "favoriteCount": "0",
-        "commentCount": "15"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "xyelM9CaXzrl84MtfuuTEuXaQiI",
-      "id": "atdhQrXl0ow",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:00:20Z",
-        "channelId": "UCcVdhWEw9LjDPRAKNyczfwg",
-        "title": "Thử Thách Chạy Qua Hai Chiếc Container Đối Đầu #crash #crashlabvn #beamngdrive",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/atdhQrXl0ow/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Crash Lab VN",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Thử Thách Chạy Qua Hai Chiếc Container Đối Đầu #crash #crashlabvn #beamngdrive",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "623524",
-        "likeCount": "5987",
-        "favoriteCount": "0",
-        "commentCount": "55"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Nq6z-J2yPCwNawLIGkwZHMmb0K0",
-      "id": "erjt4WQX6Ls",
-      "snippet": {
-        "publishedAt": "2026-08-03T03:30:32Z",
-        "channelId": "UCWPQRI8-GyrID9T7Eex0RrA",
-        "title": "Chiếc Xe Có Thể Bị Biến Mất Không? 🧐 | Giải Phẫu Công Nghệ",
-        "description": "► Chào mừng bạn đến với Giải Phẫu Công Nghệ!\n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n► Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Giải Phẫu Công Nghệ ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Chiếc Xe Có Thể Bị Biến Mất Không? 🧐 | Giải Phẫu Công Nghệ",
-          "description": "► Chào mừng bạn đến với Giải Phẫu Công Nghệ!\n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n► Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner."
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT1M7S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "838005",
-        "likeCount": "7337",
-        "favoriteCount": "0",
-        "commentCount": "85"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "dc7kkPp3aYMiB3eAF_uO5fhkMks",
+      "etag": "CXubAqiLFYd0UIu8ds5Z7cz4DEU",
       "id": "zKRXXvt-m7k",
       "snippet": {
         "publishedAt": "2026-08-07T11:30:01Z",
@@ -2874,323 +3184,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "202010",
-        "likeCount": "1894",
+        "viewCount": "259467",
+        "likeCount": "2250",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0GT0bSCzHR2Jkwk44bpOz9bgbJw",
-      "id": "YHTFHP4JcVo",
-      "snippet": {
-        "publishedAt": "2026-08-03T13:30:37Z",
-        "channelId": "UCLyXXHKj1_34hLYVBcRDMdw",
-        "title": "#edit",
-        "description": "#usa\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a No\n\nNo problem!\n\nThe Mercedes CLR GTR is a remarkable racing car\n\ncelebrated for its\n\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\n\nengine, it delivers over 600 horsepower.\n\nX\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\n\nremarkable top speed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\n\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control,\n\nparticularly during high-speed maneuvers.\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\n\nof the most exclusive and prestigious racing cars ever produced. s\n\nIts limited production run of just five units adds to its rarity, making it highly\n\nsought after by racing enthusiasts and collectors worldwide.\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\nby Krishn",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/YHTFHP4JcVo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Nivolix Shorts",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "#edit",
-          "description": "#usa\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a No\n\nNo problem!\n\nThe Mercedes CLR GTR is a remarkable racing car\n\ncelebrated for its\n\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\n\nengine, it delivers over 600 horsepower.\n\nX\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\n\nremarkable top speed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\n\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control,\n\nparticularly during high-speed maneuvers.\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\n\nof the most exclusive and prestigious racing cars ever produced. s\n\nIts limited production run of just five units adds to its rarity, making it highly\n\nsought after by racing enthusiasts and collectors worldwide.\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\nby Krishn"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4482960",
-        "likeCount": "44632",
-        "favoriteCount": "0",
-        "commentCount": "98"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MqTDS6ZWcGLsHXNHgU1jc94RhmQ",
-      "id": "oM2LaCi8Kps",
-      "snippet": {
-        "publishedAt": "2026-08-04T09:12:15Z",
-        "channelId": "UCXDtaF7cAbNkjCYpq6Nlziw",
-        "title": "Những ngày làm việc tồi tệ nhất của thợ máy🔧",
-        "description": "Đây là những gì xảy ra khi các thợ máy trải qua ngày tồi tệ nhất trong cuộc đời. Ở vị trí số 3, chắc hẳn hôm đó anh ấy chẳng còn muốn đụng đến công việc nữa. Ở vị trí số 2, khi một công việc chỉ mất vài giờ bỗng biến thành công việc kéo dài 20 giờ. Còn ở vị trí số 1, theo bạn, sau chuyện này mọi thứ có diễn ra suôn sẻ không?\n#na #shorts #mechanic #cars #garage",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oM2LaCi8Kps/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Góc Phim Xịn",
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Những ngày làm việc tồi tệ nhất của thợ máy🔧",
-          "description": "Đây là những gì xảy ra khi các thợ máy trải qua ngày tồi tệ nhất trong cuộc đời. Ở vị trí số 3, chắc hẳn hôm đó anh ấy chẳng còn muốn đụng đến công việc nữa. Ở vị trí số 2, khi một công việc chỉ mất vài giờ bỗng biến thành công việc kéo dài 20 giờ. Còn ở vị trí số 1, theo bạn, sau chuyện này mọi thứ có diễn ra suôn sẻ không?\n#na #shorts #mechanic #cars #garage"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "406806",
-        "likeCount": "4761",
-        "favoriteCount": "0",
-        "commentCount": "33"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "KuPdyDCNTXdqIn4jhrXM2BLTDvI",
-      "id": "u6EdXYQsDgw",
-      "snippet": {
-        "publishedAt": "2026-08-07T07:55:14Z",
-        "channelId": "UCJtDy9AyrDHmFGlKLHez2dw",
-        "title": "Truy tìm mảnh sắt bí ẩn khiến hàng trăm xe nổ lốp la liệt trên cao tốc Bắc Nam",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/u6EdXYQsDgw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/u6EdXYQsDgw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/u6EdXYQsDgw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/u6EdXYQsDgw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/u6EdXYQsDgw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Auto5VN",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Truy tìm mảnh sắt bí ẩn khiến hàng trăm xe nổ lốp la liệt trên cao tốc Bắc Nam",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT1M7S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "153246",
-        "likeCount": "2105",
-        "favoriteCount": "0",
-        "commentCount": "106"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "bGOXQe0ItYvO0AZPA_fo3-aNX0I",
-      "id": "ya0ofIwqh6U",
-      "snippet": {
-        "publishedAt": "2026-07-29T10:15:05Z",
-        "channelId": "UCNVcbcrOg2vrIhbjRQN72_A",
-        "title": "Chỗ ngồi tưởng tượng vs thực tế khi đi xe với bố",
-        "description": "Video diễn xuất nhằm mục đích giải trí, đồ vật trong video chỉ là đạo cụ biểu diễn.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ya0ofIwqh6U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ya0ofIwqh6U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ya0ofIwqh6U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ya0ofIwqh6U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ya0ofIwqh6U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phúc Capy",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Chỗ ngồi tưởng tượng vs thực tế khi đi xe với bố",
-          "description": "Video diễn xuất nhằm mục đích giải trí, đồ vật trong video chỉ là đạo cụ biểu diễn."
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1368139",
-        "likeCount": "10226",
-        "favoriteCount": "0",
-        "commentCount": "28"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "KzH7jX3jCYB6rlDGf3Dyhy7wQ3s",
-      "id": "l49k2SPYEnk",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:00:04Z",
-        "channelId": "UCk1XYfd7NnQ5N5lbZ6p5G6A",
-        "title": "Qúy Qúy làm tài xế lái xe nè, ổng đi chơi toàn ngủ thôi á",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/l49k2SPYEnk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/l49k2SPYEnk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/l49k2SPYEnk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/l49k2SPYEnk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/l49k2SPYEnk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Bụi Cộng",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Qúy Qúy làm tài xế lái xe nè, ổng đi chơi toàn ngủ thôi á",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT47S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "558983",
-        "likeCount": "11701",
-        "favoriteCount": "0",
-        "commentCount": "137"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6tSZbRadvEcz4nU6RbjN1fQWb4Q",
+      "etag": "JpJlRyJ1LDj5m-xCA6EriCzUddA",
       "id": "70FlgLv5oTk",
       "snippet": {
         "publishedAt": "2026-08-07T22:30:18Z",
@@ -3273,127 +3275,121 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "129726",
-        "likeCount": "1049",
+        "viewCount": "183677",
+        "likeCount": "1390",
         "favoriteCount": "0",
-        "commentCount": "4"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "V7W_Otd9VdE2rIELvU903wolfUI",
-      "id": "cf3qj1LIDWU",
+      "etag": "2x9fQU0lCE7TXI5_rcpcPnapXdc",
+      "id": "erjt4WQX6Ls",
       "snippet": {
-        "publishedAt": "2026-07-30T07:22:00Z",
-        "channelId": "UC95zNTbc8Qsbta-Pg34Tecw",
-        "title": "Giao xe mới cho Kỳ/kỳ kỳ tv & Family #shortvideo",
-        "description": "",
+        "publishedAt": "2026-08-03T03:30:32Z",
+        "channelId": "UCWPQRI8-GyrID9T7Eex0RrA",
+        "title": "Chiếc Xe Có Thể Bị Biến Mất Không? 🧐 | Giải Phẫu Công Nghệ",
+        "description": "► Chào mừng bạn đến với Giải Phẫu Công Nghệ!\n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n► Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cf3qj1LIDWU/default.jpg",
+            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cf3qj1LIDWU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cf3qj1LIDWU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cf3qj1LIDWU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cf3qj1LIDWU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/erjt4WQX6Ls/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Kỳ kỳ tv & Family",
+        "channelTitle": "Giải Phẫu Công Nghệ ",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Giao xe mới cho Kỳ/kỳ kỳ tv & Family #shortvideo",
-          "description": ""
+          "title": "Chiếc Xe Có Thể Bị Biến Mất Không? 🧐 | Giải Phẫu Công Nghệ",
+          "description": "► Chào mừng bạn đến với Giải Phẫu Công Nghệ!\n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n► Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner."
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT40S",
+        "duration": "PT1M7S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
         "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1069296",
-        "likeCount": "15396",
+        "viewCount": "915143",
+        "likeCount": "7850",
         "favoriteCount": "0",
-        "commentCount": "218"
+        "commentCount": "91"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yF-esHf1Vumvrf7tthygYkZ35o0",
-      "id": "uuPqpviEopc",
+      "etag": "8HN-Fq6-RiphZB1-Awz3RTS3Ytk",
+      "id": "ipVsGZFPej4",
       "snippet": {
-        "publishedAt": "2026-08-02T09:43:22Z",
-        "channelId": "UC_Zq29MKLrSsZUrInT-O4Dw",
-        "title": "pasang Ban motor mak kunti",
-        "description": "",
+        "publishedAt": "2026-08-01T04:00:16Z",
+        "channelId": "UCEJ4szvAe6ugmfjsbDVCNNg",
+        "title": "Xe Càng Cao Cô Ấy Càng Thích #shorts",
+        "description": "Xe Càng Cao Cô Ấy Càng Thích #shorts \n\nCredit to @vaga_adrenalin\n\n© All images in this video are for illustrative purposes only. The main content lies in the narration and analysis, which are intended for educational and informational purposes. This video may contain copyrighted material used under the principles of Fair Use (Section 107 of the U.S. Copyright Act) for purposes such as education, commentary, and research. If you have any questions or concerns regarding the video, please contact: thuannv2k17@gmail.com\nI will respond and cooperate in a constructive manner. Thank you!\n\n© Mọi hình ảnh trong video chỉ mang tính minh họa. Nội dung chính của video nằm ở phần lời thoại và phân tích, với mục đích giáo dục và cung cấp kiến thức. Video có thể bao gồm một số tư liệu thuộc bản quyền và được sử dụng theo nguyên tắc “Sử dụng hợp lý – Fair Use” (Khoản 107, Đạo luật Bản quyền Hoa Kỳ) cho các mục đích như giáo dục, bình luận và nghiên cứu.\nNếu bạn có bất kỳ câu hỏi hoặc vấn đề nào liên quan đến video, vui lòng liên hệ: thuannv2k17@gmail.com\nMình sẽ phản hồi và hợp tác trên tinh thần xây dựng. Xin cảm ơn!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/default.jpg",
+            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ipVsGZFPej4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "KUNTI FAMILY",
-        "categoryId": "24",
+        "channelTitle": "Cười và Biết",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "id",
+        "defaultLanguage": "vi",
         "localized": {
-          "title": "pasang Ban motor mak kunti",
-          "description": ""
-        },
-        "defaultAudioLanguage": "id"
+          "title": "Xe Càng Cao Cô Ấy Càng Thích #shorts",
+          "description": "Xe Càng Cao Cô Ấy Càng Thích #shorts \n\nCredit to @vaga_adrenalin\n\n© All images in this video are for illustrative purposes only. The main content lies in the narration and analysis, which are intended for educational and informational purposes. This video may contain copyrighted material used under the principles of Fair Use (Section 107 of the U.S. Copyright Act) for purposes such as education, commentary, and research. If you have any questions or concerns regarding the video, please contact: thuannv2k17@gmail.com\nI will respond and cooperate in a constructive manner. Thank you!\n\n© Mọi hình ảnh trong video chỉ mang tính minh họa. Nội dung chính của video nằm ở phần lời thoại và phân tích, với mục đích giáo dục và cung cấp kiến thức. Video có thể bao gồm một số tư liệu thuộc bản quyền và được sử dụng theo nguyên tắc “Sử dụng hợp lý – Fair Use” (Khoản 107, Đạo luật Bản quyền Hoa Kỳ) cho các mục đích như giáo dục, bình luận và nghiên cứu.\nNếu bạn có bất kỳ câu hỏi hoặc vấn đề nào liên quan đến video, vui lòng liên hệ: thuannv2k17@gmail.com\nMình sẽ phản hồi và hợp tác trên tinh thần xây dựng. Xin cảm ơn!"
+        }
       },
       "contentDetails": {
-        "duration": "PT17S",
+        "duration": "PT20S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3402,10 +3398,10 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5986562",
-        "likeCount": "43173",
+        "viewCount": "999695",
+        "likeCount": "6816",
         "favoriteCount": "0",
-        "commentCount": "9"
+        "commentCount": "19"
       }
     }
   ],

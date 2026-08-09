@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "RO1767EzlbHQkpf4siy4jVFrudg",
+  "etag": "mPlsiS-zxLy0icSHcopDNxzojmM",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "Q-T5oPr3OWyXZxUj_YoVKZilKNA",
+      "etag": "wDDH17NPijit3UxErbL8oy2Nrag",
       "id": "ZSJR7uXWSK4",
       "snippet": {
         "publishedAt": "2026-08-06T11:45:19Z",
@@ -45,8 +45,7 @@
         "localized": {
           "title": "เบรกจักรยานในอดีตนั้นอันตรายมาก?",
           "description": ""
-        },
-        "defaultAudioLanguage": "th"
+        }
       },
       "contentDetails": {
         "duration": "PT34S",
@@ -58,15 +57,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1271945",
-        "likeCount": "20259",
+        "viewCount": "1465771",
+        "likeCount": "23558",
         "favoriteCount": "0",
-        "commentCount": "51"
+        "commentCount": "61"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kWq16QXN9SScUL3Q4IltZxJzQ-Y",
+      "etag": "zOk6RjB0HL0AHiMrTQGcOWr4VTg",
       "id": "aA7zAqXMOyg",
       "snippet": {
         "publishedAt": "2026-08-07T12:00:10Z",
@@ -120,15 +119,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "604442",
-        "likeCount": "12442",
+        "viewCount": "747620",
+        "likeCount": "14845",
         "favoriteCount": "0",
-        "commentCount": "32"
+        "commentCount": "43"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_gHfEH8IOBXZs_AtmL4RTN1SaqI",
+      "etag": "7XjQWLzFMpRhCPvd0rYFluPxovA",
       "id": "P_twCGMltHI",
       "snippet": {
         "publishedAt": "2026-08-07T10:35:19Z",
@@ -185,15 +184,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "395948",
-        "likeCount": "6825",
+        "viewCount": "459775",
+        "likeCount": "7450",
         "favoriteCount": "0",
         "commentCount": "13"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fIZ4S5EX4d9FwXw4itr12h2ezxo",
+      "etag": "PwpZq-6hMj8X_fm5qEH3RwzLdt8",
       "id": "a1pHJiN0ntA",
       "snippet": {
         "publishedAt": "2026-08-02T23:30:12Z",
@@ -247,15 +246,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "955212",
-        "likeCount": "11279",
+        "viewCount": "1036630",
+        "likeCount": "12331",
         "favoriteCount": "0",
         "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VtpCY_DAOwM_SYXpBV8T2dR30Rs",
+      "etag": "PuKgJJRsIUlq20rKOhJqUqBBX8M",
       "id": "dwbpkwGcWDQ",
       "snippet": {
         "publishedAt": "2026-08-04T13:32:01Z",
@@ -309,15 +308,76 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "526762",
-        "likeCount": "9275",
+        "viewCount": "617596",
+        "likeCount": "10662",
         "favoriteCount": "0",
-        "commentCount": "33"
+        "commentCount": "37"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WogmhOO-HOPTarP3CVFFpxqXUGw",
+      "etag": "_4ri4z9UPCAGmlSa8HQhG5FNd6s",
+      "id": "iD-01qwTEkY",
+      "snippet": {
+        "publishedAt": "2026-08-03T00:00:23Z",
+        "channelId": "UCgGms3APW-JRLUc4Cd_3FWw",
+        "title": "จะเกิดอะไรขึ้น?! ถ้ามึงเอาเวฟ 125i ไปซิ่งบนดาวแต่ละดวง!!",
+        "description": "#เวฟ125i #skeleton #แง้น #เด็กแว้น #ข้าวเหนียวซิ่งควันดำ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TonTheSkeletoN | วันๆของไอตั้น",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "จะเกิดอะไรขึ้น?! ถ้ามึงเอาเวฟ 125i ไปซิ่งบนดาวแต่ละดวง!!",
+          "description": "#เวฟ125i #skeleton #แง้น #เด็กแว้น #ข้าวเหนียวซิ่งควันดำ"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "728737",
+        "likeCount": "32395",
+        "favoriteCount": "0",
+        "commentCount": "98"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N_cLZnyntp4-od6YpxxTr-HV08I",
       "id": "6S2MXHIP-Ig",
       "snippet": {
         "publishedAt": "2026-08-06T10:40:21Z",
@@ -374,138 +434,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "272874",
-        "likeCount": "4608",
+        "viewCount": "293704",
+        "likeCount": "4872",
         "favoriteCount": "0",
         "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ao4bSTNMPFeibAss3cfPS8NHGaE",
-      "id": "iD-01qwTEkY",
-      "snippet": {
-        "publishedAt": "2026-08-03T00:00:23Z",
-        "channelId": "UCgGms3APW-JRLUc4Cd_3FWw",
-        "title": "จะเกิดอะไรขึ้น?! ถ้ามึงเอาเวฟ 125i ไปซิ่งบนดาวแต่ละดวง!!",
-        "description": "#เวฟ125i #skeleton #แง้น #เด็กแว้น #ข้าวเหนียวซิ่งควันดำ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/iD-01qwTEkY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TonTheSkeletoN | วันๆของไอตั้น",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "จะเกิดอะไรขึ้น?! ถ้ามึงเอาเวฟ 125i ไปซิ่งบนดาวแต่ละดวง!!",
-          "description": "#เวฟ125i #skeleton #แง้น #เด็กแว้น #ข้าวเหนียวซิ่งควันดำ"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M8S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "612180",
-        "likeCount": "27335",
-        "favoriteCount": "0",
-        "commentCount": "81"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "HrFGYshv6EMc1na687PJ7O--I44",
-      "id": "p9g3CNzJzZM",
-      "snippet": {
-        "publishedAt": "2026-08-04T10:20:53Z",
-        "channelId": "UC8JoOWNK6InsA_0-mGbHosQ",
-        "title": "พ่อ ลงท่อไปทำไม",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Joyful Story",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "พ่อ ลงท่อไปทำไม",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "441304",
-        "likeCount": "7889",
-        "favoriteCount": "0",
-        "commentCount": "32"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_T-hn8WdfBZSav9U9L0bCnvEUhA",
+      "etag": "3R-eMA7L4Y5rIZYLsSnkr8FmIWo",
       "id": "PpXzej9Ib0w",
       "snippet": {
         "publishedAt": "2026-08-07T09:13:23Z",
@@ -559,77 +496,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "208592",
-        "likeCount": "5030",
+        "viewCount": "261756",
+        "likeCount": "6159",
         "favoriteCount": "0",
-        "commentCount": "1069"
+        "commentCount": "1438"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Z-nhTIS0nF-WqENHMSAJIcESi8w",
-      "id": "nQIp30D41AA",
-      "snippet": {
-        "publishedAt": "2026-08-01T23:00:38Z",
-        "channelId": "UCxj5Q1u_5PJtdKtxtyVUa2w",
-        "title": "แกล้งทำรถพังเพื่อดึงขวด? เจาะลึก Sticky Bottle สุดเนียน 🍼🔧",
-        "description": "ทำไมส่งขวดน้ำเกิน 3 วินาทีถึงฟาวล์? เจาะลึกแทคติกตุกติกของนักกีฬาจักรยานทางไกล ที่ใช้ช่องโหว่ของกฎ แกล้งเกียร์พัง เบาะพัง เพื่อให้รถเซอร์วิสช่วยลาก โคตรหัวหมอ!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nQIp30D41AA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nQIp30D41AA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nQIp30D41AA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nQIp30D41AA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nQIp30D41AA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SouperStory",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "แกล้งทำรถพังเพื่อดึงขวด? เจาะลึก Sticky Bottle สุดเนียน 🍼🔧",
-          "description": "ทำไมส่งขวดน้ำเกิน 3 วินาทีถึงฟาวล์? เจาะลึกแทคติกตุกติกของนักกีฬาจักรยานทางไกล ที่ใช้ช่องโหว่ของกฎ แกล้งเกียร์พัง เบาะพัง เพื่อให้รถเซอร์วิสช่วยลาก โคตรหัวหมอ!"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT46S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "597430",
-        "likeCount": "10425",
-        "favoriteCount": "0",
-        "commentCount": "16"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "OXw1sDYFEzU4AwlUZKT-FtoLgvE",
+      "etag": "Y74mUEJbsLiwJjASmtPIcnEEAB0",
       "id": "Xp0tMX7g6ZM",
       "snippet": {
         "publishedAt": "2026-08-07T10:45:19Z",
@@ -683,60 +558,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "239532",
-        "likeCount": "6055",
+        "viewCount": "322773",
+        "likeCount": "8587",
         "favoriteCount": "0",
-        "commentCount": "12"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jTu5vQrIuigsGVT51_px2ie7jtY",
-      "id": "AG4UqIgVnSU",
+      "etag": "5qCs36Vabj3aKFlTuUFTFbsYjIM",
+      "id": "2xJDXKOtnn4",
       "snippet": {
-        "publishedAt": "2026-08-07T13:09:43Z",
-        "channelId": "UCPzQrUHasVivP5P0Nx3o6YA",
-        "title": "รถกระบะจะเปลี่ยนเลนส์ลงซ้าย #ใช้รถใช้ถนน #ระมัดระวัง #อุบัติเหตุ #จราจร",
+        "publishedAt": "2026-08-08T12:21:16Z",
+        "channelId": "UC_VvRPaUBg1izqAquNhrq3w",
+        "title": "ใช้หินเจียร์วาดลวดลาย บนฝาท้ายกระบะ !!",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/default.jpg",
+            "url": "https://i.ytimg.com/vi/2xJDXKOtnn4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2xJDXKOtnn4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2xJDXKOtnn4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/2xJDXKOtnn4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2xJDXKOtnn4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "P'TEM Channel",
-        "categoryId": "26",
+        "channelTitle": "Nuttapapond Channel",
+        "categoryId": "10",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "รถกระบะจะเปลี่ยนเลนส์ลงซ้าย #ใช้รถใช้ถนน #ระมัดระวัง #อุบัติเหตุ #จราจร",
+          "title": "ใช้หินเจียร์วาดลวดลาย บนฝาท้ายกระบะ !!",
           "description": ""
         },
-        "defaultAudioLanguage": "th"
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT12S",
+        "duration": "PT26S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -745,76 +620,204 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "112226",
-        "likeCount": "2174",
+        "viewCount": "166208",
+        "likeCount": "3751",
         "favoriteCount": "0",
-        "commentCount": "145"
+        "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aJE3SXiEMsXFk8DAzIZpt8zVZsw",
-      "id": "8izhGy6BbLY",
+      "etag": "GfsYmud-fswPLfcONUoBLgKsQvQ",
+      "id": "p9g3CNzJzZM",
       "snippet": {
-        "publishedAt": "2026-08-03T04:15:13Z",
-        "channelId": "UCSIcjWSU1TBhMdiDgWz1WfQ",
-        "title": "สาวพิษณุโลกร้องตำรวจ นำรถเข้าอู่ทำสี กลับพบอะไหล่หาย เสียหายกว่า 3.3 หมื่นบาท",
-        "description": "วันที่ 2 สิงหาคม 2569 น.ส.ณัฏฐ์ญาภา หรือ “แจน” เดินทางเข้าแจ้งความกับตำรวจในจังหวัดพิษณุโลก หลังอ้างว่านำรถยนต์โตโยต้า ยาริส สีแดง เข้าไปทำสีที่อู่แห่งหนึ่งบริเวณแยกอินโดจีน ตำบลสมอแข อำเภอเมืองพิษณุโลก แต่เมื่อรับรถกลับพบไฟรูปเครื่องยนต์แจ้งเตือนบนหน้าปัด\n\nผู้เสียหายระบุว่า นำรถเข้าอู่ตั้งแต่วันที่ 14 กรกฎาคม และรับรถคืนในวันที่ 21 กรกฎาคม เมื่อสอบถามถึงความผิดปกติ เจ้าของอู่ยอมรับว่ามีการถอดชิ้นส่วนแคทตาไลติกคอนเวอร์เตอร์ออกจากรถ จึงนำรถเข้าตรวจสอบอย่างละเอียดที่ศูนย์บริการโตโยต้า เมื่อวันที่ 24 กรกฎาคม\n\nผลตรวจพบว่าอะไหล่หายไปหลายรายการ ต้องสั่งชิ้นส่วนใหม่จากญี่ปุ่น คิดเป็นค่าเสียหายรวม 33,274.86 บาท โดยเจ้าของอู่จ่ายให้ก่อน 15,000 บาท ก่อนชำระส่วนที่เหลือครบเมื่อวันที่ 31 กรกฎาคม หลังผู้เสียหายติดตามทวงถาม\n\nอย่างไรก็ตาม ผู้เสียหายระบุว่า รถยังมีอาการกินน้ำมันมากขึ้น และได้เรียกค่าเสียเวลาและค่าเสียความรู้สึกเพิ่มเติม ก่อนลดจำนวนเงินเยียวยาเหลือ 20,000 บาท แต่ไม่สามารถตกลงกับเจ้าของอู่ได้ จึงตัดสินใจเข้าแจ้งความดำเนินคดีในข้อหายักยอกทรัพย์\n\nผู้เสียหายฝากเตือนผู้ใช้รถ ก่อนนำรถเข้าซ่อมหรือทำสี ควรถ่ายภาพสภาพรถ ห้องเครื่อง และชิ้นส่วนสำคัญไว้เป็นหลักฐาน รวมถึงตรวจสอบรถอย่างละเอียดทันทีหลังรับคืน เพื่อป้องกันปัญหาที่อาจเกิดขึ้น\n\nทั้งนี้ เรื่องดังกล่าวยังเป็นคำกล่าวของผู้เสียหาย ส่วนข้อเท็จจริงและความรับผิดของผู้เกี่ยวข้อง ต้องรอการสอบสวนและการดำเนินการตามกฎหมายต่อไป\n\n#พิษณุโลก #เตือนภัยผู้ใช้รถ #อู่ซ่อมรถ #อะไหล่รถหาย #แจ้งความ",
+        "publishedAt": "2026-08-04T10:20:53Z",
+        "channelId": "UC8JoOWNK6InsA_0-mGbHosQ",
+        "title": "พ่อ ลงท่อไปทำไม",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/default.jpg",
+            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/p9g3CNzJzZM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Circle TH",
-        "categoryId": "22",
+        "channelTitle": "Joyful Story",
+        "categoryId": "10",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "สาวพิษณุโลกร้องตำรวจ นำรถเข้าอู่ทำสี กลับพบอะไหล่หาย เสียหายกว่า 3.3 หมื่นบาท",
-          "description": "วันที่ 2 สิงหาคม 2569 น.ส.ณัฏฐ์ญาภา หรือ “แจน” เดินทางเข้าแจ้งความกับตำรวจในจังหวัดพิษณุโลก หลังอ้างว่านำรถยนต์โตโยต้า ยาริส สีแดง เข้าไปทำสีที่อู่แห่งหนึ่งบริเวณแยกอินโดจีน ตำบลสมอแข อำเภอเมืองพิษณุโลก แต่เมื่อรับรถกลับพบไฟรูปเครื่องยนต์แจ้งเตือนบนหน้าปัด\n\nผู้เสียหายระบุว่า นำรถเข้าอู่ตั้งแต่วันที่ 14 กรกฎาคม และรับรถคืนในวันที่ 21 กรกฎาคม เมื่อสอบถามถึงความผิดปกติ เจ้าของอู่ยอมรับว่ามีการถอดชิ้นส่วนแคทตาไลติกคอนเวอร์เตอร์ออกจากรถ จึงนำรถเข้าตรวจสอบอย่างละเอียดที่ศูนย์บริการโตโยต้า เมื่อวันที่ 24 กรกฎาคม\n\nผลตรวจพบว่าอะไหล่หายไปหลายรายการ ต้องสั่งชิ้นส่วนใหม่จากญี่ปุ่น คิดเป็นค่าเสียหายรวม 33,274.86 บาท โดยเจ้าของอู่จ่ายให้ก่อน 15,000 บาท ก่อนชำระส่วนที่เหลือครบเมื่อวันที่ 31 กรกฎาคม หลังผู้เสียหายติดตามทวงถาม\n\nอย่างไรก็ตาม ผู้เสียหายระบุว่า รถยังมีอาการกินน้ำมันมากขึ้น และได้เรียกค่าเสียเวลาและค่าเสียความรู้สึกเพิ่มเติม ก่อนลดจำนวนเงินเยียวยาเหลือ 20,000 บาท แต่ไม่สามารถตกลงกับเจ้าของอู่ได้ จึงตัดสินใจเข้าแจ้งความดำเนินคดีในข้อหายักยอกทรัพย์\n\nผู้เสียหายฝากเตือนผู้ใช้รถ ก่อนนำรถเข้าซ่อมหรือทำสี ควรถ่ายภาพสภาพรถ ห้องเครื่อง และชิ้นส่วนสำคัญไว้เป็นหลักฐาน รวมถึงตรวจสอบรถอย่างละเอียดทันทีหลังรับคืน เพื่อป้องกันปัญหาที่อาจเกิดขึ้น\n\nทั้งนี้ เรื่องดังกล่าวยังเป็นคำกล่าวของผู้เสียหาย ส่วนข้อเท็จจริงและความรับผิดของผู้เกี่ยวข้อง ต้องรอการสอบสวนและการดำเนินการตามกฎหมายต่อไป\n\n#พิษณุโลก #เตือนภัยผู้ใช้รถ #อู่ซ่อมรถ #อะไหล่รถหาย #แจ้งความ"
-        }
+          "title": "พ่อ ลงท่อไปทำไม",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT27S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "330439",
-        "likeCount": "5354",
+        "viewCount": "491061",
+        "likeCount": "8723",
         "favoriteCount": "0",
-        "commentCount": "147"
+        "commentCount": "32"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HDJ6wNSYQX3XNnGsp4gacJGHs0M",
+      "etag": "-n2M5ohy_OpMMhM2pAdwxIPX9j4",
+      "id": "9tY8NobmIsk",
+      "snippet": {
+        "publishedAt": "2026-08-08T11:55:47Z",
+        "channelId": "UCCVbBMsFzOuU_lROmRTIsLQ",
+        "title": "เขาบอกให้คนขับรถจอด จะลงรถด่วน",
+        "description": "เขาบอกให้คนขับรถจอด จะลงรถด่วน #รถ #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tY8NobmIsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tY8NobmIsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tY8NobmIsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9tY8NobmIsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9tY8NobmIsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ต้องฟังให้จบ",
+        "tags": [
+          "shorts"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เขาบอกให้คนขับรถจอด จะลงรถด่วน",
+          "description": "เขาบอกให้คนขับรถจอด จะลงรถด่วน #รถ #บันเทิง #shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "150379",
+        "likeCount": "2311",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PiQj5pv0tyZgAglU7x8wv-vZpIs",
+      "id": "nQIp30D41AA",
+      "snippet": {
+        "publishedAt": "2026-08-01T23:00:38Z",
+        "channelId": "UCxj5Q1u_5PJtdKtxtyVUa2w",
+        "title": "แกล้งทำรถพังเพื่อดึงขวด? เจาะลึก Sticky Bottle สุดเนียน 🍼🔧",
+        "description": "ทำไมส่งขวดน้ำเกิน 3 วินาทีถึงฟาวล์? เจาะลึกแทคติกตุกติกของนักกีฬาจักรยานทางไกล ที่ใช้ช่องโหว่ของกฎ แกล้งเกียร์พัง เบาะพัง เพื่อให้รถเซอร์วิสช่วยลาก โคตรหัวหมอ!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQIp30D41AA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQIp30D41AA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQIp30D41AA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQIp30D41AA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nQIp30D41AA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SouperStory",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แกล้งทำรถพังเพื่อดึงขวด? เจาะลึก Sticky Bottle สุดเนียน 🍼🔧",
+          "description": "ทำไมส่งขวดน้ำเกิน 3 วินาทีถึงฟาวล์? เจาะลึกแทคติกตุกติกของนักกีฬาจักรยานทางไกล ที่ใช้ช่องโหว่ของกฎ แกล้งเกียร์พัง เบาะพัง เพื่อให้รถเซอร์วิสช่วยลาก โคตรหัวหมอ!"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "672679",
+        "likeCount": "11993",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2xdAaRCYBeiCrXRCGn62VQ8yEME",
       "id": "Ib6p06sSIss",
       "snippet": {
         "publishedAt": "2026-08-04T23:30:18Z",
@@ -868,15 +871,262 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "287810",
-        "likeCount": "4600",
+        "viewCount": "379496",
+        "likeCount": "6278",
         "favoriteCount": "0",
-        "commentCount": "23"
+        "commentCount": "28"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "uiJeFyc9dScdsuaeatWf-OKdW3U",
+      "etag": "HG22PTBWLzDzEk7ZO6qeAUnnPTg",
+      "id": "AG4UqIgVnSU",
+      "snippet": {
+        "publishedAt": "2026-08-07T13:09:43Z",
+        "channelId": "UCPzQrUHasVivP5P0Nx3o6YA",
+        "title": "รถกระบะจะเปลี่ยนเลนส์ลงซ้าย #ใช้รถใช้ถนน #ระมัดระวัง #อุบัติเหตุ #จราจร",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AG4UqIgVnSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "P'TEM Channel",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "รถกระบะจะเปลี่ยนเลนส์ลงซ้าย #ใช้รถใช้ถนน #ระมัดระวัง #อุบัติเหตุ #จราจร",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "131751",
+        "likeCount": "2363",
+        "favoriteCount": "0",
+        "commentCount": "155"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OsdT5kZGPZDHDjpn81wBsD3H4t0",
+      "id": "8izhGy6BbLY",
+      "snippet": {
+        "publishedAt": "2026-08-03T04:15:13Z",
+        "channelId": "UCSIcjWSU1TBhMdiDgWz1WfQ",
+        "title": "สาวพิษณุโลกร้องตำรวจ นำรถเข้าอู่ทำสี กลับพบอะไหล่หาย เสียหายกว่า 3.3 หมื่นบาท",
+        "description": "วันที่ 2 สิงหาคม 2569 น.ส.ณัฏฐ์ญาภา หรือ “แจน” เดินทางเข้าแจ้งความกับตำรวจในจังหวัดพิษณุโลก หลังอ้างว่านำรถยนต์โตโยต้า ยาริส สีแดง เข้าไปทำสีที่อู่แห่งหนึ่งบริเวณแยกอินโดจีน ตำบลสมอแข อำเภอเมืองพิษณุโลก แต่เมื่อรับรถกลับพบไฟรูปเครื่องยนต์แจ้งเตือนบนหน้าปัด\n\nผู้เสียหายระบุว่า นำรถเข้าอู่ตั้งแต่วันที่ 14 กรกฎาคม และรับรถคืนในวันที่ 21 กรกฎาคม เมื่อสอบถามถึงความผิดปกติ เจ้าของอู่ยอมรับว่ามีการถอดชิ้นส่วนแคทตาไลติกคอนเวอร์เตอร์ออกจากรถ จึงนำรถเข้าตรวจสอบอย่างละเอียดที่ศูนย์บริการโตโยต้า เมื่อวันที่ 24 กรกฎาคม\n\nผลตรวจพบว่าอะไหล่หายไปหลายรายการ ต้องสั่งชิ้นส่วนใหม่จากญี่ปุ่น คิดเป็นค่าเสียหายรวม 33,274.86 บาท โดยเจ้าของอู่จ่ายให้ก่อน 15,000 บาท ก่อนชำระส่วนที่เหลือครบเมื่อวันที่ 31 กรกฎาคม หลังผู้เสียหายติดตามทวงถาม\n\nอย่างไรก็ตาม ผู้เสียหายระบุว่า รถยังมีอาการกินน้ำมันมากขึ้น และได้เรียกค่าเสียเวลาและค่าเสียความรู้สึกเพิ่มเติม ก่อนลดจำนวนเงินเยียวยาเหลือ 20,000 บาท แต่ไม่สามารถตกลงกับเจ้าของอู่ได้ จึงตัดสินใจเข้าแจ้งความดำเนินคดีในข้อหายักยอกทรัพย์\n\nผู้เสียหายฝากเตือนผู้ใช้รถ ก่อนนำรถเข้าซ่อมหรือทำสี ควรถ่ายภาพสภาพรถ ห้องเครื่อง และชิ้นส่วนสำคัญไว้เป็นหลักฐาน รวมถึงตรวจสอบรถอย่างละเอียดทันทีหลังรับคืน เพื่อป้องกันปัญหาที่อาจเกิดขึ้น\n\nทั้งนี้ เรื่องดังกล่าวยังเป็นคำกล่าวของผู้เสียหาย ส่วนข้อเท็จจริงและความรับผิดของผู้เกี่ยวข้อง ต้องรอการสอบสวนและการดำเนินการตามกฎหมายต่อไป\n\n#พิษณุโลก #เตือนภัยผู้ใช้รถ #อู่ซ่อมรถ #อะไหล่รถหาย #แจ้งความ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8izhGy6BbLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Circle TH",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "สาวพิษณุโลกร้องตำรวจ นำรถเข้าอู่ทำสี กลับพบอะไหล่หาย เสียหายกว่า 3.3 หมื่นบาท",
+          "description": "วันที่ 2 สิงหาคม 2569 น.ส.ณัฏฐ์ญาภา หรือ “แจน” เดินทางเข้าแจ้งความกับตำรวจในจังหวัดพิษณุโลก หลังอ้างว่านำรถยนต์โตโยต้า ยาริส สีแดง เข้าไปทำสีที่อู่แห่งหนึ่งบริเวณแยกอินโดจีน ตำบลสมอแข อำเภอเมืองพิษณุโลก แต่เมื่อรับรถกลับพบไฟรูปเครื่องยนต์แจ้งเตือนบนหน้าปัด\n\nผู้เสียหายระบุว่า นำรถเข้าอู่ตั้งแต่วันที่ 14 กรกฎาคม และรับรถคืนในวันที่ 21 กรกฎาคม เมื่อสอบถามถึงความผิดปกติ เจ้าของอู่ยอมรับว่ามีการถอดชิ้นส่วนแคทตาไลติกคอนเวอร์เตอร์ออกจากรถ จึงนำรถเข้าตรวจสอบอย่างละเอียดที่ศูนย์บริการโตโยต้า เมื่อวันที่ 24 กรกฎาคม\n\nผลตรวจพบว่าอะไหล่หายไปหลายรายการ ต้องสั่งชิ้นส่วนใหม่จากญี่ปุ่น คิดเป็นค่าเสียหายรวม 33,274.86 บาท โดยเจ้าของอู่จ่ายให้ก่อน 15,000 บาท ก่อนชำระส่วนที่เหลือครบเมื่อวันที่ 31 กรกฎาคม หลังผู้เสียหายติดตามทวงถาม\n\nอย่างไรก็ตาม ผู้เสียหายระบุว่า รถยังมีอาการกินน้ำมันมากขึ้น และได้เรียกค่าเสียเวลาและค่าเสียความรู้สึกเพิ่มเติม ก่อนลดจำนวนเงินเยียวยาเหลือ 20,000 บาท แต่ไม่สามารถตกลงกับเจ้าของอู่ได้ จึงตัดสินใจเข้าแจ้งความดำเนินคดีในข้อหายักยอกทรัพย์\n\nผู้เสียหายฝากเตือนผู้ใช้รถ ก่อนนำรถเข้าซ่อมหรือทำสี ควรถ่ายภาพสภาพรถ ห้องเครื่อง และชิ้นส่วนสำคัญไว้เป็นหลักฐาน รวมถึงตรวจสอบรถอย่างละเอียดทันทีหลังรับคืน เพื่อป้องกันปัญหาที่อาจเกิดขึ้น\n\nทั้งนี้ เรื่องดังกล่าวยังเป็นคำกล่าวของผู้เสียหาย ส่วนข้อเท็จจริงและความรับผิดของผู้เกี่ยวข้อง ต้องรอการสอบสวนและการดำเนินการตามกฎหมายต่อไป\n\n#พิษณุโลก #เตือนภัยผู้ใช้รถ #อู่ซ่อมรถ #อะไหล่รถหาย #แจ้งความ"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "390665",
+        "likeCount": "6292",
+        "favoriteCount": "0",
+        "commentCount": "167"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IzDJAQvlaIvTyXyyfa6fMqEBALY",
+      "id": "V6C4feh8j3A",
+      "snippet": {
+        "publishedAt": "2026-08-03T18:41:47Z",
+        "channelId": "UCa-mTOsA00_whsOm1GNQcew",
+        "title": "Get yours at grinshade.store 👻#caraccessories #cargadget #carhumor #carprank #prank",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GrinShade",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Get yours at grinshade.store 👻#caraccessories #cargadget #carhumor #carprank #prank",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3887056",
+        "likeCount": "22576",
+        "favoriteCount": "0",
+        "commentCount": "110"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-hGMFBCG1FMpRKAx2ZyG-prPYqM",
+      "id": "bghN-fyh044",
+      "snippet": {
+        "publishedAt": "2026-08-08T23:00:35Z",
+        "channelId": "UCJCftsts28DE5FGDQecIecA",
+        "title": "เครื่องดีเซลเทอร์โบพวกนี้ ไม่ได้ทำไว้แข่งรถ ⚙️",
+        "description": "เครื่องดีเซลเทอร์โบพวกนี้ ไม่ได้ทำไว้แข่งรถ ⚙️",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bghN-fyh044/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bghN-fyh044/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bghN-fyh044/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bghN-fyh044/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bghN-fyh044/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Insight Story",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เครื่องดีเซลเทอร์โบพวกนี้ ไม่ได้ทำไว้แข่งรถ ⚙️",
+          "description": "เครื่องดีเซลเทอร์โบพวกนี้ ไม่ได้ทำไว้แข่งรถ ⚙️"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "84346",
+        "likeCount": "2379",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VXRKlcpzeOjanpEFIQilxd1mOs0",
       "id": "uw8zbkwSUyM",
       "snippet": {
         "publishedAt": "2026-07-31T10:00:33Z",
@@ -929,15 +1179,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "768768",
-        "likeCount": "24094",
+        "viewCount": "771516",
+        "likeCount": "24159",
         "favoriteCount": "0",
-        "commentCount": "109"
+        "commentCount": "110"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3QBbzRrjfvYEUEByqa3STVM6cVc",
+      "etag": "lD83JaAcj15NpBxxG5OYBzxiU4U",
       "id": "TtBNRPG1NHk",
       "snippet": {
         "publishedAt": "2026-08-06T05:21:03Z",
@@ -978,8 +1228,7 @@
         "localized": {
           "title": "#truck #truckdriver #รถบรรทุก #automobile #reels #shorts #youtubeshorts #เทรนด์วันนี้",
           "description": ""
-        },
-        "defaultAudioLanguage": "th"
+        }
       },
       "contentDetails": {
         "duration": "PT15S",
@@ -991,187 +1240,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "147869",
-        "likeCount": "1624",
+        "viewCount": "149698",
+        "likeCount": "1635",
         "favoriteCount": "0",
         "commentCount": "36"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WtH3eyDsQOjJP-8cTRmPbs-EmNg",
-      "id": "7UgtmP00a5c",
+      "etag": "SGVMgwl93lQaER06mXOe7evmqBs",
+      "id": "JOtevv_YiCA",
       "snippet": {
-        "publishedAt": "2026-08-02T10:22:22Z",
-        "channelId": "UCCVbBMsFzOuU_lROmRTIsLQ",
-        "title": "เขาหาที่จอดรถไม่ได้ วนหลายที่ก็ไม่ว่าง",
-        "description": "เขาหาที่จอดรถไม่ได้ วนหลายที่ก็ไม่ว่าง #ไวรัล #บันเทิง #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7UgtmP00a5c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7UgtmP00a5c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7UgtmP00a5c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7UgtmP00a5c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7UgtmP00a5c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ต้องฟังให้จบ",
-        "tags": [
-          "shorts",
-          "ที่จอดรถ"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เขาหาที่จอดรถไม่ได้ วนหลายที่ก็ไม่ว่าง",
-          "description": "เขาหาที่จอดรถไม่ได้ วนหลายที่ก็ไม่ว่าง #ไวรัล #บันเทิง #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "500800",
-        "likeCount": "6715",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DXg87zFXNvoh6-S2BEUpd2e1lmU",
-      "id": "kL6OLlgfk2k",
-      "snippet": {
-        "publishedAt": "2026-07-29T23:30:05Z",
-        "channelId": "UCADAowkcGDPsRr2cU_M-smQ",
-        "title": "คำเซา vs รถมอเตอร์ไซค์ ใครแน่กว่ากัน",
+        "publishedAt": "2026-08-06T07:49:40Z",
+        "channelId": "UC5yA2wzYC3GxO9HHAFFmaZw",
+        "title": "Comment ‘’BIKE’’ if you want one 😱🏍️ #biker #harleydavidson #unitedstates #alarm #bike",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/default.jpg",
+            "url": "https://i.ytimg.com/vi/JOtevv_YiCA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JOtevv_YiCA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JOtevv_YiCA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/JOtevv_YiCA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JOtevv_YiCA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Bearbixx",
+        "channelTitle": "RevDeck™",
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "คำเซา vs รถมอเตอร์ไซค์ ใครแน่กว่ากัน",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "873701",
-        "likeCount": "9400",
-        "favoriteCount": "0",
-        "commentCount": "12"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "iLAleARBqIiSBPZkd4ewy07SpWI",
-      "id": "kcfeBmQRTW8",
-      "snippet": {
-        "publishedAt": "2026-08-06T05:12:29Z",
-        "channelId": "UCzUblHhFq7k5dC6p_eHGMCg",
-        "title": "เทคโนโลยีงานถนนยุคใหม่ เห็นแล้วหยุดดูไม่ได้! 👀",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "World decode ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เทคโนโลยีงานถนนยุคใหม่ เห็นแล้วหยุดดูไม่ได้! 👀",
+          "title": "Comment ‘’BIKE’’ if you want one 😱🏍️ #biker #harleydavidson #unitedstates #alarm #bike",
           "description": ""
         },
-        "defaultAudioLanguage": "th"
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT33S",
+        "duration": "PT15S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1180,15 +1302,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "162658",
-        "likeCount": "1838",
+        "viewCount": "3987438",
+        "likeCount": "35264",
         "favoriteCount": "0",
-        "commentCount": "18"
+        "commentCount": "313"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OFek2YkOBzf3QRxRO2jRgQqZIKs",
+      "etag": "JLchv5TglGIVZhDGusWPpSsR7Bo",
       "id": "DLK9XYDEjRQ",
       "snippet": {
         "publishedAt": "2026-08-03T11:00:11Z",
@@ -1256,966 +1378,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "313107",
-        "likeCount": "3159",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "udhODvhcU1u7pStT8TWUjUgPJ4s",
-      "id": "V6C4feh8j3A",
-      "snippet": {
-        "publishedAt": "2026-08-03T18:41:47Z",
-        "channelId": "UCa-mTOsA00_whsOm1GNQcew",
-        "title": "Get yours at grinshade.store 👻#caraccessories #cargadget #carhumor #carprank #prank",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/V6C4feh8j3A/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "GrinShade",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Get yours at grinshade.store 👻#caraccessories #cargadget #carhumor #carprank #prank",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2880886",
-        "likeCount": "16782",
-        "favoriteCount": "0",
-        "commentCount": "94"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "G8aql8Nk3RshI7aOkx2Uk3o_q5A",
-      "id": "Z9AeSz1vAJo",
-      "snippet": {
-        "publishedAt": "2026-07-30T10:03:24Z",
-        "channelId": "UCDavWgAKAyyH01CnUmm8_0Q",
-        "title": "รถเหลืองหลบตำรวจสุดมึน ตำรวจงงไปเลย",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "WonderSphere",
-        "tags": [
-          "ตำรวจ",
-          "รถเหลือง",
-          "หลบหนี",
-          "เรื่องฮาๆ",
-          "คลิปตลก",
-          "ไล่ล่า",
-          "ซ่อนตัว",
-          "เรื่องเหลือเชื่อ",
-          "แผนสุดเจ๋ง",
-          "คลิปน่าทึ่ง"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "รถเหลืองหลบตำรวจสุดมึน ตำรวจงงไปเลย",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "531069",
-        "likeCount": "5741",
-        "favoriteCount": "0",
-        "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "97JKr8PVy4vJBbSIyyoYTn9M-8Q",
-      "id": "Tze-KJxD8V0",
-      "snippet": {
-        "publishedAt": "2026-08-07T04:49:00Z",
-        "channelId": "UCWCPaC0nzjwaMA9Vn5J9dOw",
-        "title": "อุทาหรณ์บนท้องถนน! จยย. ออกตัวไม่มองรถทางตรง เกี่ยวกันล้มกลางถนน",
-        "description": "อุทาหรณ์บนท้องถนน! จยย. ออกตัวไม่มองรถทางตรง เกี่ยวกันล้มกลางถนน\n\nเกิดเหตุการณ์อุบัติเหตุบนท้องถนน หลังรถจักรยานยนต์คันหนึ่งขับออกมาจากทางแยกโดยไม่ได้ตรวจสอบรถที่กำลังวิ่งมาทางตรง ทำให้เกิดการเฉี่ยวชนกันจนรถเสียหลักล้มลงกลางถนน เหตุการณ์ดังกล่าวสร้างความตกใจให้กับผู้ใช้รถใช้ถนนในบริเวณดังกล่าว\n\nเหตุการณ์นี้เป็นอุทาหรณ์ให้ผู้ขับขี่เพิ่มความระมัดระวัง โดยเฉพาะก่อนออกจากซอยหรือทางแยก ควรชะลอความเร็ว มองซ้าย-ขวา และตรวจสอบความปลอดภัยก่อนเคลื่อนตัว เพื่อป้องกันอุบัติเหตุที่อาจเกิดขึ้นได้\n\n#อุทาหรณ์บนท้องถนน #อุบัติเหตุ #รถจักรยานยนต์ #จยย #ขับขี่ปลอดภัย #เตือนภัยคนใช้รถ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Tze-KJxD8V0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Tze-KJxD8V0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Tze-KJxD8V0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Tze-KJxD8V0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Tze-KJxD8V0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "คลิปเด็ด ข่าวร้อน",
-        "tags": [
-          "คลิปเด็ดข่าวร้อน",
-          "คลิปเด็ด",
-          "ข่าวดัง",
-          "ข่าวกระแส",
-          "ข่าววันนี้",
-          "ข่าวล่าสุด",
-          "คลิปตลก",
-          "คลิปน่าสนใจ",
-          "ข่าวน่าสนใจ"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อุทาหรณ์บนท้องถนน! จยย. ออกตัวไม่มองรถทางตรง เกี่ยวกันล้มกลางถนน",
-          "description": "อุทาหรณ์บนท้องถนน! จยย. ออกตัวไม่มองรถทางตรง เกี่ยวกันล้มกลางถนน\n\nเกิดเหตุการณ์อุบัติเหตุบนท้องถนน หลังรถจักรยานยนต์คันหนึ่งขับออกมาจากทางแยกโดยไม่ได้ตรวจสอบรถที่กำลังวิ่งมาทางตรง ทำให้เกิดการเฉี่ยวชนกันจนรถเสียหลักล้มลงกลางถนน เหตุการณ์ดังกล่าวสร้างความตกใจให้กับผู้ใช้รถใช้ถนนในบริเวณดังกล่าว\n\nเหตุการณ์นี้เป็นอุทาหรณ์ให้ผู้ขับขี่เพิ่มความระมัดระวัง โดยเฉพาะก่อนออกจากซอยหรือทางแยก ควรชะลอความเร็ว มองซ้าย-ขวา และตรวจสอบความปลอดภัยก่อนเคลื่อนตัว เพื่อป้องกันอุบัติเหตุที่อาจเกิดขึ้นได้\n\n#อุทาหรณ์บนท้องถนน #อุบัติเหตุ #รถจักรยานยนต์ #จยย #ขับขี่ปลอดภัย #เตือนภัยคนใช้รถ"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "137905",
-        "likeCount": "2327",
-        "favoriteCount": "0",
-        "commentCount": "257"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Xx_u-BMF-mn31x6IXikJTkx806w",
-      "id": "dTXasIZtplw",
-      "snippet": {
-        "publishedAt": "2026-08-07T10:02:23Z",
-        "channelId": "UC1k4-y_yieEHwjuf4msyN8A",
-        "title": "ซื้อรถ 30,000 ดอลลาร์จาก TEMU @CarterSharer",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dTXasIZtplw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dTXasIZtplw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dTXasIZtplw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dTXasIZtplw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dTXasIZtplw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ซุยกะจวง",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "ซื้อรถ 30,000 ดอลลาร์จาก TEMU @CarterSharer",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "103734",
-        "likeCount": "3749",
-        "favoriteCount": "0",
-        "commentCount": "19"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "qaSXnxnjFWmvZdIQJmlv2PP60lU",
-      "id": "7LEAOr1Q9To",
-      "snippet": {
-        "publishedAt": "2026-08-04T10:25:04Z",
-        "channelId": "UCPGlcIAHJjNtRMnuMs7qBww",
-        "title": "ท่อเดิมมันไม่เร้าใจ ขอแต่งใหม่ให้เสียงดังไปถึงหน้าปากซอย! 🏍️💨",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "แค่อยากเล่า",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ท่อเดิมมันไม่เร้าใจ ขอแต่งใหม่ให้เสียงดังไปถึงหน้าปากซอย! 🏍️💨",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT57S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "230786",
-        "likeCount": "3462",
-        "favoriteCount": "0",
-        "commentCount": "23"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nMLSNBRZ2TcqPXXoNuFkvYIZjUA",
-      "id": "vadRY3EwYIY",
-      "snippet": {
-        "publishedAt": "2026-08-04T12:32:17Z",
-        "channelId": "UCOLxjsJXYy64_hIJZwPvq6Q",
-        "title": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง",
-        "description": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "JoJoCat",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง",
-          "description": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "222400",
-        "likeCount": "2086",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JA9B_6FZ6_SOhIdiJZ3IwWhVrmI",
-      "id": "ShKh-Ni6wAE",
-      "snippet": {
-        "publishedAt": "2026-08-06T09:37:22Z",
-        "channelId": "UCSqeRyp7SJjUd_GHyEQqekg",
-        "title": "เธอคิดว่าจะสอบขับรถผ่านได้ง่ายๆ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KYOCUTE",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เธอคิดว่าจะสอบขับรถผ่านได้ง่ายๆ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "122135",
-        "likeCount": "10083",
-        "favoriteCount": "0",
-        "commentCount": "354"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6tNJNkDtDOkslK9h85zSnXcMhLQ",
-      "id": "8rA1rdnbt9w",
-      "snippet": {
-        "publishedAt": "2026-07-30T10:00:04Z",
-        "channelId": "UCWPsFjTYRa9GqWcPlfCFC7g",
-        "title": "ขับรถแบคโฮเที่ยวจีน แต่โดนคนตามล่าทั้งประเทศ ☠️",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ไม่รู้ก็ตอบไปเหอะ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ขับรถแบคโฮเที่ยวจีน แต่โดนคนตามล่าทั้งประเทศ ☠️",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT41S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "606290",
-        "likeCount": "20214",
-        "favoriteCount": "0",
-        "commentCount": "136"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "zFmXqsN2zWRG4pKYAGjbEEOhDGk",
-      "id": "CnYL72_upmU",
-      "snippet": {
-        "publishedAt": "2026-08-01T05:03:38Z",
-        "channelId": "UCwUTehp37UHJiIlqN8sCOVA",
-        "title": "Cara kerja CVT motor matic adalah mengatur rasio kecepatan secara otomatis",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CnYL72_upmU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CnYL72_upmU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CnYL72_upmU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CnYL72_upmU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CnYL72_upmU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "woys channel",
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "id",
-        "localized": {
-          "title": "Cara kerja CVT motor matic adalah mengatur rasio kecepatan secara otomatis",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3305083",
-        "likeCount": "32649",
-        "favoriteCount": "0",
-        "commentCount": "50"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "72mBIWDURDVIXMuaFDAnCKWto-M",
-      "id": "MyCXb0xl70Q",
-      "snippet": {
-        "publishedAt": "2026-07-30T07:43:23Z",
-        "channelId": "UC9RgByyDP16Ia9yL3CYCIfQ",
-        "title": "ชิดขอบสะพานเลย#shorts #farming #automobile #construction #bulldozerofficial #excavator #viralvideo",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เรื่องเด็ดริมทาง",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ชิดขอบสะพานเลย#shorts #farming #automobile #construction #bulldozerofficial #excavator #viralvideo",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "442934",
-        "likeCount": "2472",
+        "viewCount": "381466",
+        "likeCount": "3909",
         "favoriteCount": "0",
         "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "swtMH0c0Pee_pecR0b2pP9ibCYs",
-      "id": "S_gpKvNcrfg",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:37:46Z",
-        "channelId": "UCBJ6Ig5AsaIcO_N8q9WwXNw",
-        "title": "เสียงอะไรดัง!! #รถรับส่งนักเรียน",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "พี่โมกุลน้องมิเกล",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เสียงอะไรดัง!! #รถรับส่งนักเรียน",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "96404",
-        "likeCount": "560",
-        "favoriteCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "twTq9kAmF36UQfvWyYGLJIbjEkI",
-      "id": "wp2Y9ykdg7Y",
-      "snippet": {
-        "publishedAt": "2026-08-02T12:00:26Z",
-        "channelId": "UC4zpADUqraG_7gZN7sKql7A",
-        "title": "เมื่อคุณตัดรถให้สั้นเกินไป",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CHIBA FILE",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อคุณตัดรถให้สั้นเกินไป",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "239951",
-        "likeCount": "3621",
-        "favoriteCount": "0",
-        "commentCount": "15"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "w-2eofi2Na6Fnut_uKSEdbicQ_Q",
-      "id": "lPYjHOa9vf4",
-      "snippet": {
-        "publishedAt": "2026-08-01T11:15:13Z",
-        "channelId": "UCxHZcNN3A2LRcr5sU3HGWuw",
-        "title": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜",
-        "description": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "emwise",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜",
-          "description": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "326868",
-        "likeCount": "4150",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "g34PJxZWjLvF-tnbQy_O6eqL_Rk",
-      "id": "n8E-HPMOoNI",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:00:03Z",
-        "channelId": "UC7dYnVVx35hgPKU2kwkaS5w",
-        "title": "อยากสู้เพื่อความยุติธรรม",
-        "description": "อยากสู้เพื่อความยุติธรรม\n\n#คุณพ้งผู้นำมาตรฐานรถมือสอง #รับขายฝาก #เต็นท์รถมือสอง #ceoเต็นท์คุณพ้ง #เต็นท์คุณพ้ง",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/n8E-HPMOoNI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/n8E-HPMOoNI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/n8E-HPMOoNI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/n8E-HPMOoNI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/n8E-HPMOoNI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "คุณพ้ง by CEO MAN",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อยากสู้เพื่อความยุติธรรม",
-          "description": "อยากสู้เพื่อความยุติธรรม\n\n#คุณพ้งผู้นำมาตรฐานรถมือสอง #รับขายฝาก #เต็นท์รถมือสอง #ceoเต็นท์คุณพ้ง #เต็นท์คุณพ้ง"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT2M39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "226165",
-        "likeCount": "11196",
-        "favoriteCount": "0",
-        "commentCount": "336"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "myuPA8chOlo_jVvY3v6jXL0W8Yw",
-      "id": "Kv372SnLYAk",
-      "snippet": {
-        "publishedAt": "2026-08-01T10:33:04Z",
-        "channelId": "UC3_IZVzthtqO2N4OxrgvzEQ",
-        "title": "ถนนจมน้ำ เด็กๆ กลับบ้านไม่ได้! รถคันนี้จะช่วยหรือจะไปต่อ?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เล่าจนแสบคอ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ถนนจมน้ำ เด็กๆ กลับบ้านไม่ได้! รถคันนี้จะช่วยหรือจะไปต่อ?",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "323941",
-        "likeCount": "9520",
-        "favoriteCount": "0",
-        "commentCount": "152"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "iJQQsXBg4Mz9KUh1AlQazXq3Tvs",
+      "etag": "Sub3PVj2sbLZd_ETwNJch6uRqfo",
       "id": "anKKkgleI50",
       "snippet": {
         "publishedAt": "2026-08-02T10:17:57Z",
@@ -2285,59 +1456,121 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2819458",
-        "likeCount": "94833",
+        "viewCount": "5551255",
+        "likeCount": "176973",
         "favoriteCount": "0",
-        "commentCount": "471"
+        "commentCount": "906"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "i2rwCXeHWv82ZWQ4To5AW4FJ4Dk",
-      "id": "4Kc_Ls6emEs",
+      "etag": "x9TquUHBwwBb820zRFBeeC__rK4",
+      "id": "kcfeBmQRTW8",
       "snippet": {
-        "publishedAt": "2026-08-01T01:58:06Z",
-        "channelId": "UCIzQQfT5AVYiGcAk0FG-6TQ",
-        "title": "ความจริงของ 3 ช่าของเอิร์นไดเม่ ??😂 #แกล้งแฟน #สิบล้อ3ช่า #เอิร์นไดเม่",
+        "publishedAt": "2026-08-06T05:12:29Z",
+        "channelId": "UCzUblHhFq7k5dC6p_eHGMCg",
+        "title": "เทคโนโลยีงานถนนยุคใหม่ เห็นแล้วหยุดดูไม่ได้! 👀",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4Kc_Ls6emEs/default.jpg",
+            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4Kc_Ls6emEs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4Kc_Ls6emEs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4Kc_Ls6emEs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/4Kc_Ls6emEs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kcfeBmQRTW8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "eoirn_eoirn",
+        "channelTitle": "World decode ",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ความจริงของ 3 ช่าของเอิร์นไดเม่ ??😂 #แกล้งแฟน #สิบล้อ3ช่า #เอิร์นไดเม่",
+          "title": "เทคโนโลยีงานถนนยุคใหม่ เห็นแล้วหยุดดูไม่ได้! 👀",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "184602",
+        "likeCount": "2130",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a8pgSlO-BXh5AIhkogN-CryFyHE",
+      "id": "kL6OLlgfk2k",
+      "snippet": {
+        "publishedAt": "2026-07-29T23:30:05Z",
+        "channelId": "UCADAowkcGDPsRr2cU_M-smQ",
+        "title": "คำเซา vs รถมอเตอร์ไซค์ ใครแน่กว่ากัน",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kL6OLlgfk2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bearbixx",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "คำเซา vs รถมอเตอร์ไซค์ ใครแน่กว่ากัน",
           "description": ""
         }
       },
       "contentDetails": {
-        "duration": "PT36S",
+        "duration": "PT25S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2346,121 +1579,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "319506",
-        "likeCount": "4715",
+        "viewCount": "909731",
+        "likeCount": "9782",
         "favoriteCount": "0",
         "commentCount": "12"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "chiVWb5gs6RBUtFQzlf9xBsN2hk",
-      "id": "bTQVLHtdV3M",
+      "etag": "cglfoAZzQIpvvA9-fnxg8bkpU18",
+      "id": "14OyY6xbPbE",
       "snippet": {
-        "publishedAt": "2026-08-03T12:00:08Z",
-        "channelId": "UCYtz6PNR7b2BBDd8hLLp4TA",
-        "title": "🚚ระยะนี้ทันมั้ย🔥🔥 #automobile #เฮียขับรถ #เตือนสติ #เตือนภัย #เฮียขับ",
-        "description": "",
+        "publishedAt": "2026-08-08T11:00:32Z",
+        "channelId": "UC7dYnVVx35hgPKU2kwkaS5w",
+        "title": "ผมจะต้องซื้อให้ได้!",
+        "description": "ผมจะต้องซื้อให้ได้!\n\n#คุณพ้งผู้นำมาตรฐานรถมือสอง #รับขายฝาก #เต็นท์รถมือสอง #ceoเต็นท์คุณพ้ง #เต็นท์คุณพ้ง",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bTQVLHtdV3M/default.jpg",
+            "url": "https://i.ytimg.com/vi/14OyY6xbPbE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bTQVLHtdV3M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/14OyY6xbPbE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bTQVLHtdV3M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/14OyY6xbPbE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bTQVLHtdV3M/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/14OyY6xbPbE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/bTQVLHtdV3M/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/14OyY6xbPbE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "SekMoney",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "🚚ระยะนี้ทันมั้ย🔥🔥 #automobile #เฮียขับรถ #เตือนสติ #เตือนภัย #เฮียขับ",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "144576",
-        "likeCount": "2427",
-        "favoriteCount": "0",
-        "commentCount": "890"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2FJOpBaNX-VzITIJyb71IGwGlo8",
-      "id": "VfIa-QxNdLw",
-      "snippet": {
-        "publishedAt": "2026-07-29T08:00:04Z",
-        "channelId": "UCrsOnYtKGgzHgWDaQeV27gQ",
-        "title": "เทคนิคการปลดล๊อคประตูรถ 🪢ด้วยเชือกเส้นเดียว #shorts",
-        "description": "ขั้นตอนแรกให้เตรียมเชือกเส้นยาวๆ มาหนึ่งเส้น แล้วผูกปมตรงกลางให้เป็นเงื่อนรูดที่สามารถขยายและดึงรัดให้แน่นได้ จากนั้นนำเชือกไปสอดเข้าตรงร่องขอบประตูรถด้านบน ค่อยๆ ถูขยับเชือกไปมาซ้ายขวาเพื่อแทรกตัวเชือกผ่านยางขอบประตูลงไปด้านในห้องโดยสาร",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VfIa-QxNdLw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VfIa-QxNdLw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VfIa-QxNdLw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VfIa-QxNdLw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VfIa-QxNdLw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "สาระดี ",
+        "channelTitle": "คุณพ้ง by CEO MAN",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เทคนิคการปลดล๊อคประตูรถ 🪢ด้วยเชือกเส้นเดียว #shorts",
-          "description": "ขั้นตอนแรกให้เตรียมเชือกเส้นยาวๆ มาหนึ่งเส้น แล้วผูกปมตรงกลางให้เป็นเงื่อนรูดที่สามารถขยายและดึงรัดให้แน่นได้ จากนั้นนำเชือกไปสอดเข้าตรงร่องขอบประตูรถด้านบน ค่อยๆ ถูขยับเชือกไปมาซ้ายขวาเพื่อแทรกตัวเชือกผ่านยางขอบประตูลงไปด้านในห้องโดยสาร"
+          "title": "ผมจะต้องซื้อให้ได้!",
+          "description": "ผมจะต้องซื้อให้ได้!\n\n#คุณพ้งผู้นำมาตรฐานรถมือสอง #รับขายฝาก #เต็นท์รถมือสอง #ceoเต็นท์คุณพ้ง #เต็นท์คุณพ้ง"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT29S",
+        "duration": "PT2M7S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2469,388 +1641,121 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "424140",
-        "likeCount": "5718",
+        "viewCount": "101821",
+        "likeCount": "4210",
         "favoriteCount": "0",
-        "commentCount": "107"
+        "commentCount": "55"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aDd3kggm_BsR4VHJZSPt4BBEmBA",
-      "id": "uuPqpviEopc",
+      "etag": "1Gw-m4-o4aBwJoTj_K008XkEn8k",
+      "id": "S_gpKvNcrfg",
       "snippet": {
-        "publishedAt": "2026-08-02T09:43:22Z",
-        "channelId": "UC_Zq29MKLrSsZUrInT-O4Dw",
-        "title": "pasang Ban motor mak kunti",
+        "publishedAt": "2026-08-06T10:37:46Z",
+        "channelId": "UCBJ6Ig5AsaIcO_N8q9WwXNw",
+        "title": "เสียงอะไรดัง!! #รถรับส่งนักเรียน",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/default.jpg",
+            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/uuPqpviEopc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S_gpKvNcrfg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "KUNTI FAMILY",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "id",
-        "localized": {
-          "title": "pasang Ban motor mak kunti",
-          "description": ""
-        },
-        "defaultAudioLanguage": "id"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "5986562",
-        "likeCount": "43174",
-        "favoriteCount": "0",
-        "commentCount": "9"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_8SHGjTZKLsXLRU2myG4Qxr6PTs",
-      "id": "_Y3iNzBWLso",
-      "snippet": {
-        "publishedAt": "2026-07-30T10:00:31Z",
-        "channelId": "UC0pt7JMpAASI6MrSZoaqbhQ",
-        "title": "อยู่ดีๆเค้าก็เอาตัวเองยืนแนบกับรถ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_Y3iNzBWLso/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_Y3iNzBWLso/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_Y3iNzBWLso/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_Y3iNzBWLso/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_Y3iNzBWLso/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "IThai1",
-        "categoryId": "24",
+        "channelTitle": "พี่โมกุลน้องมิเกล",
+        "categoryId": "23",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "อยู่ดีๆเค้าก็เอาตัวเองยืนแนบกับรถ",
+          "title": "เสียงอะไรดัง!! #รถรับส่งนักเรียน",
           "description": ""
         },
         "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "391909",
-        "likeCount": "4004",
-        "favoriteCount": "0",
-        "commentCount": "11"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jU37sdhPi8HUxx4Pk-VM4KwhWjg",
-      "id": "JXuaTUKXW2M",
-      "snippet": {
-        "publishedAt": "2026-07-24T02:20:02Z",
-        "channelId": "UCWP6XNcCZ-HUkVsNihqfXCw",
-        "title": "𝗣𝗿𝗮𝘆 𝗙𝗼𝗿 𝗗𝗼𝗴 🐶😰 𝗠𝗼𝘁𝗼𝘃𝗹𝗼𝗴𝘀 #shorts #cow #motovlog #motovlog",
-        "description": "𝗣𝗿𝗮𝘆 𝗙𝗼𝗿 𝗗𝗼𝗴 🐶😰💥 𝗠𝗼𝘁𝗼𝘃𝗹𝗼𝗴𝘀 #shorts #cow #motovlog \nThis content is shared strictly for AWARENESS and ENTERTAINMENT PURPOSES ONLY.\n\nThis video is made only for entertainment and educational purposes.  \n\nWe do not support or promote any kind of negativity, violence, or harmful activity.  \nAll the content shown is purely creative and for fun learning.  \n\nWe respect all individuals and do not intend to hurt anyone’s feelings.  \nStay connected for more creative\n👉  No Copyright Infringement Is Intended. This is Merely Posted For The Enjoyment Of The Viewers\".\n\n👉 If Any Music Used In The Video Is The Property Of Their Respective Owners And Artists⭐️              \n\n👉Always Wear Safety Gears While\nRiding And Obey Traffic Rules ..Don't\nTry To Imitate Action In This Post .\nWe Have Shoot This Video Under Professionals With Proper Safety Measures.\n \n👉Video is only for Entertainment Purposes . Please Do Not Try To Copy , If You Are Still Bechain, Then Do At Your Own Risk\n\n                            ❌️ CAUTION ❌️\n                \n                     ♻️ DO NOT TRY THIS ♻️\n\n   👉All The Stunts Are Performed By Professionals, Do Not Try This.\n\nNinja h2r,KTM RC 390, superbike India, speed ride, biker life, fast ride India, KTM loversbullet vlog, Royal Enfield ride, bullet lovers, desi rider, rider lifestyle, Indian moto vlogger, bike shorts India\n\n\nIMPORTANT\n📌 This video is edited using my own SKILLS, EFFECTS & VISUAL ENHANCEMENTS.\n👉 All rights and credits go to the ORIGINAL CREATOR, mentioned in the video.\n\n⚠️ FAIR USE DISCLAIMER:\nThis video may contain copyrighted material, the use of which has not always been specifically authorized by the copyright owner.\nWe are making such material available for the purposes of comment, education, review, and entertainment.\nWe believe this constitutes a “fair use” under Section 107 of the Copyright Act 1976.\nIf any owner has issues with the content, please contact us directly. We will respectfully remove or credit it.\n                              \n〽️ Hastags Used :- 🤜\n\n#youtubeshorts #ytshorts #toxicmotovloger #bike #bikelife #ktm #duke #bikevideo #r15  #shortsfeed #zx10r #ninjah2r #bikestunt #newmotovlog #viralshorts #viralvideos #hyperride #s1000rr #yamaha  #policevsbiker #police  #whatsappstatus #bikeride #bikeriding #bikevideo #ktmrc390 #duke390 #dreambike #automobile #bikerider #ride #lifewithdeepak\n\n                               ❤️❤️❤️❤️❤️\n\n📶 Keywords Used \n1.bike videos \n2.bike lover  \n3.bike rider \n4.bike shorts \n5.rider \n6.motovlog \n7.motovlogger \n8.ktm \n9.duke  \n10.yamaha r15 \n11.kawasaki ninja zx10r \n12.bike rider fight \n13.bike rider video \n14.bike rider girls \n15.bike rider shorts vide \n\nTAGS ⭐\nrider\nshorts\nbike\nktm\nladakh\nmotovlog\nshort\nmotorcycle\nktm racing bike shorts\njammu kashmir motovlog\nbiker\nsuper bike racing\ngirl vs boy bike stunt\nviral\ntrending\nbike rider\nbike stunt\nmoto vlog\nzx10r\nbiker girl\nyoutube shorts\nkawasaki ninja h2r\nviral shorts\nbike video\nbike rider video\nviralshorts\n2024\nns200\ncops vs bikers\nduke\nns400\nsrilanka train vlogs\ngreen team\nkawasaki capital\nbmw\nH2r\nHayabusa \nAudi \nMercedes\ncar race\nmoto\nKtm \nKtm duke 390\nKtm RC \nz900 \nmotovlog crash\nmotovlog police chase\nmotovlog police\nmotovlog road rage\nbike vs cow attack\nbike vs scooty\nbike vs car\nbike vs police\nbike vs cow\nbike vs bike\nbike vs scooter which is better\nbike vs car \n\nTHANKU SO MUCH GUYS ❤️",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JXuaTUKXW2M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JXuaTUKXW2M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JXuaTUKXW2M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JXuaTUKXW2M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/JXuaTUKXW2M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Lifewithdeepak",
-        "tags": [
-          "dog",
-          "𝗣𝗿𝗮𝘆 𝗙𝗼𝗿 𝗗𝗼𝗴 🐶😰💥 𝗠𝗼𝘁𝗼𝘃𝗹𝗼𝗴𝘀 #shorts #cow #motovlog",
-          "Shorts",
-          "motovlog",
-          "motovlog with Superbike",
-          "nandan"
-        ],
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "𝗣𝗿𝗮𝘆 𝗙𝗼𝗿 𝗗𝗼𝗴 🐶😰 𝗠𝗼𝘁𝗼𝘃𝗹𝗼𝗴𝘀 #shorts #cow #motovlog #motovlog",
-          "description": "𝗣𝗿𝗮𝘆 𝗙𝗼𝗿 𝗗𝗼𝗴 🐶😰💥 𝗠𝗼𝘁𝗼𝘃𝗹𝗼𝗴𝘀 #shorts #cow #motovlog \nThis content is shared strictly for AWARENESS and ENTERTAINMENT PURPOSES ONLY.\n\nThis video is made only for entertainment and educational purposes.  \n\nWe do not support or promote any kind of negativity, violence, or harmful activity.  \nAll the content shown is purely creative and for fun learning.  \n\nWe respect all individuals and do not intend to hurt anyone’s feelings.  \nStay connected for more creative\n👉  No Copyright Infringement Is Intended. This is Merely Posted For The Enjoyment Of The Viewers\".\n\n👉 If Any Music Used In The Video Is The Property Of Their Respective Owners And Artists⭐️              \n\n👉Always Wear Safety Gears While\nRiding And Obey Traffic Rules ..Don't\nTry To Imitate Action In This Post .\nWe Have Shoot This Video Under Professionals With Proper Safety Measures.\n \n👉Video is only for Entertainment Purposes . Please Do Not Try To Copy , If You Are Still Bechain, Then Do At Your Own Risk\n\n                            ❌️ CAUTION ❌️\n                \n                     ♻️ DO NOT TRY THIS ♻️\n\n   👉All The Stunts Are Performed By Professionals, Do Not Try This.\n\nNinja h2r,KTM RC 390, superbike India, speed ride, biker life, fast ride India, KTM loversbullet vlog, Royal Enfield ride, bullet lovers, desi rider, rider lifestyle, Indian moto vlogger, bike shorts India\n\n\nIMPORTANT\n📌 This video is edited using my own SKILLS, EFFECTS & VISUAL ENHANCEMENTS.\n👉 All rights and credits go to the ORIGINAL CREATOR, mentioned in the video.\n\n⚠️ FAIR USE DISCLAIMER:\nThis video may contain copyrighted material, the use of which has not always been specifically authorized by the copyright owner.\nWe are making such material available for the purposes of comment, education, review, and entertainment.\nWe believe this constitutes a “fair use” under Section 107 of the Copyright Act 1976.\nIf any owner has issues with the content, please contact us directly. We will respectfully remove or credit it.\n                              \n〽️ Hastags Used :- 🤜\n\n#youtubeshorts #ytshorts #toxicmotovloger #bike #bikelife #ktm #duke #bikevideo #r15  #shortsfeed #zx10r #ninjah2r #bikestunt #newmotovlog #viralshorts #viralvideos #hyperride #s1000rr #yamaha  #policevsbiker #police  #whatsappstatus #bikeride #bikeriding #bikevideo #ktmrc390 #duke390 #dreambike #automobile #bikerider #ride #lifewithdeepak\n\n                               ❤️❤️❤️❤️❤️\n\n📶 Keywords Used \n1.bike videos \n2.bike lover  \n3.bike rider \n4.bike shorts \n5.rider \n6.motovlog \n7.motovlogger \n8.ktm \n9.duke  \n10.yamaha r15 \n11.kawasaki ninja zx10r \n12.bike rider fight \n13.bike rider video \n14.bike rider girls \n15.bike rider shorts vide \n\nTAGS ⭐\nrider\nshorts\nbike\nktm\nladakh\nmotovlog\nshort\nmotorcycle\nktm racing bike shorts\njammu kashmir motovlog\nbiker\nsuper bike racing\ngirl vs boy bike stunt\nviral\ntrending\nbike rider\nbike stunt\nmoto vlog\nzx10r\nbiker girl\nyoutube shorts\nkawasaki ninja h2r\nviral shorts\nbike video\nbike rider video\nviralshorts\n2024\nns200\ncops vs bikers\nduke\nns400\nsrilanka train vlogs\ngreen team\nkawasaki capital\nbmw\nH2r\nHayabusa \nAudi \nMercedes\ncar race\nmoto\nKtm \nKtm duke 390\nKtm RC \nz900 \nmotovlog crash\nmotovlog police chase\nmotovlog police\nmotovlog road rage\nbike vs cow attack\nbike vs scooty\nbike vs car\nbike vs police\nbike vs cow\nbike vs bike\nbike vs scooter which is better\nbike vs car \n\nTHANKU SO MUCH GUYS ❤️"
-        },
-        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
         "duration": "PT11S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "25989977",
-        "likeCount": "471163",
-        "favoriteCount": "0",
-        "commentCount": "38"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "L_sHGx2j-yKKbb_TR2l0oaUr7dY",
-      "id": "Bv5tnV3wMUk",
-      "snippet": {
-        "publishedAt": "2026-07-24T00:06:35Z",
-        "channelId": "UCaYta6nM9HdSUBN0EsBiGRg",
-        "title": "ผิดครั้งเดียว ล้อทั้งวัน",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Bv5tnV3wMUk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Bv5tnV3wMUk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Bv5tnV3wMUk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Bv5tnV3wMUk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Bv5tnV3wMUk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ฟลุ๊คยิ้มหวาน",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ผิดครั้งเดียว ล้อทั้งวัน",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1447543",
-        "likeCount": "15549",
-        "favoriteCount": "0",
-        "commentCount": "123"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JgjNnIXRpUuVlqLUQaGrT3g-l3o",
-      "id": "jP3dnI6B3Wk",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:45:02Z",
-        "channelId": "UCRaJQxc6rqKNcHXqTNlM2KA",
-        "title": "เขาทุบรถคนอื่นจนพัง สุดท้ายเจอบทเรียนทันที!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jP3dnI6B3Wk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jP3dnI6B3Wk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jP3dnI6B3Wk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jP3dnI6B3Wk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jP3dnI6B3Wk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เหมียวติดจอ",
-        "tags": [
-          "shorts",
-          "ไวรัล",
-          "คลายเครียด",
-          "สนุก",
-          "ตลก",
-          "เล่าเรื่อง",
-          "เรื่องแปลก",
-          "ฮาๆ",
-          "น่าทึ่ง",
-          "เบาสมอง"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เขาทุบรถคนอื่นจนพัง สุดท้ายเจอบทเรียนทันที!",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "174146",
-        "likeCount": "1965",
-        "favoriteCount": "0",
-        "commentCount": "3"
+        "viewCount": "132106",
+        "likeCount": "721",
+        "favoriteCount": "0"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TrfaZ-3D0RAJsepM4W1MVcKtVzs",
-      "id": "fXvaUA0_-nA",
+      "etag": "GeO-WDnhx04fO-7mIUqXzEKvkTQ",
+      "id": "XvePawzc9sI",
       "snippet": {
-        "publishedAt": "2026-08-05T16:00:31Z",
-        "channelId": "UCJ5kWRMD0lsZLWpvtHzZj2g",
-        "title": "น็อตเปลี่ยนสีได้ ขันแน่นเมื่อไหร่รู้ทันที",
+        "publishedAt": "2026-08-08T11:10:46Z",
+        "channelId": "UC3xeVfypSsaxq7yjZQT54Dw",
+        "title": "จักรยานยุคแรกเบรกยังไง",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fXvaUA0_-nA/default.jpg",
+            "url": "https://i.ytimg.com/vi/XvePawzc9sI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fXvaUA0_-nA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XvePawzc9sI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fXvaUA0_-nA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XvePawzc9sI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/fXvaUA0_-nA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/XvePawzc9sI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/fXvaUA0_-nA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XvePawzc9sI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "แฮมเบะเล่าเรื่อง ",
-        "categoryId": "22",
+        "channelTitle": "K Mastered",
+        "categoryId": "1",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "น็อตเปลี่ยนสีได้ ขันแน่นเมื่อไหร่รู้ทันที",
+          "title": "จักรยานยุคแรกเบรกยังไง",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT34S",
+        "duration": "PT46S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2859,63 +1764,257 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "107778",
-        "likeCount": "1727",
+        "viewCount": "99747",
+        "likeCount": "2713",
         "favoriteCount": "0",
-        "commentCount": "11"
+        "commentCount": "10"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "P5qCjl8fndAeTBDfaDFKu85CtBA",
-      "id": "7HWDVMdeJK4",
+      "etag": "myRscN2kwWUaTlqKqyYvpO2ygeQ",
+      "id": "CnYL72_upmU",
       "snippet": {
-        "publishedAt": "2026-08-07T10:46:21Z",
-        "channelId": "UCtmKiu-Mi75OvUsHas3GjjQ",
-        "title": "เขาบีบแตรตามรถคันนี้ไปทำไม?",
-        "description": "เขาบีบแตรตามรถคันนี้ไปทำไม?\n\n#shorts",
+        "publishedAt": "2026-08-01T05:03:38Z",
+        "channelId": "UCwUTehp37UHJiIlqN8sCOVA",
+        "title": "Cara kerja CVT motor matic adalah mengatur rasio kecepatan secara otomatis",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7HWDVMdeJK4/default.jpg",
+            "url": "https://i.ytimg.com/vi/CnYL72_upmU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7HWDVMdeJK4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnYL72_upmU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7HWDVMdeJK4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnYL72_upmU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7HWDVMdeJK4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnYL72_upmU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/7HWDVMdeJK4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CnYL72_upmU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ดู ยู โน มี",
+        "channelTitle": "woys channel",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "Cara kerja CVT motor matic adalah mengatur rasio kecepatan secara otomatis",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4059699",
+        "likeCount": "38777",
+        "favoriteCount": "0",
+        "commentCount": "61"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ixervoqCMBCaFr9s2n7ssnC0Wq4",
+      "id": "dTXasIZtplw",
+      "snippet": {
+        "publishedAt": "2026-08-07T10:02:23Z",
+        "channelId": "UC1k4-y_yieEHwjuf4msyN8A",
+        "title": "ซื้อรถ 30,000 ดอลลาร์จาก TEMU @CarterSharer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dTXasIZtplw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dTXasIZtplw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dTXasIZtplw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dTXasIZtplw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dTXasIZtplw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ซุยกะจวง",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "ซื้อรถ 30,000 ดอลลาร์จาก TEMU @CarterSharer",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "121943",
+        "likeCount": "4524",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wqRM0yn5dh3A5r2ULpVTF7tgJJw",
+      "id": "8rA1rdnbt9w",
+      "snippet": {
+        "publishedAt": "2026-07-30T10:00:04Z",
+        "channelId": "UCWPsFjTYRa9GqWcPlfCFC7g",
+        "title": "ขับรถแบคโฮเที่ยวจีน แต่โดนคนตามล่าทั้งประเทศ ☠️",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8rA1rdnbt9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ไม่รู้ก็ตอบไปเหอะ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ขับรถแบคโฮเที่ยวจีน แต่โดนคนตามล่าทั้งประเทศ ☠️",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "675428",
+        "likeCount": "22496",
+        "favoriteCount": "0",
+        "commentCount": "147"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GTyBoGLMCSKyMKDkyd9xppivaMg",
+      "id": "Z9AeSz1vAJo",
+      "snippet": {
+        "publishedAt": "2026-07-30T10:03:24Z",
+        "channelId": "UCDavWgAKAyyH01CnUmm8_0Q",
+        "title": "รถเหลืองหลบตำรวจสุดมึน ตำรวจงงไปเลย",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z9AeSz1vAJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WonderSphere",
         "tags": [
-          "shorts"
+          "ตำรวจ",
+          "รถเหลือง",
+          "หลบหนี",
+          "เรื่องฮาๆ",
+          "คลิปตลก",
+          "ไล่ล่า",
+          "ซ่อนตัว",
+          "เรื่องเหลือเชื่อ",
+          "แผนสุดเจ๋ง",
+          "คลิปน่าทึ่ง"
         ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เขาบีบแตรตามรถคันนี้ไปทำไม?",
-          "description": "เขาบีบแตรตามรถคันนี้ไปทำไม?\n\n#shorts"
+          "title": "รถเหลืองหลบตำรวจสุดมึน ตำรวจงงไปเลย",
+          "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT18S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2924,15 +2023,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "81945",
-        "likeCount": "1591",
+        "viewCount": "547903",
+        "likeCount": "5902",
         "favoriteCount": "0",
-        "commentCount": "2"
+        "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "TJ1p5iLENMr89sjDV3srEoT_iIs",
+      "etag": "ktZcyClmx5TVg6Xk-6HY_edyNvg",
+      "id": "wp2Y9ykdg7Y",
+      "snippet": {
+        "publishedAt": "2026-08-02T12:00:26Z",
+        "channelId": "UC4zpADUqraG_7gZN7sKql7A",
+        "title": "เมื่อคุณตัดรถให้สั้นเกินไป",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wp2Y9ykdg7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CHIBA FILE",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อคุณตัดรถให้สั้นเกินไป",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "289207",
+        "likeCount": "4264",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SIRUmb7p-KSlGpm9HYzFpNoEA-I",
+      "id": "7LEAOr1Q9To",
+      "snippet": {
+        "publishedAt": "2026-08-04T10:25:04Z",
+        "channelId": "UCPGlcIAHJjNtRMnuMs7qBww",
+        "title": "ท่อเดิมมันไม่เร้าใจ ขอแต่งใหม่ให้เสียงดังไปถึงหน้าปากซอย! 🏍️💨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7LEAOr1Q9To/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "แค่อยากเล่า",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ท่อเดิมมันไม่เร้าใจ ขอแต่งใหม่ให้เสียงดังไปถึงหน้าปากซอย! 🏍️💨",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "233083",
+        "likeCount": "3493",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KBSTFtKNlx947e140gP-rjxc2Sw",
       "id": "YrorXFc9zR8",
       "snippet": {
         "publishedAt": "2026-08-06T15:03:37Z",
@@ -2986,60 +2209,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1774814",
-        "likeCount": "17022",
+        "viewCount": "3072663",
+        "likeCount": "29044",
         "favoriteCount": "0",
-        "commentCount": "59"
+        "commentCount": "91"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "y2VrA0cpElLxkkXKG4_El269hBk",
-      "id": "P0eHV901rm8",
+      "etag": "DtOJvKdzbbG7tX1s7OURX7MZDp4",
+      "id": "vadRY3EwYIY",
       "snippet": {
-        "publishedAt": "2026-08-06T14:23:41Z",
-        "channelId": "UC4Qp7LKEeDUyaAt5jqM8jSg",
-        "title": "ต๊าปเกลียวน็อตจานไฟ #ช่างใหม่ยุค90 #ร้านคาวามอเตอร์เซอร์วิส #youtubeshorts",
-        "description": "จากคลิปวิดีโอ เป็นเทคนิคการ \"ต๊าปเกลียวใหม่ (Thread Repair)\" เพื่อซ่อมแซมเกลียวแกนเพลาข้อเหวี่ยงของเครื่องยนต์มอเตอร์ไซค์ที่ชำรุด เสียหาย หรือลบเลือน ให้กลับมาใช้งานได้เหมือนเดิมครับ\n\u200bโดยมีขั้นตอนและวิธีการทำดังนี้ครับ:\n\u200bเตรียมเครื่องมือและอุปกรณ์\n\u200bลูกต๊าปเกลียวตัวผู้ (Die): ขนาดให้ตรงกับเกลียวเดิมของแกนเพลา\n\u200bคีมล็อก (Locking Pliers / Vise-Grip): นำมาใช้หนีบจับตัวลูกต๊าปแทนด้ามต๊าปมาตรฐาน (เป็นเทคนิคการดัดแปลงเครื่องมือเฉพาะหน้าเมื่อไม่มีด้ามต๊าปขนาดที่พอดี)\n\u200bน้ำยาหล่อลื่น (หรือน้ำมัน): ช่วยลดความฝืด เศษโลหะ และทำให้เกลียวเรียบเนียนขึ้น\n\u200bขั้นตอนการทำเกลียว\n\u200bนำลูกต๊าปสวมเข้ากับปลายแกนเพลาที่เสียหาย\n\u200bใช้คีมล็อกหนีบจับที่ตัวลูกต๊าปให้แน่นหนา\n\u200bค่อย ๆ หมุนขันเข้าหาตัวเพลาอย่างช้า ๆ และระวังเรื่องการเอียง เพื่อให้ร่องเกลียวเดินตามแนวเดิมอย่างถูกต้อง\n\u200bหมุนเดินหน้าและถอยหลังสลับกันเล็กน้อยเพื่อตัดเศษโลหะออกและป้องกันไม่ให้เกลียวขัดตัว\n\u200bตรวจสอบความเรียบร้อย\n\u200bเมื่อหมุนจนสุดระยะและถอดลูกต๊าปออก จะได้เกลียวใหม่ที่คมและสะอาด\n\u200bทำความสะอาดเศษโลหะและคราบน้ำมันออกให้หมด\n\u200bนำน็อตตัวเมียมาลองขันเข้ากับเกลียวใหม่เพื่อทดสอบความลื่นและความสนิทในการใช้งาน\n\u200b💡 ข้อสังเกต: วิธีนี้เป็นการประยุกต์ใช้คีมล็อกกับลูกต๊าปเพื่อแก้ปัญหาหน้างานชั่วคราวหรือในกรณีที่ไม่มีเครื่องมือเฉพาะทางครับ",
+        "publishedAt": "2026-08-04T12:32:17Z",
+        "channelId": "UCOLxjsJXYy64_hIJZwPvq6Q",
+        "title": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง",
+        "description": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P0eHV901rm8/default.jpg",
+            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P0eHV901rm8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P0eHV901rm8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/P0eHV901rm8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/P0eHV901rm8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vadRY3EwYIY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Changmai",
+        "channelTitle": "JoJoCat",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ต๊าปเกลียวน็อตจานไฟ #ช่างใหม่ยุค90 #ร้านคาวามอเตอร์เซอร์วิส #youtubeshorts",
-          "description": "จากคลิปวิดีโอ เป็นเทคนิคการ \"ต๊าปเกลียวใหม่ (Thread Repair)\" เพื่อซ่อมแซมเกลียวแกนเพลาข้อเหวี่ยงของเครื่องยนต์มอเตอร์ไซค์ที่ชำรุด เสียหาย หรือลบเลือน ให้กลับมาใช้งานได้เหมือนเดิมครับ\n\u200bโดยมีขั้นตอนและวิธีการทำดังนี้ครับ:\n\u200bเตรียมเครื่องมือและอุปกรณ์\n\u200bลูกต๊าปเกลียวตัวผู้ (Die): ขนาดให้ตรงกับเกลียวเดิมของแกนเพลา\n\u200bคีมล็อก (Locking Pliers / Vise-Grip): นำมาใช้หนีบจับตัวลูกต๊าปแทนด้ามต๊าปมาตรฐาน (เป็นเทคนิคการดัดแปลงเครื่องมือเฉพาะหน้าเมื่อไม่มีด้ามต๊าปขนาดที่พอดี)\n\u200bน้ำยาหล่อลื่น (หรือน้ำมัน): ช่วยลดความฝืด เศษโลหะ และทำให้เกลียวเรียบเนียนขึ้น\n\u200bขั้นตอนการทำเกลียว\n\u200bนำลูกต๊าปสวมเข้ากับปลายแกนเพลาที่เสียหาย\n\u200bใช้คีมล็อกหนีบจับที่ตัวลูกต๊าปให้แน่นหนา\n\u200bค่อย ๆ หมุนขันเข้าหาตัวเพลาอย่างช้า ๆ และระวังเรื่องการเอียง เพื่อให้ร่องเกลียวเดินตามแนวเดิมอย่างถูกต้อง\n\u200bหมุนเดินหน้าและถอยหลังสลับกันเล็กน้อยเพื่อตัดเศษโลหะออกและป้องกันไม่ให้เกลียวขัดตัว\n\u200bตรวจสอบความเรียบร้อย\n\u200bเมื่อหมุนจนสุดระยะและถอดลูกต๊าปออก จะได้เกลียวใหม่ที่คมและสะอาด\n\u200bทำความสะอาดเศษโลหะและคราบน้ำมันออกให้หมด\n\u200bนำน็อตตัวเมียมาลองขันเข้ากับเกลียวใหม่เพื่อทดสอบความลื่นและความสนิทในการใช้งาน\n\u200b💡 ข้อสังเกต: วิธีนี้เป็นการประยุกต์ใช้คีมล็อกกับลูกต๊าปเพื่อแก้ปัญหาหน้างานชั่วคราวหรือในกรณีที่ไม่มีเครื่องมือเฉพาะทางครับ"
+          "title": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง",
+          "description": "โคลนเลอะขนาดนี้ เขามองเห็นทางได้ยังไง"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT15S",
+        "duration": "PT19S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3048,60 +2271,122 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "62663",
-        "likeCount": "579",
+        "viewCount": "227206",
+        "likeCount": "2122",
         "favoriteCount": "0",
-        "commentCount": "6"
+        "commentCount": "2"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "sZHkoKfPWfnJqMowRH5q9cGxKF8",
-      "id": "94MY8vNZXaU",
+      "etag": "WhIJqiaqMXcwlwZO1IKuGwHpgHo",
+      "id": "ShKh-Ni6wAE",
       "snippet": {
-        "publishedAt": "2026-08-07T02:46:15Z",
-        "channelId": "UC-QJLHDV9_57WwY3GoDgtUw",
-        "title": "สายลมหลุดเบรกไม่อยู่เกือบเหลือแต่ชื่อแล้ว #ช่างจำเป็น #ขับเองซ่อมเอง",
+        "publishedAt": "2026-08-06T09:37:22Z",
+        "channelId": "UCSqeRyp7SJjUd_GHyEQqekg",
+        "title": "เธอคิดว่าจะสอบขับรถผ่านได้ง่ายๆ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/94MY8vNZXaU/default.jpg",
+            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/94MY8vNZXaU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/94MY8vNZXaU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/94MY8vNZXaU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/94MY8vNZXaU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ShKh-Ni6wAE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "เพชร ดีกรี🌈🌻",
-        "categoryId": "24",
+        "channelTitle": "KYOCUTE",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "สายลมหลุดเบรกไม่อยู่เกือบเหลือแต่ชื่อแล้ว #ช่างจำเป็น #ขับเองซ่อมเอง",
+          "title": "เธอคิดว่าจะสอบขับรถผ่านได้ง่ายๆ",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT30S",
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "122945",
+        "likeCount": "10166",
+        "favoriteCount": "0",
+        "commentCount": "359"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ezezC2Vc8IPvbR_MzHlDqX1VMQU",
+      "id": "MyCXb0xl70Q",
+      "snippet": {
+        "publishedAt": "2026-07-30T07:43:23Z",
+        "channelId": "UC9RgByyDP16Ia9yL3CYCIfQ",
+        "title": "ชิดขอบสะพานเลย#shorts #farming #automobile #construction #bulldozerofficial #excavator #viralvideo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MyCXb0xl70Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เรื่องเด็ดริมทาง",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ชิดขอบสะพานเลย#shorts #farming #automobile #construction #bulldozerofficial #excavator #viralvideo",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3110,15 +2395,448 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "66179",
-        "likeCount": "1233",
+        "viewCount": "461604",
+        "likeCount": "2569",
         "favoriteCount": "0",
-        "commentCount": "14"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "X9gfNtocPqiK5GIoDu2PwKgqBQw",
+      "etag": "Me_ZFb0wSDoL9tqn6cfKL0h8Skc",
+      "id": "fEzxoAiTv4A",
+      "snippet": {
+        "publishedAt": "2026-07-20T19:38:02Z",
+        "channelId": "UCUHgnyd486jd5pdABS1f-Hw",
+        "title": "Range Rover Sport L461 L460 3.0 Mhev Mild Hybrid #range rover #landrover #камрад #креосан # суперсус",
+        "description": "Проверяем инновационные технологии гаражного тюнинга: немного фантазии, немного безумия — и Range Rover снова “завёлся”. Если любишь контент в духе Креосан, Супер Сус, Камрад и другие безумные эксперименты — тебе сюда!\n\n🔥 Подписывайся, впереди ещё больше странных, смешных и безумных роликов!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fEzxoAiTv4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fEzxoAiTv4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEzxoAiTv4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fEzxoAiTv4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fEzxoAiTv4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "КАМРАД",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Range Rover Sport L461 L460 3.0 Mhev Mild Hybrid #range rover #landrover #камрад #креосан # суперсус",
+          "description": "Проверяем инновационные технологии гаражного тюнинга: немного фантазии, немного безумия — и Range Rover снова “завёлся”. Если любишь контент в духе Креосан, Супер Сус, Камрад и другие безумные эксперименты — тебе сюда!\n\n🔥 Подписывайся, впереди ещё больше странных, смешных и безумных роликов!"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2112246",
+        "likeCount": "16338",
+        "favoriteCount": "0",
+        "commentCount": "296"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xA4lEjgkqQQMO9-SstX82gQOlII",
+      "id": "BeBn00lA-oI",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:21:26Z",
+        "channelId": "UCtrc62wCj1TYnLFn3D8L5Tg",
+        "title": "ขายรถไป เจออีกทีอยู่ในละคร",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BeBn00lA-oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BeBn00lA-oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BeBn00lA-oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BeBn00lA-oI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BeBn00lA-oI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mercury",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ขายรถไป เจออีกทีอยู่ในละคร",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "105278",
+        "likeCount": "3453",
+        "favoriteCount": "0",
+        "commentCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EqrjWncblVM0dxCOz2S2a712Do4",
+      "id": "KvE5KUtJxms",
+      "snippet": {
+        "publishedAt": "2026-08-08T05:31:10Z",
+        "channelId": "UCn3-3fhx-lq6A5l74_pLkpQ",
+        "title": "ได้ไม่คุ้มเสีย #ยืมรถ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KvE5KUtJxms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KvE5KUtJxms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KvE5KUtJxms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KvE5KUtJxms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KvE5KUtJxms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "สุกานดา ลูกบัว",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ได้ไม่คุ้มเสีย #ยืมรถ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "81069",
+        "likeCount": "1406",
+        "favoriteCount": "0",
+        "commentCount": "79"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A7zseiaq3vu3y9c-LGgAQfjLBm8",
+      "id": "M_VgOj_smrk",
+      "snippet": {
+        "publishedAt": "2026-08-03T13:08:22Z",
+        "channelId": "UCFeGF8xpC6wNfBxYuXcLeTw",
+        "title": "Farmtrac 60 🆚 Eicher 548 Tractor Tochan Video #viral #trending #farming #shorts #shortvideo",
+        "description": "Farmtrac 60 🆚 Eicher 548 Tractor Tochan Video #viral #trending #farming #shorts #shortvideo\n\n\n\n\n\n\n\n\n\n\n\nSwaraj 855 Vs John Deere 5210 Tractor Tochan Video\n\n\n\n\n\nMahindra 585 🆚 Mahindra 605 Tractor Tochan Video\n\n\n\nJohn Deere 5210 🆚 Mahindra 605 Tractor Tochan Video \n\n\n\n\nSonalika 50 🆚 Swaraj 855 Tractor Tochan Testing Video \n\n\n\n\nMP King Protek 🆚 4 Cylinder Tractor Tochan Video \n\n\nKing Kong vs Sonalika RX60 Tractor Tochan Video \n\n\n\nSolis 5724 Vs Swaraj 855\n\n\nMahindra 585 Vs Mahindra 555 khatrnak Tractor tochan \n\n\nMahindra 585 vs Sonalika 750 Tractor Tochan Testing \n\n\n\n\n\n\n\n\n\nSonalika RX 60 Vs Sonalika 60 Di Tractor Tochan Video \n\n\n\nJohn Deere 5210 khatrnak Tochan Testing Video \n\n\n\nSonalika 4 Cylinder Vs Powertrac 7000 Tochan video \n\n\nPowertrac Euro50 Vs 4 Cylinder Tractor Tochan video \n\n\n\n\n\nPowertrac Euro50 Vs Farmtrac Asla Tractor Tochan Video \n\n\n\nJohn Deere 5210 Vs 4 Cylinder Tractor Tochan video \n\n\n\nJohn Deere5210 Vs Mahindra 605 Khatrnak Tractor Tochan\n\n\n\n\n\nNew King Kong Vs Swaraj 855 FE Tractor Tochan Video \n\n\n\n\n\n\n4 Cylinder Vs Sonalika RX 60 Khatrnak Tractor Tochan Video \n\n\n\n\nSonalika 55 Vs John Deere 5210 Khatrnak Tractor Tochan video \n\n\nSonalika RX60 Vs Sonalika55 DI khatrnak tractor tochan \n\n\n\n@BobbyYadavGzp  \n\n\n\nShooter5210 Vs John Deere 5210 Khatrnak Tractor Tochan \n\n\n\n\nSonalika RX 60 Vs Euro 60 Tractor Tochan video \n\n\n\n\nFarmtrac60 vs Sonalika 60 RX Khatrnak tractor tochan \n\nSolis 5724 vs John Deere 5210 Khatarnak Tractor Tochan \n\n\n\n\n\nLomdi 5210 vs Hunter 5210 tractor tochan video \n\n\n\nPowertrac 7000 vs John Deere 5210 tractor tochan video\n\n\n\n\nLomdi 5210 vs Hunter 5210 Khatrnak tractor tochan video \n\n\n\n\nSonalika 750 Di vs Babbar Sher 5210 Tractor Tochan tournament \n\n\n\n\n\nDigitrac PP46 vs John Deere 5210 Tractor Tochan video \n\n\n\nJohn Deere Shooter5210 vs Red House 855 tochan video\n\n\n\nNew King Kong vs IndoForm Amit Tanwar Tractor Tochan\n\n\n\n\nSonalika Sher RX 60 vs Euro 50 Thekedar Tochan video \n\n\nJohn Deere 5210 vs Badshah DiGitrac  Khatarnak Tochan\n\n\n\nKing Kong vs Babbar Sher 5210 khatarnak Tochan video\n\n\nJohn Deere vs IndoForm Amit Tanwar 7000 Tochan video \n\n\n\n\nIndoFarm3055 vs John Deere5210 Khatarnak Tochan video \n\n\n\n\nJohn Deere5210 vs Indoform khatrnak Tractor Tochan video #tochanking #kingkong \n\n\nMahindra 575 Di Rescued Eicher333 Stuck with trolly \n\n\nNew Swaraj 960 Stuck with 200 foot trolley JCB Rescued \n\nNew Swaraj 960 Stuck with 200 foot trolley in deep mud\n\n\n\n\nFarmtrac 6055 vs Jagira 485 khatarnak tractor tochan video\n\nSwaraj 855 vs Red lion 🦁 Tochan video \n\n\n\n\nEicher 551 stuck with Trolley JCB se Nikla Tractor \n\nEicher 551 ko JCB se Nikalna Pada 200 ft trolley mitti se\n\nSonalika Tochan Swaraj 855 stuck in deep mud \n\n\n\nSwaraj 960 stuck in deep mud and water \n\nSwaraj 855 vs Swaraj 💪🏻 960 dono takra Gaye \n\n\nNew Swaraj 855 FE Power 💪🏻 In Deep water and mud\n\n\nSwaraj 855 and 960 on field working\n\n\n\nSwaraj 855 stuck in deep mud and water\n\n\nMahindra 575 DI stuck in deep mod tochan video\n\n\nSonalika 745 DX stuck in mud tochan with Mahindra 575 DI\n\n\n\ntochan krne jate huye Swaraj 744 fe\n\n\n\nSwaraj 960 Fe tochan in deep mod Mahindra 575 DI \n\nMahindra 575 DI se nikala Gaya\n\n\n\nSwaraj 960 fe tochan deep mod Mahindra 575 DI \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntractor tochan video \nviral tractor video \ntractor video viral kaise karen \ntractor short video\nnew Sonalika video \nSonalika tractor modification \nnew Sonalika modification 60 \nSonalika 60 power for \nSonalika Mud test \nSonalika 4×4 tractor\nSonalika tractor video\ntractor video \ntochan king \nMahindra tractor \ntractor stunt video \ntractor stunt \ntractor trending video \ntractor viral video \ntractor \ntractor video open lion \nMahindra tractor 575 DI \nMahindra tractor video \nMahindra 855 \nMahindra 744 \nMahindra 855 tochan video \nMahindra tractor price \nMahindra Yuvo 855 tractor price \nMahindra Yuvo 575 Di tractor price \nSwaraj 744 khet mein fas Gaya \nSwaraj 744 tochan \nSwaraj 744 tochan king \nSwaraj 744 4×4\nSwaraj 744 new model\nSwaraj 960 in mod\nSwaraj 960 new model \ntractor tochan video \nNishu deshval tractor video \ndilon ka Raja tractor \ndilon ka Dhadkan tractor \n855 dilon ka Dhadkan \nNishu deshval \n@BobbyYadavGzp  \n\n#rankvideofast #vlog \n#videorank #mihindra \n#viralyoutubevideo #tractorstunt \n#searchvideo #farmtrac \n#videorankkaisekare #eicher \n#creatorsearch2 #mihindra #viral #tractorstunt #trendingshorts \n#bobbyyadavgzp #hyped #tochan \n#tractorvideo #trending #tractor #viral #tochanking  #tractor #eicher #mahindraindia \n \n\nPlease👉 Like, Comment & Share.\n\n👉 Subscribe my Channel ⏮️⏩\n👉Thanks for Watching 👈",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_VgOj_smrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_VgOj_smrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_VgOj_smrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M_VgOj_smrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M_VgOj_smrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bobby Yadav Gzp ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "hi",
+        "localized": {
+          "title": "Farmtrac 60 🆚 Eicher 548 Tractor Tochan Video #viral #trending #farming #shorts #shortvideo",
+          "description": "Farmtrac 60 🆚 Eicher 548 Tractor Tochan Video #viral #trending #farming #shorts #shortvideo\n\n\n\n\n\n\n\n\n\n\n\nSwaraj 855 Vs John Deere 5210 Tractor Tochan Video\n\n\n\n\n\nMahindra 585 🆚 Mahindra 605 Tractor Tochan Video\n\n\n\nJohn Deere 5210 🆚 Mahindra 605 Tractor Tochan Video \n\n\n\n\nSonalika 50 🆚 Swaraj 855 Tractor Tochan Testing Video \n\n\n\n\nMP King Protek 🆚 4 Cylinder Tractor Tochan Video \n\n\nKing Kong vs Sonalika RX60 Tractor Tochan Video \n\n\n\nSolis 5724 Vs Swaraj 855\n\n\nMahindra 585 Vs Mahindra 555 khatrnak Tractor tochan \n\n\nMahindra 585 vs Sonalika 750 Tractor Tochan Testing \n\n\n\n\n\n\n\n\n\nSonalika RX 60 Vs Sonalika 60 Di Tractor Tochan Video \n\n\n\nJohn Deere 5210 khatrnak Tochan Testing Video \n\n\n\nSonalika 4 Cylinder Vs Powertrac 7000 Tochan video \n\n\nPowertrac Euro50 Vs 4 Cylinder Tractor Tochan video \n\n\n\n\n\nPowertrac Euro50 Vs Farmtrac Asla Tractor Tochan Video \n\n\n\nJohn Deere 5210 Vs 4 Cylinder Tractor Tochan video \n\n\n\nJohn Deere5210 Vs Mahindra 605 Khatrnak Tractor Tochan\n\n\n\n\n\nNew King Kong Vs Swaraj 855 FE Tractor Tochan Video \n\n\n\n\n\n\n4 Cylinder Vs Sonalika RX 60 Khatrnak Tractor Tochan Video \n\n\n\n\nSonalika 55 Vs John Deere 5210 Khatrnak Tractor Tochan video \n\n\nSonalika RX60 Vs Sonalika55 DI khatrnak tractor tochan \n\n\n\n@BobbyYadavGzp  \n\n\n\nShooter5210 Vs John Deere 5210 Khatrnak Tractor Tochan \n\n\n\n\nSonalika RX 60 Vs Euro 60 Tractor Tochan video \n\n\n\n\nFarmtrac60 vs Sonalika 60 RX Khatrnak tractor tochan \n\nSolis 5724 vs John Deere 5210 Khatarnak Tractor Tochan \n\n\n\n\n\nLomdi 5210 vs Hunter 5210 tractor tochan video \n\n\n\nPowertrac 7000 vs John Deere 5210 tractor tochan video\n\n\n\n\nLomdi 5210 vs Hunter 5210 Khatrnak tractor tochan video \n\n\n\n\nSonalika 750 Di vs Babbar Sher 5210 Tractor Tochan tournament \n\n\n\n\n\nDigitrac PP46 vs John Deere 5210 Tractor Tochan video \n\n\n\nJohn Deere Shooter5210 vs Red House 855 tochan video\n\n\n\nNew King Kong vs IndoForm Amit Tanwar Tractor Tochan\n\n\n\n\nSonalika Sher RX 60 vs Euro 50 Thekedar Tochan video \n\n\nJohn Deere 5210 vs Badshah DiGitrac  Khatarnak Tochan\n\n\n\nKing Kong vs Babbar Sher 5210 khatarnak Tochan video\n\n\nJohn Deere vs IndoForm Amit Tanwar 7000 Tochan video \n\n\n\n\nIndoFarm3055 vs John Deere5210 Khatarnak Tochan video \n\n\n\n\nJohn Deere5210 vs Indoform khatrnak Tractor Tochan video #tochanking #kingkong \n\n\nMahindra 575 Di Rescued Eicher333 Stuck with trolly \n\n\nNew Swaraj 960 Stuck with 200 foot trolley JCB Rescued \n\nNew Swaraj 960 Stuck with 200 foot trolley in deep mud\n\n\n\n\nFarmtrac 6055 vs Jagira 485 khatarnak tractor tochan video\n\nSwaraj 855 vs Red lion 🦁 Tochan video \n\n\n\n\nEicher 551 stuck with Trolley JCB se Nikla Tractor \n\nEicher 551 ko JCB se Nikalna Pada 200 ft trolley mitti se\n\nSonalika Tochan Swaraj 855 stuck in deep mud \n\n\n\nSwaraj 960 stuck in deep mud and water \n\nSwaraj 855 vs Swaraj 💪🏻 960 dono takra Gaye \n\n\nNew Swaraj 855 FE Power 💪🏻 In Deep water and mud\n\n\nSwaraj 855 and 960 on field working\n\n\n\nSwaraj 855 stuck in deep mud and water\n\n\nMahindra 575 DI stuck in deep mod tochan video\n\n\nSonalika 745 DX stuck in mud tochan with Mahindra 575 DI\n\n\n\ntochan krne jate huye Swaraj 744 fe\n\n\n\nSwaraj 960 Fe tochan in deep mod Mahindra 575 DI \n\nMahindra 575 DI se nikala Gaya\n\n\n\nSwaraj 960 fe tochan deep mod Mahindra 575 DI \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntractor tochan video \nviral tractor video \ntractor video viral kaise karen \ntractor short video\nnew Sonalika video \nSonalika tractor modification \nnew Sonalika modification 60 \nSonalika 60 power for \nSonalika Mud test \nSonalika 4×4 tractor\nSonalika tractor video\ntractor video \ntochan king \nMahindra tractor \ntractor stunt video \ntractor stunt \ntractor trending video \ntractor viral video \ntractor \ntractor video open lion \nMahindra tractor 575 DI \nMahindra tractor video \nMahindra 855 \nMahindra 744 \nMahindra 855 tochan video \nMahindra tractor price \nMahindra Yuvo 855 tractor price \nMahindra Yuvo 575 Di tractor price \nSwaraj 744 khet mein fas Gaya \nSwaraj 744 tochan \nSwaraj 744 tochan king \nSwaraj 744 4×4\nSwaraj 744 new model\nSwaraj 960 in mod\nSwaraj 960 new model \ntractor tochan video \nNishu deshval tractor video \ndilon ka Raja tractor \ndilon ka Dhadkan tractor \n855 dilon ka Dhadkan \nNishu deshval \n@BobbyYadavGzp  \n\n#rankvideofast #vlog \n#videorank #mihindra \n#viralyoutubevideo #tractorstunt \n#searchvideo #farmtrac \n#videorankkaisekare #eicher \n#creatorsearch2 #mihindra #viral #tractorstunt #trendingshorts \n#bobbyyadavgzp #hyped #tochan \n#tractorvideo #trending #tractor #viral #tochanking  #tractor #eicher #mahindraindia \n \n\nPlease👉 Like, Comment & Share.\n\n👉 Subscribe my Channel ⏮️⏩\n👉Thanks for Watching 👈"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1120299",
+        "likeCount": "5657",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RBFM_hV_6SgMeAWQHspty8X6ldI",
+      "id": "lPYjHOa9vf4",
+      "snippet": {
+        "publishedAt": "2026-08-01T11:15:13Z",
+        "channelId": "UCxHZcNN3A2LRcr5sU3HGWuw",
+        "title": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜",
+        "description": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lPYjHOa9vf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "emwise",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜",
+          "description": "ยางรถแทรกเตอร์ห่อพลาสติก 🚜"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "338151",
+        "likeCount": "4333",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GiRhIEFozzHCD9f-1rooNXGXSw0",
+      "id": "_pGFc6IyoxU",
+      "snippet": {
+        "publishedAt": "2026-08-07T12:08:39Z",
+        "channelId": "UCYh3yhVq18d9f7E3WB08mwQ",
+        "title": "😱 The Ground Suddenly Gives Way... Just Seconds to Escape!",
+        "description": "😱 The Ground Suddenly Gives Way... Just Seconds to Escape!\n\nA cinematic digital reconstruction based on a real location reference, illustrating how unstable ground can rapidly develop into a landslide within seconds. Created with a strong focus on realistic terrain behavior, natural movement, and authentic environmental details.\nAlways keep a safe distance from unstable slopes and cliff edges.\nVisual Disclosure: This video contains a digital reconstruction created from an original location reference for storytelling and educational purposes.\n#Adventure #OffRoad #TrailRiding #Nature #Landslide #GroundCollapse #OutdoorLife #ExtremeTerrain #Survival #Explore #Motorcycle #Cinematic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_pGFc6IyoxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_pGFc6IyoxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_pGFc6IyoxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_pGFc6IyoxU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_pGFc6IyoxU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Neo Adventure",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "😱 The Ground Suddenly Gives Way... Just Seconds to Escape!",
+          "description": "😱 The Ground Suddenly Gives Way... Just Seconds to Escape!\n\nA cinematic digital reconstruction based on a real location reference, illustrating how unstable ground can rapidly develop into a landslide within seconds. Created with a strong focus on realistic terrain behavior, natural movement, and authentic environmental details.\nAlways keep a safe distance from unstable slopes and cliff edges.\nVisual Disclosure: This video contains a digital reconstruction created from an original location reference for storytelling and educational purposes.\n#Adventure #OffRoad #TrailRiding #Nature #Landslide #GroundCollapse #OutdoorLife #ExtremeTerrain #Survival #Explore #Motorcycle #Cinematic"
+        },
+        "defaultAudioLanguage": "id"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "916572",
+        "likeCount": "4635",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Wk7-_9XolgXjsS1h0MrlYWWwOIg",
+      "id": "Kv372SnLYAk",
+      "snippet": {
+        "publishedAt": "2026-08-01T10:33:04Z",
+        "channelId": "UC3_IZVzthtqO2N4OxrgvzEQ",
+        "title": "ถนนจมน้ำ เด็กๆ กลับบ้านไม่ได้! รถคันนี้จะช่วยหรือจะไปต่อ?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kv372SnLYAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เล่าจนแสบคอ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ถนนจมน้ำ เด็กๆ กลับบ้านไม่ได้! รถคันนี้จะช่วยหรือจะไปต่อ?",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "329241",
+        "likeCount": "9627",
+        "favoriteCount": "0",
+        "commentCount": "153"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x7eMNxOBFz1pDicykdeK3CqcBvs",
       "id": "TOFWJfzFXrI",
       "snippet": {
         "publishedAt": "2026-08-04T02:00:23Z",
@@ -3171,10 +2889,258 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "123994",
-        "likeCount": "2532",
+        "viewCount": "175367",
+        "likeCount": "3605",
         "favoriteCount": "0",
-        "commentCount": "4"
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nvTNny5e0gUcFDU139k-e61imhU",
+      "id": "kJktUpAxUnQ",
+      "snippet": {
+        "publishedAt": "2026-08-09T01:00:23Z",
+        "channelId": "UCK7DJJeFuKzSeoXOb22-0ZA",
+        "title": "แต่งมอไซค์แบบนี้ ในอเมริกาโดนตำรวจจับทันที 🏍",
+        "description": "แต่งมอไซค์แบบนี้ ในอเมริกาโดนตำรวจจับทันที 🏍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kJktUpAxUnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kJktUpAxUnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kJktUpAxUnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kJktUpAxUnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kJktUpAxUnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Today to Tell: Stories that matter.",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แต่งมอไซค์แบบนี้ ในอเมริกาโดนตำรวจจับทันที 🏍",
+          "description": "แต่งมอไซค์แบบนี้ ในอเมริกาโดนตำรวจจับทันที 🏍"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "49080",
+        "likeCount": "1200",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HmllAQflWcFL2SiAmBbrjjm9DT8",
+      "id": "uuPqpviEopc",
+      "snippet": {
+        "publishedAt": "2026-08-02T09:43:22Z",
+        "channelId": "UC_Zq29MKLrSsZUrInT-O4Dw",
+        "title": "pasang Ban motor mak kunti",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uuPqpviEopc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uuPqpviEopc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uuPqpviEopc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uuPqpviEopc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uuPqpviEopc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KUNTI FAMILY",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "pasang Ban motor mak kunti",
+          "description": ""
+        },
+        "defaultAudioLanguage": "id"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6962707",
+        "likeCount": "50025",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "u-yq5ETWGdXqR6D2p7Gj_OHo8q0",
+      "id": "YwTBJLbtVxc",
+      "snippet": {
+        "publishedAt": "2026-08-08T11:30:25Z",
+        "channelId": "UCKgZEkOVOiwc5K_wnzv-smw",
+        "title": "แข่งกระโดดรถ แต่คนที่โดดสูงที่สุดกลับไม่ได้ชนะเสมอไป 🛻",
+        "description": "แข่งกระโดดรถ แต่คนที่โดดสูงที่สุดกลับไม่ได้ชนะเสมอไป 🛻",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YwTBJLbtVxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YwTBJLbtVxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YwTBJLbtVxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YwTBJLbtVxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YwTBJLbtVxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STORY*DED",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แข่งกระโดดรถ แต่คนที่โดดสูงที่สุดกลับไม่ได้ชนะเสมอไป 🛻",
+          "description": "แข่งกระโดดรถ แต่คนที่โดดสูงที่สุดกลับไม่ได้ชนะเสมอไป 🛻"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "60323",
+        "likeCount": "968",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZzrCanWaQOjcbBWzjPQl23e9yw8",
+      "id": "fMBqxKGjQCY",
+      "snippet": {
+        "publishedAt": "2026-08-04T13:30:07Z",
+        "channelId": "UCLyXXHKj1_34hLYVBcRDMdw",
+        "title": "#edit",
+        "description": "#usa\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a No\n\nNo problem!\n\nThe Mercedes CLR GTR is a remarkable racing car\n\ncelebrated for its\n\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\n\nengine, it delivers over 600 horsepower.\n\nX\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\n\nremarkable top speed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\n\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control,\n\nparticularly during high-speed maneuvers.\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\n\nof the most exclusive and prestigious racing cars ever produced. s\n\nIts limited production run of just five units adds to its rarity, making it highly\n\nsought after by racing enthusiasts and collectors worldwide.\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\nby Krishn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMBqxKGjQCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMBqxKGjQCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMBqxKGjQCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMBqxKGjQCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMBqxKGjQCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nivolix Shorts",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#edit",
+          "description": "#usa\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered oneof the most exclusive a No\n\nNo problem!\n\nThe Mercedes CLR GTR is a remarkable racing car\n\ncelebrated for its\n\noutstanding performance and sleek design. Powered by a potent 6.0-liter V12\n\nengine, it delivers over 600 horsepower.\n\nX\n\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a\n\nremarkable top speed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\n\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control,\n\nparticularly during high-speed maneuvers.\n\nOriginally priced around $1.5 million, the Mercedes CLR GTR is considered one\n\nof the most exclusive and prestigious racing cars ever produced. s\n\nIts limited production run of just five units adds to its rarity, making it highly\n\nsought after by racing enthusiasts and collectors worldwide.\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\n\n#instagramgrowthexpert #socialmediatips #socialmediaexpert #instagramgrowthtips #contentmarketing #instagramgrowth #onlinecoach #business #contenttips #makebetterreels #socialmediamarketing #socialmediagrowth #socialmediastrategy #instagramalgorithm #instagramtutorial #howtoinstagram #growninstagram #instagrambusinessgrowth #socialmediamarketingtips\n\nby Krishn"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5161815",
+        "likeCount": "59447",
+        "favoriteCount": "0",
+        "commentCount": "157"
       }
     }
   ],

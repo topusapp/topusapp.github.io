@@ -1,10 +1,72 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "VjTX6puaksPNdtxDPj4C3D9o8n4",
+  "etag": "x_0TlcVjabG-fM0yr366Y_z7Jr4",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "7xcp7NSMOp4nA4WFNMiDE9hgeT4",
+      "etag": "ZI_DkxvN23qZW4nZ1xHZRLTRN0k",
+      "id": "pDLvpkrvL00",
+      "snippet": {
+        "publishedAt": "2026-08-05T07:45:11Z",
+        "channelId": "UCBCF97JRGmkhsHQ0125mteg",
+        "title": "大谷の負傷に反応する味方選手たち",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDLvpkrvL00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDLvpkrvL00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDLvpkrvL00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pDLvpkrvL00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pDLvpkrvL00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TheWorld",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "大谷の負傷に反応する味方選手たち",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2490617",
+        "likeCount": "62319",
+        "favoriteCount": "0",
+        "commentCount": "331"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lZNsD99Rpowm7uXRq1gRxhI6fgE",
       "id": "VCdTZKnToGA",
       "snippet": {
         "publishedAt": "2026-08-02T12:13:35Z",
@@ -58,15 +120,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5279079",
-        "likeCount": "148289",
+        "viewCount": "5659893",
+        "likeCount": "156862",
         "favoriteCount": "0",
-        "commentCount": "559"
+        "commentCount": "588"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ae_YnIv3SMVOGGC9RArD9yeL_co",
+      "etag": "uQnBqv3v5VID8Qe-YwQ4oXLYLR8",
       "id": "cncvXWXM-AU",
       "snippet": {
         "publishedAt": "2026-08-07T07:00:20Z",
@@ -120,1466 +182,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1104111",
-        "likeCount": "10435",
+        "viewCount": "1269945",
+        "likeCount": "11974",
         "favoriteCount": "0",
-        "commentCount": "312"
+        "commentCount": "353"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-DGgKXv6BTs9pJpExfor7LTG0s4",
-      "id": "R0gxCFcM-jA",
-      "snippet": {
-        "publishedAt": "2026-08-01T09:45:38Z",
-        "channelId": "UCBCF97JRGmkhsHQ0125mteg",
-        "title": "試合中にグラブを反対に付け替えた理由",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/R0gxCFcM-jA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/R0gxCFcM-jA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/R0gxCFcM-jA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/R0gxCFcM-jA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/R0gxCFcM-jA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TheWorld",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "試合中にグラブを反対に付け替えた理由",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4286237",
-        "likeCount": "55729",
-        "favoriteCount": "0",
-        "commentCount": "399"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MjwqQ0pEsbcBL0e9Tz2QoxCpF7w",
-      "id": "qsuv0Ag0pGs",
-      "snippet": {
-        "publishedAt": "2026-08-03T09:27:53Z",
-        "channelId": "UCmmv1Rw1tEWXvsb7jJtDmPg",
-        "title": "FKで宇宙人だとバレてしまったメッシ #メッシ #サッカー",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ほぼタケフサ【Football】",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "FKで宇宙人だとバレてしまったメッシ #メッシ #サッカー",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2437168",
-        "likeCount": "26457",
-        "favoriteCount": "0",
-        "commentCount": "202"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_DY-hhQsfyf5a9Lip82Q1zTQn5A",
-      "id": "Blz9D3GD8N0",
-      "snippet": {
-        "publishedAt": "2026-08-04T12:57:39Z",
-        "channelId": "UCgKiusMsHOWJYx8ZdX30aZA",
-        "title": "骨折に気づかない選手。",
-        "description": "アドレナリン出すぎると骨折に気づけないのか…\n\n#スポーツ #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "脳筋ショート",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "骨折に気づかない選手。",
-          "description": "アドレナリン出すぎると骨折に気づけないのか…\n\n#スポーツ #shorts"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT30S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1968815",
-        "likeCount": "43370",
-        "favoriteCount": "0",
-        "commentCount": "273"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Mn9d6BtPU_0gm68-853Gffu5wVE",
-      "id": "CTS4GPLcvbo",
-      "snippet": {
-        "publishedAt": "2026-08-01T07:25:27Z",
-        "channelId": "UCpINXzgnom9unyFKq2u7aQg",
-        "title": "【大爆笑】野球部のセンスは世界一‼︎芸人級に面白い高校生球児が青春を謳歌する瞬間TOP5",
-        "description": "【※視聴者の皆様へ：免責事項と注意喚起】\n動画に出ている子供たちは、まだまだ成長途中です。\n皆様のあたたかい言葉にいつも励まされていますが、子供が悲しんだり、傷ついたりするような心無いコメントはお控えいただけると嬉しいです。\n\nみんなで楽しく安心できるコメント欄にしていきたいので、あたたかく見守っていただけますと幸いです😊\n（※攻撃的なコメントや誹謗中傷と判断した場合は、そっと削除・ブロック等の対応をさせていただくことがあります🙏）\n\nおもろければコメントとご家族や親友に共有してね‼️\n\n👉 あなたはどの青春が好き？コメントで教えてね！  \nチャンネル登録▶ https://youtube.com/channel/UCpINXzgnom9unyFKq2u7aQg?si=asRiHIrz63t2t3kC\n\n【クレジット・素材提供】  \n使用素材はクリエイターからの許可／またはフェアユースに基づき編集して使用しています。問題があればお手数ですが下記までご連絡ください。  \n連絡先：moneytips500@gmail.com \n\n#funny #billiards #games #gaming #sports #pool #tierlist #god #viral #trending #video #darts #bowling #amazing #comedy #movie #skating #skills #skateboarding #shorts #cool #kids #japan #music #jk #happybirthday #happy #dance #anime #baseball #basketball",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ワールドハック",
-        "tags": [
-          "面白い",
-          "ランキング",
-          "おすすめ",
-          "おもしろ",
-          "お笑い",
-          "雑学",
-          "あるある",
-          "ドッキリ",
-          "ハプニング",
-          "リアクション",
-          "サプライズ",
-          "高校生",
-          "青春",
-          "TikTok",
-          "バズった",
-          "甲子園",
-          "野球部",
-          "大谷翔平",
-          "スポーツ",
-          "アニメ",
-          "ゲーム"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【大爆笑】野球部のセンスは世界一‼︎芸人級に面白い高校生球児が青春を謳歌する瞬間TOP5",
-          "description": "【※視聴者の皆様へ：免責事項と注意喚起】\n動画に出ている子供たちは、まだまだ成長途中です。\n皆様のあたたかい言葉にいつも励まされていますが、子供が悲しんだり、傷ついたりするような心無いコメントはお控えいただけると嬉しいです。\n\nみんなで楽しく安心できるコメント欄にしていきたいので、あたたかく見守っていただけますと幸いです😊\n（※攻撃的なコメントや誹謗中傷と判断した場合は、そっと削除・ブロック等の対応をさせていただくことがあります🙏）\n\nおもろければコメントとご家族や親友に共有してね‼️\n\n👉 あなたはどの青春が好き？コメントで教えてね！  \nチャンネル登録▶ https://youtube.com/channel/UCpINXzgnom9unyFKq2u7aQg?si=asRiHIrz63t2t3kC\n\n【クレジット・素材提供】  \n使用素材はクリエイターからの許可／またはフェアユースに基づき編集して使用しています。問題があればお手数ですが下記までご連絡ください。  \n連絡先：moneytips500@gmail.com \n\n#funny #billiards #games #gaming #sports #pool #tierlist #god #viral #trending #video #darts #bowling #amazing #comedy #movie #skating #skills #skateboarding #shorts #cool #kids #japan #music #jk #happybirthday #happy #dance #anime #baseball #basketball"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3751940",
-        "likeCount": "70603",
-        "favoriteCount": "0",
-        "commentCount": "156"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wanC91Kfs3Y2gSnb6HycN0yZCQg",
-      "id": "BkoJc8N4Qgs",
-      "snippet": {
-        "publishedAt": "2026-08-06T14:49:58Z",
-        "channelId": "UCunPpLLx1G3ofm78QDOKNvg",
-        "title": "800試合無交代？メッシも驚く伝説の鉄人",
-        "description": "18年間、一度も交代掲示板に番号が出なかった伝説の選手。\nその名は？\n\n#サッカー #伝説 #神記録 #サッカー雑学 #BillyMcNeill #ショート #epl #uefa",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "奇跡の瞬間",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "800試合無交代？メッシも驚く伝説の鉄人",
-          "description": "18年間、一度も交代掲示板に番号が出なかった伝説の選手。\nその名は？\n\n#サッカー #伝説 #神記録 #サッカー雑学 #BillyMcNeill #ショート #epl #uefa"
-        },
-        "defaultAudioLanguage": "ko"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "918109",
-        "likeCount": "14530",
-        "favoriteCount": "0",
-        "commentCount": "263"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EGxn7fWGeGEW3ITk3ypebpOtNjA",
-      "id": "pdfOmPrMLx0",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:30:39Z",
-        "channelId": "UCfxpKIZRt9KuGyKPfGuGNfw",
-        "title": "2026年日本人野手盗塁まとめ #野球 #mlb #メジャーリーグ #盗塁 #short",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "のぼるのボール",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "2026年日本人野手盗塁まとめ #野球 #mlb #メジャーリーグ #盗塁 #short",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT28S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1106819",
-        "likeCount": "16371",
-        "favoriteCount": "0",
-        "commentCount": "101"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "npbfmBsMh2LArKpiRdKp6wUJY5s",
-      "id": "dr6i-jg9Zyo",
-      "snippet": {
-        "publishedAt": "2026-08-04T07:00:27Z",
-        "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
-        "title": "試合中に感情をため込むと危険な理由",
-        "description": "#9",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "一分一秒",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "試合中に感情をため込むと危険な理由",
-          "description": "#9"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1223931",
-        "likeCount": "24994",
-        "favoriteCount": "0",
-        "commentCount": "189"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2JL7E47rNEB_pFL55htcRBCUkvI",
-      "id": "M5rslJSHPsQ",
-      "snippet": {
-        "publishedAt": "2026-08-01T01:00:23Z",
-        "channelId": "UCxnLsgE9iWGlsAO_X8PtjRw",
-        "title": "勘違いでフルコートシュートを決めた！😨",
-        "description": "@overtime\n\nブライオン・アームストロング（Bryon Armstrong）\n国籍：アメリカ\n身長／体重：約188～191 cm／約109 kg\nポジション：ガード／フォワード\n主な実績：\n・TAPPS 6A州大会優勝 2回（2019年、2021年）\n・高校時代にオールステート・ファーストチームへ4回選出\n\n#スポーツ\n#スポビト",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/M5rslJSHPsQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/M5rslJSHPsQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/M5rslJSHPsQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/M5rslJSHPsQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/M5rslJSHPsQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "スポビト",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "勘違いでフルコートシュートを決めた！😨",
-          "description": "@overtime\n\nブライオン・アームストロング（Bryon Armstrong）\n国籍：アメリカ\n身長／体重：約188～191 cm／約109 kg\nポジション：ガード／フォワード\n主な実績：\n・TAPPS 6A州大会優勝 2回（2019年、2021年）\n・高校時代にオールステート・ファーストチームへ4回選出\n\n#スポーツ\n#スポビト"
-        },
-        "defaultAudioLanguage": "zxx"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2526492",
-        "likeCount": "68891",
-        "favoriteCount": "0",
-        "commentCount": "396"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "YUFwWX9-t3JB0-_E61A8iFLfYkI",
-      "id": "8Q4ClSkzDDY",
-      "snippet": {
-        "publishedAt": "2026-08-02T09:00:18Z",
-        "channelId": "UCYdI8NJZzlTx6sj0Z6AEdgQ",
-        "title": "思わず惚れてしまうDFの完璧なスライディング集 #サッカー",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "サッカーワールド",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "思わず惚れてしまうDFの完璧なスライディング集 #サッカー",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2228274",
-        "likeCount": "24026",
-        "favoriteCount": "0",
-        "commentCount": "227"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "I7LZ5Z8veN8qwwX5fi65ZBXSCck",
-      "id": "Bv8o0JZgLGE",
-      "snippet": {
-        "publishedAt": "2026-08-04T15:20:25Z",
-        "channelId": "UCfg4JYBONB4_ufM5HorWCrQ",
-        "title": "異次元の反応速度を見せた男",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "1分ちょうだい",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "異次元の反応速度を見せた男",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1040964",
-        "likeCount": "16200",
-        "favoriteCount": "0",
-        "commentCount": "83"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ny-4rCUqHXxVYF2yYUNUOaT6BSE",
-      "id": "5rT81j5r85o",
-      "snippet": {
-        "publishedAt": "2026-08-03T06:23:48Z",
-        "channelId": "UCuP7Oceo9kOQ_tyUWadNmJA",
-        "title": "メジャーリーグ屈指の義理堅い男",
-        "description": "#8",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5rT81j5r85o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5rT81j5r85o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5rT81j5r85o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5rT81j5r85o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5rT81j5r85o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "1分動画",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "メジャーリーグ屈指の義理堅い男",
-          "description": "#8"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT28S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1600150",
-        "likeCount": "33325",
-        "favoriteCount": "0",
-        "commentCount": "550"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XbEO6eGHq4e5vfRwc4r7_3HEtjo",
-      "id": "68MYHgahIkQ",
-      "snippet": {
-        "publishedAt": "2026-08-07T09:38:15Z",
-        "channelId": "UC1yz5B504pGbQlHHvbm2bKw",
-        "title": "これでもゴールキーパーは楽？",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "世界のすべての価値",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "これでもゴールキーパーは楽？",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "678780",
-        "likeCount": "6472",
-        "favoriteCount": "0",
-        "commentCount": "303"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1WzXnELCgoNCWBDjQPDTQVww0Uc",
-      "id": "14XxFq9tKM0",
-      "snippet": {
-        "publishedAt": "2026-07-31T12:15:06Z",
-        "channelId": "UCb2Ysrh5kWXpRRXzr1OMc1g",
-        "title": "ポジション配置を多分間違ってる",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "フットボールワールド",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ポジション配置を多分間違ってる",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2511242",
-        "likeCount": "48104",
-        "favoriteCount": "0",
-        "commentCount": "531"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ao1qAOpbUXvCWqLZO9znixeq2QY",
-      "id": "hu7C70G5qMg",
-      "snippet": {
-        "publishedAt": "2026-08-03T10:48:42Z",
-        "channelId": "UCA02_hDfhOb9FZGy1kIlRig",
-        "title": "プロサッカーの女性審判の現場がエグすぎる #サッカー #審判",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ハンブルサッカーch",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "プロサッカーの女性審判の現場がエグすぎる #サッカー #審判",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT43S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1432613",
-        "likeCount": "31812",
-        "favoriteCount": "0",
-        "commentCount": "168"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "k-QLrIJp1vQa7-YcF52vB4vca7I",
-      "id": "J4DQvwOexro",
-      "snippet": {
-        "publishedAt": "2026-08-05T09:00:13Z",
-        "channelId": "UCtHBUn1-wSDfoLEIOLISCvw",
-        "title": "甲子園優勝投手!!吉永健太郎【幻のドラ1】プロへ行かなかった男が数年後に投げた奇跡の魔球シンカー  #プロ野球  #甲子園 #始球式",
-        "description": "※本動画は、スポーツの歴史や選手のエピソードを解説する教育的・報道目的で作成されています。映像は引用の範囲内で使用していますが、万が一権利上の問題がある場合はご連絡ください。\n\n「独自の視点で分析・解説を行っています」\n「音声はVOICEVOX：青山龍星を使用し、編集で視覚的な演出を加えています」",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J4DQvwOexro/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J4DQvwOexro/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J4DQvwOexro/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/J4DQvwOexro/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/J4DQvwOexro/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "1分で伝える面白スポーツ雑学",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "甲子園優勝投手!!吉永健太郎【幻のドラ1】プロへ行かなかった男が数年後に投げた奇跡の魔球シンカー  #プロ野球  #甲子園 #始球式",
-          "description": "※本動画は、スポーツの歴史や選手のエピソードを解説する教育的・報道目的で作成されています。映像は引用の範囲内で使用していますが、万が一権利上の問題がある場合はご連絡ください。\n\n「独自の視点で分析・解説を行っています」\n「音声はVOICEVOX：青山龍星を使用し、編集で視覚的な演出を加えています」"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "922438",
-        "likeCount": "14262",
-        "favoriteCount": "0",
-        "commentCount": "332"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "rRgAZ4i3_CA2_4c4MSrL0yuLwpQ",
-      "id": "MNHSJWQ7NZE",
-      "snippet": {
-        "publishedAt": "2026-08-03T07:00:31Z",
-        "channelId": "UC4HUzKzzqrrxqjbw2xSKTzw",
-        "title": "世界でバズったドッジボール神業",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "世界バズ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "世界でバズったドッジボール神業",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT28S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1208619",
-        "likeCount": "9467",
-        "favoriteCount": "0",
-        "commentCount": "49"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ulm2gu347LBpDipxhLFTCW4pVKg",
-      "id": "DrTuGb-FZog",
-      "snippet": {
-        "publishedAt": "2026-08-02T21:00:07Z",
-        "channelId": "UCdrt0L8CJJc8la2wdLfw39g",
-        "title": "野球場のフェンスが 分厚くなった本当の理由！？",
-        "description": "一人の男性が押しても、びくともしない扉があります。\n\nグラウンドに一人取り残されたスタッフ。\n力いっぱい押しても、フェンスはまったく動きません。\n\nそれほど重く、頑丈に作られた扉だったのです。\n\nしかし、この頑丈なフェンスも、MLB選手たちの前では話が変わるといいます。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Smile Tube",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "野球場のフェンスが 分厚くなった本当の理由！？",
-          "description": "一人の男性が押しても、びくともしない扉があります。\n\nグラウンドに一人取り残されたスタッフ。\n力いっぱい押しても、フェンスはまったく動きません。\n\nそれほど重く、頑丈に作られた扉だったのです。\n\nしかし、この頑丈なフェンスも、MLB選手たちの前では話が変わるといいます。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1611664",
-        "likeCount": "23263",
-        "favoriteCount": "0",
-        "commentCount": "65"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JUOj7A4bXV1ayD_P_9Gkrojkgao",
-      "id": "66tfjAPMhrk",
-      "snippet": {
-        "publishedAt": "2026-08-04T09:00:24Z",
-        "channelId": "UCWLaakEREpgGArmAcPBjh5w",
-        "title": "【リレー】部活対抗リレーでバク宙披露する猛者ww#shorts#tiktok#おすすめ#運動会#体育祭#リレー",
-        "description": "引用元　https://www.instagram.com/reel/DKQrtnDhuOf/?igsh=c2FkajJ3dHY3bmE0",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ウルドギールス",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【リレー】部活対抗リレーでバク宙披露する猛者ww#shorts#tiktok#おすすめ#運動会#体育祭#リレー",
-          "description": "引用元　https://www.instagram.com/reel/DKQrtnDhuOf/?igsh=c2FkajJ3dHY3bmE0"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1254347",
-        "likeCount": "13840",
-        "favoriteCount": "0",
-        "commentCount": "464"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jaQ4wjCGBSpBAffFN5IOpjGLIy0",
-      "id": "TsS14vFEKGs",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:00:29Z",
-        "channelId": "UCiO8RGdLG31EmTJVbIH2LPg",
-        "title": "試合前に男性をビンタしたレディース総長⋯リングで現実を知る　#格闘技",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Fight Lab",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "試合前に男性をビンタしたレディース総長⋯リングで現実を知る　#格闘技",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "793571",
-        "likeCount": "10527",
-        "favoriteCount": "0",
-        "commentCount": "1347"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "M-J2qgBG3Ds3c-LoHJC2zRhISQI",
-      "id": "2U7i1RHlnvs",
-      "snippet": {
-        "publishedAt": "2026-08-04T08:27:45Z",
-        "channelId": "UClgUfKkeDbQlAC3P1oQ_qJQ",
-        "title": "神シーンまとめバレー練習 TOP5  #fypシ #fyp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ランキング",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "神シーンまとめバレー練習 TOP5  #fypシ #fyp",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT50S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1299931",
-        "likeCount": "15329",
-        "favoriteCount": "0",
-        "commentCount": "77"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "uKNTrALPTHtRPBT30l6J68CpuoA",
-      "id": "blm3gLKOc9g",
-      "snippet": {
-        "publishedAt": "2026-08-02T23:00:28Z",
-        "channelId": "UCuifKdNNjn5y8izBR2pmd-A",
-        "title": "本当の教育🥶",
-        "description": "先生と生徒たちのバスケ対決で、他の先生たちとは違い、一人だけ勝負魂に火がついてしまった先生がいます\n\nこの動画は、人々にインスピレーションやモチベーションを与えることを目的としており、フェアユースの原則（米国著作権法第17編第107条）および著作権法第35条の5に基づいて制作されています。本動画には、独自の解説・批評・創造的な再構成が含まれており、元の素材に新たな価値を付加しています。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "スリースター",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "本当の教育🥶",
-          "description": "先生と生徒たちのバスケ対決で、他の先生たちとは違い、一人だけ勝負魂に火がついてしまった先生がいます\n\nこの動画は、人々にインスピレーションやモチベーションを与えることを目的としており、フェアユースの原則（米国著作権法第17編第107条）および著作権法第35条の5に基づいて制作されています。本動画には、独自の解説・批評・創造的な再構成が含まれており、元の素材に新たな価値を付加しています。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "962508",
-        "likeCount": "12797",
-        "favoriteCount": "0",
-        "commentCount": "37"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4mTaL3EFFa9fhkZlEsywNIr_EWA",
-      "id": "7e3030Igt-0",
-      "snippet": {
-        "publishedAt": "2026-08-05T07:44:04Z",
-        "channelId": "UCbDAmhyRx9bakv-0Gucglgg",
-        "title": "88世代が旅行キャンセル料を奢っていました #柳田悠岐 #読売ジャイアンツ #坂本勇人 選手 #マイナビオールスターゲーム2026",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7e3030Igt-0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7e3030Igt-0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7e3030Igt-0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7e3030Igt-0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7e3030Igt-0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "福岡ソフトバンクホークス公式",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "88世代が旅行キャンセル料を奢っていました #柳田悠岐 #読売ジャイアンツ #坂本勇人 選手 #マイナビオールスターゲーム2026",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "596335",
-        "likeCount": "8592",
-        "favoriteCount": "0",
-        "commentCount": "69"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "q9yKZFhgnHJ8jwVG4VDhokjpKrI",
-      "id": "r1PbJz6M9VE",
-      "snippet": {
-        "publishedAt": "2026-08-02T11:14:32Z",
-        "channelId": "UCn0vot8kcn2JLNhwlWT-F6A",
-        "title": "バレー日本代表のおもしろすぎたバレーボール#バレーボール　#日本代表　#高橋藍　#西田有志",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "スポーツビデオ判定室",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "バレー日本代表のおもしろすぎたバレーボール#バレーボール　#日本代表　#高橋藍　#西田有志",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1314751",
-        "likeCount": "18348",
-        "favoriteCount": "0",
-        "commentCount": "67"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "vve3ph00QwGapMcoRa6KqQ_D2Fs",
+      "etag": "9nwUaNnFdVz40GwhfsOmadgr_H4",
       "id": "Np5HH5LdxYI",
       "snippet": {
         "publishedAt": "2026-08-08T04:39:00Z",
@@ -1633,1339 +244,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "368318",
-        "likeCount": "4618",
+        "viewCount": "999103",
+        "likeCount": "9627",
         "favoriteCount": "0",
-        "commentCount": "140"
+        "commentCount": "251"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yIVl-lQ4QX38DA4jCFkXsBmhWH8",
-      "id": "KqFCQ3LwNYQ",
-      "snippet": {
-        "publishedAt": "2026-08-03T07:15:04Z",
-        "channelId": "UCGBOt82tPF_roOhD7jURhvw",
-        "title": "スピードがW杯決勝で3分も歌えた理由",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "スピードラボ7",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "スピードがW杯決勝で3分も歌えた理由",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1336807",
-        "likeCount": "43316",
-        "favoriteCount": "0",
-        "commentCount": "258"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1y9Fh6xoS9s38lObYOyyHt9T4KU",
-      "id": "tIAraP2a-3E",
-      "snippet": {
-        "publishedAt": "2026-07-30T03:32:31Z",
-        "channelId": "UCIZSyP9gFDjUeXUA0cVqklA",
-        "title": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www",
-        "description": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jazz Coffee Shop",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www",
-          "description": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2505977",
-        "likeCount": "32101",
-        "favoriteCount": "0",
-        "commentCount": "181"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "bUyJO1aNBgvkqp8hSZZIC6o0mxA",
-      "id": "Vzuw6Y-T-4Q",
-      "snippet": {
-        "publishedAt": "2026-08-06T08:10:13Z",
-        "channelId": "UCP7Y12LXDK3aef-IKYXZV0A",
-        "title": "古田監督「代打俺」 #プロ野球",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "野球相談所",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "古田監督「代打俺」 #プロ野球",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "462073",
-        "likeCount": "8862",
-        "favoriteCount": "0",
-        "commentCount": "129"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fOkCx-x3EE_-sB42Plwt82nF7Uc",
-      "id": "ZbA5rX8zmkA",
-      "snippet": {
-        "publishedAt": "2026-08-02T16:30:53Z",
-        "channelId": "UCn6eoiDrocx1a-nudjFSNDg",
-        "title": "大谷がメジャーの歴史に名を刻んだ史上最高試合",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "なんでジャパン",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "大谷がメジャーの歴史に名を刻んだ史上最高試合",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT2M56S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1841244",
-        "likeCount": "69342",
-        "favoriteCount": "0",
-        "commentCount": "1432"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hb1VJ9necsAAvJ8ObArrRNVQIzc",
-      "id": "SmQF6KJFBNM",
-      "snippet": {
-        "publishedAt": "2026-07-30T14:00:30Z",
-        "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
-        "title": "【最速最遅球速】54キロvs176キロ #shorts",
-        "description": "＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n■パテレグッズ好評発売中!! 各商品ご購入はこちら!!\nhttps://www.16d.shop/view/category/plm\n\n【パテレ チャンネル登録】はコチラ！\n▷https://www.youtube.com/channel/UC0v-pxTo1XamIDE-f__Ad0Q\n【パ・リーグの過去映像】はコチラ！▷https://www.youtube.com/channel/UCrjlKkKTAyNn6gekRM3p0Aw/\n\n＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n✓パ・リーグ6球団公式情報をお届け\nhttps://pacificleague.com/news\n\nSNSも毎日更新中！\n▶X：https://twitter.com/PacificleagueTV\n▶Instagram：https://www.instagram.com/pacificleaguetv/\n▶Facebook：https://www.facebook.com/pacificleaguetv\n▶LINE：https://lin.ee/2hB4obT\n\n#最速\n#最遅\n#球速\n#伊藤大海\n#九里亜蓮\n#珍プレー\n#北海道日本ハムファイターズ\n#オリックスバファローズ\n#パーソルパリーグTV\n#パシフィックリーグ\n#パテレ\n#パテレ行き",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SmQF6KJFBNM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SmQF6KJFBNM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SmQF6KJFBNM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SmQF6KJFBNM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SmQF6KJFBNM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "(パーソル パ・リーグTV公式)PacificLeagueTV",
-        "tags": [
-          "パーソルパリーグTV",
-          "パリーグTV",
-          "パシフィックリーグ",
-          "Pacificleague",
-          "プロ野球"
-        ],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【最速最遅球速】54キロvs176キロ #shorts",
-          "description": "＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n■パテレグッズ好評発売中!! 各商品ご購入はこちら!!\nhttps://www.16d.shop/view/category/plm\n\n【パテレ チャンネル登録】はコチラ！\n▷https://www.youtube.com/channel/UC0v-pxTo1XamIDE-f__Ad0Q\n【パ・リーグの過去映像】はコチラ！▷https://www.youtube.com/channel/UCrjlKkKTAyNn6gekRM3p0Aw/\n\n＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n✓パ・リーグ6球団公式情報をお届け\nhttps://pacificleague.com/news\n\nSNSも毎日更新中！\n▶X：https://twitter.com/PacificleagueTV\n▶Instagram：https://www.instagram.com/pacificleaguetv/\n▶Facebook：https://www.facebook.com/pacificleaguetv\n▶LINE：https://lin.ee/2hB4obT\n\n#最速\n#最遅\n#球速\n#伊藤大海\n#九里亜蓮\n#珍プレー\n#北海道日本ハムファイターズ\n#オリックスバファローズ\n#パーソルパリーグTV\n#パシフィックリーグ\n#パテレ\n#パテレ行き"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2199207",
-        "likeCount": "30049",
-        "favoriteCount": "0",
-        "commentCount": "212"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ng75EUOaE8dxhDNpBU_TH4-dDZc",
-      "id": "5h3Y-CnoNNQ",
-      "snippet": {
-        "publishedAt": "2026-08-07T09:12:55Z",
-        "channelId": "UCTaRCDi5v3YS_nSZB0wKb8g",
-        "title": "ツアーキャディが賞金の10%をもらう理由",
-        "description": "この動画はゴルフの戦略とコースマネジメントを学ぶための教育目的の動画です。プロのツアーにおいて、キャディがなぜ賞金の10%を稼ぐことができるのか、その理由がわかる実際の試合のワンシーンです。風の強さやボールの落としどころ（キャリー）を瞬時に計算し、選手が打つ直前にスイングを止めてまでクラブを8番アイアンから7番アイアンへ変更させる、プロキャディの的確な判断力と分析力を詳しく解説しています。初心者から上級者まで、状況に応じたクラブ選択の重要性が理解できる内容となっています。\n\n#ゴルフ #プロキャディ #クラブ選択 #ゴルフ戦略 #コースマネジメント #アイアンショット #ゴルフ教育 #ゴルフスイング",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Space Beat Golf",
-        "tags": [
-          "ゴルフ",
-          "ゴルフスイング"
-        ],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ツアーキャディが賞金の10%をもらう理由",
-          "description": "この動画はゴルフの戦略とコースマネジメントを学ぶための教育目的の動画です。プロのツアーにおいて、キャディがなぜ賞金の10%を稼ぐことができるのか、その理由がわかる実際の試合のワンシーンです。風の強さやボールの落としどころ（キャリー）を瞬時に計算し、選手が打つ直前にスイングを止めてまでクラブを8番アイアンから7番アイアンへ変更させる、プロキャディの的確な判断力と分析力を詳しく解説しています。初心者から上級者まで、状況に応じたクラブ選択の重要性が理解できる内容となっています。\n\n#ゴルフ #プロキャディ #クラブ選択 #ゴルフ戦略 #コースマネジメント #アイアンショット #ゴルフ教育 #ゴルフスイング"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "320853",
-        "likeCount": "1530",
-        "favoriteCount": "0",
-        "commentCount": "25"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "AjYMuD7EVnGT5v6NJ9Frb-zqwyU",
-      "id": "U9CjKWFr9Ko",
-      "snippet": {
-        "publishedAt": "2026-08-06T13:00:12Z",
-        "channelId": "UChku4ht5HJlZ6oJgj0WtlIg",
-        "title": "【驚愕】イチローが悟った瞬間‼ #野球",
-        "description": "楽曲提供：株式会社Pinguino",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "朝から野球",
-        "tags": [
-          "#野球",
-          "#野球解説",
-          "#大谷翔平"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【驚愕】イチローが悟った瞬間‼ #野球",
-          "description": "楽曲提供：株式会社Pinguino"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "421811",
-        "likeCount": "3515",
-        "favoriteCount": "0",
-        "commentCount": "103"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8rSfWBzm6xixkBbwDn4GSSdIL84",
-      "id": "6fQnS5_WVKE",
-      "snippet": {
-        "publishedAt": "2026-08-04T03:31:17Z",
-        "channelId": "UC0om5rcyyqFfTKLSI34uCdw",
-        "title": "フリーキックのルール",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6fQnS5_WVKE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6fQnS5_WVKE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6fQnS5_WVKE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6fQnS5_WVKE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6fQnS5_WVKE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "一瞬だけ",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "フリーキックのルール",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "703764",
-        "likeCount": "7864",
-        "favoriteCount": "0",
-        "commentCount": "318"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hOriiZipiDIJiaIuopIg9CmyeKM",
-      "id": "xClxohGyOIc",
-      "snippet": {
-        "publishedAt": "2026-08-05T10:15:13Z",
-        "channelId": "UCrf0lUJsvJvXsECsB4ti_yA",
-        "title": "ロナウドに格の違いを教える本田圭佑 #サッカー #本田圭佑 #ロナウド #フリーキック #無回転",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xClxohGyOIc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xClxohGyOIc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xClxohGyOIc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xClxohGyOIc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xClxohGyOIc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "サッカーの化身",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ロナウドに格の違いを教える本田圭佑 #サッカー #本田圭佑 #ロナウド #フリーキック #無回転",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "794318",
-        "likeCount": "12558",
-        "favoriteCount": "0",
-        "commentCount": "186"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Nx8mNl-ZLTf3s1ZeMOYxSwhKpjU",
-      "id": "SY_8u6ENMCs",
-      "snippet": {
-        "publishedAt": "2026-08-05T14:15:32Z",
-        "channelId": "UCl0FkutP5CwEBZI-GQqOZbQ",
-        "title": "察してしまう佐野 #阪神タイガース #プロ野球 #野球",
-        "description": "プロ野球好き、阪神タイガース好きに楽しんでもらえる動画を作成しております。\nチャンネル登録だけでもしていただければ励みになります。\nどうぞよろしくお願いいたします。\n\n#野球\n#プロ野球",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MKTSports",
-        "tags": [
-          "野球",
-          "プロ野球"
-        ],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "察してしまう佐野 #阪神タイガース #プロ野球 #野球",
-          "description": "プロ野球好き、阪神タイガース好きに楽しんでもらえる動画を作成しております。\nチャンネル登録だけでもしていただければ励みになります。\nどうぞよろしくお願いいたします。\n\n#野球\n#プロ野球"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "605148",
-        "likeCount": "8540",
-        "favoriteCount": "0",
-        "commentCount": "498"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "OPMnV7itc4x8iH7F9rCw6kiaSZ4",
-      "id": "2lPkTOFTWNU",
-      "snippet": {
-        "publishedAt": "2026-08-06T09:00:33Z",
-        "channelId": "UCDqSRJT3uW6Kh14ftPaN4TA",
-        "title": "短距離選手がつま先で地面を擦る理由",
-        "description": "スタート直後、つま先でトラックを擦る「トゥードラッグ」。\n支持派は「低い姿勢を保ったまま押し続けられる」と主張します。\n一方で、接地時間を長くすること自体が有利とは限らず、速くなると証明したデータはありません。\nそして近年のコーチの主流の見方は、これは狙ってやる技術ではなく「低く強く押し出せた結果、自然に出てしまう現象」だというもの。\n擦ろうとして擦るのではなく、正しく出られた選手のつま先が結果的に地面をかすめる、というわけです。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2lPkTOFTWNU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2lPkTOFTWNU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2lPkTOFTWNU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2lPkTOFTWNU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2lPkTOFTWNU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "陰キャの憧れ",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "短距離選手がつま先で地面を擦る理由",
-          "description": "スタート直後、つま先でトラックを擦る「トゥードラッグ」。\n支持派は「低い姿勢を保ったまま押し続けられる」と主張します。\n一方で、接地時間を長くすること自体が有利とは限らず、速くなると証明したデータはありません。\nそして近年のコーチの主流の見方は、これは狙ってやる技術ではなく「低く強く押し出せた結果、自然に出てしまう現象」だというもの。\n擦ろうとして擦るのではなく、正しく出られた選手のつま先が結果的に地面をかすめる、というわけです。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT28S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "521977",
-        "likeCount": "8716",
-        "favoriteCount": "0",
-        "commentCount": "264"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "x9iO_KVfmYZtuRz0NCf5ROo2Uxs",
-      "id": "KLuuNCs40JI",
-      "snippet": {
-        "publishedAt": "2026-08-05T09:00:20Z",
-        "channelId": "UCFPNuIG48nRBqsHAIy9rFjA",
-        "title": "世界でバズった見事な瞬間ランキングTOP6まとめ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "シンプル解説TV",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "世界でバズった見事な瞬間ランキングTOP6まとめ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT47S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "733749",
-        "likeCount": "18458",
-        "favoriteCount": "0",
-        "commentCount": "95"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EB6W5g7UbTUNO_NMBXwEBf4omqA",
-      "id": "OM3p_rSI2_w",
-      "snippet": {
-        "publishedAt": "2026-07-29T03:12:10Z",
-        "channelId": "UCXJIWCTPRESuiG3jbQ2rfXw",
-        "title": "2ヶ月通った少女の意外な実力",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OM3p_rSI2_w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OM3p_rSI2_w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OM3p_rSI2_w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OM3p_rSI2_w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OM3p_rSI2_w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "コレ気になる",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "2ヶ月通った少女の意外な実力",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3346816",
-        "likeCount": "77808",
-        "favoriteCount": "0",
-        "commentCount": "341"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "sGNYrvwNmoyt2sdnZkaL_QIlUYI",
-      "id": "RjURg29585U",
-      "snippet": {
-        "publishedAt": "2026-08-02T11:00:24Z",
-        "channelId": "UC4qRxgY5-zdJq6UXLmAhw6g",
-        "title": "MLBの奇跡すぎるプレー集 #mlb #メジャー #野球",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RjURg29585U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RjURg29585U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RjURg29585U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RjURg29585U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RjURg29585U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ほぼ谷ショーヘー",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "MLBの奇跡すぎるプレー集 #mlb #メジャー #野球",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT30S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1004593",
-        "likeCount": "7273",
-        "favoriteCount": "0",
-        "commentCount": "29"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "0XWyYYyJmt5o8pBGGkarB9E9ySA",
-      "id": "W5QWERpXjmk",
-      "snippet": {
-        "publishedAt": "2026-08-05T12:15:43Z",
-        "channelId": "UCA-oCpZ6PTenMOlPEcIYcug",
-        "title": "煽りまくるネイマールが面白すぎるw",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/W5QWERpXjmk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/W5QWERpXjmk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/W5QWERpXjmk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/W5QWERpXjmk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/W5QWERpXjmk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ドブネズミ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "煽りまくるネイマールが面白すぎるw",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "regionRestriction": {
-          "blocked": [
-            "BY",
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "526195",
-        "likeCount": "12384",
-        "favoriteCount": "0",
-        "commentCount": "304"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_-8b-2ipelx5OfGMJKFeiP1SM8A",
-      "id": "tgMK5n8tyFU",
-      "snippet": {
-        "publishedAt": "2026-08-02T03:00:38Z",
-        "channelId": "UCkoUMIX-44ZJ3I0Gr2TJizw",
-        "title": "㊗️250万再生!!絶対に再現できないミラクルプレー集 #サッカー #ショート",
-        "description": "【楽曲提供：箕輪レコーズ】",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "サッカージャンキー",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "㊗️250万再生!!絶対に再現できないミラクルプレー集 #サッカー #ショート",
-          "description": "【楽曲提供：箕輪レコーズ】"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT29S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1437297",
-        "likeCount": "21188",
-        "favoriteCount": "0",
-        "commentCount": "92"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MEaNFr-Jk4Q7sUyQyokzunbd9KU",
-      "id": "DewUcT7nkhE",
-      "snippet": {
-        "publishedAt": "2026-08-07T09:15:05Z",
-        "channelId": "UCKbjtmJs6cm5JFfImypFmLQ",
-        "title": "大谷翔平ですら我慢できないラシン今や野球界で最も物議を醸す選手の一人になっている #大谷翔平 #MLB #プロ野球 #野球雑学 #野球",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "野球記",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "大谷翔平ですら我慢できないラシン今や野球界で最も物議を醸す選手の一人になっている #大谷翔平 #MLB #プロ野球 #野球雑学 #野球",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "317696",
-        "likeCount": "5235",
-        "favoriteCount": "0",
-        "commentCount": "381"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EqHpionLf1hbQHM1Wg_54LVbi-U",
-      "id": "OkFkaRDBsQU",
-      "snippet": {
-        "publishedAt": "2026-08-05T09:30:21Z",
-        "channelId": "UCFSUl1pGKKqMddDuiGXvYXg",
-        "title": "えんどれす【一般人にはわからないバレー用語】 #スポーツあるある #あるある #バレーボール #スポーツ #endless3",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OkFkaRDBsQU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OkFkaRDBsQU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OkFkaRDBsQU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OkFkaRDBsQU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OkFkaRDBsQU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "えんどれす【Endless】",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "えんどれす【一般人にはわからないバレー用語】 #スポーツあるある #あるある #バレーボール #スポーツ #endless3",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "586942",
-        "likeCount": "13741",
-        "favoriteCount": "0",
-        "commentCount": "108"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JEY9v5PrlJHS22_rwIzfi1K23r8",
-      "id": "Kcl2-U--7jM",
-      "snippet": {
-        "publishedAt": "2026-08-08T02:27:49Z",
-        "channelId": "UC1VwWrGY_G0PbNu-rmUoLkw",
-        "title": "大谷翔平が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！",
-        "description": "ドジャースの大谷翔平投手が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！\n#shoheiohtani \n#大谷翔平\n#dodgers",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MLBサムライSPORTS【大谷翔平】",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "大谷翔平が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！",
-          "description": "ドジャースの大谷翔平投手が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！\n#shoheiohtani \n#大谷翔平\n#dodgers"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "221446",
-        "likeCount": "2666",
-        "favoriteCount": "0",
-        "commentCount": "252"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "njb8DUuCFEmbJef7ogjFjKXXKp4",
-      "id": "IoQab8mUmg0",
-      "snippet": {
-        "publishedAt": "2026-08-03T12:32:23Z",
-        "channelId": "UC3qGHtAjYBoLX8SYPc5Sclw",
-        "title": "バレーでこれあり得るの!? #バレーボール",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IoQab8mUmg0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IoQab8mUmg0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IoQab8mUmg0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IoQab8mUmg0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IoQab8mUmg0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "バレー観る?",
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "バレーでこれあり得るの!? #バレーボール",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "535974",
-        "likeCount": "4405",
-        "favoriteCount": "0",
-        "commentCount": "111"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "AYhZt_BjmGHr9xkF-c6TngussFI",
-      "id": "WnSx-f_mwzY",
-      "snippet": {
-        "publishedAt": "2026-08-02T00:25:56Z",
-        "channelId": "UCy2pUn2NUEtpkZ3tXqpXSZQ",
-        "title": "伝説の才能を手に入れた少年,",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WnSx-f_mwzY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WnSx-f_mwzY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WnSx-f_mwzY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WnSx-f_mwzY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WnSx-f_mwzY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "フロー要約",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "伝説の才能を手に入れた少年,",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT2M29S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "885460",
-        "likeCount": "9602",
-        "favoriteCount": "0",
-        "commentCount": "49"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XiJ5KsLOFTIJ1ekO2dfTO3CKj4A",
+      "etag": "zmuXFrO-n4rE3YPtgDfFHj_yCYw",
       "id": "L07dWu_yCW8",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:11Z",
@@ -3081,72 +368,701 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "413193",
-        "likeCount": "11998",
+        "viewCount": "1362308",
+        "likeCount": "23728",
         "favoriteCount": "0",
-        "commentCount": "209"
+        "commentCount": "313"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "GtMnSZp70Fx1-iwkTMTkrep0ujM",
-      "id": "-7C4ybCOXkM",
+      "etag": "3taXUEl4WhYdAm6ahugE-SOIokI",
+      "id": "qsuv0Ag0pGs",
       "snippet": {
-        "publishedAt": "2026-08-07T10:00:14Z",
-        "channelId": "UCut6J6R3RKpjd-bgHYZnPoA",
-        "title": "ガチで理不尽すぎるスピンｗｗｗｗ #テニス",
-        "description": "テニスの醍醐味はどこに跳ねるか分からないボールじゃないでしょうか？\n#テニス #tennislife #tennisplayer #tennisshorts #sports",
+        "publishedAt": "2026-08-03T09:27:53Z",
+        "channelId": "UCmmv1Rw1tEWXvsb7jJtDmPg",
+        "title": "FKで宇宙人だとバレてしまったメッシ #メッシ #サッカー",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-7C4ybCOXkM/default.jpg",
+            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-7C4ybCOXkM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-7C4ybCOXkM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-7C4ybCOXkM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-7C4ybCOXkM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qsuv0Ag0pGs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "テニプラTV",
-        "tags": [
-          "テニス",
-          "テニスライフ",
-          "テニス選手",
-          "テニス技術",
-          "テニス名場面",
-          "テニスの試合",
-          "テニス大会",
-          "テニスレジェンド",
-          "レジェンドテニス",
-          "スポーツ試合",
-          "運動競技",
-          "テニススポーツ",
-          "スポーツ名場面",
-          "スポーツショート",
-          "テニスショート"
-        ],
-        "categoryId": "10",
+        "channelTitle": "ほぼタケフサ【Football】",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "ガチで理不尽すぎるスピンｗｗｗｗ #テニス",
-          "description": "テニスの醍醐味はどこに跳ねるか分からないボールじゃないでしょうか？\n#テニス #tennislife #tennisplayer #tennisshorts #sports"
+          "title": "FKで宇宙人だとバレてしまったメッシ #メッシ #サッカー",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2662782",
+        "likeCount": "28174",
+        "favoriteCount": "0",
+        "commentCount": "206"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AuKZWXqMc4w2nX1i8t7t2Co_Iuc",
+      "id": "Blz9D3GD8N0",
+      "snippet": {
+        "publishedAt": "2026-08-04T12:57:39Z",
+        "channelId": "UCgKiusMsHOWJYx8ZdX30aZA",
+        "title": "骨折に気づかない選手。",
+        "description": "アドレナリン出すぎると骨折に気づけないのか…\n\n#スポーツ #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Blz9D3GD8N0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "脳筋ショート",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "骨折に気づかない選手。",
+          "description": "アドレナリン出すぎると骨折に気づけないのか…\n\n#スポーツ #shorts"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2332513",
+        "likeCount": "52560",
+        "favoriteCount": "0",
+        "commentCount": "308"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cXW5qayWl-xOazTq_kPQ0eqXveI",
+      "id": "68MYHgahIkQ",
+      "snippet": {
+        "publishedAt": "2026-08-07T09:38:15Z",
+        "channelId": "UC1yz5B504pGbQlHHvbm2bKw",
+        "title": "これでもゴールキーパーは楽？",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/68MYHgahIkQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "世界のすべての価値",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "これでもゴールキーパーは楽？",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1102207",
+        "likeCount": "12532",
+        "favoriteCount": "0",
+        "commentCount": "497"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3vdoZDhzKTXGSYahHwD2xysoU4w",
+      "id": "pdfOmPrMLx0",
+      "snippet": {
+        "publishedAt": "2026-08-05T11:30:39Z",
+        "channelId": "UCfxpKIZRt9KuGyKPfGuGNfw",
+        "title": "2026年日本人野手盗塁まとめ #野球 #mlb #メジャーリーグ #盗塁 #short",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pdfOmPrMLx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "のぼるのボール",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "2026年日本人野手盗塁まとめ #野球 #mlb #メジャーリーグ #盗塁 #short",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1423476",
+        "likeCount": "19222",
+        "favoriteCount": "0",
+        "commentCount": "120"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hH2Iu-XEMN0NeS6b6CKRx9BoklQ",
+      "id": "7PeR_rZhzTU",
+      "snippet": {
+        "publishedAt": "2026-08-08T12:00:11Z",
+        "channelId": "UC0om5rcyyqFfTKLSI34uCdw",
+        "title": "焦っても冷静でいるべき理由",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PeR_rZhzTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PeR_rZhzTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PeR_rZhzTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7PeR_rZhzTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7PeR_rZhzTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "一瞬だけ",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "焦っても冷静でいるべき理由",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "715120",
+        "likeCount": "7374",
+        "favoriteCount": "0",
+        "commentCount": "431"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4aKFrrjz7s8eVj7RuQz08TTxWVE",
+      "id": "IEYM4n_ehAg",
+      "snippet": {
+        "publishedAt": "2026-08-07T23:10:29Z",
+        "channelId": "UCG3rkD5p4F5w4x2Zl4aijow",
+        "title": "観客全員を巻き込んだホットドッグ店のマーケティング",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IEYM4n_ehAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IEYM4n_ehAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IEYM4n_ehAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IEYM4n_ehAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IEYM4n_ehAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "もふバズ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "観客全員を巻き込んだホットドッグ店のマーケティング",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "907674",
+        "likeCount": "22830",
+        "favoriteCount": "0",
+        "commentCount": "169"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0qyEVsY2o55GmWyMx8BFK-WmLtk",
+      "id": "BkoJc8N4Qgs",
+      "snippet": {
+        "publishedAt": "2026-08-06T14:49:58Z",
+        "channelId": "UCunPpLLx1G3ofm78QDOKNvg",
+        "title": "800試合無交代？メッシも驚く伝説の鉄人",
+        "description": "18年間、一度も交代掲示板に番号が出なかった伝説の選手。\nその名は？\n\n#サッカー #伝説 #神記録 #サッカー雑学 #BillyMcNeill #ショート #epl #uefa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BkoJc8N4Qgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "奇跡の瞬間",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "800試合無交代？メッシも驚く伝説の鉄人",
+          "description": "18年間、一度も交代掲示板に番号が出なかった伝説の選手。\nその名は？\n\n#サッカー #伝説 #神記録 #サッカー雑学 #BillyMcNeill #ショート #epl #uefa"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1090819",
+        "likeCount": "16596",
+        "favoriteCount": "0",
+        "commentCount": "294"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3JflFBg8L3rMhOb8h17LFFvlJKE",
+      "id": "dr6i-jg9Zyo",
+      "snippet": {
+        "publishedAt": "2026-08-04T07:00:27Z",
+        "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
+        "title": "試合中に感情をため込むと危険な理由",
+        "description": "#9",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dr6i-jg9Zyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "一分一秒",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "試合中に感情をため込むと危険な理由",
+          "description": "#9"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1606422",
+        "likeCount": "31289",
+        "favoriteCount": "0",
+        "commentCount": "219"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_E5hWNMa3qjVa03iUmnZI0ms3g0",
+      "id": "cekI0-QBvHo",
+      "snippet": {
+        "publishedAt": "2026-08-09T00:00:10Z",
+        "channelId": "UCDqSRJT3uW6Kh14ftPaN4TA",
+        "title": "ラケットを破壊する本当の理由",
+        "description": "新品のラケットを叩き割る映像。あれは怒りではなく、一部のクラブが設けた「発散ゾーン」でした。\nメキシコなどのクラブがイベント企画として設置しているもので、壁には耐衝撃ガラスが使われています。\n一方、コートの中でラケットを叩きつける行為は国際パデル連盟のルールで禁止されており、警告→失点→ゲーム献上→失格という段階制裁の対象です。\nそしてパデルでラケットが割れる最大の原因は、怒りではなくペアとのラケット同士の正面衝突。\n狭い密閉コートで飛散を防ぐため、手首のストラップ着用も義務づけられています。\nパデルは1969年にメキシコ・アカプルコで生まれた競技で、2026年9月19日〜10月4日の第20回アジア競技大会（愛知・名古屋）でも正式競技に。\n日本の競技人口は約6万人と、これから伸びる競技です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cekI0-QBvHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cekI0-QBvHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cekI0-QBvHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cekI0-QBvHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cekI0-QBvHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "陰キャの憧れ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ラケットを破壊する本当の理由",
+          "description": "新品のラケットを叩き割る映像。あれは怒りではなく、一部のクラブが設けた「発散ゾーン」でした。\nメキシコなどのクラブがイベント企画として設置しているもので、壁には耐衝撃ガラスが使われています。\n一方、コートの中でラケットを叩きつける行為は国際パデル連盟のルールで禁止されており、警告→失点→ゲーム献上→失格という段階制裁の対象です。\nそしてパデルでラケットが割れる最大の原因は、怒りではなくペアとのラケット同士の正面衝突。\n狭い密閉コートで飛散を防ぐため、手首のストラップ着用も義務づけられています。\nパデルは1969年にメキシコ・アカプルコで生まれた競技で、2026年9月19日〜10月4日の第20回アジア競技大会（愛知・名古屋）でも正式競技に。\n日本の競技人口は約6万人と、これから伸びる競技です。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "510793",
+        "likeCount": "8475",
+        "favoriteCount": "0",
+        "commentCount": "161"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0PzpA9hyYXTp3Q1Bd0HsDBCtRJI",
+      "id": "CTS4GPLcvbo",
+      "snippet": {
+        "publishedAt": "2026-08-01T07:25:27Z",
+        "channelId": "UCpINXzgnom9unyFKq2u7aQg",
+        "title": "【大爆笑】野球部のセンスは世界一‼︎芸人級に面白い高校生球児が青春を謳歌する瞬間TOP5",
+        "description": "【※視聴者の皆様へ：免責事項と注意喚起】\n動画に出ている子供たちは、まだまだ成長途中です。\n皆様のあたたかい言葉にいつも励まされていますが、子供が悲しんだり、傷ついたりするような心無いコメントはお控えいただけると嬉しいです。\n\nみんなで楽しく安心できるコメント欄にしていきたいので、あたたかく見守っていただけますと幸いです😊\n（※攻撃的なコメントや誹謗中傷と判断した場合は、そっと削除・ブロック等の対応をさせていただくことがあります🙏）\n\nおもろければコメントとご家族や親友に共有してね‼️\n\n👉 あなたはどの青春が好き？コメントで教えてね！  \nチャンネル登録▶ https://youtube.com/channel/UCpINXzgnom9unyFKq2u7aQg?si=asRiHIrz63t2t3kC\n\n【クレジット・素材提供】  \n使用素材はクリエイターからの許可／またはフェアユースに基づき編集して使用しています。問題があればお手数ですが下記までご連絡ください。  \n連絡先：moneytips500@gmail.com \n\n#funny #billiards #games #gaming #sports #pool #tierlist #god #viral #trending #video #darts #bowling #amazing #comedy #movie #skating #skills #skateboarding #shorts #cool #kids #japan #music #jk #happybirthday #happy #dance #anime #baseball #basketball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CTS4GPLcvbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ワールドハック",
+        "tags": [
+          "面白い",
+          "ランキング",
+          "おすすめ",
+          "おもしろ",
+          "お笑い",
+          "雑学",
+          "あるある",
+          "ドッキリ",
+          "ハプニング",
+          "リアクション",
+          "サプライズ",
+          "高校生",
+          "青春",
+          "TikTok",
+          "バズった",
+          "甲子園",
+          "野球部",
+          "大谷翔平",
+          "スポーツ",
+          "アニメ",
+          "ゲーム"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【大爆笑】野球部のセンスは世界一‼︎芸人級に面白い高校生球児が青春を謳歌する瞬間TOP5",
+          "description": "【※視聴者の皆様へ：免責事項と注意喚起】\n動画に出ている子供たちは、まだまだ成長途中です。\n皆様のあたたかい言葉にいつも励まされていますが、子供が悲しんだり、傷ついたりするような心無いコメントはお控えいただけると嬉しいです。\n\nみんなで楽しく安心できるコメント欄にしていきたいので、あたたかく見守っていただけますと幸いです😊\n（※攻撃的なコメントや誹謗中傷と判断した場合は、そっと削除・ブロック等の対応をさせていただくことがあります🙏）\n\nおもろければコメントとご家族や親友に共有してね‼️\n\n👉 あなたはどの青春が好き？コメントで教えてね！  \nチャンネル登録▶ https://youtube.com/channel/UCpINXzgnom9unyFKq2u7aQg?si=asRiHIrz63t2t3kC\n\n【クレジット・素材提供】  \n使用素材はクリエイターからの許可／またはフェアユースに基づき編集して使用しています。問題があればお手数ですが下記までご連絡ください。  \n連絡先：moneytips500@gmail.com \n\n#funny #billiards #games #gaming #sports #pool #tierlist #god #viral #trending #video #darts #bowling #amazing #comedy #movie #skating #skills #skateboarding #shorts #cool #kids #japan #music #jk #happybirthday #happy #dance #anime #baseball #basketball"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3903356",
+        "likeCount": "72679",
+        "favoriteCount": "0",
+        "commentCount": "160"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kIcO8dsrh_z3_F-LXK8Zo4A9QD8",
+      "id": "Bv8o0JZgLGE",
+      "snippet": {
+        "publishedAt": "2026-08-04T15:20:25Z",
+        "channelId": "UCfg4JYBONB4_ufM5HorWCrQ",
+        "title": "異次元の反応速度を見せた男",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bv8o0JZgLGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1分ちょうだい",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "異次元の反応速度を見せた男",
+          "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
@@ -3160,59 +1076,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "209313",
-        "likeCount": "1234",
+        "viewCount": "1229504",
+        "likeCount": "18232",
         "favoriteCount": "0",
-        "commentCount": "63"
+        "commentCount": "90"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eVsBG6-gE8PfBo7nNOoQ4_-DZYk",
-      "id": "0BWDgyUIFp4",
+      "etag": "A5CNJolMSyflDFQWacsNsKmTYzg",
+      "id": "EONMblyJI2k",
       "snippet": {
-        "publishedAt": "2026-08-03T11:00:22Z",
-        "channelId": "UCuHcoslNkEjdMmNx6MYdsOg",
-        "title": "ピッチャーがキャッチャーにブチギレた瞬間がヤバすぎる！！",
-        "description": "",
+        "publishedAt": "2026-08-07T08:30:13Z",
+        "channelId": "UCxnLsgE9iWGlsAO_X8PtjRw",
+        "title": "レブロンのこのプレー、ルール違反じゃないの？🤔",
+        "description": "@NBA\nレブロン・ジェームズ (LeBron James)\n生年月日：1984年12月30日\n国籍：アメリカ\n身長／体重：約206 cm／約113 kg\n所属：フィラデルフィア・76ers（#23）\n主な実績：\n・NBA優勝 4回\n・NBAシーズンMVP 4回\n・NBAファイナルMVP 4回\n・NBA通算得点 歴代1位\n・NBAオールスター選出 22回（歴代最多）\n・オールNBA選出 21回（歴代最多）\n・オリンピック金メダル 3回\n\n#スポーツ\n#スポビト",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0BWDgyUIFp4/default.jpg",
+            "url": "https://i.ytimg.com/vi/EONMblyJI2k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0BWDgyUIFp4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EONMblyJI2k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0BWDgyUIFp4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EONMblyJI2k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0BWDgyUIFp4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/EONMblyJI2k/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0BWDgyUIFp4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EONMblyJI2k/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "スポーツダイジェストTV",
-        "categoryId": "22",
+        "channelTitle": "スポビト",
+        "categoryId": "17",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "ピッチャーがキャッチャーにブチギレた瞬間がヤバすぎる！！",
-          "description": ""
-        }
+          "title": "レブロンのこのプレー、ルール違反じゃないの？🤔",
+          "description": "@NBA\nレブロン・ジェームズ (LeBron James)\n生年月日：1984年12月30日\n国籍：アメリカ\n身長／体重：約206 cm／約113 kg\n所属：フィラデルフィア・76ers（#23）\n主な実績：\n・NBA優勝 4回\n・NBAシーズンMVP 4回\n・NBAファイナルMVP 4回\n・NBA通算得点 歴代1位\n・NBAオールスター選出 22回（歴代最多）\n・オールNBA選出 21回（歴代最多）\n・オリンピック金メダル 3回\n\n#スポーツ\n#スポビト"
+        },
+        "defaultAudioLanguage": "zxx"
       },
       "contentDetails": {
-        "duration": "PT40S",
+        "duration": "PT28S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3221,10 +1138,2114 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "682765",
-        "likeCount": "11285",
+        "viewCount": "682139",
+        "likeCount": "6984",
         "favoriteCount": "0",
-        "commentCount": "298"
+        "commentCount": "284"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "X-badwvVWzRF1BqCSCZ_AybOsiA",
+      "id": "5rT81j5r85o",
+      "snippet": {
+        "publishedAt": "2026-08-03T06:23:48Z",
+        "channelId": "UCuP7Oceo9kOQ_tyUWadNmJA",
+        "title": "メジャーリーグ屈指の義理堅い男",
+        "description": "#8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rT81j5r85o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rT81j5r85o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rT81j5r85o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5rT81j5r85o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5rT81j5r85o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1分動画",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "メジャーリーグ屈指の義理堅い男",
+          "description": "#8"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1869840",
+        "likeCount": "37890",
+        "favoriteCount": "0",
+        "commentCount": "646"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y_nb3yQSoN-6gUZjXyJOt7D4-Pk",
+      "id": "8Q4ClSkzDDY",
+      "snippet": {
+        "publishedAt": "2026-08-02T09:00:18Z",
+        "channelId": "UCYdI8NJZzlTx6sj0Z6AEdgQ",
+        "title": "思わず惚れてしまうDFの完璧なスライディング集 #サッカー",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Q4ClSkzDDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "サッカーワールド",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "思わず惚れてしまうDFの完璧なスライディング集 #サッカー",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2374363",
+        "likeCount": "24896",
+        "favoriteCount": "0",
+        "commentCount": "230"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I6PDnQOe1_b1_DMgE_HcmeNC0kk",
+      "id": "-fsvgho6dso",
+      "snippet": {
+        "publishedAt": "2026-08-08T13:00:24Z",
+        "channelId": "UCVq6TGtY8staPSjbli7V92g",
+        "title": "数年の努力と 夢への挑戦 #野球",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-fsvgho6dso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-fsvgho6dso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-fsvgho6dso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-fsvgho6dso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-fsvgho6dso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1分野球",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "数年の努力と 夢への挑戦 #野球",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "524822",
+        "likeCount": "9326",
+        "favoriteCount": "0",
+        "commentCount": "72"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U0Fahvsf7a8mc61pmCu8yhSSQZ8",
+      "id": "TsS14vFEKGs",
+      "snippet": {
+        "publishedAt": "2026-08-05T11:00:29Z",
+        "channelId": "UCiO8RGdLG31EmTJVbIH2LPg",
+        "title": "試合前に男性をビンタしたレディース総長⋯リングで現実を知る　#格闘技",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TsS14vFEKGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fight Lab",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "試合前に男性をビンタしたレディース総長⋯リングで現実を知る　#格闘技",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1123659",
+        "likeCount": "13536",
+        "favoriteCount": "0",
+        "commentCount": "1593"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NpZ6Ufy4u66neD2A-b6tosbp_Vw",
+      "id": "MNHSJWQ7NZE",
+      "snippet": {
+        "publishedAt": "2026-08-03T07:00:31Z",
+        "channelId": "UC4HUzKzzqrrxqjbw2xSKTzw",
+        "title": "世界でバズったドッジボール神業",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNHSJWQ7NZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "世界バズ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界でバズったドッジボール神業",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1587278",
+        "likeCount": "11493",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NgqbyWsVIL9Bbf5mnEubCT22W64",
+      "id": "66tfjAPMhrk",
+      "snippet": {
+        "publishedAt": "2026-08-04T09:00:24Z",
+        "channelId": "UCWLaakEREpgGArmAcPBjh5w",
+        "title": "【リレー】部活対抗リレーでバク宙披露する猛者ww#shorts#tiktok#おすすめ#運動会#体育祭#リレー",
+        "description": "引用元　https://www.instagram.com/reel/DKQrtnDhuOf/?igsh=c2FkajJ3dHY3bmE0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/66tfjAPMhrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ウルドギールス",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【リレー】部活対抗リレーでバク宙披露する猛者ww#shorts#tiktok#おすすめ#運動会#体育祭#リレー",
+          "description": "引用元　https://www.instagram.com/reel/DKQrtnDhuOf/?igsh=c2FkajJ3dHY3bmE0"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1650052",
+        "likeCount": "18638",
+        "favoriteCount": "0",
+        "commentCount": "580"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l3OCNJL0symixoXe1yHvD15qiDY",
+      "id": "hu7C70G5qMg",
+      "snippet": {
+        "publishedAt": "2026-08-03T10:48:42Z",
+        "channelId": "UCA02_hDfhOb9FZGy1kIlRig",
+        "title": "プロサッカーの女性審判の現場がエグすぎる #サッカー #審判",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hu7C70G5qMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ハンブルサッカーch",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "プロサッカーの女性審判の現場がエグすぎる #サッカー #審判",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1753235",
+        "likeCount": "37650",
+        "favoriteCount": "0",
+        "commentCount": "186"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A2ER7lZAdkZkRmb8daMV8gI1C58",
+      "id": "DrTuGb-FZog",
+      "snippet": {
+        "publishedAt": "2026-08-02T21:00:07Z",
+        "channelId": "UCdrt0L8CJJc8la2wdLfw39g",
+        "title": "野球場のフェンスが 分厚くなった本当の理由！？",
+        "description": "一人の男性が押しても、びくともしない扉があります。\n\nグラウンドに一人取り残されたスタッフ。\n力いっぱい押しても、フェンスはまったく動きません。\n\nそれほど重く、頑丈に作られた扉だったのです。\n\nしかし、この頑丈なフェンスも、MLB選手たちの前では話が変わるといいます。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DrTuGb-FZog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Smile Tube",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "野球場のフェンスが 分厚くなった本当の理由！？",
+          "description": "一人の男性が押しても、びくともしない扉があります。\n\nグラウンドに一人取り残されたスタッフ。\n力いっぱい押しても、フェンスはまったく動きません。\n\nそれほど重く、頑丈に作られた扉だったのです。\n\nしかし、この頑丈なフェンスも、MLB選手たちの前では話が変わるといいます。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1987534",
+        "likeCount": "28332",
+        "favoriteCount": "0",
+        "commentCount": "69"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yDZ5HDdSqPau-L4_BUK0jlAtr_M",
+      "id": "J4DQvwOexro",
+      "snippet": {
+        "publishedAt": "2026-08-05T09:00:13Z",
+        "channelId": "UCtHBUn1-wSDfoLEIOLISCvw",
+        "title": "甲子園優勝投手!!吉永健太郎【幻のドラ1】プロへ行かなかった男が数年後に投げた奇跡の魔球シンカー  #プロ野球  #甲子園 #始球式",
+        "description": "※本動画は、スポーツの歴史や選手のエピソードを解説する教育的・報道目的で作成されています。映像は引用の範囲内で使用していますが、万が一権利上の問題がある場合はご連絡ください。\n\n「独自の視点で分析・解説を行っています」\n「音声はVOICEVOX：青山龍星を使用し、編集で視覚的な演出を加えています」",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J4DQvwOexro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J4DQvwOexro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J4DQvwOexro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J4DQvwOexro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J4DQvwOexro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1分で伝える面白スポーツ雑学",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "甲子園優勝投手!!吉永健太郎【幻のドラ1】プロへ行かなかった男が数年後に投げた奇跡の魔球シンカー  #プロ野球  #甲子園 #始球式",
+          "description": "※本動画は、スポーツの歴史や選手のエピソードを解説する教育的・報道目的で作成されています。映像は引用の範囲内で使用していますが、万が一権利上の問題がある場合はご連絡ください。\n\n「独自の視点で分析・解説を行っています」\n「音声はVOICEVOX：青山龍星を使用し、編集で視覚的な演出を加えています」"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1019509",
+        "likeCount": "15705",
+        "favoriteCount": "0",
+        "commentCount": "360"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PcnofV6s2cQhDeQQF5McZ6fCsHs",
+      "id": "DewUcT7nkhE",
+      "snippet": {
+        "publishedAt": "2026-08-07T09:15:05Z",
+        "channelId": "UCKbjtmJs6cm5JFfImypFmLQ",
+        "title": "大谷翔平ですら我慢できないラシン今や野球界で最も物議を醸す選手の一人になっている #大谷翔平 #MLB #プロ野球 #野球雑学 #野球",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DewUcT7nkhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "野球記",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "大谷翔平ですら我慢できないラシン今や野球界で最も物議を醸す選手の一人になっている #大谷翔平 #MLB #プロ野球 #野球雑学 #野球",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "642961",
+        "likeCount": "9290",
+        "favoriteCount": "0",
+        "commentCount": "625"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wpdXUOpuqlPWBsrT27S9x2OVnOM",
+      "id": "14XxFq9tKM0",
+      "snippet": {
+        "publishedAt": "2026-07-31T12:15:06Z",
+        "channelId": "UCb2Ysrh5kWXpRRXzr1OMc1g",
+        "title": "ポジション配置を多分間違ってる",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/14XxFq9tKM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フットボールワールド",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ポジション配置を多分間違ってる",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2548168",
+        "likeCount": "48721",
+        "favoriteCount": "0",
+        "commentCount": "544"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FPuaGuAfP8d5IUXcY2ng5GXxfXw",
+      "id": "2U7i1RHlnvs",
+      "snippet": {
+        "publishedAt": "2026-08-04T08:27:45Z",
+        "channelId": "UClgUfKkeDbQlAC3P1oQ_qJQ",
+        "title": "神シーンまとめバレー練習 TOP5  #fypシ #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2U7i1RHlnvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ランキング",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "神シーンまとめバレー練習 TOP5  #fypシ #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1493207",
+        "likeCount": "17273",
+        "favoriteCount": "0",
+        "commentCount": "90"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9cjgn5a--unK5exASIMCLgzYCXQ",
+      "id": "blm3gLKOc9g",
+      "snippet": {
+        "publishedAt": "2026-08-02T23:00:28Z",
+        "channelId": "UCuifKdNNjn5y8izBR2pmd-A",
+        "title": "本当の教育🥶",
+        "description": "先生と生徒たちのバスケ対決で、他の先生たちとは違い、一人だけ勝負魂に火がついてしまった先生がいます\n\nこの動画は、人々にインスピレーションやモチベーションを与えることを目的としており、フェアユースの原則（米国著作権法第17編第107条）および著作権法第35条の5に基づいて制作されています。本動画には、独自の解説・批評・創造的な再構成が含まれており、元の素材に新たな価値を付加しています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/blm3gLKOc9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スリースター",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "本当の教育🥶",
+          "description": "先生と生徒たちのバスケ対決で、他の先生たちとは違い、一人だけ勝負魂に火がついてしまった先生がいます\n\nこの動画は、人々にインスピレーションやモチベーションを与えることを目的としており、フェアユースの原則（米国著作権法第17編第107条）および著作権法第35条の5に基づいて制作されています。本動画には、独自の解説・批評・創造的な再構成が含まれており、元の素材に新たな価値を付加しています。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1128799",
+        "likeCount": "15015",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BuDSCkVu3Oc-swHvXq-uDL7Mhvk",
+      "id": "KLuuNCs40JI",
+      "snippet": {
+        "publishedAt": "2026-08-05T09:00:20Z",
+        "channelId": "UCFPNuIG48nRBqsHAIy9rFjA",
+        "title": "世界でバズった見事な瞬間ランキングTOP6まとめ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KLuuNCs40JI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "シンプル解説TV",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界でバズった見事な瞬間ランキングTOP6まとめ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1091501",
+        "likeCount": "26924",
+        "favoriteCount": "0",
+        "commentCount": "132"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VJH4g7HxY3HGTZAW7c3KQpxobnM",
+      "id": "SY_8u6ENMCs",
+      "snippet": {
+        "publishedAt": "2026-08-05T14:15:32Z",
+        "channelId": "UCl0FkutP5CwEBZI-GQqOZbQ",
+        "title": "察してしまう佐野 #阪神タイガース #プロ野球 #野球",
+        "description": "プロ野球好き、阪神タイガース好きに楽しんでもらえる動画を作成しております。\nチャンネル登録だけでもしていただければ励みになります。\nどうぞよろしくお願いいたします。\n\n#野球\n#プロ野球",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SY_8u6ENMCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MKTSports",
+        "tags": [
+          "野球",
+          "プロ野球"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "察してしまう佐野 #阪神タイガース #プロ野球 #野球",
+          "description": "プロ野球好き、阪神タイガース好きに楽しんでもらえる動画を作成しております。\nチャンネル登録だけでもしていただければ励みになります。\nどうぞよろしくお願いいたします。\n\n#野球\n#プロ野球"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "858538",
+        "likeCount": "11156",
+        "favoriteCount": "0",
+        "commentCount": "557"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "upmVWjSN9K8uSCNl5iaY_LHYrS4",
+      "id": "7e3030Igt-0",
+      "snippet": {
+        "publishedAt": "2026-08-05T07:44:04Z",
+        "channelId": "UCbDAmhyRx9bakv-0Gucglgg",
+        "title": "88世代が旅行キャンセル料を奢っていました #柳田悠岐 #読売ジャイアンツ #坂本勇人 選手 #マイナビオールスターゲーム2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7e3030Igt-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7e3030Igt-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7e3030Igt-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7e3030Igt-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7e3030Igt-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "福岡ソフトバンクホークス公式",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "88世代が旅行キャンセル料を奢っていました #柳田悠岐 #読売ジャイアンツ #坂本勇人 選手 #マイナビオールスターゲーム2026",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "641450",
+        "likeCount": "9187",
+        "favoriteCount": "0",
+        "commentCount": "75"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nm2GOmQPX5nnia6Vxn9uD7BrO0w",
+      "id": "r1PbJz6M9VE",
+      "snippet": {
+        "publishedAt": "2026-08-02T11:14:32Z",
+        "channelId": "UCn0vot8kcn2JLNhwlWT-F6A",
+        "title": "バレー日本代表のおもしろすぎたバレーボール#バレーボール　#日本代表　#高橋藍　#西田有志",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r1PbJz6M9VE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スポーツビデオ判定室",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "バレー日本代表のおもしろすぎたバレーボール#バレーボール　#日本代表　#高橋藍　#西田有志",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1405934",
+        "likeCount": "19385",
+        "favoriteCount": "0",
+        "commentCount": "70"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Wig-PHLJwDE0yilWqGFmBP_5wY0",
+      "id": "5h3Y-CnoNNQ",
+      "snippet": {
+        "publishedAt": "2026-08-07T09:12:55Z",
+        "channelId": "UCTaRCDi5v3YS_nSZB0wKb8g",
+        "title": "ツアーキャディが賞金の10%をもらう理由",
+        "description": "この動画はゴルフの戦略とコースマネジメントを学ぶための教育目的の動画です。プロのツアーにおいて、キャディがなぜ賞金の10%を稼ぐことができるのか、その理由がわかる実際の試合のワンシーンです。風の強さやボールの落としどころ（キャリー）を瞬時に計算し、選手が打つ直前にスイングを止めてまでクラブを8番アイアンから7番アイアンへ変更させる、プロキャディの的確な判断力と分析力を詳しく解説しています。初心者から上級者まで、状況に応じたクラブ選択の重要性が理解できる内容となっています。\n\n#ゴルフ #プロキャディ #クラブ選択 #ゴルフ戦略 #コースマネジメント #アイアンショット #ゴルフ教育 #ゴルフスイング",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5h3Y-CnoNNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Space Beat Golf",
+        "tags": [
+          "ゴルフ",
+          "ゴルフスイング"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ツアーキャディが賞金の10%をもらう理由",
+          "description": "この動画はゴルフの戦略とコースマネジメントを学ぶための教育目的の動画です。プロのツアーにおいて、キャディがなぜ賞金の10%を稼ぐことができるのか、その理由がわかる実際の試合のワンシーンです。風の強さやボールの落としどころ（キャリー）を瞬時に計算し、選手が打つ直前にスイングを止めてまでクラブを8番アイアンから7番アイアンへ変更させる、プロキャディの的確な判断力と分析力を詳しく解説しています。初心者から上級者まで、状況に応じたクラブ選択の重要性が理解できる内容となっています。\n\n#ゴルフ #プロキャディ #クラブ選択 #ゴルフ戦略 #コースマネジメント #アイアンショット #ゴルフ教育 #ゴルフスイング"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "429559",
+        "likeCount": "2003",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hiGzVhOl2pwXPgICLqut9fZacac",
+      "id": "kPiWK1Q8xok",
+      "snippet": {
+        "publishedAt": "2026-08-08T09:37:08Z",
+        "channelId": "UCJbwnRbhbwFdBsaB1DNoFZw",
+        "title": "【超難問】100%全正解できないクイズ集【テニス】#Shorts",
+        "description": "毎朝飲んでいる青汁の方がおまえより存在価値ある",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kPiWK1Q8xok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kPiWK1Q8xok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kPiWK1Q8xok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kPiWK1Q8xok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kPiWK1Q8xok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nepa / ねぱーる",
+        "tags": [
+          "テニス",
+          "あるある",
+          "土佐兄弟",
+          "テニスあるある",
+          "フォアハンド",
+          "バックハンド",
+          "サーブ",
+          "スマッシュ",
+          "ハイライト",
+          "錦織圭",
+          "大阪なおみ",
+          "ボレー"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【超難問】100%全正解できないクイズ集【テニス】#Shorts",
+          "description": "毎朝飲んでいる青汁の方がおまえより存在価値ある"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "489610",
+        "likeCount": "22334",
+        "favoriteCount": "0",
+        "commentCount": "602"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "w4Tl4iLk1bJLBjAQWDdWYDk_p64",
+      "id": "Vzuw6Y-T-4Q",
+      "snippet": {
+        "publishedAt": "2026-08-06T08:10:13Z",
+        "channelId": "UCP7Y12LXDK3aef-IKYXZV0A",
+        "title": "古田監督「代打俺」 #プロ野球",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vzuw6Y-T-4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "野球相談所",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "古田監督「代打俺」 #プロ野球",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "556707",
+        "likeCount": "11096",
+        "favoriteCount": "0",
+        "commentCount": "141"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nRYxovlZDd0fBLwhEXkxm-3VMsE",
+      "id": "mJO9_bDCjxo",
+      "snippet": {
+        "publishedAt": "2026-08-08T22:00:11Z",
+        "channelId": "UCBt-R2OEL1M6xh-36wXyWug",
+        "title": "路上に隠れていた本物の才能",
+        "description": "#スポーツ #競技 #運動 #アスリート #スポーツ選手\n#サッカー #ワールドカップ #プチ知識 #football #fifaworldcup #soccer #fifaworldcup #fifa \n\n読み上げ音声\nVOICEVOX: 四国めたん\nhttps://voicevox.hiroshiba.jp/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJO9_bDCjxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJO9_bDCjxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJO9_bDCjxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mJO9_bDCjxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mJO9_bDCjxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "オクタゴンタイム",
+        "tags": [
+          "sports",
+          "スポーツ",
+          "野球",
+          "サッカー",
+          "テニス",
+          "バスケ",
+          "バレーボール",
+          "ボクシング",
+          "卓球",
+          "スケボー",
+          "ラグビー",
+          "アーチェリー",
+          "ダンス",
+          "空手",
+          "柔道",
+          "レスリング",
+          "テコンドー",
+          "ムエタイ",
+          "水泳",
+          "陸上",
+          "スケート"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "路上に隠れていた本物の才能",
+          "description": "#スポーツ #競技 #運動 #アスリート #スポーツ選手\n#サッカー #ワールドカップ #プチ知識 #football #fifaworldcup #soccer #fifaworldcup #fifa \n\n読み上げ音声\nVOICEVOX: 四国めたん\nhttps://voicevox.hiroshiba.jp/"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "373040",
+        "likeCount": "5617",
+        "favoriteCount": "0",
+        "commentCount": "104"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hvrSAQQ3wv43Mn9b9PFNm6XKekc",
+      "id": "foHPAFylkK4",
+      "snippet": {
+        "publishedAt": "2026-08-03T14:15:11Z",
+        "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
+        "title": "一生虫に付きまとわれる 平沢大河 #shorts",
+        "description": "＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n■パテレグッズ好評発売中!! 各商品ご購入はこちら!!\nhttps://www.16d.shop/view/category/plm\n\n■パーソル パ・リーグTV有料会員の方を対象に、パ・リーグ6球団の総勢18選手(各球団3選手)の直筆サイン入りボールが当たるプレゼントキャンペーンを開催中！\n▼詳細はこちら\nhttps://pacificleague.com/contents/campaign202608?utm_source=yt&utm_medium=community&utm_campaign=ptv2026_regular\n\n【パテレ チャンネル登録】はコチラ！\n▷https://www.youtube.com/channel/UC0v-pxTo1XamIDE-f__Ad0Q\n【パ・リーグの過去映像】はコチラ！▷https://www.youtube.com/channel/UCrjlKkKTAyNn6gekRM3p0Aw/\n\n＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n✓パ・リーグ6球団公式情報をお届け\nhttps://pacificleague.com/news\n\nSNSも毎日更新中！\n▶X：https://twitter.com/PacificleagueTV\n▶Instagram：https://www.instagram.com/pacificleaguetv/\n▶Facebook：https://www.facebook.com/pacificleaguetv\n▶LINE：https://lin.ee/2hB4obT\n\n#平沢大河\n#虫に付きまとわれる\n#虫\n#珍プレー\n#埼玉西武ライオンズ\n#若月健矢\n#マチャド\n#オリックスバファローズ\n#パーソルパリーグTV\n#パシフィックリーグ\n#パテレ\n#パテレ行き",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foHPAFylkK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foHPAFylkK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foHPAFylkK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/foHPAFylkK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/foHPAFylkK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "(パーソル パ・リーグTV公式)PacificLeagueTV",
+        "tags": [
+          "パーソルパリーグTV",
+          "パリーグTV",
+          "パシフィックリーグ",
+          "Pacificleague",
+          "プロ野球"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "一生虫に付きまとわれる 平沢大河 #shorts",
+          "description": "＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n■パテレグッズ好評発売中!! 各商品ご購入はこちら!!\nhttps://www.16d.shop/view/category/plm\n\n■パーソル パ・リーグTV有料会員の方を対象に、パ・リーグ6球団の総勢18選手(各球団3選手)の直筆サイン入りボールが当たるプレゼントキャンペーンを開催中！\n▼詳細はこちら\nhttps://pacificleague.com/contents/campaign202608?utm_source=yt&utm_medium=community&utm_campaign=ptv2026_regular\n\n【パテレ チャンネル登録】はコチラ！\n▷https://www.youtube.com/channel/UC0v-pxTo1XamIDE-f__Ad0Q\n【パ・リーグの過去映像】はコチラ！▷https://www.youtube.com/channel/UCrjlKkKTAyNn6gekRM3p0Aw/\n\n＜パ・リーグ主催全試合を生中継！パーソル パ・リーグTVはこちら！＞\n▷https://pacificleague.com/ptv\n\n✓パ・リーグ6球団公式情報をお届け\nhttps://pacificleague.com/news\n\nSNSも毎日更新中！\n▶X：https://twitter.com/PacificleagueTV\n▶Instagram：https://www.instagram.com/pacificleaguetv/\n▶Facebook：https://www.facebook.com/pacificleaguetv\n▶LINE：https://lin.ee/2hB4obT\n\n#平沢大河\n#虫に付きまとわれる\n#虫\n#珍プレー\n#埼玉西武ライオンズ\n#若月健矢\n#マチャド\n#オリックスバファローズ\n#パーソルパリーグTV\n#パシフィックリーグ\n#パテレ\n#パテレ行き"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1191449",
+        "likeCount": "16594",
+        "favoriteCount": "0",
+        "commentCount": "269"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ac4q6d15Hlop-jtArP30pIVBQSY",
+      "id": "KqFCQ3LwNYQ",
+      "snippet": {
+        "publishedAt": "2026-08-03T07:15:04Z",
+        "channelId": "UCGBOt82tPF_roOhD7jURhvw",
+        "title": "スピードがW杯決勝で3分も歌えた理由",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KqFCQ3LwNYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "スピードラボ7",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "スピードがW杯決勝で3分も歌えた理由",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1392359",
+        "likeCount": "44839",
+        "favoriteCount": "0",
+        "commentCount": "280"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LM_IPTk3dHhjWlNKChvHRcR9fVI",
+      "id": "LH1dEl62UJM",
+      "snippet": {
+        "publishedAt": "2026-08-08T14:52:06Z",
+        "channelId": "UCiEJedvcKMydFu9GNzyBf4A",
+        "title": "お金かけずに遊べる大人も熱中するゲーム",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LH1dEl62UJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LH1dEl62UJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LH1dEl62UJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LH1dEl62UJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LH1dEl62UJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "知ったかワールド",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "お金かけずに遊べる大人も熱中するゲーム",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "311229",
+        "likeCount": "2869",
+        "favoriteCount": "0",
+        "commentCount": "66"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qpo3Abhw50QpOrZqAM-za2-rCVU",
+      "id": "Kcl2-U--7jM",
+      "snippet": {
+        "publishedAt": "2026-08-08T02:27:49Z",
+        "channelId": "UC1VwWrGY_G0PbNu-rmUoLkw",
+        "title": "㊗️50万再生！大谷翔平が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！",
+        "description": "ドジャースの大谷翔平投手が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！\n#shoheiohtani \n#大谷翔平\n#dodgers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kcl2-U--7jM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MLBサムライSPORTS【大谷翔平】",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "㊗️50万再生！大谷翔平が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！",
+          "description": "ドジャースの大谷翔平投手が盗塁失敗！ベンチへチャレンジ要求アピールもチャレンジなしの判断でのままアウトに！\n#shoheiohtani \n#大谷翔平\n#dodgers"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "338613",
+        "likeCount": "3516",
+        "favoriteCount": "0",
+        "commentCount": "287"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vrDlEBFHptssl8VgwQU4YA65vx4",
+      "id": "tIAraP2a-3E",
+      "snippet": {
+        "publishedAt": "2026-07-30T03:32:31Z",
+        "channelId": "UCIZSyP9gFDjUeXUA0cVqklA",
+        "title": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www",
+        "description": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tIAraP2a-3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jazz Coffee Shop",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www",
+          "description": "ツッコミ芸人なら「お前なんかい！」って一瞬でツッコめる？www"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2510304",
+        "likeCount": "32122",
+        "favoriteCount": "0",
+        "commentCount": "182"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-dWOnpC2Z3yxclnTTMgQizEayig",
+      "id": "xClxohGyOIc",
+      "snippet": {
+        "publishedAt": "2026-08-05T10:15:13Z",
+        "channelId": "UCrf0lUJsvJvXsECsB4ti_yA",
+        "title": "ロナウドに格の違いを教える本田圭佑 #サッカー #本田圭佑 #ロナウド #フリーキック #無回転",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xClxohGyOIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xClxohGyOIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xClxohGyOIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xClxohGyOIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xClxohGyOIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "サッカーの化身",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ロナウドに格の違いを教える本田圭佑 #サッカー #本田圭佑 #ロナウド #フリーキック #無回転",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "940119",
+        "likeCount": "14985",
+        "favoriteCount": "0",
+        "commentCount": "207"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XNeDzLhe3QvbfdV93Ca_WiFVmVc",
+      "id": "U9CjKWFr9Ko",
+      "snippet": {
+        "publishedAt": "2026-08-06T13:00:12Z",
+        "channelId": "UChku4ht5HJlZ6oJgj0WtlIg",
+        "title": "【驚愕】イチローが悟った瞬間‼ #野球",
+        "description": "楽曲提供：株式会社Pinguino",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U9CjKWFr9Ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "朝から野球",
+        "tags": [
+          "#野球",
+          "#野球解説",
+          "#大谷翔平"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【驚愕】イチローが悟った瞬間‼ #野球",
+          "description": "楽曲提供：株式会社Pinguino"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "485650",
+        "likeCount": "4008",
+        "favoriteCount": "0",
+        "commentCount": "106"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wdxELGdYce_0ODvJqJ9NHLGRG6c",
+      "id": "MK8xSWPmadk",
+      "snippet": {
+        "publishedAt": "2026-08-09T04:21:04Z",
+        "channelId": "UCG5-RaRdew4bVwzHTLOg8og",
+        "title": "甲子園で高校球児がメジャーリーガー級の神プレイ",
+        "description": "夏の甲子園でスーパープレイが炸裂し、全に名作アニメ\"メジャー\"のOPシーンと一致しすぎだと誰もが大興奮の神プレイが話題を解説!!\n\n使用音声\nVOICEVOX:青山龍星、剣崎雌雄\n楽曲提供：箕輪レコーズ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MK8xSWPmadk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MK8xSWPmadk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MK8xSWPmadk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MK8xSWPmadk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MK8xSWPmadk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "今日の世界🌏",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "甲子園で高校球児がメジャーリーガー級の神プレイ",
+          "description": "夏の甲子園でスーパープレイが炸裂し、全に名作アニメ\"メジャー\"のOPシーンと一致しすぎだと誰もが大興奮の神プレイが話題を解説!!\n\n使用音声\nVOICEVOX:青山龍星、剣崎雌雄\n楽曲提供：箕輪レコーズ"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "228472",
+        "likeCount": "3779",
+        "favoriteCount": "0",
+        "commentCount": "129"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "u4vmvUx_Z63eeT3jtKiYM3zwv1k",
+      "id": "ZbA5rX8zmkA",
+      "snippet": {
+        "publishedAt": "2026-08-02T16:30:53Z",
+        "channelId": "UCn6eoiDrocx1a-nudjFSNDg",
+        "title": "大谷がメジャーの歴史に名を刻んだ史上最高試合",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZbA5rX8zmkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "なんでジャパン",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "大谷がメジャーの歴史に名を刻んだ史上最高試合",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1942997",
+        "likeCount": "72202",
+        "favoriteCount": "0",
+        "commentCount": "1480"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YvJYeR0oRHbvFlroC8jsPY2_-RE",
+      "id": "EYb-Pwu4Ixk",
+      "snippet": {
+        "publishedAt": "2026-08-09T08:54:18Z",
+        "channelId": "UC1e8VAH8dyzV-tq0j-mEuSA",
+        "title": "Part6 【プールの授業あるある】みんなは何秒息止めれる？ #小学校 #あるある #プール #水泳",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYb-Pwu4Ixk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYb-Pwu4Ixk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYb-Pwu4Ixk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EYb-Pwu4Ixk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EYb-Pwu4Ixk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "棚から田中",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "Part6 【プールの授業あるある】みんなは何秒息止めれる？ #小学校 #あるある #プール #水泳",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "357262",
+        "likeCount": "4956",
+        "favoriteCount": "0",
+        "commentCount": "62"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QvSFoNXTAgeW7A-IyEUucDEpQsk",
+      "id": "2W_wAHWmmdA",
+      "snippet": {
+        "publishedAt": "2026-08-08T11:00:21Z",
+        "channelId": "UCATgfnp9_k5mN-xpfRSMXiA",
+        "title": "最後まで見てww現代では考えられない長嶋監督の口サインww",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2W_wAHWmmdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2W_wAHWmmdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2W_wAHWmmdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2W_wAHWmmdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2W_wAHWmmdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Baseball Archives",
+        "tags": [
+          "長嶋監督",
+          "巨人",
+          "プロ野球",
+          "ヤクルト",
+          "古田"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "最後まで見てww現代では考えられない長嶋監督の口サインww",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "326534",
+        "likeCount": "5220",
+        "favoriteCount": "0",
+        "commentCount": "221"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kzCGPbHTrCQGOIUug2g9oEWvAOg",
+      "id": "tgMK5n8tyFU",
+      "snippet": {
+        "publishedAt": "2026-08-02T03:00:38Z",
+        "channelId": "UCkoUMIX-44ZJ3I0Gr2TJizw",
+        "title": "㊗️290万再生!!絶対に再現できないミラクルプレー集 #サッカー #ショート",
+        "description": "【楽曲提供：箕輪レコーズ】",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tgMK5n8tyFU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "サッカージャンキー",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "㊗️290万再生!!絶対に再現できないミラクルプレー集 #サッカー #ショート",
+          "description": "【楽曲提供：箕輪レコーズ】"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1679789",
+        "likeCount": "25077",
+        "favoriteCount": "0",
+        "commentCount": "123"
       }
     }
   ],

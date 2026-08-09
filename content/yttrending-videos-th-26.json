@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "rBDqTsf8yYSsik5IDe_SBZVvmjo",
+  "etag": "fGHB4-yn1quysxjE_BJ9hdIJH1o",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "6Nv955H_yBkQEyvzfN9VnvRCftw",
+      "etag": "HQusvU0RVa-7aQObvxjryFngjHQ",
       "id": "2o2XEhDoF8w",
       "snippet": {
         "publishedAt": "2026-08-05T13:20:10Z",
@@ -58,15 +58,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3884385",
-        "likeCount": "75349",
+        "viewCount": "4889016",
+        "likeCount": "88531",
         "favoriteCount": "0",
-        "commentCount": "216"
+        "commentCount": "249"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6hpiCU5gXicHnSnim1BeTWxvCV8",
+      "etag": "RSFGLCUO3lBeK4idQoBPWDOHp8g",
+      "id": "2UjJ9A_uVaE",
+      "snippet": {
+        "publishedAt": "2026-08-09T01:36:21Z",
+        "channelId": "UC1dnrZnTPHdqkV1SXVf7NvA",
+        "title": "เชฟรีบห้ามแทบไม่ทัน เมื่อเขาวาดไข่แบบนี้! 😂",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UjJ9A_uVaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UjJ9A_uVaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UjJ9A_uVaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2UjJ9A_uVaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2UjJ9A_uVaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CubeQ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เชฟรีบห้ามแทบไม่ทัน เมื่อเขาวาดไข่แบบนี้! 😂",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1064715",
+        "likeCount": "27603",
+        "favoriteCount": "0",
+        "commentCount": "149"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yABOlSrEL2C3yXQou1zAXe9I1Jw",
       "id": "RLPW5AIKR8k",
       "snippet": {
         "publishedAt": "2026-08-05T00:00:36Z",
@@ -125,295 +187,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2880214",
-        "likeCount": "103325",
+        "viewCount": "3309123",
+        "likeCount": "119082",
         "favoriteCount": "0",
-        "commentCount": "381"
+        "commentCount": "433"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "74fP7EJ3ZUdgt5-3NvSwnRd0eZE",
-      "id": "wcenl6i917E",
+      "etag": "WpZvIW5m2tfxZJk8vOKW8Pt-N-4",
+      "id": "FxnZBnUGyd0",
       "snippet": {
-        "publishedAt": "2026-08-07T10:09:41Z",
-        "channelId": "UC1dnrZnTPHdqkV1SXVf7NvA",
-        "title": "อย่าเข้าใกล้ลูกสาววัยรุ่นเกินระยะนี้! 😂",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wcenl6i917E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wcenl6i917E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wcenl6i917E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wcenl6i917E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wcenl6i917E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CubeQ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อย่าเข้าใกล้ลูกสาววัยรุ่นเกินระยะนี้! 😂",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1073016",
-        "likeCount": "41919",
-        "favoriteCount": "0",
-        "commentCount": "95"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "c3QiVhPxHRiMVv-7ndlHgGrbFKA",
-      "id": "8gsoWGBz2_c",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:00:13Z",
-        "channelId": "UCIyX7p4RaZ2nu14LpJZjUgA",
-        "title": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡",
-        "description": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BullFelix",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡",
-          "description": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1031053",
-        "likeCount": "43549",
-        "favoriteCount": "0",
-        "commentCount": "123"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "86PDvBHTPVvkfLPgOt9Kg7Jb5H0",
-      "id": "sDmtZvi07EY",
-      "snippet": {
-        "publishedAt": "2026-08-07T10:00:34Z",
-        "channelId": "UCQnaOvNXZE1zwaSTYI5IusQ",
-        "title": "เขมรไม่ทน! ระดมคนซ่อมถนนมิตรภาพ #shorts #youtubeshorts #เล่าเรื่อง #เขมร",
-        "description": "คลิปนี้กำลังเป็นที่พูดถึงบนโลกออนไลน์ เมื่อมีการเผยภาพชาวบ้านในกัมพูชาช่วยกันลงขันซื้อปูนและซ่อมถนนที่ได้รับความเสียหายหลังฝนตกหนัก จนเกิดกระแสวิพากษ์วิจารณ์อย่างกว้างขวาง ทั้งในแง่ของการร่วมแรงร่วมใจของคนในชุมชน และมุมมองที่สะท้อนถึงสภาพโครงสร้างพื้นฐานในพื้นที่\n\nขณะเดียวกัน คลิปดังกล่าวยังถูกแชร์ต่ออย่างรวดเร็วบนโซเชียลมีเดีย พร้อมความคิดเห็นจากชาวเน็ตจำนวนมาก โดยเฉพาะฝั่งไทยที่เข้ามาแสดงความคิดเห็นทั้งเชิงวิจารณ์และเชิงแซว ทำให้ประเด็นนี้กลายเป็นอีกหนึ่งข่าวไวรัลที่ได้รับความสนใจในช่วงนี้\n\nติดตามภาพเหตุการณ์ พร้อมเรื่องราวทั้งหมดในคลิปนี้ ว่าเกิดอะไรขึ้น ทำไมถนนจึงเสียหายหนัก และเพราะเหตุใดคลิปการซ่อมถนนของชาวบ้านจึงกลายเป็นกระแสร้อนบนโลกออนไลน์\n\n#shorts \n#youtubeshorts \n#เล่าเรื่อง \n#เขมร \n#กัมพูชา \n#สาระ \n#fyp",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Story-Sifter",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เขมรไม่ทน! ระดมคนซ่อมถนนมิตรภาพ #shorts #youtubeshorts #เล่าเรื่อง #เขมร",
-          "description": "คลิปนี้กำลังเป็นที่พูดถึงบนโลกออนไลน์ เมื่อมีการเผยภาพชาวบ้านในกัมพูชาช่วยกันลงขันซื้อปูนและซ่อมถนนที่ได้รับความเสียหายหลังฝนตกหนัก จนเกิดกระแสวิพากษ์วิจารณ์อย่างกว้างขวาง ทั้งในแง่ของการร่วมแรงร่วมใจของคนในชุมชน และมุมมองที่สะท้อนถึงสภาพโครงสร้างพื้นฐานในพื้นที่\n\nขณะเดียวกัน คลิปดังกล่าวยังถูกแชร์ต่ออย่างรวดเร็วบนโซเชียลมีเดีย พร้อมความคิดเห็นจากชาวเน็ตจำนวนมาก โดยเฉพาะฝั่งไทยที่เข้ามาแสดงความคิดเห็นทั้งเชิงวิจารณ์และเชิงแซว ทำให้ประเด็นนี้กลายเป็นอีกหนึ่งข่าวไวรัลที่ได้รับความสนใจในช่วงนี้\n\nติดตามภาพเหตุการณ์ พร้อมเรื่องราวทั้งหมดในคลิปนี้ ว่าเกิดอะไรขึ้น ทำไมถนนจึงเสียหายหนัก และเพราะเหตุใดคลิปการซ่อมถนนของชาวบ้านจึงกลายเป็นกระแสร้อนบนโลกออนไลน์\n\n#shorts \n#youtubeshorts \n#เล่าเรื่อง \n#เขมร \n#กัมพูชา \n#สาระ \n#fyp"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "979272",
-        "likeCount": "24873",
-        "favoriteCount": "0",
-        "commentCount": "264"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "HtcCX0sZJWymQIlMuu21iS_uG7U",
-      "id": "rjzVC0hPyuk",
-      "snippet": {
-        "publishedAt": "2026-08-05T10:33:23Z",
-        "channelId": "UCwqZe6NR99HK3hseeq0XYrQ",
-        "title": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม",
-        "description": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม #แมว #ทาสแมว #บันเทิง #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ปิดตาเล่าเรื่อง",
-        "tags": [
-          "shorts"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม",
-          "description": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม #แมว #ทาสแมว #บันเทิง #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1544422",
-        "likeCount": "16213",
-        "favoriteCount": "0",
-        "commentCount": "16"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DWgSq6cPlgG6chXLqPwaKg6b6TE",
-      "id": "5iFo7vfTn-g",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:09:11Z",
+        "publishedAt": "2026-08-09T01:01:03Z",
         "channelId": "UCSZYkeZSO6ZHJRBS_G4UYLg",
-        "title": "ไปเจอ...คนดัง! รู้จักมั้ย #jamsai #แจ่มใส #jamsaijs",
+        "title": "เจอคนดังอีกแล้ว! ใครรู้จักบ้าง? #jamsai #แจ่มใส #jamsaijs",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5iFo7vfTn-g/default.jpg",
+            "url": "https://i.ytimg.com/vi/FxnZBnUGyd0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5iFo7vfTn-g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FxnZBnUGyd0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5iFo7vfTn-g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FxnZBnUGyd0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/5iFo7vfTn-g/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/FxnZBnUGyd0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/5iFo7vfTn-g/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FxnZBnUGyd0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -423,13 +234,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ไปเจอ...คนดัง! รู้จักมั้ย #jamsai #แจ่มใส #jamsaijs",
+          "title": "เจอคนดังอีกแล้ว! ใครรู้จักบ้าง? #jamsai #แจ่มใส #jamsaijs",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT52S",
+        "duration": "PT46S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -438,122 +249,63 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2013989",
-        "likeCount": "35942",
+        "viewCount": "1429039",
+        "likeCount": "26939",
         "favoriteCount": "0",
-        "commentCount": "319"
+        "commentCount": "298"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XJcFKks8AUre-OFim-Crgh9Fv1I",
-      "id": "GgqqukQyK04",
+      "etag": "wfzVMv3XvvFWdiOzrINfs6-0RA4",
+      "id": "YS0R3zVJcuU",
       "snippet": {
-        "publishedAt": "2026-08-05T11:14:51Z",
-        "channelId": "UC3xeVfypSsaxq7yjZQT54Dw",
-        "title": "เป็นคุณจะเล่นเกมนี้ไหม",
-        "description": "",
+        "publishedAt": "2026-08-08T11:55:36Z",
+        "channelId": "UCelpmPNDt6Ed0Ja_s7Lz0xg",
+        "title": "จักรยานของเขาเกือบหาย เพราะเผลอเพียงไม่กี่วินาที!😱",
+        "description": "จักรยานของเขาเกือบหาย เพราะเผลอเพียงไม่กี่วินาที!😱\n\n#shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GgqqukQyK04/default.jpg",
+            "url": "https://i.ytimg.com/vi/YS0R3zVJcuU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GgqqukQyK04/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YS0R3zVJcuU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GgqqukQyK04/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YS0R3zVJcuU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/GgqqukQyK04/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/YS0R3zVJcuU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/GgqqukQyK04/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YS0R3zVJcuU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "K Mastered",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เป็นคุณจะเล่นเกมนี้ไหม",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1529087",
-        "likeCount": "41705",
-        "favoriteCount": "0",
-        "commentCount": "57"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-bw55jxZ_MLKC8oDWu6Yon6L0XQ",
-      "id": "E5aYTA3RgzU",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:58:48Z",
-        "channelId": "UCQpWPs48cGSAzB_lhFHjnJQ",
-        "title": "จริงๆ แล้วไม่ได้เกิดอุบัติเหตุจริงนะทุกคน มันคือ SFX Makeup หรือการแต่งหน้าเอฟเฟกต์พิเศษต่างหาก!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "sunstory99",
+        "channelTitle": "MeePooh Box",
+        "tags": [
+          "shorts"
+        ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "จริงๆ แล้วไม่ได้เกิดอุบัติเหตุจริงนะทุกคน มันคือ SFX Makeup หรือการแต่งหน้าเอฟเฟกต์พิเศษต่างหาก!",
-          "description": ""
+          "title": "จักรยานของเขาเกือบหาย เพราะเผลอเพียงไม่กี่วินาที!😱",
+          "description": "จักรยานของเขาเกือบหาย เพราะเผลอเพียงไม่กี่วินาที!😱\n\n#shorts"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT17S",
+        "duration": "PT12S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -562,139 +314,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "893117",
-        "likeCount": "31234",
+        "viewCount": "1014445",
+        "likeCount": "15495",
         "favoriteCount": "0",
-        "commentCount": "777"
+        "commentCount": "31"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5b0YNMU1Xm8mSNwlDr-P3IaLfVk",
-      "id": "ZSJR7uXWSK4",
-      "snippet": {
-        "publishedAt": "2026-08-06T11:45:19Z",
-        "channelId": "UCc9cD2enMuQmpmvdJTC6RgA",
-        "title": "เบรกจักรยานในอดีตนั้นอันตรายมาก?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "FoxVerse",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เบรกจักรยานในอดีตนั้นอันตรายมาก?",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1271945",
-        "likeCount": "20261",
-        "favoriteCount": "0",
-        "commentCount": "51"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1QeJw9zpYCZ2efneFqHLTUCrPGI",
-      "id": "dBVPUMp-OQ0",
-      "snippet": {
-        "publishedAt": "2026-08-05T09:04:49Z",
-        "channelId": "UC7P9ByHvm4d8U7ttS0mjypA",
-        "title": "อุปกรณ์การเรียนของพี่สาวมีแต่ของแปลกๆ 🤔",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "NewPixelsx",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อุปกรณ์การเรียนของพี่สาวมีแต่ของแปลกๆ 🤔",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1408207",
-        "likeCount": "22210",
-        "favoriteCount": "0",
-        "commentCount": "14"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SDyNcdVOmPhKqsKfSFatIqBCRXA",
+      "etag": "Uk0WdEgSUEDqjMLWXavMq0s_USA",
       "id": "TLiQXYGOREo",
       "snippet": {
         "publishedAt": "2026-08-06T10:54:57Z",
@@ -748,60 +376,62 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1169920",
-        "likeCount": "52246",
+        "viewCount": "1868283",
+        "likeCount": "77449",
         "favoriteCount": "0",
-        "commentCount": "83"
+        "commentCount": "103"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "MVxqXWs4s_eiBNdTO3VO5EbBgRo",
-      "id": "j79zWAyls8E",
+      "etag": "4ciEwAe26N3G_8gz9Gmq6WTrZMU",
+      "id": "rjzVC0hPyuk",
       "snippet": {
-        "publishedAt": "2026-08-04T12:12:40Z",
-        "channelId": "UCkCabIITF5oe50BOqL9WMpg",
-        "title": "อย่ากินเปลือกสีแดงของชีส Babybel เด็ดขาด!",
-        "description": "",
+        "publishedAt": "2026-08-05T10:33:23Z",
+        "channelId": "UCwqZe6NR99HK3hseeq0XYrQ",
+        "title": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม",
+        "description": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม #แมว #ทาสแมว #บันเทิง #shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/j79zWAyls8E/default.jpg",
+            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/j79zWAyls8E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/j79zWAyls8E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/j79zWAyls8E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/j79zWAyls8E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rjzVC0hPyuk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "STRANGEO",
+        "channelTitle": "ปิดตาเล่าเรื่อง",
+        "tags": [
+          "shorts"
+        ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "อย่ากินเปลือกสีแดงของชีส Babybel เด็ดขาด!",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
+          "title": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม",
+          "description": "เธอเล่นกลนิ้วให้แมวดู มันไม่เชื่อต้องเป็นของปลอม #แมว #ทาสแมว #บันเทิง #shorts"
+        }
       },
       "contentDetails": {
-        "duration": "PT44S",
+        "duration": "PT16S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -810,77 +440,580 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1614337",
-        "likeCount": "61568",
+        "viewCount": "1885717",
+        "likeCount": "19538",
         "favoriteCount": "0",
-        "commentCount": "282"
+        "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "x24sWfM94kj2XbS2OBs5cEI5Y0Q",
-      "id": "T17yecS1W2Y",
+      "etag": "2XdfkscBkDlvCZPnQszOcZaxroM",
+      "id": "sDmtZvi07EY",
       "snippet": {
-        "publishedAt": "2026-08-06T11:19:48Z",
-        "channelId": "UCxKK3lph3CLN_94EZDGMpFg",
-        "title": "จิ้มไก่ 1 vs 1,000 ครั้ง #shorts #pnutcooking",
-        "description": "",
+        "publishedAt": "2026-08-07T10:00:34Z",
+        "channelId": "UCQnaOvNXZE1zwaSTYI5IusQ",
+        "title": "เขมรไม่ทน! ระดมคนซ่อมถนนมิตรภาพ #shorts #youtubeshorts #เล่าเรื่อง #เขมร",
+        "description": "คลิปนี้กำลังเป็นที่พูดถึงบนโลกออนไลน์ เมื่อมีการเผยภาพชาวบ้านในกัมพูชาช่วยกันลงขันซื้อปูนและซ่อมถนนที่ได้รับความเสียหายหลังฝนตกหนัก จนเกิดกระแสวิพากษ์วิจารณ์อย่างกว้างขวาง ทั้งในแง่ของการร่วมแรงร่วมใจของคนในชุมชน และมุมมองที่สะท้อนถึงสภาพโครงสร้างพื้นฐานในพื้นที่\n\nขณะเดียวกัน คลิปดังกล่าวยังถูกแชร์ต่ออย่างรวดเร็วบนโซเชียลมีเดีย พร้อมความคิดเห็นจากชาวเน็ตจำนวนมาก โดยเฉพาะฝั่งไทยที่เข้ามาแสดงความคิดเห็นทั้งเชิงวิจารณ์และเชิงแซว ทำให้ประเด็นนี้กลายเป็นอีกหนึ่งข่าวไวรัลที่ได้รับความสนใจในช่วงนี้\n\nติดตามภาพเหตุการณ์ พร้อมเรื่องราวทั้งหมดในคลิปนี้ ว่าเกิดอะไรขึ้น ทำไมถนนจึงเสียหายหนัก และเพราะเหตุใดคลิปการซ่อมถนนของชาวบ้านจึงกลายเป็นกระแสร้อนบนโลกออนไลน์\n\n#shorts \n#youtubeshorts \n#เล่าเรื่อง \n#เขมร \n#กัมพูชา \n#สาระ \n#fyp",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sDmtZvi07EY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "pnut cooking",
+        "channelTitle": "Story-Sifter",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "จิ้มไก่ 1 vs 1,000 ครั้ง #shorts #pnutcooking",
+          "title": "เขมรไม่ทน! ระดมคนซ่อมถนนมิตรภาพ #shorts #youtubeshorts #เล่าเรื่อง #เขมร",
+          "description": "คลิปนี้กำลังเป็นที่พูดถึงบนโลกออนไลน์ เมื่อมีการเผยภาพชาวบ้านในกัมพูชาช่วยกันลงขันซื้อปูนและซ่อมถนนที่ได้รับความเสียหายหลังฝนตกหนัก จนเกิดกระแสวิพากษ์วิจารณ์อย่างกว้างขวาง ทั้งในแง่ของการร่วมแรงร่วมใจของคนในชุมชน และมุมมองที่สะท้อนถึงสภาพโครงสร้างพื้นฐานในพื้นที่\n\nขณะเดียวกัน คลิปดังกล่าวยังถูกแชร์ต่ออย่างรวดเร็วบนโซเชียลมีเดีย พร้อมความคิดเห็นจากชาวเน็ตจำนวนมาก โดยเฉพาะฝั่งไทยที่เข้ามาแสดงความคิดเห็นทั้งเชิงวิจารณ์และเชิงแซว ทำให้ประเด็นนี้กลายเป็นอีกหนึ่งข่าวไวรัลที่ได้รับความสนใจในช่วงนี้\n\nติดตามภาพเหตุการณ์ พร้อมเรื่องราวทั้งหมดในคลิปนี้ ว่าเกิดอะไรขึ้น ทำไมถนนจึงเสียหายหนัก และเพราะเหตุใดคลิปการซ่อมถนนของชาวบ้านจึงกลายเป็นกระแสร้อนบนโลกออนไลน์\n\n#shorts \n#youtubeshorts \n#เล่าเรื่อง \n#เขมร \n#กัมพูชา \n#สาระ \n#fyp"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1190643",
+        "likeCount": "28864",
+        "favoriteCount": "0",
+        "commentCount": "308"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "30GWkjm3GjyQWdidzl0howXG0Hg",
+      "id": "8gsoWGBz2_c",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:00:13Z",
+        "channelId": "UCIyX7p4RaZ2nu14LpJZjUgA",
+        "title": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡",
+        "description": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8gsoWGBz2_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BullFelix",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡",
+          "description": "วิธีสอนลูกตอนทำผิดระดับตำนาน 💡"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1191303",
+        "likeCount": "49752",
+        "favoriteCount": "0",
+        "commentCount": "152"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9ey8PcVhijIBWr05SY8klhYxWeo",
+      "id": "GgqqukQyK04",
+      "snippet": {
+        "publishedAt": "2026-08-05T11:14:51Z",
+        "channelId": "UC3xeVfypSsaxq7yjZQT54Dw",
+        "title": "เป็นคุณจะเล่นเกมนี้ไหม",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgqqukQyK04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgqqukQyK04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgqqukQyK04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GgqqukQyK04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GgqqukQyK04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K Mastered",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เป็นคุณจะเล่นเกมนี้ไหม",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1887319",
+        "likeCount": "51349",
+        "favoriteCount": "0",
+        "commentCount": "62"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hn0rbve9dhro2RTXtlXb9mIDUbg",
+      "id": "usTBxiTTOWU",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:40:08Z",
+        "channelId": "UCGjeOZKEpESl1Jep1flUjLQ",
+        "title": "พี่น้องเล่นหยอกล้อกันจนพ่อแม่ขำ! 😂",
+        "description": "พี่น้องเล่นหยอกล้อกันจนพ่อแม่ขำ! 😂\n\n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/usTBxiTTOWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/usTBxiTTOWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/usTBxiTTOWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/usTBxiTTOWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/usTBxiTTOWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ชายครึ่งหน้า",
+        "tags": [
+          "shorts"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "พี่น้องเล่นหยอกล้อกันจนพ่อแม่ขำ! 😂",
+          "description": "พี่น้องเล่นหยอกล้อกันจนพ่อแม่ขำ! 😂\n\n#shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "812788",
+        "likeCount": "14247",
+        "favoriteCount": "0",
+        "commentCount": "80"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PAGl3eiLHseUU1QNBOYZ1huoOIQ",
+      "id": "fuwqQs0ET7E",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:44:09Z",
+        "channelId": "UC3dEnJwgtSR6mRPkYL968ng",
+        "title": "พอโตมาไม่กินเลยไม่กินทีละน้อยๆเลย!",
+        "description": "ติดต่องาน_ line ID: akebaowmery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fuwqQs0ET7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fuwqQs0ET7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fuwqQs0ET7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fuwqQs0ET7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fuwqQs0ET7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ake Baowmery",
+        "tags": [
+          "บักปรอบ",
+          "ตลก",
+          "แกล้ง",
+          "คริปฮาๆ"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "พอโตมาไม่กินเลยไม่กินทีละน้อยๆเลย!",
+          "description": "ติดต่องาน_ line ID: akebaowmery"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "783894",
+        "likeCount": "21656",
+        "favoriteCount": "0",
+        "commentCount": "103"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wDDH17NPijit3UxErbL8oy2Nrag",
+      "id": "ZSJR7uXWSK4",
+      "snippet": {
+        "publishedAt": "2026-08-06T11:45:19Z",
+        "channelId": "UCc9cD2enMuQmpmvdJTC6RgA",
+        "title": "เบรกจักรยานในอดีตนั้นอันตรายมาก?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZSJR7uXWSK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoxVerse",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เบรกจักรยานในอดีตนั้นอันตรายมาก?",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1465771",
+        "likeCount": "23558",
+        "favoriteCount": "0",
+        "commentCount": "61"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PPGWoVpX4zEe2UTzugUnMlcAbVc",
+      "id": "dBVPUMp-OQ0",
+      "snippet": {
+        "publishedAt": "2026-08-05T09:04:49Z",
+        "channelId": "UC7P9ByHvm4d8U7ttS0mjypA",
+        "title": "อุปกรณ์การเรียนของพี่สาวมีแต่ของแปลกๆ 🤔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dBVPUMp-OQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewPixelsx",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "อุปกรณ์การเรียนของพี่สาวมีแต่ของแปลกๆ 🤔",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT49S",
+        "duration": "PT34S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "943719",
-        "likeCount": "27914",
+        "viewCount": "1726731",
+        "likeCount": "26778",
         "favoriteCount": "0",
-        "commentCount": "69"
+        "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ckZvVh4A7nzp3Iur8C3cbUUMFYo",
+      "etag": "rJDoJLxLubGP1EOn-VBk5BbWMvw",
+      "id": "Z0qrVuThQVU",
+      "snippet": {
+        "publishedAt": "2026-08-05T09:00:21Z",
+        "channelId": "UCvqHnGx0sAQO3HJWgHoPieQ",
+        "title": "เมื่อพาแม่มาดูแข่งจักรยาน",
+        "description": "สมาธิหลุดเพราะเสียงแม่แท้ๆ\nCr. cameronreid1013 on IG\n#shorts #bmx #ตลก #คลายเครียด #จักรยาน",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OVERLAY Studio",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อพาแม่มาดูแข่งจักรยาน",
+          "description": "สมาธิหลุดเพราะเสียงแม่แท้ๆ\nCr. cameronreid1013 on IG\n#shorts #bmx #ตลก #คลายเครียด #จักรยาน"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1485874",
+        "likeCount": "36256",
+        "favoriteCount": "0",
+        "commentCount": "91"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DO_CvLgRgcTlo5FVaRUqrJFNsSw",
+      "id": "E5aYTA3RgzU",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:58:48Z",
+        "channelId": "UCQpWPs48cGSAzB_lhFHjnJQ",
+        "title": "จริงๆ แล้วไม่ได้เกิดอุบัติเหตุจริงนะทุกคน มันคือ SFX Makeup หรือการแต่งหน้าเอฟเฟกต์พิเศษต่างหาก!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E5aYTA3RgzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sunstory99",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "จริงๆ แล้วไม่ได้เกิดอุบัติเหตุจริงนะทุกคน มันคือ SFX Makeup หรือการแต่งหน้าเอฟเฟกต์พิเศษต่างหาก!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "942534",
+        "likeCount": "32150",
+        "favoriteCount": "0",
+        "commentCount": "801"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4LJHBYTSnwrzxDLtnge56zu6mhk",
       "id": "KWBV8IE_BeY",
       "snippet": {
         "publishedAt": "2026-08-05T10:25:30Z",
@@ -938,122 +1071,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1010386",
-        "likeCount": "15016",
+        "viewCount": "1381021",
+        "likeCount": "20114",
         "favoriteCount": "0",
-        "commentCount": "12"
+        "commentCount": "22"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HBO4gZ9CUd5RU9Q8BcwktP3-jU4",
-      "id": "Z0qrVuThQVU",
+      "etag": "XGt00kNLhg_maz8oWfFiHpW3Ckc",
+      "id": "W2DLdwkt3t8",
       "snippet": {
-        "publishedAt": "2026-08-05T09:00:21Z",
-        "channelId": "UCvqHnGx0sAQO3HJWgHoPieQ",
-        "title": "เมื่อพาแม่มาดูแข่งจักรยาน",
-        "description": "สมาธิหลุดเพราะเสียงแม่แท้ๆ\nCr. cameronreid1013 on IG\n#shorts #bmx #ตลก #คลายเครียด #จักรยาน",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Z0qrVuThQVU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "OVERLAY Studio",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อพาแม่มาดูแข่งจักรยาน",
-          "description": "สมาธิหลุดเพราะเสียงแม่แท้ๆ\nCr. cameronreid1013 on IG\n#shorts #bmx #ตลก #คลายเครียด #จักรยาน"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "977071",
-        "likeCount": "21659",
-        "favoriteCount": "0",
-        "commentCount": "50"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DaYOjXtfxLeBbH_AkeRT8QrNq1c",
-      "id": "PLIQeKrOYlQ",
-      "snippet": {
-        "publishedAt": "2026-08-04T03:25:13Z",
-        "channelId": "UCKPGeJZnBNmwsGq_czotU6g",
-        "title": "อย่ากลัวถ้าเจอผีปอบ",
+        "publishedAt": "2026-08-07T12:11:31Z",
+        "channelId": "UCkCabIITF5oe50BOqL9WMpg",
+        "title": "กิจกรรมตักขนมที่ดูสนุก แต่ซ่อนอันตรายเอาไว้",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/W2DLdwkt3t8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W2DLdwkt3t8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W2DLdwkt3t8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/W2DLdwkt3t8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/W2DLdwkt3t8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "อะคูน่า",
+        "channelTitle": "STRANGEO",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "อย่ากลัวถ้าเจอผีปอบ",
+          "title": "กิจกรรมตักขนมที่ดูสนุก แต่ซ่อนอันตรายเอาไว้",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT56S",
+        "duration": "PT40S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1062,60 +1133,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "12220124",
-        "likeCount": "177245",
+        "viewCount": "995166",
+        "likeCount": "30494",
         "favoriteCount": "0",
-        "commentCount": "228"
+        "commentCount": "511"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kWq16QXN9SScUL3Q4IltZxJzQ-Y",
-      "id": "aA7zAqXMOyg",
+      "etag": "jqEXi_k1HUwr8KNq1Dkq4e-1i9U",
+      "id": "DgkPo1dilv0",
       "snippet": {
-        "publishedAt": "2026-08-07T12:00:10Z",
-        "channelId": "UCeufRNS0oSbA9FODk6gya0g",
-        "title": "เหตุผลที่คุณไม่ควรจอดรถที่นี่เด็ดขาด 🚗 ⚠️",
+        "publishedAt": "2026-08-08T15:34:35Z",
+        "channelId": "UCM8_Obn7TMKqFgGAlaac9Jg",
+        "title": "ไรอ่ะ ได้หรอ!! #ceowaris",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/default.jpg",
+            "url": "https://i.ytimg.com/vi/DgkPo1dilv0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DgkPo1dilv0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DgkPo1dilv0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/DgkPo1dilv0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DgkPo1dilv0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ShotsSmile",
+        "channelTitle": "CEO WARIS Barbieswink",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เหตุผลที่คุณไม่ควรจอดรถที่นี่เด็ดขาด 🚗 ⚠️",
+          "title": "ไรอ่ะ ได้หรอ!! #ceowaris",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT24S",
+        "duration": "PT36S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1124,490 +1195,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "604442",
-        "likeCount": "12442",
+        "viewCount": "682142",
+        "likeCount": "12107",
         "favoriteCount": "0",
-        "commentCount": "32"
+        "commentCount": "24"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "nMHfDuJmC7s28N9VtC5KJf2f8q4",
-      "id": "m8X-crQ8Gv0",
+      "etag": "FLF1auLW1xE9LePSD8qoSfYPAOg",
+      "id": "T17yecS1W2Y",
       "snippet": {
-        "publishedAt": "2026-08-02T13:00:19Z",
-        "channelId": "UCidTLkqU2NDIenyH4kDbUiQ",
-        "title": "ชาเลนจ์ผมกันน้ำได้ 💦✨",
-        "description": "noelgoescrazy/TT",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/m8X-crQ8Gv0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/m8X-crQ8Gv0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/m8X-crQ8Gv0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/m8X-crQ8Gv0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/m8X-crQ8Gv0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "FoxQuest",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ชาเลนจ์ผมกันน้ำได้ 💦✨",
-          "description": "noelgoescrazy/TT"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2247708",
-        "likeCount": "62091",
-        "favoriteCount": "0",
-        "commentCount": "144"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "xlT8j7dWd3j50iAb_Q5stJB-jR0",
-      "id": "QqM_5EBgQpY",
-      "snippet": {
-        "publishedAt": "2026-08-03T10:15:41Z",
-        "channelId": "UC2HbTHII_WBSmR7eAGfWYZA",
-        "title": "1฿ - 100฿? ราคาไหนอัลตร้าสมูทที่สุด? #food #fyp #gelato",
+        "publishedAt": "2026-08-06T11:19:48Z",
+        "channelId": "UCxKK3lph3CLN_94EZDGMpFg",
+        "title": "จิ้มไก่ 1 vs 1,000 ครั้ง #shorts #pnutcooking",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/default.jpg",
+            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T17yecS1W2Y/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "DAK KAM DEAW",
+        "channelTitle": "pnut cooking",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "1฿ - 100฿? ราคาไหนอัลตร้าสมูทที่สุด? #food #fyp #gelato",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1804379",
-        "likeCount": "69792",
-        "favoriteCount": "0",
-        "commentCount": "232"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ZZ5kdYIa8wKIQt0vZiDROPMd3bc",
-      "id": "TTMaVsn8pEc",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:30:08Z",
-        "channelId": "UC2pZ-l0RIuiKeCYpRNfVoAQ",
-        "title": "เขาทำเรื่องที่บ้ามาก 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "FoxWorlds",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เขาทำเรื่องที่บ้ามาก 😱",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1251119",
-        "likeCount": "34643",
-        "favoriteCount": "0",
-        "commentCount": "43"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hDrvANXW24LdgxfFDeOK1pe_vFM",
-      "id": "IJ1XPugCpvI",
-      "snippet": {
-        "publishedAt": "2026-08-07T10:12:30Z",
-        "channelId": "UCchVdoTFsKC4bnwVa3OWmOA",
-        "title": "อย่าเตะตุ๊กตาหิมะข้างทางนะ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Cb Am",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อย่าเตะตุ๊กตาหิมะข้างทางนะ",
+          "title": "จิ้มไก่ 1 vs 1,000 ครั้ง #shorts #pnutcooking",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT33S",
+        "duration": "PT49S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "622198",
-        "likeCount": "9043",
+        "viewCount": "1216384",
+        "likeCount": "35056",
         "favoriteCount": "0",
-        "commentCount": "54"
+        "commentCount": "89"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QoKV1gSJ4BO4drfV2iuZ0r7JpEM",
-      "id": "at0Kmj2_psk",
-      "snippet": {
-        "publishedAt": "2026-07-31T15:38:45Z",
-        "channelId": "UCxNHIF1pgjsG7w5RyExC-Hg",
-        "title": "ไวรัลทั้งโซเชียล! พระรูปนี้ทำงานหนักจนคนแห่ชื่นชม ❤️ #youtubeshorts #shorts #viral #คนไทย #น่ารัก",
-        "description": "พระครูโสภณวัฒนคุณ (กล้า) อนาวิโล เจ้าอาวาสวัดโนนวัฒนาราม จังหวัดอุบลราชธานี กลายเป็นไวรัล หลังเผยคลิปลงมือทำงานแทบทุกอย่างภายในวัดด้วยตัวเอง\nตั้งแต่งานดูแลทั่วไป ไปจนถึงงานช่างที่ต้องอาศัยทั้งทักษะและประสบการณ์ ทำให้มีผู้ชมจำนวนมากเข้ามาชื่นชมในความขยันและความทุ่มเทของท่าน\nคุณคิดอย่างไรกับความตั้งใจของหลวงพี่รูปนี้?\n#Shorts #พระ #วัด #อุบลราชธานี #เรื่องราวดีๆ #ไวรัล #แรงบันดาลใจ\n#Shorts #พระ #วัด #อุบลราชธานี #ไวรัล #เรื่องราวดีๆ #แรงบันดาลใจ #Thailand",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/at0Kmj2_psk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/at0Kmj2_psk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/at0Kmj2_psk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/at0Kmj2_psk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/at0Kmj2_psk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "นักสืบข้ามเวลา",
-        "tags": [
-          "ขันธ์5",
-          "พุทธวจน",
-          "ธรรมะลึก",
-          "อนัตตา",
-          "ขันธ์ทั้งห้า",
-          "ขันธ์ห้าไม่ใช่ตัวตน",
-          "วิญญาณขันธ์",
-          "รูปขันธ์",
-          "เวทนา",
-          "สัญญา",
-          "สังขาร",
-          "วิญญาณ",
-          "เกิดดับ",
-          "ไม่มีตัวตน",
-          "ธรรมะ",
-          "คำสอนพระพุทธเจ้า",
-          "เข้าใจขันธ์5",
-          "ล้างความเชื่อผิด",
-          "สติ",
-          "ดูจิต",
-          "ธรรมะออนไลน์",
-          "พุทธศาสนา",
-          "บวชใจ",
-          "ยึดมั่นถือมั่น",
-          "จิตเกิดดับ",
-          "ธรรมะล้างใจ",
-          "ขันธ์5คืออะไร",
-          "สังสารวัฏ",
-          "สติปัฏฐาน",
-          "ปฏิจจสมุปบาท",
-          "ธรรมะแท้",
-          "สัจธรรม",
-          "ขันธ์ห้าไม่ถาวร",
-          "ไม่มีเราในขันธ์",
-          "ขันธ์ห้าไม่ใช่เรา",
-          "ดอกไม้ทูบเทียน",
-          "ธรรมะจากพระไตรปิฎก",
-          "พระสูตร",
-          "บาลี",
-          "นักสืบข้ามเวลา"
-        ],
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ไวรัลทั้งโซเชียล! พระรูปนี้ทำงานหนักจนคนแห่ชื่นชม ❤️ #youtubeshorts #shorts #viral #คนไทย #น่ารัก",
-          "description": "พระครูโสภณวัฒนคุณ (กล้า) อนาวิโล เจ้าอาวาสวัดโนนวัฒนาราม จังหวัดอุบลราชธานี กลายเป็นไวรัล หลังเผยคลิปลงมือทำงานแทบทุกอย่างภายในวัดด้วยตัวเอง\nตั้งแต่งานดูแลทั่วไป ไปจนถึงงานช่างที่ต้องอาศัยทั้งทักษะและประสบการณ์ ทำให้มีผู้ชมจำนวนมากเข้ามาชื่นชมในความขยันและความทุ่มเทของท่าน\nคุณคิดอย่างไรกับความตั้งใจของหลวงพี่รูปนี้?\n#Shorts #พระ #วัด #อุบลราชธานี #เรื่องราวดีๆ #ไวรัล #แรงบันดาลใจ\n#Shorts #พระ #วัด #อุบลราชธานี #ไวรัล #เรื่องราวดีๆ #แรงบันดาลใจ #Thailand"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2614875",
-        "likeCount": "164198",
-        "favoriteCount": "0",
-        "commentCount": "5292"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "7dPGDxCUnWmwT9WZLmsu30jg93I",
-      "id": "sOwF1n5OlJI",
-      "snippet": {
-        "publishedAt": "2026-08-03T23:03:11Z",
-        "channelId": "UCmfToIv-0C2XT_v4GlsEAUw",
-        "title": "นาคก้มกราบพี่สาว ตื้นตันใจมาก #บวช #นาคก้มกราบพี่สาว #พี่สาว #กระแส #สาธุ #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sOwF1n5OlJI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sOwF1n5OlJI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sOwF1n5OlJI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sOwF1n5OlJI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sOwF1n5OlJI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Channel NEWS ข่าวออนไลน์",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "นาคก้มกราบพี่สาว ตื้นตันใจมาก #บวช #นาคก้มกราบพี่สาว #พี่สาว #กระแส #สาธุ #shorts",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1019845",
-        "likeCount": "33541",
-        "favoriteCount": "0",
-        "commentCount": "959"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SctpVK3wjQHRJiRH3H8T8UZRPMs",
-      "id": "Y9EtqMdoZiQ",
-      "snippet": {
-        "publishedAt": "2026-08-04T11:21:09Z",
-        "channelId": "UC6dm3zq065LvdmIhBYA9zbg",
-        "title": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน",
-        "description": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน #แมว #บันเทิง #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BeardedMan",
-        "tags": [
-          "shorts"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน",
-          "description": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน #แมว #บันเทิง #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1032077",
-        "likeCount": "14820",
-        "favoriteCount": "0",
-        "commentCount": "28"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PVunxtk066SWHcO4ryed4_47F1g",
+      "etag": "r5AvAsDmtH4w9aAGUQG17q_QpCU",
       "id": "wFLT48Ngetk",
       "snippet": {
         "publishedAt": "2026-08-06T10:28:17Z",
@@ -1661,44 +1319,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "626515",
-        "likeCount": "17806",
+        "viewCount": "1034125",
+        "likeCount": "26338",
         "favoriteCount": "0",
-        "commentCount": "34"
+        "commentCount": "39"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "6RVZ47ahicA1Sd3s0Hx2AuHejxU",
-      "id": "40qg3w4y3Vc",
+      "etag": "cye-j4US32Z99GETUwVyZXxirBc",
+      "id": "PcPTgnsKIls",
       "snippet": {
-        "publishedAt": "2026-08-06T10:00:30Z",
+        "publishedAt": "2026-08-08T10:00:29Z",
         "channelId": "UCGHnzDqnktsCGLb6XS6w3XQ",
-        "title": "พ่อใช้วิธีสุดช็อก! เอาตุ๊กตามาล่ออสูรกายใต้น้ำ 😱",
+        "title": "เมื่อป้าข้างบ้านฉีกการบ้าน",
         "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/40qg3w4y3Vc/default.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/40qg3w4y3Vc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/40qg3w4y3Vc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/40qg3w4y3Vc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/40qg3w4y3Vc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -1728,13 +1386,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "พ่อใช้วิธีสุดช็อก! เอาตุ๊กตามาล่ออสูรกายใต้น้ำ 😱",
+          "title": "เมื่อป้าข้างบ้านฉีกการบ้าน",
           "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT25S",
+        "duration": "PT27S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1743,263 +1401,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "670749",
-        "likeCount": "31622",
+        "viewCount": "730790",
+        "likeCount": "24839",
         "favoriteCount": "0",
-        "commentCount": "94"
+        "commentCount": "72"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JPUQbNQLfn1OojR-piIEsPPtJhk",
-      "id": "5KosOlZ2xfo",
+      "etag": "KdSgwWED-DFfzX3aWNlhxgI-r5I",
+      "id": "HIPjhOupwe0",
       "snippet": {
-        "publishedAt": "2026-08-07T10:30:17Z",
-        "channelId": "UCIwBaQSoqXprhRWrHf-EW3Q",
-        "title": "รถไฟขึ้นเขาไม่ได้? งั้นให้มัน ‘ถอย’ ขึ้น!",
-        "description": "หมายเหตุ : เนื้อหาทั้งหมดในวิดีโอนี้จัดทำขึ้นโดยเคารพหลักการ Fair Use อย่างเคร่งครัด แต่ผมเองก็ให้ความเคารพเจ้าของลิขสิทธิ์ทุกท่านอย่างเต็มที่เช่นกันนะครับ\nหากคุณพบว่าเนื้อหาใดอาจละเมิดสิทธิ์ หรือมีการใช้งานที่ไม่เหมาะสม สามารถติดต่อผมได้ทันทีเลยนะครับ ผมยินดีลบเนื้อหานั้นออกภายใน 24 ชั่วโมงโดยไม่มีข้อแม้ และไม่มีเจตนาละเมิดสิทธิ์ใด ๆ ทั้งสิ้น\nหากมีผลงานของคุณอยู่ในวิดีโอ และต้องการให้ผมให้เครดิตเพิ่มเติม ก็บอกมาได้เลยนะครับ ผมพร้อมอัปเดตให้ทันที\n\nติดต่อผมได้ที่: pandaverse735@gmail.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PANDA WORLD",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "รถไฟขึ้นเขาไม่ได้? งั้นให้มัน ‘ถอย’ ขึ้น!",
-          "description": "หมายเหตุ : เนื้อหาทั้งหมดในวิดีโอนี้จัดทำขึ้นโดยเคารพหลักการ Fair Use อย่างเคร่งครัด แต่ผมเองก็ให้ความเคารพเจ้าของลิขสิทธิ์ทุกท่านอย่างเต็มที่เช่นกันนะครับ\nหากคุณพบว่าเนื้อหาใดอาจละเมิดสิทธิ์ หรือมีการใช้งานที่ไม่เหมาะสม สามารถติดต่อผมได้ทันทีเลยนะครับ ผมยินดีลบเนื้อหานั้นออกภายใน 24 ชั่วโมงโดยไม่มีข้อแม้ และไม่มีเจตนาละเมิดสิทธิ์ใด ๆ ทั้งสิ้น\nหากมีผลงานของคุณอยู่ในวิดีโอ และต้องการให้ผมให้เครดิตเพิ่มเติม ก็บอกมาได้เลยนะครับ ผมพร้อมอัปเดตให้ทันที\n\nติดต่อผมได้ที่: pandaverse735@gmail.com"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT43S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "557395",
-        "likeCount": "10877",
-        "favoriteCount": "0",
-        "commentCount": "28"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UIoi3BsL9qwRbdiYJ-0r82-JBMY",
-      "id": "HdG1sOK1Vi8",
-      "snippet": {
-        "publishedAt": "2026-08-05T23:00:11Z",
-        "channelId": "UCj53nvM9aUs781JwKqXfZag",
-        "title": "แต่ละวันสาวที่ชอบมโนไปเองคิดอะไรอยู่บ้าง ภาค2",
+        "publishedAt": "2026-08-09T03:15:42Z",
+        "channelId": "UCanMqe801sL81HgkuUJlRPw",
+        "title": "ข้าวทุบ 1 vs 1,000 ครั้ง #food #viral #interesting",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/default.jpg",
+            "url": "https://i.ytimg.com/vi/HIPjhOupwe0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPjhOupwe0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPjhOupwe0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPjhOupwe0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIPjhOupwe0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Jizo Vibe",
-        "categoryId": "22",
+        "channelTitle": "Deepocean funny",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "แต่ละวันสาวที่ชอบมโนไปเองคิดอะไรอยู่บ้าง ภาค2",
+          "title": "ข้าวทุบ 1 vs 1,000 ครั้ง #food #viral #interesting",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT54S",
+        "duration": "PT53S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "804206",
-        "likeCount": "23715",
+        "viewCount": "561238",
+        "likeCount": "25948",
         "favoriteCount": "0",
-        "commentCount": "46"
+        "commentCount": "248"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EUE6i0CxDl6G19w1CSQ6o2jpkcQ",
-      "id": "hfO_OEFJxdo",
-      "snippet": {
-        "publishedAt": "2026-08-06T13:21:12Z",
-        "channelId": "UCA0ATBM9-yKGxeTknYZsaVw",
-        "title": "พระองค์ทีฯพาพระสหายคนสนิทเที่ยวกรุงเทพฯ#พระองค์ที#เจ้าฟ้าทีปังกรรัศมีโชติ#ราชวงศ์จักรี#เรารักสถาบัน",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hfO_OEFJxdo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hfO_OEFJxdo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hfO_OEFJxdo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hfO_OEFJxdo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hfO_OEFJxdo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "สาริศา",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "พระองค์ทีฯพาพระสหายคนสนิทเที่ยวกรุงเทพฯ#พระองค์ที#เจ้าฟ้าทีปังกรรัศมีโชติ#ราชวงศ์จักรี#เรารักสถาบัน",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT32S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "606825",
-        "likeCount": "18266",
-        "favoriteCount": "0",
-        "commentCount": "355"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "TYYhXbRrfW_v6YyE1V5yh3uh79U",
-      "id": "qstQxvsVtFM",
-      "snippet": {
-        "publishedAt": "2026-08-07T14:46:28Z",
-        "channelId": "UCd4eP30FcHBUbm85egi0Sdg",
-        "title": "มิรากระโดดสูงบนแทรมโพลีนทำลังกาหน้า",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Miramarvelfamily",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "มิรากระโดดสูงบนแทรมโพลีนทำลังกาหน้า",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT32S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "426622",
-        "likeCount": "6431",
-        "favoriteCount": "0",
-        "commentCount": "7"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "W72eP0T5kGPEKqG8hTPSnByI1N0",
+      "etag": "ajsuE9Y1yk1KJsQpCx82LmdiDMI",
       "id": "oljgAPmb9ZI",
       "snippet": {
         "publishedAt": "2026-08-08T01:10:09Z",
@@ -2053,121 +1525,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "366225",
-        "likeCount": "10163",
+        "viewCount": "684995",
+        "likeCount": "17288",
         "favoriteCount": "0",
-        "commentCount": "46"
+        "commentCount": "95"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3ZZmNmRDrnzr26sLdlynbf8GRE8",
-      "id": "XCpSQduo2K4",
+      "etag": "8_VHlBUABKIwF-btCwx4gntKfFw",
+      "id": "PLIQeKrOYlQ",
       "snippet": {
-        "publishedAt": "2026-08-03T07:24:55Z",
-        "channelId": "UC-0HmYRPrUNb7PUh5b2RG9Q",
-        "title": "ต้นโฮกลา(ธูปฤาษี) พืชน้ำที่กินได้ทั้งเหง้าและดอก! #โคกหนองนา #พอเพียง #ธูปฤาษี",
+        "publishedAt": "2026-08-04T03:25:13Z",
+        "channelId": "UCKPGeJZnBNmwsGq_czotU6g",
+        "title": "อย่ากลัวถ้าเจอผีปอบ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XCpSQduo2K4/default.jpg",
+            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XCpSQduo2K4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XCpSQduo2K4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/XCpSQduo2K4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/XCpSQduo2K4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PLIQeKrOYlQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ผู้เสพไวรัล",
+        "channelTitle": "อะคูน่า",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ต้นโฮกลา(ธูปฤาษี) พืชน้ำที่กินได้ทั้งเหง้าและดอก! #โคกหนองนา #พอเพียง #ธูปฤาษี",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1067159",
-        "likeCount": "20728",
-        "favoriteCount": "0",
-        "commentCount": "256"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "WZdAlYXNS-RP71FTCqYOJ8yfVog",
-      "id": "oGPNSq3K_-w",
-      "snippet": {
-        "publishedAt": "2026-08-07T12:01:56Z",
-        "channelId": "UC9gVaKjcEaVwYF01ICpkpkA",
-        "title": "เมื่องูเห่าโผล่กลางร้านกาแฟ!! น้องฮันนาห์ตกใจ #funny #น้องฮันนาห์ #comedy #fyp #งู",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ฮันนาห์Channel ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่องูเห่าโผล่กลางร้านกาแฟ!! น้องฮันนาห์ตกใจ #funny #น้องฮันนาห์ #comedy #fyp #งู",
+          "title": "อย่ากลัวถ้าเจอผีปอบ",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT35S",
+        "duration": "PT56S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2176,258 +1587,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "513460",
-        "likeCount": "4889",
+        "viewCount": "15166039",
+        "likeCount": "214575",
         "favoriteCount": "0",
-        "commentCount": "5"
+        "commentCount": "304"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kGHTX1bb9utQby6vAy3-Wqh6S0A",
-      "id": "Ph6bEgru6oo",
+      "etag": "zOk6RjB0HL0AHiMrTQGcOWr4VTg",
+      "id": "aA7zAqXMOyg",
       "snippet": {
-        "publishedAt": "2026-08-07T06:22:52Z",
-        "channelId": "UCammkIl9bhEPkw-W73b3cKg",
-        "title": "นิ้วที่แปลกประหลาดที่สุด!? 😳#shorts #viral #youtubeshorts",
-        "description": "#shorts  #viral #youtubeshorts  #cat",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ph6bEgru6oo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ph6bEgru6oo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ph6bEgru6oo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ph6bEgru6oo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ph6bEgru6oo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "HiddenFrame",
-        "tags": [
-          "shorts",
-          "viral",
-          "cat",
-          "แมว",
-          "youtubeshorts",
-          "เล่าเรื่อง",
-          "แหวน",
-          "มาเตโอ"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "นิ้วที่แปลกประหลาดที่สุด!? 😳#shorts #viral #youtubeshorts",
-          "description": "#shorts  #viral #youtubeshorts  #cat"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "672701",
-        "likeCount": "64994",
-        "favoriteCount": "0",
-        "commentCount": "1347"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2wpRNUuwpPLyrfZCH9I3p4S39MI",
-      "id": "SB3mkq7sjyI",
-      "snippet": {
-        "publishedAt": "2026-08-03T18:35:37Z",
-        "channelId": "UCQIUhhcmXsu6cN6n3y9-Pww",
-        "title": "Gum Carpet Hack!",
-        "description": "W hack @zackdfilms \n\nBucketsquad Apparel \n► https://bit.ly/46BBxcQ\n\nFollow me @Jesser on Instagram for new IG Reels or I’ll dunk on you\n\n★ Follow me on social media @Jesser ★\n●Instagram https://instagram.com/jesser\n●Twitter https://twitter.com/jesser\n\n#BucketSquad",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SB3mkq7sjyI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SB3mkq7sjyI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SB3mkq7sjyI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SB3mkq7sjyI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SB3mkq7sjyI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jesser",
-        "tags": [
-          "jesser"
-        ],
-        "categoryId": "17",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "เคล็ดลับขจัดหมากฝรั่งบนพรม!",
-          "description": "เคล็ดลับสุดเจ๋งจาก @zackdfilms\n\nเสื้อผ้า Bucketsquad\n► https://bit.ly/46BBxcQ\n\nติดตามผม @Jesser บน Instagram สำหรับ IG Reels ใหม่ๆ ไม่งั้นผมจะดังก์ใส่คุณนะ\n\n★ ติดตามผมบนโซเชียลมีเดีย @Jesser ★\n●Instagram https://instagram.com/jesser\n●Twitter https://twitter.com/jesser\n\n\n\nพากย์เสียงด้วย ❤️ โดย DittoDub"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M9S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "29141415",
-        "likeCount": "684865",
-        "favoriteCount": "0",
-        "commentCount": "2217"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "P8ldMN7P74wDzu1NrwpHvATPXL0",
-      "id": "c9WoAG9pLVk",
-      "snippet": {
-        "publishedAt": "2026-08-03T12:00:17Z",
-        "channelId": "UCqHtQOKki1bGDUAGxrbBm1A",
-        "title": "ชอบหยิบของคนอื่นไปใช้ ต้องโดนแบบนี้ 😜😤😏 #somethingaboutcc #โรงเรียนของเราน่าอยู่ #ดินสอสลักชื่อ",
+        "publishedAt": "2026-08-07T12:00:10Z",
+        "channelId": "UCeufRNS0oSbA9FODk6gya0g",
+        "title": "เหตุผลที่คุณไม่ควรจอดรถที่นี่เด็ดขาด 🚗 ⚠️",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/c9WoAG9pLVk/default.jpg",
+            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/c9WoAG9pLVk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/c9WoAG9pLVk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/c9WoAG9pLVk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/c9WoAG9pLVk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA7zAqXMOyg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "something about cc",
+        "channelTitle": "ShotsSmile",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ชอบหยิบของคนอื่นไปใช้ ต้องโดนแบบนี้ 😜😤😏 #somethingaboutcc #โรงเรียนของเราน่าอยู่ #ดินสอสลักชื่อ",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M41S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1456907",
-        "likeCount": "32827",
-        "favoriteCount": "0",
-        "commentCount": "269"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "B5OpVcgjvHaEjWKsvO2C_yRYBY4",
-      "id": "kgA3prHe018",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:14:57Z",
-        "channelId": "UCXYfDThtnB5Mo6s_1tUZZgA",
-        "title": "คนอ้วน vs คนผอม ใครทนหนาวได้นานกว่า?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kgA3prHe018/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kgA3prHe018/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kgA3prHe018/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kgA3prHe018/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kgA3prHe018/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Alot Soldier",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "คนอ้วน vs คนผอม ใครทนหนาวได้นานกว่า?",
+          "title": "เหตุผลที่คุณไม่ควรจอดรถที่นี่เด็ดขาด 🚗 ⚠️",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT47S",
+        "duration": "PT24S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2436,751 +1649,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "491678",
-        "likeCount": "15633",
+        "viewCount": "747620",
+        "likeCount": "14845",
         "favoriteCount": "0",
-        "commentCount": "37"
+        "commentCount": "43"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ENTXcILpv8Tws5NhWnHYjc-IRLc",
-      "id": "vRrNarL-fjc",
-      "snippet": {
-        "publishedAt": "2026-08-07T12:30:29Z",
-        "channelId": "UC7n3c4N1lRXNvppFD799hkQ",
-        "title": "ชายคนนี้หลอกคนได้ทั้งโลก! #shorts #viral",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TaleTime",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ชายคนนี้หลอกคนได้ทั้งโลก! #shorts #viral",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "404415",
-        "likeCount": "7363",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VpeZtYLfS5Tco6cj27z-fAOvjSk",
-      "id": "UgJ2qZfIxz4",
-      "snippet": {
-        "publishedAt": "2026-08-07T09:00:20Z",
-        "channelId": "UCVeGsO2tj9YewfNi7xxabqA",
-        "title": "ไปเรียกผู้จัดการร้านมา ฉันรับไม่ได้ 😤",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UgJ2qZfIxz4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UgJ2qZfIxz4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UgJ2qZfIxz4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UgJ2qZfIxz4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UgJ2qZfIxz4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "DEKSORKRAO เด็กเซาะกราว",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ไปเรียกผู้จัดการร้านมา ฉันรับไม่ได้ 😤",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT45S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "527086",
-        "likeCount": "7851",
-        "favoriteCount": "0",
-        "commentCount": "26"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fmoDf6Nwy1qMD-m4UoIj8-csPNE",
-      "id": "kYtjCb6Xxgg",
-      "snippet": {
-        "publishedAt": "2026-08-02T10:00:03Z",
-        "channelId": "UCGT3eKPP6uHcauyOfckTATg",
-        "title": "เมื่อลูกชายตัวดีโวย แม่ใส่พริกแกล้ง !",
-        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kYtjCb6Xxgg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kYtjCb6Xxgg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kYtjCb6Xxgg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kYtjCb6Xxgg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kYtjCb6Xxgg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "heyyo",
-        "tags": [
-          "#สัตว์เลี้ยง",
-          "#แมว",
-          "#dog",
-          "#cat",
-          "#animal",
-          "#เรื่องเล่า",
-          "#เล่าเรื่อง",
-          "#สัตว์โลกน่ารัก",
-          "#น่ารัก",
-          "#shorts",
-          "#viral",
-          "#ตลก",
-          "#funny",
-          "#comedy",
-          "#ฮาๆ",
-          "#หมา",
-          "#หมาน่ารัก",
-          "#แมวน่ารัก"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เมื่อลูกชายตัวดีโวย แม่ใส่พริกแกล้ง !",
-          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1476946",
-        "likeCount": "39796",
-        "favoriteCount": "0",
-        "commentCount": "26"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Q0CBcomR6uwHWjsIqxNmwpVr8G8",
-      "id": "K3VIey6oxwU",
-      "snippet": {
-        "publishedAt": "2026-08-07T04:39:10Z",
-        "channelId": "UCBGCzc1PXaMkUENg4yHOEVQ",
-        "title": "สิงโตตตตตตต",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/K3VIey6oxwU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/K3VIey6oxwU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/K3VIey6oxwU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/K3VIey6oxwU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/K3VIey6oxwU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ครูยีน โฮ่ง โฮ่ง",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "สิงโตตตตตตต",
-          "description": ""
-        },
-        "defaultAudioLanguage": "zxx"
-      },
-      "contentDetails": {
-        "duration": "PT29S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "458845",
-        "likeCount": "3570",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1EyUKNC57FqF2sMNEEKDYeRunpI",
-      "id": "9siywwPBB78",
-      "snippet": {
-        "publishedAt": "2026-07-31T23:00:00Z",
-        "channelId": "UCxj5Q1u_5PJtdKtxtyVUa2w",
-        "title": "ต้องแข็งแรงแค่ไหน? เบื้องหลัง Toy Story Challenge ที่คนธรรมดาก็ทำไม่ได้ 🤸\u200d♀️💪",
-        "description": "เจาะลึกความยากของชาเลนจ์ไวรัลระดับโลก ทำไมการทิ้งตัวแข็งทื่อแบบของเล่น ถึงต้องใช้กล้ามเนื้อแกนกลางลำตัวมหาศาล? มาดูความสามารถสุดทึ่งของสองนักยิมนาสติกมืออาชีพที่เอาชนะคนทั้งเน็ตกันครับ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9siywwPBB78/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9siywwPBB78/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9siywwPBB78/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9siywwPBB78/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9siywwPBB78/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SouperStory",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ต้องแข็งแรงแค่ไหน? เบื้องหลัง Toy Story Challenge ที่คนธรรมดาก็ทำไม่ได้ 🤸\u200d♀️💪",
-          "description": "เจาะลึกความยากของชาเลนจ์ไวรัลระดับโลก ทำไมการทิ้งตัวแข็งทื่อแบบของเล่น ถึงต้องใช้กล้ามเนื้อแกนกลางลำตัวมหาศาล? มาดูความสามารถสุดทึ่งของสองนักยิมนาสติกมืออาชีพที่เอาชนะคนทั้งเน็ตกันครับ"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2075171",
-        "likeCount": "53598",
-        "favoriteCount": "0",
-        "commentCount": "115"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "CzlieTgUUHTVqmHGhCSUHFGru00",
-      "id": "ZVtSSH9N9g8",
-      "snippet": {
-        "publishedAt": "2026-08-05T10:00:04Z",
-        "channelId": "UCCHSJodrbnlJ4c5nIRTcoFA",
-        "title": "เธอคิดว่าซื้อเรือมาในราคาแค่ห้าบาท 😂",
-        "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZVtSSH9N9g8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZVtSSH9N9g8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZVtSSH9N9g8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZVtSSH9N9g8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZVtSSH9N9g8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "แมวส้มขอเม้าท์",
-        "tags": [
-          "#สัตว์เลี้ยง",
-          "#แมว",
-          "#dog",
-          "#cat",
-          "#animal",
-          "#เรื่องเล่า",
-          "#เล่าเรื่อง",
-          "#สัตว์โลกน่ารัก",
-          "#น่ารัก",
-          "#shorts",
-          "#viral",
-          "#ตลก",
-          "#funny",
-          "#comedy",
-          "#ฮาๆ",
-          "#หมา",
-          "#หมาน่ารัก",
-          "#แมวน่ารัก"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เธอคิดว่าซื้อเรือมาในราคาแค่ห้าบาท 😂",
-          "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก #หมาน่ารัก #แมวน่ารัก"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "677789",
-        "likeCount": "7747",
-        "favoriteCount": "0",
-        "commentCount": "8"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "uVowO43AwEznnN0vYUpZ15x3bQw",
-      "id": "qhVlzDYAhR8",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:00:00Z",
-        "channelId": "UCupN_F4qAltsSjizd3aapKQ",
-        "title": "หมารักใครมากกว่า 😢🤣",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qhVlzDYAhR8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qhVlzDYAhR8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qhVlzDYAhR8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qhVlzDYAhR8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qhVlzDYAhR8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RavenTH",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "หมารักใครมากกว่า 😢🤣",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT22S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "644024",
-        "likeCount": "21414",
-        "favoriteCount": "0",
-        "commentCount": "47"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6r5Q3-XbFiKiYD0piTW_63LzgHQ",
-      "id": "A-JgCyel_fo",
-      "snippet": {
-        "publishedAt": "2026-08-06T12:00:37Z",
-        "channelId": "UC4zpADUqraG_7gZN7sKql7A",
-        "title": "การค้นพบโดยบังเอิญของเกษตรกรขณะทำการขุดเจาะ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "CHIBA FILE",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "การค้นพบโดยบังเอิญของเกษตรกรขณะทำการขุดเจาะ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT30S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "547717",
-        "likeCount": "13772",
-        "favoriteCount": "0",
-        "commentCount": "40"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "63VdhaWAvKAqTV5bJJ0mv3LD3_o",
-      "id": "tul4cl0KcqU",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:45:35Z",
-        "channelId": "UC8lgC0c3rzujD-jPAxMOvcQ",
-        "title": "ทริคถ่ายรูปหมู่ ที่ไม่ต้องใช้ขาตั้งกล้อง",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tul4cl0KcqU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tul4cl0KcqU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tul4cl0KcqU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tul4cl0KcqU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tul4cl0KcqU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PANDA KNOW",
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ทริคถ่ายรูปหมู่ ที่ไม่ต้องใช้ขาตั้งกล้อง",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "564202",
-        "likeCount": "25806",
-        "favoriteCount": "0",
-        "commentCount": "72"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "m1tZJTfL5Ze7ddvV1f0Zqlmiz80",
-      "id": "P_twCGMltHI",
-      "snippet": {
-        "publishedAt": "2026-08-07T10:35:19Z",
-        "channelId": "UCnTHauopJ4vCbFprXAhVK2w",
-        "title": "เกิดอะไรขึ้น ทำไมไบค์เกอร์คนนี้ถึงร้องไห้!",
-        "description": "เกิดอะไรขึ้น ทำไมไบค์เกอร์คนนี้ถึงร้องไห้!\n\n#shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P_twCGMltHI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P_twCGMltHI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P_twCGMltHI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/P_twCGMltHI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/P_twCGMltHI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "หม้อสีเขียว",
-        "tags": [
-          "shorts"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เกิดอะไรขึ้น ทำไมไบค์เกอร์คนนี้ถึงร้องไห้!",
-          "description": "เกิดอะไรขึ้น ทำไมไบค์เกอร์คนนี้ถึงร้องไห้!\n\n#shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "395948",
-        "likeCount": "6826",
-        "favoriteCount": "0",
-        "commentCount": "13"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Z4DJAS8BhLg1N7S7LE7a5F4-f08",
-      "id": "sLO6fyjFlHk",
-      "snippet": {
-        "publishedAt": "2026-07-31T11:45:29Z",
-        "channelId": "UCeibDvLVZkWxcL4BZkn_f7w",
-        "title": "วิธีแยกเชฟธรรมดากับเชฟมืออาชีพ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sLO6fyjFlHk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sLO6fyjFlHk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sLO6fyjFlHk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sLO6fyjFlHk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sLO6fyjFlHk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เหมียวรักทุกคน",
-        "tags": [
-          "shorts",
-          "ไวรัล",
-          "คลายเครียด",
-          "สนุก",
-          "ตลก",
-          "เบาสมอง",
-          "เล่าเรื่อง",
-          "เรื่องแปลก",
-          "ฮาๆ",
-          "น่าทึ่ง"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "วิธีแยกเชฟธรรมดากับเชฟมืออาชีพ",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT54S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2031439",
-        "likeCount": "39085",
-        "favoriteCount": "0",
-        "commentCount": "58"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Es2Z3xd6KPmXYJT3euNpu0KL7gc",
+      "etag": "y8EkWwvj1gaGAebxhWbgyaLPC9M",
       "id": "mgF38HizD54",
       "snippet": {
         "publishedAt": "2026-08-07T11:36:42Z",
@@ -3234,10 +1711,1514 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "429251",
-        "likeCount": "26278",
+        "viewCount": "802207",
+        "likeCount": "50079",
         "favoriteCount": "0",
-        "commentCount": "79"
+        "commentCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7tdRc4BQ7dSpzaqqx_eKlvshtJk",
+      "id": "Ct8p4CvHSgc",
+      "snippet": {
+        "publishedAt": "2026-08-08T23:30:34Z",
+        "channelId": "UCfoXuLwwvN--a_wrxY-17Mw",
+        "title": "เกือบต้องทิ้งกัน…แต่สุดท้ายเลือกหัวใจ",
+        "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ct8p4CvHSgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ct8p4CvHSgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ct8p4CvHSgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ct8p4CvHSgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ct8p4CvHSgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PANDA STORY",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "เกือบต้องทิ้งกัน…แต่สุดท้ายเลือกหัวใจ",
+          "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "480134",
+        "likeCount": "6903",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1jq7ThIQX7cRgJi16HbH4RaR8us",
+      "id": "-DHpd6xSJCY",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:30:37Z",
+        "channelId": "UCidTLkqU2NDIenyH4kDbUiQ",
+        "title": "คุณจะต้องทึ่งกับวิธีที่เธอแก้ไขปัญหานี้!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-DHpd6xSJCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-DHpd6xSJCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-DHpd6xSJCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-DHpd6xSJCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-DHpd6xSJCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoxQuest",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "คุณจะต้องทึ่งกับวิธีที่เธอแก้ไขปัญหานี้!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "795130",
+        "likeCount": "9258",
+        "favoriteCount": "0",
+        "commentCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "maWQ8eGWP4dq8circ9Yqbni6MVQ",
+      "id": "IJ1XPugCpvI",
+      "snippet": {
+        "publishedAt": "2026-08-07T10:12:30Z",
+        "channelId": "UCchVdoTFsKC4bnwVa3OWmOA",
+        "title": "อย่าเตะตุ๊กตาหิมะข้างทางนะ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IJ1XPugCpvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cb Am",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "อย่าเตะตุ๊กตาหิมะข้างทางนะ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "791206",
+        "likeCount": "11077",
+        "favoriteCount": "0",
+        "commentCount": "70"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0-iWXaZ-tjdPuey7r5tCYNzU1eY",
+      "id": "vRrNarL-fjc",
+      "snippet": {
+        "publishedAt": "2026-08-07T12:30:29Z",
+        "channelId": "UC7n3c4N1lRXNvppFD799hkQ",
+        "title": "ชายคนนี้หลอกคนได้ทั้งโลก! #shorts #viral",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vRrNarL-fjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TaleTime",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ชายคนนี้หลอกคนได้ทั้งโลก! #shorts #viral",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "594219",
+        "likeCount": "9867",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E2DJHYOEa4UQKN_z-F8Je-ZrD2s",
+      "id": "5wJ6JcDDiu8",
+      "snippet": {
+        "publishedAt": "2026-08-08T09:07:19Z",
+        "channelId": "UC1G5GR8rYv-7txxkqPoSjlA",
+        "title": "ทำไมยมทูตต้องถือเคียวอันนี้",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5wJ6JcDDiu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5wJ6JcDDiu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5wJ6JcDDiu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5wJ6JcDDiu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5wJ6JcDDiu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GioandG",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ทำไมยมทูตต้องถือเคียวอันนี้",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "555676",
+        "likeCount": "22197",
+        "favoriteCount": "0",
+        "commentCount": "59"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0gScXToSjCVpW0uOeViHGnVAOZk",
+      "id": "qstQxvsVtFM",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:46:28Z",
+        "channelId": "UCd4eP30FcHBUbm85egi0Sdg",
+        "title": "มิรากระโดดสูงบนแทรมโพลีนทำลังกาหน้า",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qstQxvsVtFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Miramarvelfamily",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "มิรากระโดดสูงบนแทรมโพลีนทำลังกาหน้า",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "609544",
+        "likeCount": "7966",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h17p1yj5kpbu7MNaiwxtfgwMZ3g",
+      "id": "TTMaVsn8pEc",
+      "snippet": {
+        "publishedAt": "2026-08-03T11:30:08Z",
+        "channelId": "UC2pZ-l0RIuiKeCYpRNfVoAQ",
+        "title": "เขาทำเรื่องที่บ้ามาก 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TTMaVsn8pEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoxWorlds",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เขาทำเรื่องที่บ้ามาก 😱",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1502202",
+        "likeCount": "40689",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1oOZ5R-1-X3s-WfE0mOG5N5Xt0I",
+      "id": "-ZU2Hyq7qnc",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:00:34Z",
+        "channelId": "UCExIPzy6_f_evkV5CXVZjBw",
+        "title": "ซื้อหลอดผิดชีวิตเปลี่ยน😅",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ZU2Hyq7qnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ZU2Hyq7qnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ZU2Hyq7qnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-ZU2Hyq7qnc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-ZU2Hyq7qnc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ดอง Dong!",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ซื้อหลอดผิดชีวิตเปลี่ยน😅",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "712836",
+        "likeCount": "9580",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hgbtDbf0xFMHLUw2g-Q5aUk0R6E",
+      "id": "hUc-TRtiMBg",
+      "snippet": {
+        "publishedAt": "2026-08-08T07:08:51Z",
+        "channelId": "UC1k4-y_yieEHwjuf4msyN8A",
+        "title": "พร้อมจะเป็นพ่อเต็มที่ @cha5e12321",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUc-TRtiMBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUc-TRtiMBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUc-TRtiMBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hUc-TRtiMBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hUc-TRtiMBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ซุยกะจวง",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "พร้อมจะเป็นพ่อเต็มที่ @cha5e12321",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "529954",
+        "likeCount": "26184",
+        "favoriteCount": "0",
+        "commentCount": "49"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6iDoPPhztYnXUPPtlOk_akC50XU",
+      "id": "HdG1sOK1Vi8",
+      "snippet": {
+        "publishedAt": "2026-08-05T23:00:11Z",
+        "channelId": "UCj53nvM9aUs781JwKqXfZag",
+        "title": "แต่ละวันสาวที่ชอบมโนไปเองคิดอะไรอยู่บ้าง ภาค2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HdG1sOK1Vi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jizo Vibe",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แต่ละวันสาวที่ชอบมโนไปเองคิดอะไรอยู่บ้าง ภาค2",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1045554",
+        "likeCount": "27816",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "y6CCJDWPvrIBw-IgvpTU_TLzEVQ",
+      "id": "QqM_5EBgQpY",
+      "snippet": {
+        "publishedAt": "2026-08-03T10:15:41Z",
+        "channelId": "UC2HbTHII_WBSmR7eAGfWYZA",
+        "title": "1฿ - 100฿? ราคาไหนอัลตร้าสมูทที่สุด? #food #fyp #gelato",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QqM_5EBgQpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAK KAM DEAW",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "1฿ - 100฿? ราคาไหนอัลตร้าสมูทที่สุด? #food #fyp #gelato",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1959474",
+        "likeCount": "73877",
+        "favoriteCount": "0",
+        "commentCount": "251"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qvKpAapf7ckPQIzOwZeJ3v4HVrA",
+      "id": "G7Skzsm7pKA",
+      "snippet": {
+        "publishedAt": "2026-08-07T10:33:04Z",
+        "channelId": "UCZ1XEKq2FRbeRRB8iYUNvIQ",
+        "title": "เธอซื้อแมวตัวต่อเลโก้ ให้เป็นเพื่อนเล่นของแมว",
+        "description": "เธอซื้อแมวตัวต่อเลโก้ ให้เป็นเพื่อนเล่นของแมว #แมว #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G7Skzsm7pKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G7Skzsm7pKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G7Skzsm7pKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G7Skzsm7pKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G7Skzsm7pKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Spin X",
+        "tags": [
+          "shorts",
+          "ของเล่นแมว"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เธอซื้อแมวตัวต่อเลโก้ ให้เป็นเพื่อนเล่นของแมว",
+          "description": "เธอซื้อแมวตัวต่อเลโก้ ให้เป็นเพื่อนเล่นของแมว #แมว #บันเทิง #shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "863975",
+        "likeCount": "12521",
+        "favoriteCount": "0",
+        "commentCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ALmXba8nLiZacONvl9a2M0sTkjs",
+      "id": "Y9EtqMdoZiQ",
+      "snippet": {
+        "publishedAt": "2026-08-04T11:21:09Z",
+        "channelId": "UC6dm3zq065LvdmIhBYA9zbg",
+        "title": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน",
+        "description": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน #แมว #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y9EtqMdoZiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BeardedMan",
+        "tags": [
+          "shorts"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน",
+          "description": "เธอซื้อหุ่นยนต์แมว มาให้เป็นเพื่อนกับแมวที่บ้าน #แมว #บันเทิง #shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1183476",
+        "likeCount": "16844",
+        "favoriteCount": "0",
+        "commentCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pQje1vTl6Yda9KRCfVuuOhqfCe4",
+      "id": "JPnC0HEJnVg",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:28:36Z",
+        "channelId": "UCB25MFIWsUMAyHsleiwZtSQ",
+        "title": "เขาจอดรับคนขอติดรถ แต่ขอเลือกไปตกปลาดีกว่า",
+        "description": "เขาจอดรับคนขอติดรถ แต่ขอเลือกไปตกปลาดีกว่า #เบ็ด #ตกปลา #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JPnC0HEJnVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JPnC0HEJnVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JPnC0HEJnVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JPnC0HEJnVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JPnC0HEJnVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เป็ดขี้บ่น",
+        "tags": [
+          "shorts",
+          "รับคน"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เขาจอดรับคนขอติดรถ แต่ขอเลือกไปตกปลาดีกว่า",
+          "description": "เขาจอดรับคนขอติดรถ แต่ขอเลือกไปตกปลาดีกว่า #เบ็ด #ตกปลา #บันเทิง #shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "450404",
+        "likeCount": "6859",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8-OoL56vRGq5sJYAlifC_IHZUkI",
+      "id": "gEml9Y8E8TQ",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:30:29Z",
+        "channelId": "UCezzncxoYlc6cwEXbNpq5rQ",
+        "title": "เมื่อเพื่อนปั่นจักรยาน แต่เขาเลือกขี่ม้า!🐴",
+        "description": "เมื่อเพื่อนปั่นจักรยาน แต่เขาเลือกขี่ม้า!🐴\n\n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEml9Y8E8TQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEml9Y8E8TQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEml9Y8E8TQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEml9Y8E8TQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEml9Y8E8TQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เล่าจบในคลิปเดียว",
+        "tags": [
+          "shorts"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่อเพื่อนปั่นจักรยาน แต่เขาเลือกขี่ม้า!🐴",
+          "description": "เมื่อเพื่อนปั่นจักรยาน แต่เขาเลือกขี่ม้า!🐴\n\n#shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "413146",
+        "likeCount": "3704",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LJpBfysu7JSQuXdMgInOub2EV0A",
+      "id": "oGPNSq3K_-w",
+      "snippet": {
+        "publishedAt": "2026-08-07T12:01:56Z",
+        "channelId": "UC9gVaKjcEaVwYF01ICpkpkA",
+        "title": "เมื่องูเห่าโผล่กลางร้านกาแฟ!! น้องฮันนาห์ตกใจ #funny #น้องฮันนาห์ #comedy #fyp #งู",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oGPNSq3K_-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ฮันนาห์Channel ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เมื่องูเห่าโผล่กลางร้านกาแฟ!! น้องฮันนาห์ตกใจ #funny #น้องฮันนาห์ #comedy #fyp #งู",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "646807",
+        "likeCount": "6187",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2aFH7oLSFDC8FvLGi2H-EWorVz4",
+      "id": "5KosOlZ2xfo",
+      "snippet": {
+        "publishedAt": "2026-08-07T10:30:17Z",
+        "channelId": "UCIwBaQSoqXprhRWrHf-EW3Q",
+        "title": "รถไฟขึ้นเขาไม่ได้? งั้นให้มัน ‘ถอย’ ขึ้น!",
+        "description": "หมายเหตุ : เนื้อหาทั้งหมดในวิดีโอนี้จัดทำขึ้นโดยเคารพหลักการ Fair Use อย่างเคร่งครัด แต่ผมเองก็ให้ความเคารพเจ้าของลิขสิทธิ์ทุกท่านอย่างเต็มที่เช่นกันนะครับ\nหากคุณพบว่าเนื้อหาใดอาจละเมิดสิทธิ์ หรือมีการใช้งานที่ไม่เหมาะสม สามารถติดต่อผมได้ทันทีเลยนะครับ ผมยินดีลบเนื้อหานั้นออกภายใน 24 ชั่วโมงโดยไม่มีข้อแม้ และไม่มีเจตนาละเมิดสิทธิ์ใด ๆ ทั้งสิ้น\nหากมีผลงานของคุณอยู่ในวิดีโอ และต้องการให้ผมให้เครดิตเพิ่มเติม ก็บอกมาได้เลยนะครับ ผมพร้อมอัปเดตให้ทันที\n\nติดต่อผมได้ที่: pandaverse735@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5KosOlZ2xfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PANDA WORLD",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "รถไฟขึ้นเขาไม่ได้? งั้นให้มัน ‘ถอย’ ขึ้น!",
+          "description": "หมายเหตุ : เนื้อหาทั้งหมดในวิดีโอนี้จัดทำขึ้นโดยเคารพหลักการ Fair Use อย่างเคร่งครัด แต่ผมเองก็ให้ความเคารพเจ้าของลิขสิทธิ์ทุกท่านอย่างเต็มที่เช่นกันนะครับ\nหากคุณพบว่าเนื้อหาใดอาจละเมิดสิทธิ์ หรือมีการใช้งานที่ไม่เหมาะสม สามารถติดต่อผมได้ทันทีเลยนะครับ ผมยินดีลบเนื้อหานั้นออกภายใน 24 ชั่วโมงโดยไม่มีข้อแม้ และไม่มีเจตนาละเมิดสิทธิ์ใด ๆ ทั้งสิ้น\nหากมีผลงานของคุณอยู่ในวิดีโอ และต้องการให้ผมให้เครดิตเพิ่มเติม ก็บอกมาได้เลยนะครับ ผมพร้อมอัปเดตให้ทันที\n\nติดต่อผมได้ที่: pandaverse735@gmail.com"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "641948",
+        "likeCount": "12249",
+        "favoriteCount": "0",
+        "commentCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sBstonO_bKYo5N2lb7Nc72JTO_w",
+      "id": "4e2U3h04C7s",
+      "snippet": {
+        "publishedAt": "2026-08-07T11:45:02Z",
+        "channelId": "UCZx-hkocKVOUXL6V3tBThGw",
+        "title": "บ่อร้างที่ไม่มีใครกล้าจับปลา! พอสูบน้ำออกถึงรู้ความจริง",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4e2U3h04C7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4e2U3h04C7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4e2U3h04C7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4e2U3h04C7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4e2U3h04C7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "นั่งฟังก่อนนอน",
+        "tags": [
+          "shorts",
+          "ไวรัล",
+          "คลายเครียด",
+          "สนุก",
+          "ตลก",
+          "เบาสมอง",
+          "เล่าเรื่อง",
+          "เรื่องแปลก",
+          "ฮาๆ",
+          "น่าทึ่ง",
+          "หาปลา",
+          "จับปลา",
+          "ตกปลา",
+          "เหมาสระ",
+          "เหมาบ่อ",
+          "วิถีอีสาน",
+          "อีสานบ้านเฮา"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "บ่อร้างที่ไม่มีใครกล้าจับปลา! พอสูบน้ำออกถึงรู้ความจริง",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "617622",
+        "likeCount": "11446",
+        "favoriteCount": "0",
+        "commentCount": "120"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5ZixVuZcqcIgWvgv22GUom56hMs",
+      "id": "paM_LgvpUh8",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:29:19Z",
+        "channelId": "UCNLzx5BsCcqX2cT1qhWqWyQ",
+        "title": "นั่งข้างอะไรบนเครื่องบิน สบายที่สุด? ✈️ #Shorts",
+        "description": "จัดอันดับภาพว่า นั่งข้างอะไรบนเครื่องบินสบายที่สุด ✈️ จากภาพทั้งหมด คุณจะเลือกนั่งข้างอะไร?\nแล้วคุณล่ะ ชอบที่นั่งไหนมากที่สุด? 😆\n\n#Airplane #Ranking #คลิปตลก #คลิปสั้น",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/paM_LgvpUh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/paM_LgvpUh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/paM_LgvpUh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/paM_LgvpUh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/paM_LgvpUh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HEROPHET",
+        "tags": [
+          "airplane",
+          "ranking",
+          "travel",
+          "เครื่องบิน",
+          "จัดอันดับ",
+          "คลิปตลก",
+          "ความบันเทิง"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "นั่งข้างอะไรบนเครื่องบิน สบายที่สุด? ✈️ #Shorts",
+          "description": "จัดอันดับภาพว่า นั่งข้างอะไรบนเครื่องบินสบายที่สุด ✈️ จากภาพทั้งหมด คุณจะเลือกนั่งข้างอะไร?\nแล้วคุณล่ะ ชอบที่นั่งไหนมากที่สุด? 😆\n\n#Airplane #Ranking #คลิปตลก #คลิปสั้น"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "570992",
+        "likeCount": "48390",
+        "favoriteCount": "0",
+        "commentCount": "274"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wvLQ0oXzaXTyKIMFR8n34TB-Fj4",
+      "id": "A-JgCyel_fo",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:00:37Z",
+        "channelId": "UC4zpADUqraG_7gZN7sKql7A",
+        "title": "การค้นพบโดยบังเอิญของเกษตรกรขณะทำการขุดเจาะ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A-JgCyel_fo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CHIBA FILE",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "การค้นพบโดยบังเอิญของเกษตรกรขณะทำการขุดเจาะ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "735867",
+        "likeCount": "17444",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qlbTYcmxJ-QRC_wFDe_S2BMqJF8",
+      "id": "RKPX3FuPFVI",
+      "snippet": {
+        "publishedAt": "2026-08-08T02:30:35Z",
+        "channelId": "UCjVb9mJZTeuPLN4hOjmvQnw",
+        "title": "เจอประจำ ครูพละสายเคร่ง🏀⛹️ #เจอประจำ #ครูพละ #บี้เดอะสกา #bietheska",
+        "description": "เจอประจำ ตอน ครูพละ [EP.34]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RKPX3FuPFVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RKPX3FuPFVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RKPX3FuPFVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RKPX3FuPFVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RKPX3FuPFVI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bie The Ska",
+        "tags": [
+          "Bie The Ska",
+          "บี้เดอะสกา",
+          "bietheska",
+          "theskafilm",
+          "aksehteib",
+          "เดอะสกาฟิล์ม",
+          "บี้",
+          "bie",
+          "เดอะสกา",
+          "the ska",
+          "บี้ เดอะสกา",
+          "พี่บี้",
+          "theskagang",
+          "theska",
+          "ska",
+          "เจอประจำep34",
+          "เจอประจำep.34",
+          "เจอประจำวิชาพละ",
+          "เจอประจำครูพละในโรงเรียน",
+          "ครูพละ",
+          "ครูพละในโรงเรียน",
+          "ครู",
+          "ครูพละฮาๆ",
+          "ครูพละขำๆ",
+          "นักเรียน",
+          "ครูพละ EP.34",
+          "พลศึกษา",
+          "คลิปครูพละ",
+          "คลิปตลกในโรงเรียน",
+          "คลิปโรงเรียนสนุกๆ",
+          "ครูพละสายโหด",
+          "ครูสอนพละ",
+          "ครูพลศึกษา",
+          "ครูสอน",
+          "โรงเรียน",
+          "เปิดเทอม",
+          "เรียนหนังสือ",
+          "วิชาพละ",
+          "เจอประจำ ตอน ครูพละ[ep.34]"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เจอประจำ ครูพละสายเคร่ง🏀⛹️ #เจอประจำ #ครูพละ #บี้เดอะสกา #bietheska",
+          "description": "เจอประจำ ตอน ครูพละ [EP.34]"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "528686",
+        "likeCount": "6263",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GI4ACTn0ZxHVQ3FRlmkjvj4Svv8",
+      "id": "y25cKNU66aQ",
+      "snippet": {
+        "publishedAt": "2026-08-08T04:12:21Z",
+        "channelId": "UCaasmkx4dLT0wLKnQr2bD7A",
+        "title": "แล้วจะเบรกยังไง #นาบี ￼",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y25cKNU66aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y25cKNU66aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y25cKNU66aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y25cKNU66aQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y25cKNU66aQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NABEJIM",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แล้วจะเบรกยังไง #นาบี ￼",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "703490",
+        "likeCount": "10382",
+        "favoriteCount": "0",
+        "commentCount": "44"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9rfeZE5cEF4FfNKihVNHgBgbME4",
+      "id": "egbLhfaNSHI",
+      "snippet": {
+        "publishedAt": "2026-08-05T00:00:29Z",
+        "channelId": "UCrtgZpWY3zNY7ytFXgz72UA",
+        "title": "復活小鴨子 你們小時候有用過這個方法復活，假死的鴨子嗎？ #這是我的農村生活 #鴨司令 #可愛的小鴨子 #鴨子復活記",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvcyebcjn",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "zh-Hant",
+        "localized": {
+          "title": "復活小鴨子 你們小時候有用過這個方法復活，假死的鴨子嗎？ #這是我的農村生活 #鴨司令 #可愛的小鴨子 #鴨子復活記",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8820966",
+        "likeCount": "142397",
+        "favoriteCount": "0",
+        "commentCount": "2010"
       }
     }
   ],

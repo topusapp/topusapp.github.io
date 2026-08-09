@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "HpV0gDqQtkyY9OQPWJTO3-LX_PA",
+  "etag": "Lxp1tkxUiYDlf7QM0-Bt_yYpQS0",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "SDyNcdVOmPhKqsKfSFatIqBCRXA",
+      "etag": "Uk0WdEgSUEDqjMLWXavMq0s_USA",
       "id": "TLiQXYGOREo",
       "snippet": {
         "publishedAt": "2026-08-06T10:54:57Z",
@@ -58,15 +58,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1169920",
-        "likeCount": "52246",
+        "viewCount": "1868283",
+        "likeCount": "77449",
         "favoriteCount": "0",
-        "commentCount": "83"
+        "commentCount": "103"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "b49ZK6wf15mBQqaA5ZLHMs6OQV0",
+      "etag": "LMYi-RHlSPkune9RLWtceKdKVTQ",
       "id": "t9dwRiYzIL4",
       "snippet": {
         "publishedAt": "2026-08-04T04:46:40Z",
@@ -119,44 +119,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1254164",
-        "likeCount": "45210",
+        "viewCount": "1579369",
+        "likeCount": "56640",
         "favoriteCount": "0",
-        "commentCount": "1063"
+        "commentCount": "1204"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aDEZanvjea2YzvfNAiqswgUcxc8",
-      "id": "qPqkrBKBO7U",
+      "etag": "cye-j4US32Z99GETUwVyZXxirBc",
+      "id": "PcPTgnsKIls",
       "snippet": {
-        "publishedAt": "2026-08-07T10:00:13Z",
+        "publishedAt": "2026-08-08T10:00:29Z",
         "channelId": "UCGHnzDqnktsCGLb6XS6w3XQ",
-        "title": "อย่าหาทำ! ขโมยขนมจนโดนปล่อยเกาะเจอดีเข้าให้",
+        "title": "เมื่อป้าข้างบ้านฉีกการบ้าน",
         "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/default.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/qPqkrBKBO7U/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PcPTgnsKIls/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -186,13 +186,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "อย่าหาทำ! ขโมยขนมจนโดนปล่อยเกาะเจอดีเข้าให้",
+          "title": "เมื่อป้าข้างบ้านฉีกการบ้าน",
           "description": "#สัตว์โลกน่ารัก #สัตว์เลี้ยง #ตลก  #หมาน่ารัก #แมวน่ารัก"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT25S",
+        "duration": "PT27S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -201,15 +201,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "745611",
-        "likeCount": "39542",
+        "viewCount": "730790",
+        "likeCount": "24839",
         "favoriteCount": "0",
-        "commentCount": "122"
+        "commentCount": "72"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "nMHfDuJmC7s28N9VtC5KJf2f8q4",
+      "etag": "0YnulFSEjPSA6SzwAfySx71vnhs",
       "id": "m8X-crQ8Gv0",
       "snippet": {
         "publishedAt": "2026-08-02T13:00:19Z",
@@ -262,77 +262,137 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2247708",
-        "likeCount": "62091",
+        "viewCount": "2578864",
+        "likeCount": "70021",
         "favoriteCount": "0",
-        "commentCount": "144"
+        "commentCount": "173"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WILCecIuGPNsGcGd-1lViDX1FXw",
-      "id": "DVB9cETbXNY",
+      "etag": "nWHBaEZE-KcQC-ivSeUBsHiT468",
+      "id": "8YNsUWIFmg4",
       "snippet": {
-        "publishedAt": "2026-07-31T09:47:33Z",
-        "channelId": "UCZJT6ZrhyR35vTR939bmx9g",
-        "title": "#萌寵出道計劃 #猴子 #這小猴子太可愛了吧 #0-3歲兒童啟蒙早教 #這也太萌太可愛了吧",
+        "publishedAt": "2026-08-01T01:05:35Z",
+        "channelId": "UCN8pDbdpLI20LVaC_3oQuVQ",
+        "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/default.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "nam truonghuy",
-        "categoryId": "22",
+        "channelTitle": "Mundos Salvajes",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "zh-Hant",
+        "defaultLanguage": "es",
         "localized": {
-          "title": "#萌寵出道計劃 #猴子 #這小猴子太可愛了吧 #0-3歲兒童啟蒙早教 #這也太萌太可愛了吧",
+          "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
           "description": ""
-        },
-        "defaultAudioLanguage": "zh"
+        }
       },
       "contentDetails": {
-        "duration": "PT11S",
+        "duration": "PT1M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "133696705",
-        "likeCount": "1171475",
+        "viewCount": "47610903",
+        "likeCount": "1207366",
         "favoriteCount": "0",
-        "commentCount": "1055"
+        "commentCount": "17274"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "bG0q6IItaneMP6mKh6Et1vWYwwo",
+      "etag": "9rfeZE5cEF4FfNKihVNHgBgbME4",
+      "id": "egbLhfaNSHI",
+      "snippet": {
+        "publishedAt": "2026-08-05T00:00:29Z",
+        "channelId": "UCrtgZpWY3zNY7ytFXgz72UA",
+        "title": "復活小鴨子 你們小時候有用過這個方法復活，假死的鴨子嗎？ #這是我的農村生活 #鴨司令 #可愛的小鴨子 #鴨子復活記",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvcyebcjn",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "zh-Hant",
+        "localized": {
+          "title": "復活小鴨子 你們小時候有用過這個方法復活，假死的鴨子嗎？ #這是我的農村生活 #鴨司令 #可愛的小鴨子 #鴨子復活記",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8820966",
+        "likeCount": "142397",
+        "favoriteCount": "0",
+        "commentCount": "2010"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0xtZkKTPkmVXLAw7iZJLHrs3N6Q",
       "id": "LNmQbRHNFAE",
       "snippet": {
         "publishedAt": "2026-08-05T12:45:29Z",
@@ -386,76 +446,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "873940",
-        "likeCount": "9945",
+        "viewCount": "953906",
+        "likeCount": "10772",
         "favoriteCount": "0",
         "commentCount": "24"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eYQwZasU8uViAKvwIjLE0MZqaps",
-      "id": "8YNsUWIFmg4",
-      "snippet": {
-        "publishedAt": "2026-08-01T01:05:35Z",
-        "channelId": "UCN8pDbdpLI20LVaC_3oQuVQ",
-        "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mundos Salvajes",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "es",
-        "localized": {
-          "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "37543304",
-        "likeCount": "1005881",
-        "favoriteCount": "0",
-        "commentCount": "14486"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "CzlieTgUUHTVqmHGhCSUHFGru00",
+      "etag": "csWaSliqzpkRq818QzMdibbC4P0",
       "id": "ZVtSSH9N9g8",
       "snippet": {
         "publishedAt": "2026-08-05T10:00:04Z",
@@ -529,60 +528,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "677789",
-        "likeCount": "7747",
+        "viewCount": "763656",
+        "likeCount": "8769",
         "favoriteCount": "0",
-        "commentCount": "8"
+        "commentCount": "9"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JVph7k_zjfAEdF0gouB4TFIlbxo",
-      "id": "egbLhfaNSHI",
+      "etag": "xgnx4eYe8H6llNfZvEq-B1oPf3Q",
+      "id": "myP6ZG-GbMM",
       "snippet": {
-        "publishedAt": "2026-08-05T00:00:29Z",
-        "channelId": "UCrtgZpWY3zNY7ytFXgz72UA",
-        "title": "復活小鴨子 你們小時候有用過這個方法復活，假死的鴨子嗎？ #這是我的農村生活 #鴨司令 #可愛的小鴨子 #鴨子復活記",
-        "description": "",
+        "publishedAt": "2026-08-08T11:00:16Z",
+        "channelId": "UCHMtj81aHobB1XmWezr3UKQ",
+        "title": "วาดรูปแมวอยู่ดีๆ แต่โดนแทรกด้วย...🎨🤯",
+        "description": "#cats #catlover #สัตว์โลกน่ารัก",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/default.jpg",
+            "url": "https://i.ytimg.com/vi/myP6ZG-GbMM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/myP6ZG-GbMM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/myP6ZG-GbMM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/myP6ZG-GbMM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/egbLhfaNSHI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/myP6ZG-GbMM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "tvcyebcjn",
+        "channelTitle": "Happy Happy Pets",
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "zh-Hant",
+        "defaultLanguage": "th",
         "localized": {
-          "title": "復活小鴨子 你們小時候有用過這個方法復活，假死的鴨子嗎？ #這是我的農村生活 #鴨司令 #可愛的小鴨子 #鴨子復活記",
-          "description": ""
+          "title": "วาดรูปแมวอยู่ดีๆ แต่โดนแทรกด้วย...🎨🤯",
+          "description": "#cats #catlover #สัตว์โลกน่ารัก"
         },
-        "defaultAudioLanguage": "und"
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT38S",
+        "duration": "PT40S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -591,124 +590,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5742332",
-        "likeCount": "96309",
+        "viewCount": "381002",
+        "likeCount": "10158",
         "favoriteCount": "0",
-        "commentCount": "1171"
+        "commentCount": "27"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "i9YHh-ZvIdwVP7WOB167Rlc4vLg",
-      "id": "MPvf8hjgrMU",
+      "etag": "lZZao0Ak4VgPqAHUgNxMiMz8MNY",
+      "id": "D3VMSMW2hU4",
       "snippet": {
-        "publishedAt": "2026-08-02T10:35:02Z",
-        "channelId": "UCezzncxoYlc6cwEXbNpq5rQ",
-        "title": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?",
-        "description": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?\n\n#shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เล่าจบในคลิปเดียว",
-        "tags": [
-          "shorts"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?",
-          "description": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?\n\n#shorts"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1162641",
-        "likeCount": "13469",
-        "favoriteCount": "0",
-        "commentCount": "36"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ql-vjUq19YWRMjVwzxgFuhslPno",
-      "id": "maoU2IKyR5k",
-      "snippet": {
-        "publishedAt": "2026-08-07T05:00:25Z",
-        "channelId": "UCqS9iBSi6yWMWjQP2YHDjcA",
-        "title": "ก้อนสีชมพูที่ตาแมวคืออะไร?",
+        "publishedAt": "2026-08-08T01:02:05Z",
+        "channelId": "UCSZYkeZSO6ZHJRBS_G4UYLg",
+        "title": "เจอแบบนี้ ไม่เอาอีกแล้ว จะร้องไห้! #jamsai #แจ่มใส #jamsaijs",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/default.jpg",
+            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "HMONG DID",
+        "channelTitle": "Jamsai JS",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ก้อนสีชมพูที่ตาแมวคืออะไร?",
+          "title": "เจอแบบนี้ ไม่เอาอีกแล้ว จะร้องไห้! #jamsai #แจ่มใส #jamsaijs",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT18S",
+        "duration": "PT47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -717,15 +652,120 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "343225",
-        "likeCount": "4596",
+        "viewCount": "763575",
+        "likeCount": "14359",
         "favoriteCount": "0",
-        "commentCount": "13"
+        "commentCount": "242"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HDfMe-dH-qwzJOKU65PwdCyOMFM",
+      "etag": "yXrlehl-b6e4jZd1aDpvkIPiIKI",
+      "id": "h9fMQhOqJtA",
+      "snippet": {
+        "publishedAt": "2026-08-08T02:45:36Z",
+        "channelId": "UCxsCEDOnlU1f8cFuITC3JOw",
+        "title": "สัตว์มีพิษที่พร้อมฆ่าคุณ แต่กลับช่วยชีวิตคนนับล้าน",
+        "description": "#Develian #เล่าเรื่อง  #สัตว์โลก #animals \nขอบคุณเพื่อนๆที่รับชม ยังไงอย่าลืมกดไลค์ กดแชร์ \nและกดติดตามกันด้วยนะครับ 🙏🙏🙏\n\n\nวิดีโอนี้จัดทำขึ้นเพื่อวัตถุประสงค์ทางการศึกษาและให้ความรู้เท่านั้น\nข้อควรระวัง (Disclaimer): เครดิตทั้งหมดขอยกให้กับเจ้าของผลงานต้นฉบับ ภาพ, เพลง, รูปภาพ และวิดีโอทั้งหมดที่ปรากฏในคลิปนี้เป็นทรัพย์สินทางปัญญาของเจ้าของที่แท้จริง หากมีข้อสงสัยหรือปัญหาเกี่ยวกับลิขสิทธิ์ กรุณาติดต่อเราได้ทันทีเพื่อดำเนินการให้เครดิตที่ถูกต้องหรือลบเนื้อหาดังกล่าว\nวิดีโอนี้ไม่มีเจตนาสร้างผลกระทบเชิงลบต่อผลงานต้นฉบับ (ในทางกลับกัน อาจช่วยส่งเสริมผลงานดั้งเดิมได้)\n\nวิดีโอนี้จัดทำขึ้นเพื่อการศึกษาและการวิจารณ์\nมีการใช้เนื้อหาเพียงบางส่วนเท่าที่จำเป็นเพื่ออธิบายประเด็นสำคัญเท่านั้น\nประกาศเรื่องการใช้งานโดยชอบธรรม (Fair Use): เนื้อหานี้เข้าข่าย \"การใช้งานลิขสิทธิ์ที่เป็นธรรม\" (Fair Use) ตาม พระราชบัญญัติลิขสิทธิ์ พ.ศ. 2537 มาตรา 32 วรรคหนึ่งและวรรคสอง ซึ่งระบุว่าการกระทำแก่งานอันมีลิขสิทธิ์ของบุคคลอื่น หากไม่ขัดต่อการแสวงหาประโยชน์จากงานลิขสิทธิ์ตามปกติของเจ้าของลิขสิทธิ์ และไม่กระทบกระเทือนถึงสิทธิอันชอบด้วยกฎหมายของเจ้าของลิขสิทธิ์เกินสมควร มิให้ถือว่าเป็นการละเมิดลิขสิทธิ์ โดยเฉพาะเพื่อประโยชน์ในการวิจัยหรือการศึกษา (ที่ไม่หากำไร) หรือเพื่อประโยชน์ของตนเองและบุคคลอื่นในครอบครัว หรือญาติสนิท\n\nEnglish Version (For International Reference): This video is for educational purposes only. Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h9fMQhOqJtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h9fMQhOqJtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h9fMQhOqJtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h9fMQhOqJtA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h9fMQhOqJtA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEVELIAN",
+        "tags": [
+          "Develiang",
+          "จัดอันดับ",
+          "สิบอันดับ",
+          "Top10",
+          "เล่าเรื่อง",
+          "เรื่องเล่า",
+          "เรื่องจริง",
+          "สุดยอด",
+          "น่าทึ่ง",
+          "Develian",
+          "satisfying video",
+          "edutainment",
+          "สิ่งมีชีวิต",
+          "YouTube Shorts",
+          "สารคดี",
+          "เรื่องแปลก",
+          "พิษสัตว์",
+          "สัตว์มีพิษ",
+          "งูพิษ",
+          "หอยเต้าปูน",
+          "สัตว์อันตราย",
+          "ธรรมชาติ",
+          "สาระน่ารู้",
+          "ความรู้รอบตัว",
+          "venom",
+          "animal toxins",
+          "Bothrops jararaca",
+          "Cone snail",
+          "Gila monster",
+          "Deathstalker scorpion",
+          "Saw-scaled viper",
+          "nature documentary",
+          "amazing facts",
+          "biology",
+          "shorts knowledge",
+          "educational shorts",
+          "viral facts",
+          "top 5",
+          "วิทยาศาสตร์",
+          "นวัตกรรม",
+          "สาระ"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "สัตว์มีพิษที่พร้อมฆ่าคุณ แต่กลับช่วยชีวิตคนนับล้าน",
+          "description": "#Develian #เล่าเรื่อง  #สัตว์โลก #animals \nขอบคุณเพื่อนๆที่รับชม ยังไงอย่าลืมกดไลค์ กดแชร์ \nและกดติดตามกันด้วยนะครับ 🙏🙏🙏\n\n\nวิดีโอนี้จัดทำขึ้นเพื่อวัตถุประสงค์ทางการศึกษาและให้ความรู้เท่านั้น\nข้อควรระวัง (Disclaimer): เครดิตทั้งหมดขอยกให้กับเจ้าของผลงานต้นฉบับ ภาพ, เพลง, รูปภาพ และวิดีโอทั้งหมดที่ปรากฏในคลิปนี้เป็นทรัพย์สินทางปัญญาของเจ้าของที่แท้จริง หากมีข้อสงสัยหรือปัญหาเกี่ยวกับลิขสิทธิ์ กรุณาติดต่อเราได้ทันทีเพื่อดำเนินการให้เครดิตที่ถูกต้องหรือลบเนื้อหาดังกล่าว\nวิดีโอนี้ไม่มีเจตนาสร้างผลกระทบเชิงลบต่อผลงานต้นฉบับ (ในทางกลับกัน อาจช่วยส่งเสริมผลงานดั้งเดิมได้)\n\nวิดีโอนี้จัดทำขึ้นเพื่อการศึกษาและการวิจารณ์\nมีการใช้เนื้อหาเพียงบางส่วนเท่าที่จำเป็นเพื่ออธิบายประเด็นสำคัญเท่านั้น\nประกาศเรื่องการใช้งานโดยชอบธรรม (Fair Use): เนื้อหานี้เข้าข่าย \"การใช้งานลิขสิทธิ์ที่เป็นธรรม\" (Fair Use) ตาม พระราชบัญญัติลิขสิทธิ์ พ.ศ. 2537 มาตรา 32 วรรคหนึ่งและวรรคสอง ซึ่งระบุว่าการกระทำแก่งานอันมีลิขสิทธิ์ของบุคคลอื่น หากไม่ขัดต่อการแสวงหาประโยชน์จากงานลิขสิทธิ์ตามปกติของเจ้าของลิขสิทธิ์ และไม่กระทบกระเทือนถึงสิทธิอันชอบด้วยกฎหมายของเจ้าของลิขสิทธิ์เกินสมควร มิให้ถือว่าเป็นการละเมิดลิขสิทธิ์ โดยเฉพาะเพื่อประโยชน์ในการวิจัยหรือการศึกษา (ที่ไม่หากำไร) หรือเพื่อประโยชน์ของตนเองและบุคคลอื่นในครอบครัว หรือญาติสนิท\n\nEnglish Version (For International Reference): This video is for educational purposes only. Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research."
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "458464",
+        "likeCount": "18446",
+        "favoriteCount": "0",
+        "commentCount": "34"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2mKQlRoFsLXXaLBgv9tPvGbfn50",
       "id": "ySooI-Td6Yk",
       "snippet": {
         "publishedAt": "2026-08-07T15:31:50Z",
@@ -804,85 +844,203 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "314869",
-        "likeCount": "4085",
+        "viewCount": "421323",
+        "likeCount": "5090",
         "favoriteCount": "0",
         "commentCount": "4"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "KOT55iCjXCA-8OIen9Vg2k2MahM",
-      "id": "Z5HcOsuvj1Q",
+      "etag": "v-5C7G-3Ms_wAaNmZcWFBIlRfLs",
+      "id": "maoU2IKyR5k",
       "snippet": {
-        "publishedAt": "2026-08-05T13:25:49Z",
-        "channelId": "UCammkIl9bhEPkw-W73b3cKg",
-        "title": "พวกเขาเจอรอยเท้าเอเลี่ยน! 😳#shorts  #viral #youtubeshorts",
-        "description": "#shorts  #viral #youtubeshorts #cat",
+        "publishedAt": "2026-08-07T05:00:25Z",
+        "channelId": "UCqS9iBSi6yWMWjQP2YHDjcA",
+        "title": "ก้อนสีชมพูที่ตาแมวคืออะไร?",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Z5HcOsuvj1Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Z5HcOsuvj1Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Z5HcOsuvj1Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Z5HcOsuvj1Q/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Z5HcOsuvj1Q/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/maoU2IKyR5k/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "HiddenFrame",
+        "channelTitle": "HMONG DID",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ก้อนสีชมพูที่ตาแมวคืออะไร?",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "423648",
+        "likeCount": "5802",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cQmQEwXh0_bhoOrb4-eT2lc8lb0",
+      "id": "jS1Kt1AfgMg",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:48:59Z",
+        "channelId": "UC75Cl_8WTMhKw641ThfQk8A",
+        "title": "ทำไมสาวตงเป่ยถึงอึดได้ใจผัว!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jS1Kt1AfgMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jS1Kt1AfgMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jS1Kt1AfgMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jS1Kt1AfgMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jS1Kt1AfgMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Greansaka",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ทำไมสาวตงเป่ยถึงอึดได้ใจผัว!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "422111",
+        "likeCount": "14777",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "56KUYzjKSi8m1zHIj8PNWkAOn70",
+      "id": "MPvf8hjgrMU",
+      "snippet": {
+        "publishedAt": "2026-08-02T10:35:02Z",
+        "channelId": "UCezzncxoYlc6cwEXbNpq5rQ",
+        "title": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?",
+        "description": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?\n\n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MPvf8hjgrMU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เล่าจบในคลิปเดียว",
         "tags": [
-          "shorts",
-          "viral",
-          "เล่าเรื่อง",
-          "feed",
-          "youtube",
-          "แมว",
-          "cat"
+          "shorts"
         ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "พวกเขาเจอรอยเท้าเอเลี่ยน! 😳#shorts  #viral #youtubeshorts",
-          "description": "#shorts  #viral #youtubeshorts #cat"
-        },
-        "defaultAudioLanguage": "th"
+          "title": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?",
+          "description": "เขาสงสัยว่าอูฐกินกระบองเพชรได้ไหม?\n\n#shorts"
+        }
       },
       "contentDetails": {
-        "duration": "PT43S",
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "752564",
+        "viewCount": "1308100",
+        "likeCount": "15025",
         "favoriteCount": "0",
-        "commentCount": "1043"
+        "commentCount": "42"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "f_ezLx1IBjMokf9zsDv4kIE7m3w",
+      "etag": "wRIGXtqwjqI9_onXT14vPPArBnQ",
       "id": "cJIyTdSxlMk",
       "snippet": {
         "publishedAt": "2026-08-05T11:30:34Z",
@@ -964,59 +1122,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "14140409",
-        "likeCount": "174681",
+        "viewCount": "21036647",
+        "likeCount": "242662",
         "favoriteCount": "0",
-        "commentCount": "577"
+        "commentCount": "849"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ote3RaCP0fhDJ8RI27LNSmWnVoU",
-      "id": "zlTjh3UJjTA",
+      "etag": "YORTVaf8OR9CHFuZ69nl_YXC30s",
+      "id": "lQR2h80jb8I",
       "snippet": {
-        "publishedAt": "2026-07-31T10:16:01Z",
-        "channelId": "UC3bm9vJv9fHp2DF4YDDZGPw",
-        "title": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!!",
-        "description": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!! #แมว #ทาสแมว #บันเทิง #shorts",
+        "publishedAt": "2026-08-05T12:00:21Z",
+        "channelId": "UC0X1dp5Gkhos0QJpainsjUA",
+        "title": "I got Nika a new friend😬 #cat #cats",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/default.jpg",
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "แมว เจได",
+        "channelTitle": "Princess Nika cat",
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!!",
-          "description": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!! #แมว #ทาสแมว #บันเทิง #shorts"
-        }
+          "title": "I got Nika a new friend😬 #cat #cats",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT25S",
+        "duration": "PT54S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1025,60 +1184,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1522177",
-        "likeCount": "23329",
+        "viewCount": "25715423",
+        "likeCount": "348760",
         "favoriteCount": "0",
-        "commentCount": "50"
+        "commentCount": "347"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "neiiGrSX7EX5zJT7f-tlBsGe6Mk",
-      "id": "D3VMSMW2hU4",
+      "etag": "Iy2E4XORDokz0Tn08NzwRdYXOFo",
+      "id": "g2jWUH8NPhQ",
       "snippet": {
-        "publishedAt": "2026-08-08T01:02:05Z",
-        "channelId": "UCSZYkeZSO6ZHJRBS_G4UYLg",
-        "title": "เจอแบบนี้ ไม่เอาอีกแล้ว จะร้องไห้! #jamsai #แจ่มใส #jamsaijs",
+        "publishedAt": "2026-08-06T12:45:33Z",
+        "channelId": "UC1G5GR8rYv-7txxkqPoSjlA",
+        "title": "เอาขนมมาล่อก็ยังยืนนิ่ง..เป็นเพราะแบบนี้เอง",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/default.jpg",
+            "url": "https://i.ytimg.com/vi/g2jWUH8NPhQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/g2jWUH8NPhQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/g2jWUH8NPhQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/g2jWUH8NPhQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/D3VMSMW2hU4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/g2jWUH8NPhQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Jamsai JS",
+        "channelTitle": "GioandG",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เจอแบบนี้ ไม่เอาอีกแล้ว จะร้องไห้! #jamsai #แจ่มใส #jamsaijs",
+          "title": "เอาขนมมาล่อก็ยังยืนนิ่ง..เป็นเพราะแบบนี้เอง",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT47S",
+        "duration": "PT42S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1087,15 +1246,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "409000",
-        "likeCount": "8555",
+        "viewCount": "545050",
+        "likeCount": "31098",
         "favoriteCount": "0",
-        "commentCount": "136"
+        "commentCount": "143"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wFpB0A-cME1rwZZX6zQKSny2xLk",
+      "etag": "akHHRfS2Pdn961Q2yMKibGa0HbQ",
+      "id": "ABsSA2Wf-As",
+      "snippet": {
+        "publishedAt": "2026-08-07T09:59:57Z",
+        "channelId": "UCCgDfkZA8aBf57dsTQejccw",
+        "title": "แม่ปลาทอง ปกป้องลูกจนลมหายใจสุดท้าย ❤️🐠 #สาระน่ารู้ #shorts",
+        "description": "เจ้าของนำปลาปักเป้าไปไว้รวมกับปลาทองชั่วคราว แต่กลับเกิดเหตุไม่คาดคิด จนเผยให้เห็นสัญชาตญาณความเป็นแม่อันน่าประทับใจ! 🐠💔\n\nระหว่างทำความสะอาดตู้ปลา เจ้าของได้นำปลาปักเป้าไปอยู่ร่วมกับปลาทองเพียงชั่วครู่ ก่อนที่ปลาปักเป้าจะเข้าทำร้ายปลาทองอย่างรุนแรง เมื่อกลับมาดูอีกครั้ง ปลาทองนอนแน่นิ่ง และสังเกตเห็นว่าปากของมันบวมผิดปกติ พอแง้มปากออกเบา ๆ ลูกปลาตัวเล็กจำนวนมากก็ว่ายออกมา เผยให้เห็นว่าแม่ปลาอมลูกไว้ในปากเพื่อปกป้องพวกมันจนถึงวาระสุดท้าย 🥹\n\nปลาแต่ละชนิดมีพฤติกรรมและนิสัยที่แตกต่างกัน การเลี้ยงรวมกันโดยไม่ศึกษาความเข้ากันได้ อาจก่อให้เกิดอันตรายต่อสัตว์น้ำได้ ดังนั้นควรแยกเลี้ยงตามความเหมาะสม เพื่อความปลอดภัยและสวัสดิภาพของพวกมัน 🩵\n\n#ความรู้รอบตัว #สาระน่ารู้ #สาระฮาๆ #คลิปตลก\n---------------------------\nThis video is an original creative production by [ความรู้รอบตัว].\nAll visuals, audio, and narration have been significantly transformed, re-scripted, and edited to deliver a fresh and engaging storytelling experience.\n\nWe focus on adding new context, structure, and emotion to our videos.\n\nSome details may be dramatized for storytelling purposes.\n\nWe strongly respect YouTube's policies and do not use unaltered or re-uploaded content from other creators.\n\n📌 This content is for entertainment purposes only.\n💬 If you enjoy this video, please like, share, and subscribe to support our creative work 🙌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ความรู้รอบตัว",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แม่ปลาทอง ปกป้องลูกจนลมหายใจสุดท้าย ❤️🐠 #สาระน่ารู้ #shorts",
+          "description": "เจ้าของนำปลาปักเป้าไปไว้รวมกับปลาทองชั่วคราว แต่กลับเกิดเหตุไม่คาดคิด จนเผยให้เห็นสัญชาตญาณความเป็นแม่อันน่าประทับใจ! 🐠💔\n\nระหว่างทำความสะอาดตู้ปลา เจ้าของได้นำปลาปักเป้าไปอยู่ร่วมกับปลาทองเพียงชั่วครู่ ก่อนที่ปลาปักเป้าจะเข้าทำร้ายปลาทองอย่างรุนแรง เมื่อกลับมาดูอีกครั้ง ปลาทองนอนแน่นิ่ง และสังเกตเห็นว่าปากของมันบวมผิดปกติ พอแง้มปากออกเบา ๆ ลูกปลาตัวเล็กจำนวนมากก็ว่ายออกมา เผยให้เห็นว่าแม่ปลาอมลูกไว้ในปากเพื่อปกป้องพวกมันจนถึงวาระสุดท้าย 🥹\n\nปลาแต่ละชนิดมีพฤติกรรมและนิสัยที่แตกต่างกัน การเลี้ยงรวมกันโดยไม่ศึกษาความเข้ากันได้ อาจก่อให้เกิดอันตรายต่อสัตว์น้ำได้ ดังนั้นควรแยกเลี้ยงตามความเหมาะสม เพื่อความปลอดภัยและสวัสดิภาพของพวกมัน 🩵\n\n#ความรู้รอบตัว #สาระน่ารู้ #สาระฮาๆ #คลิปตลก\n---------------------------\nThis video is an original creative production by [ความรู้รอบตัว].\nAll visuals, audio, and narration have been significantly transformed, re-scripted, and edited to deliver a fresh and engaging storytelling experience.\n\nWe focus on adding new context, structure, and emotion to our videos.\n\nSome details may be dramatized for storytelling purposes.\n\nWe strongly respect YouTube's policies and do not use unaltered or re-uploaded content from other creators.\n\n📌 This content is for entertainment purposes only.\n💬 If you enjoy this video, please like, share, and subscribe to support our creative work 🙌"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "364090",
+        "likeCount": "5232",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aR0pGu-UyWJGGj6nvuIjFV-HjZo",
       "id": "ULqKAPW5f7Y",
       "snippet": {
         "publishedAt": "2026-08-06T11:45:19Z",
@@ -1163,122 +1384,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "553158",
-        "likeCount": "36448",
+        "viewCount": "663369",
+        "likeCount": "42314",
         "favoriteCount": "0",
-        "commentCount": "1106"
+        "commentCount": "1320"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NcLrVnBoYJVvkOQH7b0Ij0sAM-4",
-      "id": "lQR2h80jb8I",
+      "etag": "yCqKM45QHrCJ1mPM-hWeymwS9l0",
+      "id": "ZQq1SIkBrQE",
       "snippet": {
-        "publishedAt": "2026-08-05T12:00:21Z",
-        "channelId": "UC0X1dp5Gkhos0QJpainsjUA",
-        "title": "I got Nika a new friend😬 #cat #cats",
+        "publishedAt": "2026-08-06T11:30:36Z",
+        "channelId": "UCXYfDThtnB5Mo6s_1tUZZgA",
+        "title": "ใช้เวลา 100 วันเลี้ยงนกกระจอกเทศ เป็ด และนกกระทาจนเติบโต!",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Princess Nika cat",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I got Nika a new friend😬 #cat #cats",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT54S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "16599422",
-        "likeCount": "234316",
-        "favoriteCount": "0",
-        "commentCount": "248"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8rnHLeJmNTdq3aG8U3DbSFwLsoo",
-      "id": "LvnnFDaHHgE",
-      "snippet": {
-        "publishedAt": "2026-07-28T05:00:37Z",
-        "channelId": "UCDvfSEztMy8aFlREnJAO_dw",
-        "title": "หนังเสือหลุด",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ไนท์ที่มีแฟนเป็นดาวต๊อกต๊อก",
+        "channelTitle": "Alot Soldier",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "หนังเสือหลุด",
+          "title": "ใช้เวลา 100 วันเลี้ยงนกกระจอกเทศ เป็ด และนกกระทาจนเติบโต!",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT1M27S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1287,15 +1446,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2695109",
-        "likeCount": "19655",
+        "viewCount": "518393",
+        "likeCount": "25350",
         "favoriteCount": "0",
-        "commentCount": "24"
+        "commentCount": "57"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "fuFwgcMVlhBS_Ti1EJaTwKmWjd8",
+      "etag": "Dpydgtmn_h9ZFOLxWqcmqGBXyGs",
       "id": "UFjxNgdHNNI",
       "snippet": {
         "publishedAt": "2026-08-07T11:30:09Z",
@@ -1360,60 +1519,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "282478",
-        "likeCount": "11080",
+        "viewCount": "361657",
+        "likeCount": "13299",
         "favoriteCount": "0",
-        "commentCount": "188"
+        "commentCount": "224"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZuPUEDZHc0TNgEZwJxW_IMB24WY",
-      "id": "ZQq1SIkBrQE",
+      "etag": "H1XA_1TemxRRQUtGp1RtKqdWz7A",
+      "id": "X-qUXeKNf44",
       "snippet": {
-        "publishedAt": "2026-08-06T11:30:36Z",
-        "channelId": "UCXYfDThtnB5Mo6s_1tUZZgA",
-        "title": "ใช้เวลา 100 วันเลี้ยงนกกระจอกเทศ เป็ด และนกกระทาจนเติบโต!",
+        "publishedAt": "2026-08-08T05:46:27Z",
+        "channelId": "UCIGB6KHwhhRdr5W47d_fWXQ",
+        "title": "คาซัคสถานปล่อยเสือตัวแรกกลับสู่ธรรมชาติในรอบกว่า 70 ปี หลังใช้เวลากว่า 10 ปีฟื้นฟูระบบนิเวศ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/default.jpg",
+            "url": "https://i.ytimg.com/vi/X-qUXeKNf44/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X-qUXeKNf44/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X-qUXeKNf44/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/X-qUXeKNf44/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ZQq1SIkBrQE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X-qUXeKNf44/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Alot Soldier",
+        "channelTitle": "Olaf",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ใช้เวลา 100 วันเลี้ยงนกกระจอกเทศ เป็ด และนกกระทาจนเติบโต!",
+          "title": "คาซัคสถานปล่อยเสือตัวแรกกลับสู่ธรรมชาติในรอบกว่า 70 ปี หลังใช้เวลากว่า 10 ปีฟื้นฟูระบบนิเวศ",
           "description": ""
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT1M27S",
+        "duration": "PT58S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1422,60 +1581,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "398457",
-        "likeCount": "18362",
+        "viewCount": "344336",
+        "likeCount": "15891",
         "favoriteCount": "0",
-        "commentCount": "43"
+        "commentCount": "213"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xeeb5BfXwkloeb8dzUr7oT96Be8",
-      "id": "ABsSA2Wf-As",
+      "etag": "D5VQrZ4jQvGP3IGHuOSGjqVPdLw",
+      "id": "vVDrnBEh6WE",
       "snippet": {
-        "publishedAt": "2026-08-07T09:59:57Z",
-        "channelId": "UCCgDfkZA8aBf57dsTQejccw",
-        "title": "แม่ปลาทอง ปกป้องลูกจนลมหายใจสุดท้าย ❤️🐠 #สาระน่ารู้ #shorts",
-        "description": "เจ้าของนำปลาปักเป้าไปไว้รวมกับปลาทองชั่วคราว แต่กลับเกิดเหตุไม่คาดคิด จนเผยให้เห็นสัญชาตญาณความเป็นแม่อันน่าประทับใจ! 🐠💔\n\nระหว่างทำความสะอาดตู้ปลา เจ้าของได้นำปลาปักเป้าไปอยู่ร่วมกับปลาทองเพียงชั่วครู่ ก่อนที่ปลาปักเป้าจะเข้าทำร้ายปลาทองอย่างรุนแรง เมื่อกลับมาดูอีกครั้ง ปลาทองนอนแน่นิ่ง และสังเกตเห็นว่าปากของมันบวมผิดปกติ พอแง้มปากออกเบา ๆ ลูกปลาตัวเล็กจำนวนมากก็ว่ายออกมา เผยให้เห็นว่าแม่ปลาอมลูกไว้ในปากเพื่อปกป้องพวกมันจนถึงวาระสุดท้าย 🥹\n\nปลาแต่ละชนิดมีพฤติกรรมและนิสัยที่แตกต่างกัน การเลี้ยงรวมกันโดยไม่ศึกษาความเข้ากันได้ อาจก่อให้เกิดอันตรายต่อสัตว์น้ำได้ ดังนั้นควรแยกเลี้ยงตามความเหมาะสม เพื่อความปลอดภัยและสวัสดิภาพของพวกมัน 🩵\n\n#ความรู้รอบตัว #สาระน่ารู้ #สาระฮาๆ #คลิปตลก\n---------------------------\nThis video is an original creative production by [ความรู้รอบตัว].\nAll visuals, audio, and narration have been significantly transformed, re-scripted, and edited to deliver a fresh and engaging storytelling experience.\n\nWe focus on adding new context, structure, and emotion to our videos.\n\nSome details may be dramatized for storytelling purposes.\n\nWe strongly respect YouTube's policies and do not use unaltered or re-uploaded content from other creators.\n\n📌 This content is for entertainment purposes only.\n💬 If you enjoy this video, please like, share, and subscribe to support our creative work 🙌",
+        "publishedAt": "2026-08-05T10:04:10Z",
+        "channelId": "UCpoflgWAj5yGV9hKJYByYOw",
+        "title": "ภารกิจช่วยเต่ากลับทะเล 🐢 #shorts  #viral",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/default.jpg",
+            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ABsSA2Wf-As/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ความรู้รอบตัว",
-        "categoryId": "22",
+        "channelTitle": "RanLabth",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "แม่ปลาทอง ปกป้องลูกจนลมหายใจสุดท้าย ❤️🐠 #สาระน่ารู้ #shorts",
-          "description": "เจ้าของนำปลาปักเป้าไปไว้รวมกับปลาทองชั่วคราว แต่กลับเกิดเหตุไม่คาดคิด จนเผยให้เห็นสัญชาตญาณความเป็นแม่อันน่าประทับใจ! 🐠💔\n\nระหว่างทำความสะอาดตู้ปลา เจ้าของได้นำปลาปักเป้าไปอยู่ร่วมกับปลาทองเพียงชั่วครู่ ก่อนที่ปลาปักเป้าจะเข้าทำร้ายปลาทองอย่างรุนแรง เมื่อกลับมาดูอีกครั้ง ปลาทองนอนแน่นิ่ง และสังเกตเห็นว่าปากของมันบวมผิดปกติ พอแง้มปากออกเบา ๆ ลูกปลาตัวเล็กจำนวนมากก็ว่ายออกมา เผยให้เห็นว่าแม่ปลาอมลูกไว้ในปากเพื่อปกป้องพวกมันจนถึงวาระสุดท้าย 🥹\n\nปลาแต่ละชนิดมีพฤติกรรมและนิสัยที่แตกต่างกัน การเลี้ยงรวมกันโดยไม่ศึกษาความเข้ากันได้ อาจก่อให้เกิดอันตรายต่อสัตว์น้ำได้ ดังนั้นควรแยกเลี้ยงตามความเหมาะสม เพื่อความปลอดภัยและสวัสดิภาพของพวกมัน 🩵\n\n#ความรู้รอบตัว #สาระน่ารู้ #สาระฮาๆ #คลิปตลก\n---------------------------\nThis video is an original creative production by [ความรู้รอบตัว].\nAll visuals, audio, and narration have been significantly transformed, re-scripted, and edited to deliver a fresh and engaging storytelling experience.\n\nWe focus on adding new context, structure, and emotion to our videos.\n\nSome details may be dramatized for storytelling purposes.\n\nWe strongly respect YouTube's policies and do not use unaltered or re-uploaded content from other creators.\n\n📌 This content is for entertainment purposes only.\n💬 If you enjoy this video, please like, share, and subscribe to support our creative work 🙌"
-        },
-        "defaultAudioLanguage": "th"
+          "title": "ภารกิจช่วยเต่ากลับทะเล 🐢 #shorts  #viral",
+          "description": ""
+        }
       },
       "contentDetails": {
-        "duration": "PT27S",
+        "duration": "PT29S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1484,15 +1642,206 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "257872",
-        "likeCount": "4014",
+        "viewCount": "657682",
+        "likeCount": "7852",
         "favoriteCount": "0",
-        "commentCount": "6"
+        "commentCount": "18"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xB1fWJN15kyP-goS769KUCObWfQ",
+      "etag": "XKXK-jkcQVkmUGaPMtmVbv9MpEU",
+      "id": "zlTjh3UJjTA",
+      "snippet": {
+        "publishedAt": "2026-07-31T10:16:01Z",
+        "channelId": "UC3bm9vJv9fHp2DF4YDDZGPw",
+        "title": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!!",
+        "description": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!! #แมว #ทาสแมว #บันเทิง #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zlTjh3UJjTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "แมว เจได",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!!",
+          "description": "แมวจะเลือกพ่อใจร้าย หรือแม่ใจดี มันจะไปอยู่กับใคร!! #แมว #ทาสแมว #บันเทิง #shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1625734",
+        "likeCount": "24585",
+        "favoriteCount": "0",
+        "commentCount": "52"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UB-XNn_YpDNo7Pmjq3EuFgsq04M",
+      "id": "fm7Jm1P3fDQ",
+      "snippet": {
+        "publishedAt": "2026-08-08T08:06:11Z",
+        "channelId": "UCIGEQxVTz_-6WcT_iSd9EEA",
+        "title": "เหตุการณ์สุดระทึก ที่คนส่วนใหญ่ไม่ได้เห็น",
+        "description": "#wildlife #animals #nature #ular #snake #buaya #python #reptiles #reels #crocodile #reptiles #fishing #mancing #fisherman #sungai #shorts #reels #alam #natgeowild #attack  #viralreelschallenge #reelschallenge #buayamuara #buayasungai #buayadarat #buayabesar #buayaraksasa #ular #snake #buaya #python #attack #piton #indonesia #philippines #malaysia #kalimantan #papua #monyet #Tembilahan #riau #IndragiriHilir #komodo #biawak \n\nCredit Clips : Irmakabellaginting, debajit.barua.9, IwAnd.L.sTC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fm7Jm1P3fDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fm7Jm1P3fDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fm7Jm1P3fDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fm7Jm1P3fDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fm7Jm1P3fDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "๋JustToTell",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "id",
+        "localized": {
+          "title": "เหตุการณ์สุดระทึก ที่คนส่วนใหญ่ไม่ได้เห็น",
+          "description": "#wildlife #animals #nature #ular #snake #buaya #python #reptiles #reels #crocodile #reptiles #fishing #mancing #fisherman #sungai #shorts #reels #alam #natgeowild #attack  #viralreelschallenge #reelschallenge #buayamuara #buayasungai #buayadarat #buayabesar #buayaraksasa #ular #snake #buaya #python #attack #piton #indonesia #philippines #malaysia #kalimantan #papua #monyet #Tembilahan #riau #IndragiriHilir #komodo #biawak \n\nCredit Clips : Irmakabellaginting, debajit.barua.9, IwAnd.L.sTC"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "312470",
+        "likeCount": "6170",
+        "favoriteCount": "0",
+        "commentCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_kTIdmrFNPFKXlbKF33CQE5itoY",
+      "id": "VETM639Uzvs",
+      "snippet": {
+        "publishedAt": "2026-08-05T11:43:01Z",
+        "channelId": "UCO6g8EVvSXk3lGQwAl9bbWw",
+        "title": "เจ้าแมวส้มสงสัยว่าข้างล่างหลุมลึกมีอะไร!? #เล่าเรื่อง #พากย์ไทย #ตลก",
+        "description": "Credit: Just chilling on FB \nIf our content infringes your copyright or you do not consent to our use of your content, before filing a report, please kindly contact us at (meww.pk@gmail.com) to request content removal.\n\nอย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ\nพระเจ้าเมตตาลูกด้วย/ @deed_channel  \n\nContact : ติดต่องานได้ที่\nEmail : meww.pk@gmail.com\n\n\n@--------------------------------------------------------------------------------------------------------------------@\nดูคลิปจบอ๊ะยางง\nอย่าลืมคอมเมนท์ด้วยความสุภาพและให้เกียรติผู้อ่านด้วยนะครับ\n\n่ขอบคุณที่รับชม ฮะฮะฮ่าาาาาาาาาาาาาาาาาาา\n\n\n#DeedChannel #ดีด #ดีดแชแนล #ตลก #เล่าเรื่อง #พากย์ไทย",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VETM639Uzvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VETM639Uzvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VETM639Uzvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VETM639Uzvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VETM639Uzvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Deed Channel / ดีด",
+        "tags": [
+          "Deed Channel",
+          "ดีด",
+          "เล่าเรื่อง",
+          "ตลก"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เจ้าแมวส้มสงสัยว่าข้างล่างหลุมลึกมีอะไร!? #เล่าเรื่อง #พากย์ไทย #ตลก",
+          "description": "Credit: Just chilling on FB \nIf our content infringes your copyright or you do not consent to our use of your content, before filing a report, please kindly contact us at (meww.pk@gmail.com) to request content removal.\n\nอย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ\nพระเจ้าเมตตาลูกด้วย/ @deed_channel  \n\nContact : ติดต่องานได้ที่\nEmail : meww.pk@gmail.com\n\n\n@--------------------------------------------------------------------------------------------------------------------@\nดูคลิปจบอ๊ะยางง\nอย่าลืมคอมเมนท์ด้วยความสุภาพและให้เกียรติผู้อ่านด้วยนะครับ\n\n่ขอบคุณที่รับชม ฮะฮะฮ่าาาาาาาาาาาาาาาาาาา\n\n\n#DeedChannel #ดีด #ดีดแชแนล #ตลก #เล่าเรื่อง #พากย์ไทย"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "485586",
+        "likeCount": "18261",
+        "favoriteCount": "0",
+        "commentCount": "226"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LRF-R76uyVRf6DP6HcIAPSoytmk",
       "id": "UZHSvmP8oKs",
       "snippet": {
         "publishedAt": "2026-08-04T11:46:58Z",
@@ -1546,15 +1895,277 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "475725",
-        "likeCount": "13079",
+        "viewCount": "578208",
+        "likeCount": "15484",
         "favoriteCount": "0",
-        "commentCount": "20"
+        "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "R54M4CO6tuLwHxitE5AuEXOl8-o",
+      "etag": "1Piecc20Bd3RnwLSOHQ5S_HDyGI",
+      "id": "LvnnFDaHHgE",
+      "snippet": {
+        "publishedAt": "2026-07-28T05:00:37Z",
+        "channelId": "UCDvfSEztMy8aFlREnJAO_dw",
+        "title": "หนังเสือหลุด",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LvnnFDaHHgE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ไนท์ที่มีแฟนเป็นดาวต๊อกต๊อก",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "หนังเสือหลุด",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2980810",
+        "likeCount": "21358",
+        "favoriteCount": "0",
+        "commentCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "11fW67it3pCGZKI82KnZpL_5WKo",
+      "id": "VKXMiJKrFv4",
+      "snippet": {
+        "publishedAt": "2026-08-08T13:20:55Z",
+        "channelId": "UC1DTj1JlHc2LoGXCF5zrHhA",
+        "title": "พื้นที่เต็ม? #ซุปตาร์หน้าแมว #แมวน่ารัก #ทาสแมว #แมว #ซุปตาร์แฟมิลี่",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VKXMiJKrFv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VKXMiJKrFv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VKXMiJKrFv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VKXMiJKrFv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VKXMiJKrFv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ซุปตาร์หน้าแมว",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "พื้นที่เต็ม? #ซุปตาร์หน้าแมว #แมวน่ารัก #ทาสแมว #แมว #ซุปตาร์แฟมิลี่",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "260351",
+        "likeCount": "3942",
+        "favoriteCount": "0",
+        "commentCount": "33"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uj4l5PXfJyoV35JWUHuhWC8SH7s",
+      "id": "cyAbPt7mASw",
+      "snippet": {
+        "publishedAt": "2026-08-09T02:17:11Z",
+        "channelId": "UCEcPKpLIINtcKDE6RDBBOig",
+        "title": "Toddler's Pocket Completely Fooled This Baby Gorilla! 🦍 😀 #funnyvideo #gorillafunnyvideo",
+        "description": "Toddler's Pocket Completely Fooled This Baby Gorilla! 🦍 😀 #funnyvideo #gorillafunnyvideo #gorillafunnymoment #gorillatag",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cyAbPt7mASw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cyAbPt7mASw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cyAbPt7mASw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cyAbPt7mASw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cyAbPt7mASw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bong Payel",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-IN",
+        "localized": {
+          "title": "Toddler's Pocket Completely Fooled This Baby Gorilla! 🦍 😀 #funnyvideo #gorillafunnyvideo",
+          "description": "Toddler's Pocket Completely Fooled This Baby Gorilla! 🦍 😀 #funnyvideo #gorillafunnyvideo #gorillafunnymoment #gorillatag"
+        },
+        "defaultAudioLanguage": "en-IN"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3740565",
+        "likeCount": "48595",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5EtRwA1kDeONmNo2rMOHD0YfO3k",
+      "id": "1Pb2GCq6PNE",
+      "snippet": {
+        "publishedAt": "2026-08-03T11:45:12Z",
+        "channelId": "UC0OK8yCRqmbSxJEpIcQSpDA",
+        "title": "เขายอมเสียแมวเพื่อให้มันมีชีวิตที่ดีกว่า",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Slot Movie",
+        "tags": [
+          "shorts",
+          "ไวรัล",
+          "คลายเครียด",
+          "สนุก",
+          "ตลก",
+          "เบาสมอง",
+          "เล่าเรื่อง",
+          "เรื่องแปลก",
+          "ฮาๆ",
+          "น่าทึ่ง",
+          "สัตว์โลกน่ารัก",
+          "แมวน่ารัก",
+          "สัตว์เลี้ยง"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เขายอมเสียแมวเพื่อให้มันมีชีวิตที่ดีกว่า",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "776506",
+        "likeCount": "10668",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RLIe-MsfV3PePgYciRq_xUpyISk",
       "id": "P6s4n73lg3E",
       "snippet": {
         "publishedAt": "2026-08-07T10:00:36Z",
@@ -1628,15 +2239,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "271145",
-        "likeCount": "11546",
+        "viewCount": "287069",
+        "likeCount": "12083",
         "favoriteCount": "0",
-        "commentCount": "30"
+        "commentCount": "31"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZseEc7wUqLORZaaW9Ld0l3bR_ns",
+      "etag": "4vnBCh3VERxeSSeKHQ3NbQTEZJU",
       "id": "X0Pu5kM2oyw",
       "snippet": {
         "publishedAt": "2026-08-02T05:44:05Z",
@@ -1732,74 +2343,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "770079",
-        "likeCount": "45241",
+        "viewCount": "777816",
+        "likeCount": "45396",
         "favoriteCount": "0",
-        "commentCount": "1213"
+        "commentCount": "1215"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4Xej5r47gq2KT_ttF_srPl1jgAY",
-      "id": "1Pb2GCq6PNE",
+      "etag": "-WwSwKhtBa2R2ttem3Ss7O6IlGI",
+      "id": "pVH9RAZMco0",
       "snippet": {
-        "publishedAt": "2026-08-03T11:45:12Z",
-        "channelId": "UC0OK8yCRqmbSxJEpIcQSpDA",
-        "title": "เขายอมเสียแมวเพื่อให้มันมีชีวิตที่ดีกว่า",
+        "publishedAt": "2026-08-04T11:00:19Z",
+        "channelId": "UCSGFs7l_7okHgdhgDOo0Bdw",
+        "title": "นกตัวนี้ทำเอาเขาพูดไม่ออก #story #shorts",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/default.jpg",
+            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/1Pb2GCq6PNE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Slot Movie",
-        "tags": [
-          "shorts",
-          "ไวรัล",
-          "คลายเครียด",
-          "สนุก",
-          "ตลก",
-          "เบาสมอง",
-          "เล่าเรื่อง",
-          "เรื่องแปลก",
-          "ฮาๆ",
-          "น่าทึ่ง",
-          "สัตว์โลกน่ารัก",
-          "แมวน่ารัก",
-          "สัตว์เลี้ยง"
-        ],
+        "channelTitle": "แมวอ้วนStory",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เขายอมเสียแมวเพื่อให้มันมีชีวิตที่ดีกว่า",
+          "title": "นกตัวนี้ทำเอาเขาพูดไม่ออก #story #shorts",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT38S",
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1808,60 +2405,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "689330",
-        "likeCount": "9417",
+        "viewCount": "416148",
+        "likeCount": "5464",
         "favoriteCount": "0",
-        "commentCount": "36"
+        "commentCount": "81"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lZ5BZGCEnD0XSzQIyPumPfpJXtw",
-      "id": "vVDrnBEh6WE",
+      "etag": "Qlf6bTjOtBK3o6yE7lejQdbcmwY",
+      "id": "22CaBLmdegU",
       "snippet": {
-        "publishedAt": "2026-08-05T10:04:10Z",
-        "channelId": "UCpoflgWAj5yGV9hKJYByYOw",
-        "title": "ภารกิจช่วยเต่ากลับทะเล 🐢 #shorts  #viral",
+        "publishedAt": "2026-08-03T08:07:32Z",
+        "channelId": "UCKk-m1IPK_UUReHfXkOxayA",
+        "title": "พี่เดี่ยวทำถึงม๊ากกกก 😲😲 #พลายเดี่ยวหลับ #elephant #ช้างเขาใหญ่ #ช้างป่า #wildlife",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/default.jpg",
+            "url": "https://i.ytimg.com/vi/22CaBLmdegU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/22CaBLmdegU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/22CaBLmdegU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/22CaBLmdegU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/vVDrnBEh6WE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/22CaBLmdegU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "RanLabth",
-        "categoryId": "24",
+        "channelTitle": "พาไปดูช้าง",
+        "categoryId": "25",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "ภารกิจช่วยเต่ากลับทะเล 🐢 #shorts  #viral",
+          "title": "พี่เดี่ยวทำถึงม๊ากกกก 😲😲 #พลายเดี่ยวหลับ #elephant #ช้างเขาใหญ่ #ช้างป่า #wildlife",
           "description": ""
-        },
-        "defaultAudioLanguage": "th"
+        }
       },
       "contentDetails": {
-        "duration": "PT29S",
+        "duration": "PT17S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1870,206 +2466,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "445832",
-        "likeCount": "5697",
+        "viewCount": "475809",
+        "likeCount": "12893",
         "favoriteCount": "0",
-        "commentCount": "15"
+        "commentCount": "217"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "BthJi8WTRyoBmhmWu9b9qZkUTOE",
-      "id": "fszz7oJcydg",
-      "snippet": {
-        "publishedAt": "2026-08-04T08:01:16Z",
-        "channelId": "UCIGEQxVTz_-6WcT_iSd9EEA",
-        "title": "เมื่อพวกเขาทั้งหมด กำลังออกตามหาอะไรบางอย่าง",
-        "description": "#wildlife #animals #nature #ular #snake #buaya #python #reptiles #reels #crocodile #reptiles #fishing #mancing #fisherman #sungai #shorts #reels #alam #natgeowild #attack  #viralreelschallenge #reelschallenge #buayamuara #buayasungai #buayadarat #buayabesar #ular #snake #buaya #python #attack #piton #indonesia #philippines #malaysia #kalimantan #papua #monyet #Tembilahan #riau #IndragiriHilir\n\nCredit Clips : fika.azaa, budy.hantana, AliAngler167, VJgacor, muridi.susandi, budy.hantana, yudha.brama.jaya.960874, linda.nely.75, lonk.bumi, mariaulfahantana, eva.asrita, muridi.susandi, lonk.bumi, ade.oktapiannanda, mariaulfahantana, budy.hantana, nur.ainy.167",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fszz7oJcydg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fszz7oJcydg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fszz7oJcydg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fszz7oJcydg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fszz7oJcydg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "๋JustToTell",
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "id",
-        "localized": {
-          "title": "เมื่อพวกเขาทั้งหมด กำลังออกตามหาอะไรบางอย่าง",
-          "description": "#wildlife #animals #nature #ular #snake #buaya #python #reptiles #reels #crocodile #reptiles #fishing #mancing #fisherman #sungai #shorts #reels #alam #natgeowild #attack  #viralreelschallenge #reelschallenge #buayamuara #buayasungai #buayadarat #buayabesar #ular #snake #buaya #python #attack #piton #indonesia #philippines #malaysia #kalimantan #papua #monyet #Tembilahan #riau #IndragiriHilir\n\nCredit Clips : fika.azaa, budy.hantana, AliAngler167, VJgacor, muridi.susandi, budy.hantana, yudha.brama.jaya.960874, linda.nely.75, lonk.bumi, mariaulfahantana, eva.asrita, muridi.susandi, lonk.bumi, ade.oktapiannanda, mariaulfahantana, budy.hantana, nur.ainy.167"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "559041",
-        "likeCount": "12572",
-        "favoriteCount": "0",
-        "commentCount": "69"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "chSl8NbODUw-kFos0sWZETl38zE",
-      "id": "Mhhr_voAkGM",
-      "snippet": {
-        "publishedAt": "2026-08-01T09:44:59Z",
-        "channelId": "UCaBfXJlSjAITp3V0c1PGL_A",
-        "title": "เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้ #cat",
-        "description": "ชื่อคลิป : เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้\n\nขอขอบคุณคลิปต้นฉบับ\nCredit to the owner : ThatLittlePuff\n\n#shorts #animal #สัตว์โลก #สัตว์โลกน่ารัก #เล่าเรื่อง #ตลก #funny #คลิปตลก #แมวตลก #catfunny #funnycat #smartcat #แมวแสนรู้ #เจ้าแมว #เจ้าแมวตัวนี้ #catcute #แมวน่ารัก #แมว #cat #เยลลี่ #Jelly \n\nเป็นคลิปเพื่อการรีวิวและวิเคราะห์เหตุการณ์\nเพื่อความบันเทิงเท่านั้น",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "HONEY ANIMAL",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้ #cat",
-          "description": "ชื่อคลิป : เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้\n\nขอขอบคุณคลิปต้นฉบับ\nCredit to the owner : ThatLittlePuff\n\n#shorts #animal #สัตว์โลก #สัตว์โลกน่ารัก #เล่าเรื่อง #ตลก #funny #คลิปตลก #แมวตลก #catfunny #funnycat #smartcat #แมวแสนรู้ #เจ้าแมว #เจ้าแมวตัวนี้ #catcute #แมวน่ารัก #แมว #cat #เยลลี่ #Jelly \n\nเป็นคลิปเพื่อการรีวิวและวิเคราะห์เหตุการณ์\nเพื่อความบันเทิงเท่านั้น"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "907889",
-        "likeCount": "11102",
-        "favoriteCount": "0",
-        "commentCount": "26"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Pe9pKNMJgorjtt2h8HqVY7n6wuM",
-      "id": "VETM639Uzvs",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:43:01Z",
-        "channelId": "UCO6g8EVvSXk3lGQwAl9bbWw",
-        "title": "เจ้าแมวส้มสงสัยว่าข้างล่างหลุมลึกมีอะไร!? #เล่าเรื่อง #พากย์ไทย #ตลก",
-        "description": "Credit: Just chilling on FB \nIf our content infringes your copyright or you do not consent to our use of your content, before filing a report, please kindly contact us at (meww.pk@gmail.com) to request content removal.\n\nอย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ\nพระเจ้าเมตตาลูกด้วย/ @deed_channel  \n\nContact : ติดต่องานได้ที่\nEmail : meww.pk@gmail.com\n\n\n@--------------------------------------------------------------------------------------------------------------------@\nดูคลิปจบอ๊ะยางง\nอย่าลืมคอมเมนท์ด้วยความสุภาพและให้เกียรติผู้อ่านด้วยนะครับ\n\n่ขอบคุณที่รับชม ฮะฮะฮ่าาาาาาาาาาาาาาาาาาา\n\n\n#DeedChannel #ดีด #ดีดแชแนล #ตลก #เล่าเรื่อง #พากย์ไทย",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VETM639Uzvs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VETM639Uzvs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VETM639Uzvs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VETM639Uzvs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VETM639Uzvs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Deed Channel / ดีด",
-        "tags": [
-          "Deed Channel",
-          "ดีด",
-          "เล่าเรื่อง",
-          "ตลก"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เจ้าแมวส้มสงสัยว่าข้างล่างหลุมลึกมีอะไร!? #เล่าเรื่อง #พากย์ไทย #ตลก",
-          "description": "Credit: Just chilling on FB \nIf our content infringes your copyright or you do not consent to our use of your content, before filing a report, please kindly contact us at (meww.pk@gmail.com) to request content removal.\n\nอย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ\nพระเจ้าเมตตาลูกด้วย/ @deed_channel  \n\nContact : ติดต่องานได้ที่\nEmail : meww.pk@gmail.com\n\n\n@--------------------------------------------------------------------------------------------------------------------@\nดูคลิปจบอ๊ะยางง\nอย่าลืมคอมเมนท์ด้วยความสุภาพและให้เกียรติผู้อ่านด้วยนะครับ\n\n่ขอบคุณที่รับชม ฮะฮะฮ่าาาาาาาาาาาาาาาาาาา\n\n\n#DeedChannel #ดีด #ดีดแชแนล #ตลก #เล่าเรื่อง #พากย์ไทย"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "315744",
-        "likeCount": "11205",
-        "favoriteCount": "0",
-        "commentCount": "150"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "QrRvUhsE8t21aDDr-ibwqXdwlKI",
+      "etag": "iPANB6wPG3ZrIEA13o9mrhZ-yVk",
       "id": "t2E9NJOUYhs",
       "snippet": {
         "publishedAt": "2026-08-04T03:00:09Z",
@@ -2122,139 +2527,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "570123",
-        "likeCount": "20216",
+        "viewCount": "668521",
+        "likeCount": "23412",
         "favoriteCount": "0",
-        "commentCount": "26"
+        "commentCount": "29"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "KszkQIZZE6F8ZyErRiteCPrLBkg",
-      "id": "ES01W4uOfRg",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:00:31Z",
-        "channelId": "UCHMtj81aHobB1XmWezr3UKQ",
-        "title": "จิ้งจอกขาวหลงมาในเมือง😢",
-        "description": "#สัตว์โลกน่ารัก #shorts #animals",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ES01W4uOfRg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ES01W4uOfRg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ES01W4uOfRg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ES01W4uOfRg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ES01W4uOfRg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Happy Happy Pets",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "จิ้งจอกขาวหลงมาในเมือง😢",
-          "description": "#สัตว์โลกน่ารัก #shorts #animals"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "188987",
-        "likeCount": "5905",
-        "favoriteCount": "0",
-        "commentCount": "36"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "em766FpI3mZF7CAOm8LSTRKIMVE",
-      "id": "tAio21pF3xA",
-      "snippet": {
-        "publishedAt": "2026-08-05T00:00:00Z",
-        "channelId": "UCgGms3APW-JRLUc4Cd_3FWw",
-        "title": "ทำไมสัตว์ป่าสุดโหด! ไม่ค่อยทำร้ายมนุษย์ตอนนอนหลับในป่า?!",
-        "description": "#สาระน่ารู้ #ความรู้รอบตัว #สัตว์ป่า #ธรรมชาติน่ารู้ #ความรู้ป่าไม้ #camping #เรื่องเล่าสัตว์ป่า",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tAio21pF3xA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tAio21pF3xA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tAio21pF3xA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tAio21pF3xA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tAio21pF3xA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TonTheSkeletoN | วันๆของไอตั้น",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ทำไมสัตว์ป่าสุดโหด! ไม่ค่อยทำร้ายมนุษย์ตอนนอนหลับในป่า?!",
-          "description": "#สาระน่ารู้ #ความรู้รอบตัว #สัตว์ป่า #ธรรมชาติน่ารู้ #ความรู้ป่าไม้ #camping #เรื่องเล่าสัตว์ป่า"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "310070",
-        "likeCount": "12347",
-        "favoriteCount": "0",
-        "commentCount": "20"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "E5mBLlsgh1V3SitwYSoppCymopE",
+      "etag": "YQJdmDUcN3JPziBDMpqasEKG4Jo",
       "id": "-t5OBn9HTxA",
       "snippet": {
         "publishedAt": "2026-08-05T03:00:23Z",
@@ -2348,260 +2629,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "320862",
-        "likeCount": "6621",
+        "viewCount": "388551",
+        "likeCount": "8143",
         "favoriteCount": "0",
-        "commentCount": "43"
+        "commentCount": "51"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wx1HoNPUZWqxR12ptZGQewoVcjk",
-      "id": "Ed1KET-uMWU",
+      "etag": "RVgwiWPrKunvTFdciZgnDiTFMQ8",
+      "id": "Mhhr_voAkGM",
       "snippet": {
-        "publishedAt": "2026-08-02T11:45:23Z",
-        "channelId": "UC1G5GR8rYv-7txxkqPoSjlA",
-        "title": "นกที่กินน้ำไวยิ่งกว่าตาจะมองทัน",
-        "description": "",
+        "publishedAt": "2026-08-01T09:44:59Z",
+        "channelId": "UCaBfXJlSjAITp3V0c1PGL_A",
+        "title": "เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้ #cat",
+        "description": "ชื่อคลิป : เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้\n\nขอขอบคุณคลิปต้นฉบับ\nCredit to the owner : ThatLittlePuff\n\n#shorts #animal #สัตว์โลก #สัตว์โลกน่ารัก #เล่าเรื่อง #ตลก #funny #คลิปตลก #แมวตลก #catfunny #funnycat #smartcat #แมวแสนรู้ #เจ้าแมว #เจ้าแมวตัวนี้ #catcute #แมวน่ารัก #แมว #cat #เยลลี่ #Jelly \n\nเป็นคลิปเพื่อการรีวิวและวิเคราะห์เหตุการณ์\nเพื่อความบันเทิงเท่านั้น",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ed1KET-uMWU/default.jpg",
+            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ed1KET-uMWU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ed1KET-uMWU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ed1KET-uMWU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ed1KET-uMWU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mhhr_voAkGM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "GioandG",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "นกที่กินน้ำไวยิ่งกว่าตาจะมองทัน",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "638235",
-        "likeCount": "17232",
-        "favoriteCount": "0",
-        "commentCount": "61"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EDLwvugb4JLMlNEItG2eYEzYGSg",
-      "id": "GjS4a8gE4JQ",
-      "snippet": {
-        "publishedAt": "2026-07-30T12:00:27Z",
-        "channelId": "UCtSNTJ1sYL6vFFBXoOC9MiA",
-        "title": "มีเมียหลายคนลำบากยังไง?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "บอสแคท",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "มีเมียหลายคนลำบากยังไง?",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT55S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1199532",
-        "likeCount": "48479",
-        "favoriteCount": "0",
-        "commentCount": "515"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Hbs8K8aGBFJTDjm1fAKRwWjAKOk",
-      "id": "pVH9RAZMco0",
-      "snippet": {
-        "publishedAt": "2026-08-04T11:00:19Z",
-        "channelId": "UCSGFs7l_7okHgdhgDOo0Bdw",
-        "title": "นกตัวนี้ทำเอาเขาพูดไม่ออก #story #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pVH9RAZMco0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "แมวอ้วนStory",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "นกตัวนี้ทำเอาเขาพูดไม่ออก #story #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT14S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "320888",
-        "likeCount": "4178",
-        "favoriteCount": "0",
-        "commentCount": "60"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tBab7UW1P_Qgf45BPPALzLzDeHA",
-      "id": "-JUbi8YjkdI",
-      "snippet": {
-        "publishedAt": "2026-07-26T10:00:20Z",
-        "channelId": "UCRnr9vdbqDOqiBPEWKx4UXA",
-        "title": "5 สัตว์สุดโหดที่ซ่อนตัวอยู่ในป่าเเอมะซอน!? 💥🐍🌲  #shorts  #amazon #เรื่องแปลก",
-        "description": "ป่าแอมะซอน... ผืนป่าที่เต็มไปด้วยความลึกลับและอันตราย! คลิปนี้จะพาคุณไปพบกับ \"5 สัตว์สุดโหดที่ซ่อนตัวอยู่ในป่าแอมะซอน\" สิ่งมีชีวิตตัวจริงที่มีทั้งพลังรัดมหาศาล พิษอันเจ็บปวด กระแสไฟฟ้าช็อต หรือแม้กระทั่งเขี้ยวพิษขนาดใหญ่!\n\u200bมาร่วมดูให้จบ แล้วคอมเมนต์บอกกันหน่อยครับว่า ในบรรดาสัตว์สุดโหดทั้ง 5 ตัวนี้ ตัวไหนที่ทำให้คุณกลัวและสะพรึงกลัวมากที่สุด?\n\n0:00 - 5 สัตว์สุดโหดที่ซ่อนตัวอยู่ในป่าแอมะซอน\n0:11 - อันดับที่ 1: งูอนาคอนด้าเขียว (Green Anaconda) เจ้ารัดกระดูกแหลกแห่งผืนน้ำ\n0:19 - อันดับที่ 2: ปลาปิรันย่า (Piranha) ฝูงนักล่ารุมแทะเนื้อเกลี้ยงในไม่กี่นาที\n0:26 - อันดับที่ 3: มดกระสุนปืน (Bullet Ant) ตะปบพิษที่เจ็บปวดเหมือนถูกยิง\n0:34 - อันดับที่ 4: ปลาไหลไฟฟ้า (Electric Eel) ปล่อยไฟฟ้า 600 โวลต์ ช็อตคนสลบได้\n0:41 - อันดับที่ 5: แมงมุมกินนกโกไลแอธ (Goliath Birdeating Spider) ยักษ์ใหญ่เขี้ยวพิษ 1 นิ้ว\n\u200bหากคุณชื่นชอบเรื่องราวเกี่ยวกับสัตว์อันตราย สัตว์แปลก เรื่องน่าทึ่งรอบโลก และการจัดอันดับสนุกๆ อย่าลืมกด Like และกด Subscribe เพื่อติดตามคลิปใหม่ๆ ก่อนใครนะครับ!\n\n#shorts #viral \u200b#สัตว์สุดโหด #ป่าแอมะซอน #สัตว์อันตราย #อนาคอนด้า #ปิรันย่า #แมงมุมกินนกโกไลแอธ #ปลาไหลไฟฟ้า #มดกระสุนปืน #สัตว์แปลก #เรื่องน่าทึ่ง #ความรู้รอบตัว #จัดอันดับ #สารคดีสัตว์โลก #เรื่องแปลก #ธรรมชาติ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-JUbi8YjkdI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-JUbi8YjkdI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-JUbi8YjkdI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-JUbi8YjkdI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-JUbi8YjkdI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KhemLy",
-        "tags": [
-          "shorts",
-          "viral",
-          "มดกระสุนปืน",
-          "เรื่องน่าทึ่ง",
-          "ปลาไหลไฟฟ้า",
-          "สารคดีสัตว์โลก",
-          "ธรรมชาติ",
-          "เรื่องแปลก",
-          "ปิรันย่า",
-          "อนาคอนด้า",
-          "สัตว์อันตราย",
-          "ป่าแอมะซอน"
-        ],
+        "channelTitle": "HONEY ANIMAL",
         "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "5 สัตว์สุดโหดที่ซ่อนตัวอยู่ในป่าเเอมะซอน!? 💥🐍🌲  #shorts  #amazon #เรื่องแปลก",
-          "description": "ป่าแอมะซอน... ผืนป่าที่เต็มไปด้วยความลึกลับและอันตราย! คลิปนี้จะพาคุณไปพบกับ \"5 สัตว์สุดโหดที่ซ่อนตัวอยู่ในป่าแอมะซอน\" สิ่งมีชีวิตตัวจริงที่มีทั้งพลังรัดมหาศาล พิษอันเจ็บปวด กระแสไฟฟ้าช็อต หรือแม้กระทั่งเขี้ยวพิษขนาดใหญ่!\n\u200bมาร่วมดูให้จบ แล้วคอมเมนต์บอกกันหน่อยครับว่า ในบรรดาสัตว์สุดโหดทั้ง 5 ตัวนี้ ตัวไหนที่ทำให้คุณกลัวและสะพรึงกลัวมากที่สุด?\n\n0:00 - 5 สัตว์สุดโหดที่ซ่อนตัวอยู่ในป่าแอมะซอน\n0:11 - อันดับที่ 1: งูอนาคอนด้าเขียว (Green Anaconda) เจ้ารัดกระดูกแหลกแห่งผืนน้ำ\n0:19 - อันดับที่ 2: ปลาปิรันย่า (Piranha) ฝูงนักล่ารุมแทะเนื้อเกลี้ยงในไม่กี่นาที\n0:26 - อันดับที่ 3: มดกระสุนปืน (Bullet Ant) ตะปบพิษที่เจ็บปวดเหมือนถูกยิง\n0:34 - อันดับที่ 4: ปลาไหลไฟฟ้า (Electric Eel) ปล่อยไฟฟ้า 600 โวลต์ ช็อตคนสลบได้\n0:41 - อันดับที่ 5: แมงมุมกินนกโกไลแอธ (Goliath Birdeating Spider) ยักษ์ใหญ่เขี้ยวพิษ 1 นิ้ว\n\u200bหากคุณชื่นชอบเรื่องราวเกี่ยวกับสัตว์อันตราย สัตว์แปลก เรื่องน่าทึ่งรอบโลก และการจัดอันดับสนุกๆ อย่าลืมกด Like และกด Subscribe เพื่อติดตามคลิปใหม่ๆ ก่อนใครนะครับ!\n\n#shorts #viral \u200b#สัตว์สุดโหด #ป่าแอมะซอน #สัตว์อันตราย #อนาคอนด้า #ปิรันย่า #แมงมุมกินนกโกไลแอธ #ปลาไหลไฟฟ้า #มดกระสุนปืน #สัตว์แปลก #เรื่องน่าทึ่ง #ความรู้รอบตัว #จัดอันดับ #สารคดีสัตว์โลก #เรื่องแปลก #ธรรมชาติ"
-        },
-        "defaultAudioLanguage": "th"
+          "title": "เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้ #cat",
+          "description": "ชื่อคลิป : เจ้าแมวจะแอบกินเยลลี่หมี แต่เจ้าของต้องมาห้ามไม่ให้กินแน่ๆ เจ้าแมวจึงคิดแผนการดีๆขึ้นมาได้\n\nขอขอบคุณคลิปต้นฉบับ\nCredit to the owner : ThatLittlePuff\n\n#shorts #animal #สัตว์โลก #สัตว์โลกน่ารัก #เล่าเรื่อง #ตลก #funny #คลิปตลก #แมวตลก #catfunny #funnycat #smartcat #แมวแสนรู้ #เจ้าแมว #เจ้าแมวตัวนี้ #catcute #แมวน่ารัก #แมว #cat #เยลลี่ #Jelly \n\nเป็นคลิปเพื่อการรีวิวและวิเคราะห์เหตุการณ์\nเพื่อความบันเทิงเท่านั้น"
+        }
       },
       "contentDetails": {
-        "duration": "PT51S",
+        "duration": "PT34S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2610,60 +2690,63 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3422789",
-        "likeCount": "173428",
+        "viewCount": "948526",
+        "likeCount": "11532",
         "favoriteCount": "0",
-        "commentCount": "1165"
+        "commentCount": "26"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yCayBueGUJGZnuiCjZm2KcVDa8Y",
-      "id": "vNUwFt11IZ8",
+      "etag": "MUE5dYyT9z_pYdA2u99zxIDCFK4",
+      "id": "MKP-1DuC6Vs",
       "snippet": {
-        "publishedAt": "2026-08-01T09:00:36Z",
-        "channelId": "UCmQoZU1SmLybuHpCKyrrvXw",
-        "title": "นักดำน้ำไม่ชอบปลาชนิดนี้",
-        "description": "",
+        "publishedAt": "2026-08-09T10:27:04Z",
+        "channelId": "UCB25MFIWsUMAyHsleiwZtSQ",
+        "title": "เธอให้แมวกินยาถ่ายพยาธิ มันไม่ยอมกิน",
+        "description": "เธอให้แมวกินยาถ่ายพยาธิ มันไม่ยอมกิน #แมว #ทาสแมว #บันเทิง #shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vNUwFt11IZ8/default.jpg",
+            "url": "https://i.ytimg.com/vi/MKP-1DuC6Vs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vNUwFt11IZ8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKP-1DuC6Vs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vNUwFt11IZ8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKP-1DuC6Vs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/vNUwFt11IZ8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKP-1DuC6Vs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/vNUwFt11IZ8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKP-1DuC6Vs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Salaleaw",
+        "channelTitle": "เป็ดขี้บ่น",
+        "tags": [
+          "ให้แมวกินยา"
+        ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "นักดำน้ำไม่ชอบปลาชนิดนี้",
-          "description": ""
+          "title": "เธอให้แมวกินยาถ่ายพยาธิ มันไม่ยอมกิน",
+          "description": "เธอให้แมวกินยาถ่ายพยาธิ มันไม่ยอมกิน #แมว #ทาสแมว #บันเทิง #shorts"
         },
-        "defaultAudioLanguage": "en-US"
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT23S",
+        "duration": "PT16S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2672,59 +2755,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "674902",
-        "likeCount": "15597",
+        "viewCount": "82667",
+        "likeCount": "2555",
         "favoriteCount": "0",
-        "commentCount": "63"
+        "commentCount": "3"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-WxxAMIda0c28V02fRKKDWZ5XYU",
-      "id": "22CaBLmdegU",
+      "etag": "1R06DO3-NDVHOlS06mPBeAj0J80",
+      "id": "tAio21pF3xA",
       "snippet": {
-        "publishedAt": "2026-08-03T08:07:32Z",
-        "channelId": "UCKk-m1IPK_UUReHfXkOxayA",
-        "title": "พี่เดี่ยวทำถึงม๊ากกกก 😲😲 #พลายเดี่ยวหลับ #elephant #ช้างเขาใหญ่ #ช้างป่า #wildlife",
-        "description": "",
+        "publishedAt": "2026-08-05T00:00:00Z",
+        "channelId": "UCgGms3APW-JRLUc4Cd_3FWw",
+        "title": "ทำไมสัตว์ป่าสุดโหด! ไม่ค่อยทำร้ายมนุษย์ตอนนอนหลับในป่า?!",
+        "description": "#สาระน่ารู้ #ความรู้รอบตัว #สัตว์ป่า #ธรรมชาติน่ารู้ #ความรู้ป่าไม้ #camping #เรื่องเล่าสัตว์ป่า",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/22CaBLmdegU/default.jpg",
+            "url": "https://i.ytimg.com/vi/tAio21pF3xA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/22CaBLmdegU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tAio21pF3xA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/22CaBLmdegU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tAio21pF3xA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/22CaBLmdegU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/tAio21pF3xA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/22CaBLmdegU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tAio21pF3xA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "พาไปดูช้าง",
-        "categoryId": "25",
+        "channelTitle": "TonTheSkeletoN | วันๆของไอตั้น",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "พี่เดี่ยวทำถึงม๊ากกกก 😲😲 #พลายเดี่ยวหลับ #elephant #ช้างเขาใหญ่ #ช้างป่า #wildlife",
-          "description": ""
-        }
+          "title": "ทำไมสัตว์ป่าสุดโหด! ไม่ค่อยทำร้ายมนุษย์ตอนนอนหลับในป่า?!",
+          "description": "#สาระน่ารู้ #ความรู้รอบตัว #สัตว์ป่า #ธรรมชาติน่ารู้ #ความรู้ป่าไม้ #camping #เรื่องเล่าสัตว์ป่า"
+        },
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT17S",
+        "duration": "PT36S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2733,60 +2817,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "344353",
-        "likeCount": "9604",
+        "viewCount": "351265",
+        "likeCount": "14823",
         "favoriteCount": "0",
-        "commentCount": "163"
+        "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gd_12cBFcaIVaSKhwiMsTuokPJA",
-      "id": "YOUqO5ZnBqA",
+      "etag": "8Ou09_SZCEfo26tcBdDkUWql7Bc",
+      "id": "6R5EYF__Sn8",
       "snippet": {
-        "publishedAt": "2026-07-25T09:05:10Z",
-        "channelId": "UC1k4-y_yieEHwjuf4msyN8A",
-        "title": "บังอาจมากัดตอนทีเผลอ",
-        "description": "",
+        "publishedAt": "2026-08-05T15:07:21Z",
+        "channelId": "UCdbG_T2iAgWOJjPyWI7XnBw",
+        "title": "Legendary Cat Memes (Then Vs Now) 😿💔",
+        "description": "How have cat memes changed over the years? 🐱\nWatch the evolution and subscribe for new videos! ❤️\n\n#cat\u200b #memes\u200b #nostalgia\u200b #trending\u200b #shorts\u200b",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YOUqO5ZnBqA/default.jpg",
+            "url": "https://i.ytimg.com/vi/6R5EYF__Sn8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YOUqO5ZnBqA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6R5EYF__Sn8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YOUqO5ZnBqA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6R5EYF__Sn8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YOUqO5ZnBqA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/6R5EYF__Sn8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YOUqO5ZnBqA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6R5EYF__Sn8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ซุยกะจวง",
+        "channelTitle": "𝒜𝓁𝒾 𝒢𝑒𝓃𝒾𝓊𝓈",
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en-US",
         "localized": {
-          "title": "บังอาจมากัดตอนทีเผลอ",
-          "description": ""
+          "title": "Legendary Cat Memes (Then Vs Now) 😿💔",
+          "description": "How have cat memes changed over the years? 🐱\nWatch the evolution and subscribe for new videos! ❤️\n\n#cat\u200b #memes\u200b #nostalgia\u200b #trending\u200b #shorts\u200b"
         },
-        "defaultAudioLanguage": "en-US"
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT35S",
+        "duration": "PT17S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2795,333 +2879,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2948391",
-        "likeCount": "118069",
+        "viewCount": "6791909",
+        "likeCount": "110593",
         "favoriteCount": "0",
-        "commentCount": "806"
+        "commentCount": "1240"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jGZGozg7EVqTZwhCMqHH2Hxo7oQ",
-      "id": "zZA2EA4RGHg",
+      "etag": "L3Ci1hiLKDpvBSJhz2FdrZZqIkM",
+      "id": "Pnvt9cf_5Bg",
       "snippet": {
-        "publishedAt": "2026-07-29T07:00:04Z",
-        "channelId": "UCNZgIAVXLSy-TEzMQDL8_ww",
-        "title": "ขอคนละ ไล ก็พอ",
-        "description": "",
+        "publishedAt": "2026-08-03T01:09:52Z",
+        "channelId": "UC9p6TcNzawuzyaezLIUN1UA",
+        "title": "Don't be rude to your pets 🥹 #cat#shorts#1million#catshorts#catmemes#dangerous#viral#famous",
+        "description": "🐱 Welcome to the funniest cat video you'll watch today! In this hilarious moment, a curious cat accidentally knocks over a glass of red juice, creating a funny and unexpected mess. If you enjoy cute cats, funny animals, and entertaining moments, this video is for you.\n\nThis channel shares funny cat videos, adorable pet moments, animal adventures, and entertaining clips to make your day better. Every video is created to bring smiles, laughter, and positive entertainment to viewers around the world.\n\nIf you enjoyed watching, please Like, Comment, Share, and Subscribe to support the channel. Turn on the notification bell so you never miss our latest uploads. We regularly post funny animal videos, cat shorts, viral pet moments, and exciting new content.\n\nThank you for watching and being part of our community. Your support helps us create more entertaining videos. Share this video with your friends and family who love cats and funny animal moments. Stay tuned for more amazing content featuring cute pets, funny reactions, and unforgettable moments.\n\n#Cat\u200b\u200b\u200b #FunnyCat\u200b\u200b\u200b #CuteCat\u200b\u200b\u200b #Cats\u200b\u200b\u200b #FunnyAnimals\u200b\u200b\u200b #Pets\u200b\u200b\u200b #AnimalLovers\u200b\u200b\u200b #CatVideos\u200b\u200b\u200b #CatShorts\u200b\u200b\u200b #Viral\u200b\u200b\u200b #Trending\u200b\u200b\u200b #FunnyVideo\u200b\u200b\u200b #CutePets\u200b\u200b\u200b #Comedy\u200b\u200b\u200b #YouTubeShorts\u200b\u200b\u200b #Shorts\u200b\u200b\u200b #PetLovers\u200b\u200b\u200b #Animals\u200b\u200b\u200b #Entertainment\u200b\u200b\u200b #ViralVideo\u200b\u200b\u200b\n\n\n🌿👉Key Word:-\n\n\n😱 Cat Knocks Over Red Juice! 🐱 Cat Spills a Glass of Red Juice! 😂 This Cat Made a Huge Mess! 😲 Cat Accidentally Spills the Red Drink! 🥤 Naughty Cat Knocks Down the Juice! 🤯 Watch This Cat Spill the Juice! 🐾 Cat vs. Red Juice – Epic Fail! 😹 The Funniest Cat Juice Spill Ever! 🚨 Cat Caught Knocking Over a Drink! 😮 Red Juice Everywhere After This Cat! 🐱 One Naughty Cat, One Big Spill! 😂 Cat Creates a Juice Disaster! 😱 You Won't Believe What This Cat Did! 🥤 Cat Turns Juice Time Into Chaos! 🤣 This Cat Ruined the Drink! 🐾 Cat's Funny Juice Accident! 😆 Oops! Cat Knocked Over the Red Juice! 🔥 Viral Cat Makes a Mess! 😲 The Cat That Couldn't Leave the Juice Alone! 🐱 Funny Cat Knocks Down a Glass of Red Juice!\n\n\n\n\n\n👉Hashtag:-\n\n#Cat\u200b\u200b\u200b #FunnyCat\u200b\u200b\u200b #CuteCat\u200b\u200b\u200b #Cats\u200b\u200b\u200b #Kitten\u200b\u200b\u200b #FunnyAnimals\u200b\u200b\u200b #Pets\u200b\u200b\u200b #PetLovers\u200b\u200b\u200b #AnimalLovers\u200b\u200b\u200b #CatVideos\u200b\u200b\u200b #CatShorts\u200b\u200b\u200b #Viral\u200b\u200b\u200b #Trending\u200b\u200b\u200b #YouTubeShorts\u200b\u200b\u200b #Shorts\u200b\u200b\u200b #FunnyVideo\u200b\u200b\u200b #Comedy\u200b\u200b\u200b #CutePets\u200b\u200b\u200b #Meow\u200b\u200b\u200b #CatLife\u200b\u200b\u200b #ViralVideo\u200b\u200b\u200b #FYP\u200b\u200b\u200b #Explore\u200b\u200b\u200b #Entertainment\u200b\u200b\u200b #Animals\u200b\u200b\u200b #LOL\u200b\u200b\u200b #Meme\u200b\u200b\u200b #DailyShorts\u200b\u200b\u200b #TrendingNow\u200b\u200b\u200b #FunnyMoments\u200b\u200b\u200b",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/default.jpg",
+            "url": "https://i.ytimg.com/vi/Pnvt9cf_5Bg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pnvt9cf_5Bg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pnvt9cf_5Bg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pnvt9cf_5Bg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pnvt9cf_5Bg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Mede Moji",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ขอคนละ ไล ก็พอ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1333089",
-        "likeCount": "19201",
-        "favoriteCount": "0",
-        "commentCount": "214"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-t3NkYk6Ms796ve9fHYvLaaHX7k",
-      "id": "w7jmzM3Zoyw",
-      "snippet": {
-        "publishedAt": "2026-07-25T00:00:06Z",
-        "channelId": "UCKRhW6z9MXoOfdAb4GyKbhw",
-        "title": "ปลอกคอแบบมีหนามนี้ใช้ไว้ทำอะไรกับสุนัข?",
-        "description": "If you have any concerns regarding this video whether it's a copyright issue or a removal request please feel free to contact us at \n( nexsolomax@gmail.com )\n         \n⚖️ Legal Disclaimer: \nUnder Section 107 of the Copyright Act 1976, \"Fair Use\" is permitted for purposes such as commentary, criticism, news reporting, teaching, and research. This provision supports educational, informative, and non-commercial use.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/w7jmzM3Zoyw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/w7jmzM3Zoyw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/w7jmzM3Zoyw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/w7jmzM3Zoyw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/w7jmzM3Zoyw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "FoxStory",
+        "channelTitle": "allha moha",
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "ปลอกคอแบบมีหนามนี้ใช้ไว้ทำอะไรกับสุนัข?",
-          "description": "If you have any concerns regarding this video whether it's a copyright issue or a removal request please feel free to contact us at \n( nexsolomax@gmail.com )\n         \n⚖️ Legal Disclaimer: \nUnder Section 107 of the Copyright Act 1976, \"Fair Use\" is permitted for purposes such as commentary, criticism, news reporting, teaching, and research. This provision supports educational, informative, and non-commercial use."
-        }
+          "title": "Don't be rude to your pets 🥹 #cat#shorts#1million#catshorts#catmemes#dangerous#viral#famous",
+          "description": "🐱 Welcome to the funniest cat video you'll watch today! In this hilarious moment, a curious cat accidentally knocks over a glass of red juice, creating a funny and unexpected mess. If you enjoy cute cats, funny animals, and entertaining moments, this video is for you.\n\nThis channel shares funny cat videos, adorable pet moments, animal adventures, and entertaining clips to make your day better. Every video is created to bring smiles, laughter, and positive entertainment to viewers around the world.\n\nIf you enjoyed watching, please Like, Comment, Share, and Subscribe to support the channel. Turn on the notification bell so you never miss our latest uploads. We regularly post funny animal videos, cat shorts, viral pet moments, and exciting new content.\n\nThank you for watching and being part of our community. Your support helps us create more entertaining videos. Share this video with your friends and family who love cats and funny animal moments. Stay tuned for more amazing content featuring cute pets, funny reactions, and unforgettable moments.\n\n#Cat\u200b\u200b\u200b #FunnyCat\u200b\u200b\u200b #CuteCat\u200b\u200b\u200b #Cats\u200b\u200b\u200b #FunnyAnimals\u200b\u200b\u200b #Pets\u200b\u200b\u200b #AnimalLovers\u200b\u200b\u200b #CatVideos\u200b\u200b\u200b #CatShorts\u200b\u200b\u200b #Viral\u200b\u200b\u200b #Trending\u200b\u200b\u200b #FunnyVideo\u200b\u200b\u200b #CutePets\u200b\u200b\u200b #Comedy\u200b\u200b\u200b #YouTubeShorts\u200b\u200b\u200b #Shorts\u200b\u200b\u200b #PetLovers\u200b\u200b\u200b #Animals\u200b\u200b\u200b #Entertainment\u200b\u200b\u200b #ViralVideo\u200b\u200b\u200b\n\n\n🌿👉Key Word:-\n\n\n😱 Cat Knocks Over Red Juice! 🐱 Cat Spills a Glass of Red Juice! 😂 This Cat Made a Huge Mess! 😲 Cat Accidentally Spills the Red Drink! 🥤 Naughty Cat Knocks Down the Juice! 🤯 Watch This Cat Spill the Juice! 🐾 Cat vs. Red Juice – Epic Fail! 😹 The Funniest Cat Juice Spill Ever! 🚨 Cat Caught Knocking Over a Drink! 😮 Red Juice Everywhere After This Cat! 🐱 One Naughty Cat, One Big Spill! 😂 Cat Creates a Juice Disaster! 😱 You Won't Believe What This Cat Did! 🥤 Cat Turns Juice Time Into Chaos! 🤣 This Cat Ruined the Drink! 🐾 Cat's Funny Juice Accident! 😆 Oops! Cat Knocked Over the Red Juice! 🔥 Viral Cat Makes a Mess! 😲 The Cat That Couldn't Leave the Juice Alone! 🐱 Funny Cat Knocks Down a Glass of Red Juice!\n\n\n\n\n\n👉Hashtag:-\n\n#Cat\u200b\u200b\u200b #FunnyCat\u200b\u200b\u200b #CuteCat\u200b\u200b\u200b #Cats\u200b\u200b\u200b #Kitten\u200b\u200b\u200b #FunnyAnimals\u200b\u200b\u200b #Pets\u200b\u200b\u200b #PetLovers\u200b\u200b\u200b #AnimalLovers\u200b\u200b\u200b #CatVideos\u200b\u200b\u200b #CatShorts\u200b\u200b\u200b #Viral\u200b\u200b\u200b #Trending\u200b\u200b\u200b #YouTubeShorts\u200b\u200b\u200b #Shorts\u200b\u200b\u200b #FunnyVideo\u200b\u200b\u200b #Comedy\u200b\u200b\u200b #CutePets\u200b\u200b\u200b #Meow\u200b\u200b\u200b #CatLife\u200b\u200b\u200b #ViralVideo\u200b\u200b\u200b #FYP\u200b\u200b\u200b #Explore\u200b\u200b\u200b #Entertainment\u200b\u200b\u200b #Animals\u200b\u200b\u200b #LOL\u200b\u200b\u200b #Meme\u200b\u200b\u200b #DailyShorts\u200b\u200b\u200b #TrendingNow\u200b\u200b\u200b #FunnyMoments\u200b\u200b\u200b"
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT22S",
+        "duration": "PT40S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3201552",
-        "likeCount": "54668",
+        "viewCount": "8241793",
+        "likeCount": "725696",
         "favoriteCount": "0",
-        "commentCount": "137"
+        "commentCount": "5098"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EpxikIfuLCKSy38fjbtSzoLIEHg",
-      "id": "rQUC35kj8Cs",
-      "snippet": {
-        "publishedAt": "2026-08-03T07:54:44Z",
-        "channelId": "UCGUK4OB2tjpFmQ-jKJ_t9tw",
-        "title": "3 อันดับสัตว์ที่สามารถมีชีวิตรอดได้โดยที่ไม่ต้องมีหัว !! #ฟีด #เรื่องเล่า #สาระความรู้ #เรื่องจริง",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เซนโตร เล่าเรื่อง",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "3 อันดับสัตว์ที่สามารถมีชีวิตรอดได้โดยที่ไม่ต้องมีหัว !! #ฟีด #เรื่องเล่า #สาระความรู้ #เรื่องจริง",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "479334",
-        "likeCount": "34372",
-        "favoriteCount": "0",
-        "commentCount": "933"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "3ow8qrMdfo0A2xwgpx9c7yeJOY0",
-      "id": "gwutrEgCHAU",
-      "snippet": {
-        "publishedAt": "2026-08-01T05:00:28Z",
-        "channelId": "UC_XtiLVzbS5ABko7pRfo_gg",
-        "title": "แมงดาทะเล~",
-        "description": "#เคยเห็นไหม #สาระน่ารู้ #funfacts #Viral #Trending",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gwutrEgCHAU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gwutrEgCHAU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gwutrEgCHAU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gwutrEgCHAU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gwutrEgCHAU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Quickly Curious",
-        "tags": [
-          "#สาระน่ารู้",
-          "#ความรู้รอบตัว",
-          "#วิดีโอความรู้",
-          "#เรียนรู้ทุกวัน",
-          "#วิดีโอสาระ",
-          "#สาระสั้นๆ",
-          "#คลิปความรู้",
-          "#คลิปสั้นความรู้"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "แมงดาทะเล~",
-          "description": "#เคยเห็นไหม #สาระน่ารู้ #funfacts #Viral #Trending"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT47S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "868031",
-        "likeCount": "32958",
-        "favoriteCount": "0",
-        "commentCount": "272"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Vf9DJiPVOeiIk5UANXRiRMbkngk",
-      "id": "7W6xmpLlADI",
-      "snippet": {
-        "publishedAt": "2026-08-05T14:54:28Z",
-        "channelId": "UCvGnbHx-py77j0RFkznchXg",
-        "title": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts",
-        "description": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "คืนดูหนัง",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts",
-          "description": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT2M21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "292590",
-        "likeCount": "7282",
-        "favoriteCount": "0",
-        "commentCount": "18"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "4P3DPPN75lHxFRrvE74sDsIDwqA",
+      "etag": "Hff86uYuVCVe5X8APzTJ2DDpoW8",
       "id": "Ko53Xw-htcM",
       "snippet": {
         "publishedAt": "2026-08-04T00:10:01Z",
@@ -3174,81 +3002,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5999470",
-        "likeCount": "36887",
+        "viewCount": "7986270",
+        "likeCount": "50447",
         "favoriteCount": "0",
-        "commentCount": "21"
+        "commentCount": "25"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ThSOp1VHxb9y8NUcpBJZPgX-R_4",
-      "id": "h0ByTy9_hrM",
-      "snippet": {
-        "publishedAt": "2026-08-04T10:20:35Z",
-        "channelId": "UCCVbBMsFzOuU_lROmRTIsLQ",
-        "title": "แมวปลดล็อคตู้เซฟเก็บอาหาร ที่เจ้าของล็อคเอาไว้",
-        "description": "แมวปลดล็อคตู้เซฟเก็บอาหาร ที่เจ้าของล็อคเอาไว้ #แมว #อาหารแมว #บันเทิง #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/h0ByTy9_hrM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/h0ByTy9_hrM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/h0ByTy9_hrM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/h0ByTy9_hrM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/h0ByTy9_hrM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ต้องฟังให้จบ",
-        "tags": [
-          "shorts",
-          "แมว"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "แมวปลดล็อคตู้เซฟเก็บอาหาร ที่เจ้าของล็อคเอาไว้",
-          "description": "แมวปลดล็อคตู้เซฟเก็บอาหาร ที่เจ้าของล็อคเอาไว้ #แมว #อาหารแมว #บันเทิง #shorts"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "283841",
-        "likeCount": "3673",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_C_gTidZsvTsulQlo1gHkmWkQAU",
+      "etag": "zBbhh-WEinISHBr5Zy62PP1R0Hw",
       "id": "kiniZsleJYM",
       "snippet": {
         "publishedAt": "2026-08-05T01:00:06Z",
@@ -3302,72 +3064,255 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "268521",
-        "likeCount": "6410",
+        "viewCount": "360151",
+        "likeCount": "8986",
         "favoriteCount": "0",
-        "commentCount": "7"
+        "commentCount": "11"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3PrZGkWvIPrT8BiC5HQHf74wVBE",
-      "id": "u-RjHn7jJoE",
+      "etag": "-HQv2mrjAjDTNVmUhWqYcVXsmhA",
+      "id": "GjS4a8gE4JQ",
       "snippet": {
-        "publishedAt": "2026-08-01T18:06:23Z",
-        "channelId": "UC6SRMn8m3sYso11GkNnptgw",
-        "title": "Ranking pets taking meds💊😂 #usa #funny #animals #memes",
-        "description": "Ranking pets taking medicines 😂😂#shorts #usa",
+        "publishedAt": "2026-07-30T12:00:27Z",
+        "channelId": "UCtSNTJ1sYL6vFFBXoOC9MiA",
+        "title": "มีเมียหลายคนลำบากยังไง?",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/u-RjHn7jJoE/default.jpg",
+            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/u-RjHn7jJoE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/u-RjHn7jJoE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/u-RjHn7jJoE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/u-RjHn7jJoE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GjS4a8gE4JQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Cruz",
-        "categoryId": "24",
+        "channelTitle": "บอสแคท",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "th",
         "localized": {
-          "title": "Ranking pets taking meds💊😂 #usa #funny #animals #memes",
-          "description": "Ranking pets taking medicines 😂😂#shorts #usa"
-        },
-        "defaultAudioLanguage": "en"
+          "title": "มีเมียหลายคนลำบากยังไง?",
+          "description": ""
+        }
       },
       "contentDetails": {
-        "duration": "PT17S",
+        "duration": "PT55S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "11518052",
-        "likeCount": "92946",
+        "viewCount": "1279903",
+        "likeCount": "50951",
         "favoriteCount": "0",
-        "commentCount": "314"
+        "commentCount": "531"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "60EsoJc3H3N2Q9oyncAYxZnoydY",
+      "id": "7W6xmpLlADI",
+      "snippet": {
+        "publishedAt": "2026-08-05T14:54:28Z",
+        "channelId": "UCvGnbHx-py77j0RFkznchXg",
+        "title": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts",
+        "description": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7W6xmpLlADI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "คืนดูหนัง",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts",
+          "description": "😺🔍 แมวสังเกตเห็นสิ่งที่มนุษย์มองไม่เห็น! เรื่องจริงสุดเหลือเชื่อ#trending #shorts"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "353764",
+        "likeCount": "8307",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wOrxRTrtJH3fOlkIEV1iTGaloF4",
+      "id": "zZA2EA4RGHg",
+      "snippet": {
+        "publishedAt": "2026-07-29T07:00:04Z",
+        "channelId": "UCNZgIAVXLSy-TEzMQDL8_ww",
+        "title": "ขอคนละ ไล ก็พอ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zZA2EA4RGHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mede Moji",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ขอคนละ ไล ก็พอ",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1513691",
+        "likeCount": "21479",
+        "favoriteCount": "0",
+        "commentCount": "234"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5svcYMqLkDn0f23UONh4ZVD8Fog",
+      "id": "rQUC35kj8Cs",
+      "snippet": {
+        "publishedAt": "2026-08-03T07:54:44Z",
+        "channelId": "UCGUK4OB2tjpFmQ-jKJ_t9tw",
+        "title": "3 อันดับสัตว์ที่สามารถมีชีวิตรอดได้โดยที่ไม่ต้องมีหัว !! #ฟีด #เรื่องเล่า #สาระความรู้ #เรื่องจริง",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rQUC35kj8Cs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "เซนโตร เล่าเรื่อง",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "3 อันดับสัตว์ที่สามารถมีชีวิตรอดได้โดยที่ไม่ต้องมีหัว !! #ฟีด #เรื่องเล่า #สาระความรู้ #เรื่องจริง",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "564715",
+        "likeCount": "37044",
+        "favoriteCount": "0",
+        "commentCount": "972"
       }
     }
   ],

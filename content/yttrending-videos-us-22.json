@@ -1,10 +1,167 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "f9wz63kkII9E4DCElLnOSiH0o9M",
+  "etag": "5QQxmWIQpUGOJF41eQ_aPpDqgPc",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "fqU0jlRCpfMy4Pg_N1rzJIANVzU",
+      "etag": "Lilf8WhIOL9ZXw7qBjt1X0vPx7M",
+      "id": "juLgkJneIV4",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:44:01Z",
+        "channelId": "UCJviZICaG85JC2T7OmIxJVQ",
+        "title": "The Greatest RC Rescue Ever...",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/juLgkJneIV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/juLgkJneIV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/juLgkJneIV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/juLgkJneIV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/juLgkJneIV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Combatful",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "hr",
+        "localized": {
+          "title": "The Greatest RC Rescue Ever...",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "800455",
+        "likeCount": "49715",
+        "favoriteCount": "0",
+        "commentCount": "884"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rgfSdvCNS5gNHlT9KGQsaCZiOyQ",
+      "id": "Q1bRYXB69so",
+      "snippet": {
+        "publishedAt": "2026-08-08T16:58:39Z",
+        "channelId": "UCLeBjrmfpAFGqDRJNL1PF5g",
+        "title": "life update: Netflix show, a thank you gift & travel to Korea with me",
+        "description": "❤️ Check out The Rotten Files on Netflix coming Friday 8/14 -  click \"Remind Me\" for all the updates!  https://www.netflix.com/title/82814173\n❤️ Free Merch (just pay shipping) on Friday 8/14, 3pm EST:  https://rmmerchshop.myshopify.com \n❤️ 2500 pieces only, all packed and shipped by the Soo family",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q1bRYXB69so/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MissMangoButt",
+        "tags": [
+          "dating",
+          "Stephanie Soo",
+          "MissMangoButt",
+          "Stephanie Soo Storytime",
+          "Stephanie Soo Story",
+          "Stephanie Soo Podcast",
+          "Podcast",
+          "Storytime",
+          "Story",
+          "Stephanie Soo Husband",
+          "Husband",
+          "Face Reveal",
+          "Korea",
+          "flying to korea",
+          "seoul korea",
+          "seoul vlog",
+          "korea vlog",
+          "korean couple",
+          "korean girl",
+          "korean makeup",
+          "korean skincare",
+          "black friday",
+          "seoul apartment tour",
+          "going to korea",
+          "moving to korea",
+          "nyc",
+          "surprise",
+          "birthday surprise",
+          "rottenmango",
+          "therottenfiles",
+          "netflix"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "life update: Netflix show, a thank you gift & travel to Korea with me",
+          "description": "❤️ Check out The Rotten Files on Netflix coming Friday 8/14 -  click \"Remind Me\" for all the updates!  https://www.netflix.com/title/82814173\n❤️ Free Merch (just pay shipping) on Friday 8/14, 3pm EST:  https://rmmerchshop.myshopify.com \n❤️ 2500 pieces only, all packed and shipped by the Soo family"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "291028",
+        "likeCount": "41625",
+        "favoriteCount": "0",
+        "commentCount": "7523"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RcZ0HyPk_P2ealbSF8NwVDSYBe0",
       "id": "Ou0xdT9FGP4",
       "snippet": {
         "publishedAt": "2026-08-07T05:11:21Z",
@@ -68,139 +225,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "140277",
-        "likeCount": "5877",
+        "viewCount": "186903",
+        "likeCount": "7095",
         "favoriteCount": "0",
-        "commentCount": "210"
+        "commentCount": "230"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2seZhiWqxqDUeyu4D4NEcZqQXDQ",
-      "id": "-gFmwqLFgGE",
-      "snippet": {
-        "publishedAt": "2026-07-29T23:53:40Z",
-        "channelId": "UCyCb04kz_raXCCaMVkzlZSQ",
-        "title": "Por ESTO casi me QUEDO sin NOVIA #humor #motos #bromas #biker #risas #calles",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Galletau.u",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "es",
-        "localized": {
-          "title": "Por ESTO casi me QUEDO sin NOVIA #humor #motos #bromas #biker #risas #calles",
-          "description": ""
-        },
-        "defaultAudioLanguage": "es"
-      },
-      "contentDetails": {
-        "duration": "PT1M50S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "8905180",
-        "likeCount": "606784",
-        "favoriteCount": "0",
-        "commentCount": "5350"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "5O_Tus-Q1KoqUJlkj-tLjvDq8aw",
-      "id": "vqcapYHi3UQ",
-      "snippet": {
-        "publishedAt": "2026-08-04T16:05:17Z",
-        "channelId": "UCvqflBxkC8vOz-qLIaVZysA",
-        "title": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping",
-        "description": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Haylee Hess",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping",
-          "description": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M59S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "225589",
-        "likeCount": "16468",
-        "favoriteCount": "0",
-        "commentCount": "254"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Qh4fZf81jCCip_UwyBKQ5i5A9BI",
+      "etag": "oGM93XdylQCLY8cL8VUcZWLyjZQ",
       "id": "4ajMnG3B-5Y",
       "snippet": {
         "publishedAt": "2026-08-07T15:45:29Z",
@@ -274,77 +307,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "64394",
-        "likeCount": "2106",
+        "viewCount": "107640",
+        "likeCount": "2985",
         "favoriteCount": "0",
-        "commentCount": "149"
+        "commentCount": "178"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OpI0XJTzBPuKQUi3PRrg8rAftFE",
-      "id": "_Vdy4MHlrmQ",
-      "snippet": {
-        "publishedAt": "2026-08-03T15:22:09Z",
-        "channelId": "UCFL6o3TctWi6bEoxD3NF46Q",
-        "title": "Day in my life as an Orthodox Jew #dayinmylife #vlog #jewish #camp",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Miriam Ezagui",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Day in my life as an Orthodox Jew #dayinmylife #vlog #jewish #camp",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "147657",
-        "likeCount": "7711",
-        "favoriteCount": "0",
-        "commentCount": "81"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "k5lQZlBRdj0A71N3gI7FaU-hP5U",
+      "etag": "YLngghUZGTmNMJQt-FetyROJEdE",
       "id": "GMw4CopStDM",
       "snippet": {
         "publishedAt": "2026-08-07T15:00:10Z",
@@ -412,15 +383,325 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "69166",
-        "likeCount": "2164",
+        "viewCount": "101620",
+        "likeCount": "2833",
         "favoriteCount": "0",
-        "commentCount": "164"
+        "commentCount": "173"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8V18BcRMwaIKDZ0jG0m1X2eWic8",
+      "etag": "5oL7qcKDrY5iSPd7OcDnMcIgquM",
+      "id": "PXMJvid2Ks8",
+      "snippet": {
+        "publishedAt": "2026-08-08T01:00:06Z",
+        "channelId": "UCYLSyWa8OeTkIvcSJ3eAPAA",
+        "title": "Week in the Life: Mom Life, First Father’s Day, Cooking…",
+        "description": "My first vlog of mom life! 🍼🎀✨This was a pretty chill/realistic week with Raine, but I was so excited to plan Justin’s first Father’s Day and just soak all of these moments up together. \n\nDon’t forget to like & subscribe if you enjoyed & let me know what you’d like to see next!\n\nLove you!\nXx\n\nFIND MORE OF ME HERE:\nhttps://linktr.ee/lalabaptiste\n\nEverything I own/wear below:\n\nAmazon Storefront:\nhttps://www.amazon.com/shop/lalatheislandgal\n\nShopMy:\nhttps://shopmy.us/shop/lalabaptiste/closet\n\nLTK: \nhttps://www.shopltk.com/explore/Lala%20Baptist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lala Baptiste",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Week in the Life: Mom Life, First Father’s Day, Cooking…",
+          "description": "My first vlog of mom life! 🍼🎀✨This was a pretty chill/realistic week with Raine, but I was so excited to plan Justin’s first Father’s Day and just soak all of these moments up together. \n\nDon’t forget to like & subscribe if you enjoyed & let me know what you’d like to see next!\n\nLove you!\nXx\n\nFIND MORE OF ME HERE:\nhttps://linktr.ee/lalabaptiste\n\nEverything I own/wear below:\n\nAmazon Storefront:\nhttps://www.amazon.com/shop/lalatheislandgal\n\nShopMy:\nhttps://shopmy.us/shop/lalabaptiste/closet\n\nLTK: \nhttps://www.shopltk.com/explore/Lala%20Baptist"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H9M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "92726",
+        "likeCount": "4445",
+        "favoriteCount": "0",
+        "commentCount": "214"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_HNWrw5QurkVaZvbP7zq0FkMxA4",
+      "id": "-gFmwqLFgGE",
+      "snippet": {
+        "publishedAt": "2026-07-29T23:53:40Z",
+        "channelId": "UCyCb04kz_raXCCaMVkzlZSQ",
+        "title": "Por ESTO casi me QUEDO sin NOVIA #humor #motos #bromas #biker #risas #calles",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-gFmwqLFgGE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Galletau.u",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Por ESTO casi me QUEDO sin NOVIA #humor #motos #bromas #biker #risas #calles",
+          "description": ""
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT1M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9001742",
+        "likeCount": "609932",
+        "favoriteCount": "0",
+        "commentCount": "5403"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PvHGuO-WVI_SbbD0gM9D4tUPJao",
+      "id": "vqcapYHi3UQ",
+      "snippet": {
+        "publishedAt": "2026-08-04T16:05:17Z",
+        "channelId": "UCvqflBxkC8vOz-qLIaVZysA",
+        "title": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping",
+        "description": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vqcapYHi3UQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Haylee Hess",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping",
+          "description": "Am I gonna be okay?! SOS #costcohaul #dayinmylife #vlog #mom #groceryshopping"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "243681",
+        "likeCount": "17547",
+        "favoriteCount": "0",
+        "commentCount": "261"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8A2WPXryvMkwmR0Qg_CD-HsNt38",
+      "id": "_Vdy4MHlrmQ",
+      "snippet": {
+        "publishedAt": "2026-08-03T15:22:09Z",
+        "channelId": "UCFL6o3TctWi6bEoxD3NF46Q",
+        "title": "Day in my life as an Orthodox Jew #dayinmylife #vlog #jewish #camp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Miriam Ezagui",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Day in my life as an Orthodox Jew #dayinmylife #vlog #jewish #camp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "156712",
+        "likeCount": "8055",
+        "favoriteCount": "0",
+        "commentCount": "79"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yQoTJlcDwFTbgynv_ZhD4xwsggo",
+      "id": "a5SoT73bex8",
+      "snippet": {
+        "publishedAt": "2026-08-08T18:00:30Z",
+        "channelId": "UCqZDrYZzMKawDbxV-SiMLAQ",
+        "title": "Europe Haul: Everything I bought in Ireland, Portugal & The UK",
+        "description": "We spent a couple weeks in Europe so here’s everything I bought while visiting Ireland, Scotland, England and Portugal!\n\n📍 Europe\n\nFollow for more food adventures:\nShopMy: https://shopmy.us/kaitlynlavery\nInstagram: https://www.instagram.com/kaitlynlavery\nTikTok: https://www.tiktok.com/@kaitlyneats\nSubstack: https://substack.com/@kaitlynlavery\nBeli: https://beliapp.co/lists/kaitlyneats\nLTK: https://www.shopltk.com/explore/Kaitlynlavery\nAmazon Storefront: https://www.amazon.com/shop/kaitlyneats_\n\n#shoppinghaul #shopping #haul",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5SoT73bex8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5SoT73bex8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5SoT73bex8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5SoT73bex8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5SoT73bex8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kaitlyn Lavery",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Europe Haul: Everything I bought in Ireland, Portugal & The UK",
+          "description": "We spent a couple weeks in Europe so here’s everything I bought while visiting Ireland, Scotland, England and Portugal!\n\n📍 Europe\n\nFollow for more food adventures:\nShopMy: https://shopmy.us/kaitlynlavery\nInstagram: https://www.instagram.com/kaitlynlavery\nTikTok: https://www.tiktok.com/@kaitlyneats\nSubstack: https://substack.com/@kaitlynlavery\nBeli: https://beliapp.co/lists/kaitlyneats\nLTK: https://www.shopltk.com/explore/Kaitlynlavery\nAmazon Storefront: https://www.amazon.com/shop/kaitlyneats_\n\n#shoppinghaul #shopping #haul"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "63560",
+        "likeCount": "3815",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BcYgJ6XAU-JFQ7CfMsbK8X-4GQQ",
       "id": "agRGYQL45bM",
       "snippet": {
         "publishedAt": "2026-07-21T19:58:29Z",
@@ -474,15 +755,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2178368",
-        "likeCount": "200098",
+        "viewCount": "2188482",
+        "likeCount": "200660",
         "favoriteCount": "0",
-        "commentCount": "904"
+        "commentCount": "908"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8g4iWGihynMMtQR5DdxpitPwm3o",
+      "etag": "OPATiU5Cawh0ulP9v8LAi5H6kMM",
+      "id": "7SzZr8WQWhc",
+      "snippet": {
+        "publishedAt": "2026-08-07T23:32:06Z",
+        "channelId": "UCr1nLIQFpNV5DxD22qxGsyQ",
+        "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
+        "description": "Productive Reset vlog!!! Come along for SAS prep, packing for a trip, & getting my life back together!!! Can’t believe summer’s coming to an end already 🥹❤️🫶\n\nFamily Channel: https://youtube.com/@thelaenofamily\nAll Socials: @nicolelaeno\nBusiness Contact: lindalaeno@yahoo.com\nCurrent Subs: 3.73M\n\nSTAY POSITIVE!\nXoxo, Nicole 💋",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nicole Laeno",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
+          "description": "Productive Reset vlog!!! Come along for SAS prep, packing for a trip, & getting my life back together!!! Can’t believe summer’s coming to an end already 🥹❤️🫶\n\nFamily Channel: https://youtube.com/@thelaenofamily\nAll Socials: @nicolelaeno\nBusiness Contact: lindalaeno@yahoo.com\nCurrent Subs: 3.73M\n\nSTAY POSITIVE!\nXoxo, Nicole 💋"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT20M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "122241",
+        "likeCount": "6135",
+        "favoriteCount": "0",
+        "commentCount": "388"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QnfWQ2ecHdgCdumAh_KsKlfl-yk",
       "id": "VXaBO72uKJY",
       "snippet": {
         "publishedAt": "2026-08-04T19:00:25Z",
@@ -570,15 +913,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "212405",
-        "likeCount": "12248",
+        "viewCount": "228791",
+        "likeCount": "12843",
         "favoriteCount": "0",
-        "commentCount": "563"
+        "commentCount": "586"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QRXezbA3U4KVXfSj01ioROjMSPc",
+      "etag": "-4CoLjoijXmtzLVfiDHbmL7zE70",
       "id": "-EkaXNFhudc",
       "snippet": {
         "publishedAt": "2026-08-07T23:15:06Z",
@@ -661,15 +1004,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "77397",
-        "likeCount": "11628",
+        "viewCount": "106503",
+        "likeCount": "14001",
         "favoriteCount": "0",
-        "commentCount": "275"
+        "commentCount": "311"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ASSkYzWOzZF45T_Gr6XC7_xgyQo",
+      "etag": "KbokQMhYqscy3CUaIrzuTsz8GwA",
       "id": "BcobmOQPe5Y",
       "snippet": {
         "publishedAt": "2026-08-06T20:00:11Z",
@@ -737,106 +1080,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "58517",
-        "likeCount": "6979",
+        "viewCount": "65408",
+        "likeCount": "7432",
         "favoriteCount": "0",
-        "commentCount": "591"
+        "commentCount": "647"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "EUPrmdUIWPlOkcuLxg9upui8J8s",
-      "id": "PXMJvid2Ks8",
+      "etag": "vEoL-i_7rWWEl5d2-J9lqzfNpcw",
+      "id": "hPEla392vRw",
       "snippet": {
-        "publishedAt": "2026-08-08T01:00:06Z",
-        "channelId": "UCYLSyWa8OeTkIvcSJ3eAPAA",
-        "title": "Week in the Life: Mom Life, First Father’s Day, Cooking…",
-        "description": "My first vlog of mom life! 🍼🎀✨This was a pretty chill/realistic week with Raine, but I was so excited to plan Justin’s first Father’s Day and just soak all of these moments up together. \n\nDon’t forget to like & subscribe if you enjoyed & let me know what you’d like to see next!\n\nLove you!\nXx\n\nFIND MORE OF ME HERE:\nhttps://linktr.ee/lalabaptiste\n\nEverything I own/wear below:\n\nAmazon Storefront:\nhttps://www.amazon.com/shop/lalatheislandgal\n\nShopMy:\nhttps://shopmy.us/shop/lalabaptiste/closet\n\nLTK: \nhttps://www.shopltk.com/explore/Lala%20Baptist",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PXMJvid2Ks8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Lala Baptiste",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Week in the Life: Mom Life, First Father’s Day, Cooking…",
-          "description": "My first vlog of mom life! 🍼🎀✨This was a pretty chill/realistic week with Raine, but I was so excited to plan Justin’s first Father’s Day and just soak all of these moments up together. \n\nDon’t forget to like & subscribe if you enjoyed & let me know what you’d like to see next!\n\nLove you!\nXx\n\nFIND MORE OF ME HERE:\nhttps://linktr.ee/lalabaptiste\n\nEverything I own/wear below:\n\nAmazon Storefront:\nhttps://www.amazon.com/shop/lalatheislandgal\n\nShopMy:\nhttps://shopmy.us/shop/lalabaptiste/closet\n\nLTK: \nhttps://www.shopltk.com/explore/Lala%20Baptist"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1H9M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "37791",
-        "likeCount": "2486",
-        "favoriteCount": "0",
-        "commentCount": "136"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hSGiDxJVSEq3OiuAN2n_HltM83E",
-      "id": "gp6Fq2S4ks4",
-      "snippet": {
-        "publishedAt": "2026-08-04T20:00:06Z",
+        "publishedAt": "2026-08-08T14:45:06Z",
         "channelId": "UC46fZkmsP85pUQDLw1UKezg",
-        "title": "The BIGGEST surprise EVER in NYC 😱✨🗽 Travel with us (Day 1) #vacation #vlog #newyork #adventure",
+        "title": "FEAR of HEIGHTS?! 🫣🗽NYC VLOG DAY 3 #travel #adventure #vacation #vlog #viral #trending #funny",
         "description": "Thank you all SO much for watching! I love you 💜✨\nhttps://open.spotify.com/show/033wmMbGodr4lJSQ4yxtGw?si=NgaY6bFYS6WXZUNY2P9lpQ\nhttps://www.instagram.com/purplestars02official\nhttps://www.facebook.com/purplestars02official\nhttps://www.snapchat.com/@kayla_drwal\nhttps://www.tiktok.com/@kayladrwal02\n\nORDER MY LIPSESSED LIP BALMS & MERCH 👇🏼  \nhttps://beacons.ai/kayla_drwal\n\nFAN SUBMISSIONS & GIVEAWAY WINNERS\n💌 glitterstar556@gmail.com\n\n💌 PR, BUSINESS, & BRAND INQUIRIES  \n📧 kayla@purplestarsmedia.com  \n\n📦 WANNA SEND ME MAIL? 😍👇  \nKayla Ann  \nP.O. Box 159  \nIngomar, PA 15127",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gp6Fq2S4ks4/default.jpg",
+            "url": "https://i.ytimg.com/vi/hPEla392vRw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gp6Fq2S4ks4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hPEla392vRw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gp6Fq2S4ks4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hPEla392vRw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gp6Fq2S4ks4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/hPEla392vRw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gp6Fq2S4ks4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hPEla392vRw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -846,13 +1127,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en-US",
         "localized": {
-          "title": "The BIGGEST surprise EVER in NYC 😱✨🗽 Travel with us (Day 1) #vacation #vlog #newyork #adventure",
+          "title": "FEAR of HEIGHTS?! 🫣🗽NYC VLOG DAY 3 #travel #adventure #vacation #vlog #viral #trending #funny",
           "description": "Thank you all SO much for watching! I love you 💜✨\nhttps://open.spotify.com/show/033wmMbGodr4lJSQ4yxtGw?si=NgaY6bFYS6WXZUNY2P9lpQ\nhttps://www.instagram.com/purplestars02official\nhttps://www.facebook.com/purplestars02official\nhttps://www.snapchat.com/@kayla_drwal\nhttps://www.tiktok.com/@kayladrwal02\n\nORDER MY LIPSESSED LIP BALMS & MERCH 👇🏼  \nhttps://beacons.ai/kayla_drwal\n\nFAN SUBMISSIONS & GIVEAWAY WINNERS\n💌 glitterstar556@gmail.com\n\n💌 PR, BUSINESS, & BRAND INQUIRIES  \n📧 kayla@purplestarsmedia.com  \n\n📦 WANNA SEND ME MAIL? 😍👇  \nKayla Ann  \nP.O. Box 159  \nIngomar, PA 15127"
         },
         "defaultAudioLanguage": "zxx"
       },
       "contentDetails": {
-        "duration": "PT33M6S",
+        "duration": "PT34M52S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -861,15 +1142,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "167447",
-        "likeCount": "3188",
+        "viewCount": "69924",
+        "likeCount": "1567",
         "favoriteCount": "0",
-        "commentCount": "3420"
+        "commentCount": "621"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CdPdjpMLmQ4clLsK2utShCvqMO8",
+      "etag": "6OZ9jmu1NKWKwBhBDsQgrVGDWsA",
       "id": "V1toB8iSnKM",
       "snippet": {
         "publishedAt": "2026-08-07T09:30:15Z",
@@ -936,285 +1217,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "37001",
-        "likeCount": "4257",
+        "viewCount": "40832",
+        "likeCount": "4479",
         "favoriteCount": "0",
-        "commentCount": "500"
+        "commentCount": "522"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "llOXOIgSw4lEDNfcVrGnQbp4QKs",
-      "id": "7SzZr8WQWhc",
-      "snippet": {
-        "publishedAt": "2026-08-07T23:32:06Z",
-        "channelId": "UCr1nLIQFpNV5DxD22qxGsyQ",
-        "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
-        "description": "Productive Reset vlog!!! Come along for SAS prep, packing for a trip, & getting my life back together!!! Can’t believe summer’s coming to an end already 🥹❤️🫶\n\nFamily Channel: https://youtube.com/@thelaenofamily\nAll Socials: @nicolelaeno\nBusiness Contact: lindalaeno@yahoo.com\nCurrent Subs: 3.73M\n\nSTAY POSITIVE!\nXoxo, Nicole 💋",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7SzZr8WQWhc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Nicole Laeno",
-        "categoryId": "26",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
-          "description": "Productive Reset vlog!!! Come along for SAS prep, packing for a trip, & getting my life back together!!! Can’t believe summer’s coming to an end already 🥹❤️🫶\n\nFamily Channel: https://youtube.com/@thelaenofamily\nAll Socials: @nicolelaeno\nBusiness Contact: lindalaeno@yahoo.com\nCurrent Subs: 3.73M\n\nSTAY POSITIVE!\nXoxo, Nicole 💋"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT20M52S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "61563",
-        "likeCount": "3882",
-        "favoriteCount": "0",
-        "commentCount": "310"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "RGRC488IJPN6FNquujDtmyDZu-I",
-      "id": "v8g8DCVS_hA",
-      "snippet": {
-        "publishedAt": "2026-08-06T17:27:11Z",
-        "channelId": "UCNKWfWg41fKCYsVd8-dJHGA",
-        "title": "First Time Solo Traveling Vlog | Evelyn Ha",
-        "description": "love u guys \n\nSocials: \nTT ://www.tiktok.com/@hjevelyn?_t=ZT-8unlHevk3Pq&_r=1\nIG http://instagram.com/hjevelyn",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Evelyn Ha",
-        "tags": [
-          "hjevelyn",
-          "ha sisters",
-          "Evelyn ha",
-          "New York City vlog",
-          "nyc influencer",
-          "lifestyle vlog"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "First Time Solo Traveling Vlog | Evelyn Ha",
-          "description": "love u guys \n\nSocials: \nTT ://www.tiktok.com/@hjevelyn?_t=ZT-8unlHevk3Pq&_r=1\nIG http://instagram.com/hjevelyn"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT37M23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "183169",
-        "likeCount": "7349",
-        "favoriteCount": "0",
-        "commentCount": "358"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "9H7ZI18NEO9kQLvmr0TlhNxxJwo",
-      "id": "gquG3tWpufA",
-      "snippet": {
-        "publishedAt": "2026-08-05T21:40:51Z",
-        "channelId": "UCxVEsOhpjLTRKNUSA8e0mfA",
-        "title": "DIY tools, home renos, the Cottage & everything in Between *Q&A* | MaCenna Lee",
-        "description": "I can't believe it's August already! This summer has been crazy busy (in a good way) so it's time for a little catch-up! I'm answering your questions .. even the ones that seem like i've been avoiding!\n XO MaCenna Vlogs by MaCenna Lee \n\nTurn on your post notifications so you don't miss any uploads!\n\nWatch the last vlog // https://youtu.be/B8gaVkYo2F0\n\nClick Here To SUBSCRIBE: https://bit.ly/xomacennavlogs-subscribe \nFollow Me on INSTAGRAM: @xomacenna\nMy DIY & HOME DECOR Channel:  @xomacennavlogs \n\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nSHOP\nPicnic table: https://go.shopmy.us/p-76682872 \nBasic White Tee: https://go.shopmy.us/p-76682151 \nWhite Long Sleeve: https://go.shopmy.us/p-76682042 \nWhite Top: https://go.shopmy.us/p-76682277 \nPink & Brown Overalls: https://go.shopmy.us/p-76682692 \nBrown Shorts Jumper: https://go.shopmy.us/p-76682559 \nDenim Overalls: https://go.shopmy.us/p-76682366 \nBlue Tee: https://go.shopmy.us/p-76682802 \nShoes: https://go.shopmy.us/p-76682494 \n✶ Auden Lueur Candles: https://www.audenlueur.com/ \n✶ Amazon Store Front: https://www.amazon.com/shop/xomacenna \n✶ TwoPages Curtains (20% OFF code XOMACENNA): https://twopagescurtains.com/WR11FbqMAWLk7x\n✶ Fable Dinnerware (10% OFF code XOMACENNA): https://glnk.io/4y0x/xomacenna\n✶ Our Place Cookware https://glnk.io/r5y0n/xomacenna\n✶ Mom’s Art Shop: https://bit.ly/3kBzy2V \n✶ Print art at The Stackhouse (20% OFF code XOMACENNA): https://thestackhouse.com/XOMACENNA\n\nSome links may be affiliate links!\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nFollow me on:\n✶ Instagram @xomacenna\n✶ Pinterest @xomacenna\n✶ Blog // https://www.xomacenna.com\n✶ TikTok @xomacenna\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n✶ BUSINESS INQUIRIES ONLY: xomacenna@select.co\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n\nLife behind the projects — that’s what you’ll find here on XO MaCenna Vlogs. I’m MaCenna Lee, creator of XO MaCenna and founder of the sustainable candle brand Auden Lueur. This channel is where I share the moments in between big DIY reveals: everyday adventures, travels, vintage treasure hunts, and the behind-the-scenes work of running a creative business.\n\nFTC: This video is not sponsored",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gquG3tWpufA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gquG3tWpufA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gquG3tWpufA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gquG3tWpufA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gquG3tWpufA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "XO, MaCenna Vlogs",
-        "tags": [
-          "vlogger",
-          "xo macenna",
-          "macenna diy",
-          "macenna vlogs",
-          "lifestyle vlogger",
-          "day in the life",
-          "mckenna",
-          "kinsley",
-          "romeo and macenna",
-          "romeo",
-          "macenna lee",
-          "xo macenna vlogs"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "DIY tools, home renos, the Cottage & everything in Between *Q&A* | MaCenna Lee",
-          "description": "I can't believe it's August already! This summer has been crazy busy (in a good way) so it's time for a little catch-up! I'm answering your questions .. even the ones that seem like i've been avoiding!\n XO MaCenna Vlogs by MaCenna Lee \n\nTurn on your post notifications so you don't miss any uploads!\n\nWatch the last vlog // https://youtu.be/B8gaVkYo2F0\n\nClick Here To SUBSCRIBE: https://bit.ly/xomacennavlogs-subscribe \nFollow Me on INSTAGRAM: @xomacenna\nMy DIY & HOME DECOR Channel:  @xomacennavlogs \n\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nSHOP\nPicnic table: https://go.shopmy.us/p-76682872 \nBasic White Tee: https://go.shopmy.us/p-76682151 \nWhite Long Sleeve: https://go.shopmy.us/p-76682042 \nWhite Top: https://go.shopmy.us/p-76682277 \nPink & Brown Overalls: https://go.shopmy.us/p-76682692 \nBrown Shorts Jumper: https://go.shopmy.us/p-76682559 \nDenim Overalls: https://go.shopmy.us/p-76682366 \nBlue Tee: https://go.shopmy.us/p-76682802 \nShoes: https://go.shopmy.us/p-76682494 \n✶ Auden Lueur Candles: https://www.audenlueur.com/ \n✶ Amazon Store Front: https://www.amazon.com/shop/xomacenna \n✶ TwoPages Curtains (20% OFF code XOMACENNA): https://twopagescurtains.com/WR11FbqMAWLk7x\n✶ Fable Dinnerware (10% OFF code XOMACENNA): https://glnk.io/4y0x/xomacenna\n✶ Our Place Cookware https://glnk.io/r5y0n/xomacenna\n✶ Mom’s Art Shop: https://bit.ly/3kBzy2V \n✶ Print art at The Stackhouse (20% OFF code XOMACENNA): https://thestackhouse.com/XOMACENNA\n\nSome links may be affiliate links!\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nFollow me on:\n✶ Instagram @xomacenna\n✶ Pinterest @xomacenna\n✶ Blog // https://www.xomacenna.com\n✶ TikTok @xomacenna\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n✶ BUSINESS INQUIRIES ONLY: xomacenna@select.co\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n\nLife behind the projects — that’s what you’ll find here on XO MaCenna Vlogs. I’m MaCenna Lee, creator of XO MaCenna and founder of the sustainable candle brand Auden Lueur. This channel is where I share the moments in between big DIY reveals: everyday adventures, travels, vintage treasure hunts, and the behind-the-scenes work of running a creative business.\n\nFTC: This video is not sponsored"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT32M33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "68863",
-        "likeCount": "5357",
-        "favoriteCount": "0",
-        "commentCount": "248"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "s95moP_jl7DNibUkwircMmervkM",
-      "id": "J7USvi0FCZI",
-      "snippet": {
-        "publishedAt": "2026-08-04T21:47:39Z",
-        "channelId": "UC5Z_NfkksSQl4XmbLa8ZMGQ",
-        "title": "Obsessed with the pajamas 😍 #fypシ #estatesalefinds #yardsalefinds #vintage #cindydionicio #thrift",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Cindy Dionicio🦋",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Obsessed with the pajamas 😍 #fypシ #estatesalefinds #yardsalefinds #vintage #cindydionicio #thrift",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT2M59S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "49243",
-        "likeCount": "5309",
-        "favoriteCount": "0",
-        "commentCount": "50"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ana8dTWP4Zdg2LsBkD6FwMvHPMQ",
+      "etag": "QKWwFcj7W4fB29SGBtQ4w7RCgao",
       "id": "ZSFr00jOYbk",
       "snippet": {
         "publishedAt": "2026-08-07T20:00:27Z",
@@ -1300,15 +1311,438 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "28726",
-        "likeCount": "2297",
+        "viewCount": "47751",
+        "likeCount": "3135",
         "favoriteCount": "0",
-        "commentCount": "272"
+        "commentCount": "345"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-G5w1ApX-JW6kpc95luNL3gYHLU",
+      "etag": "5uHsO7O1abaMuTrsBG3AFIJ3MyQ",
+      "id": "v8g8DCVS_hA",
+      "snippet": {
+        "publishedAt": "2026-08-06T17:27:11Z",
+        "channelId": "UCNKWfWg41fKCYsVd8-dJHGA",
+        "title": "First Time Solo Traveling Vlog | Evelyn Ha",
+        "description": "love u guys \n\nSocials: \nTT ://www.tiktok.com/@hjevelyn?_t=ZT-8unlHevk3Pq&_r=1\nIG http://instagram.com/hjevelyn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v8g8DCVS_hA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Evelyn Ha",
+        "tags": [
+          "hjevelyn",
+          "ha sisters",
+          "Evelyn ha",
+          "New York City vlog",
+          "nyc influencer",
+          "lifestyle vlog"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "First Time Solo Traveling Vlog | Evelyn Ha",
+          "description": "love u guys \n\nSocials: \nTT ://www.tiktok.com/@hjevelyn?_t=ZT-8unlHevk3Pq&_r=1\nIG http://instagram.com/hjevelyn"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "209973",
+        "likeCount": "8050",
+        "favoriteCount": "0",
+        "commentCount": "371"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UlOoccig4Scr-w13iTydtdU8NAk",
+      "id": "gquG3tWpufA",
+      "snippet": {
+        "publishedAt": "2026-08-05T21:40:51Z",
+        "channelId": "UCxVEsOhpjLTRKNUSA8e0mfA",
+        "title": "DIY tools, home renos, the Cottage & everything in Between *Q&A* | MaCenna Lee",
+        "description": "I can't believe it's August already! This summer has been crazy busy (in a good way) so it's time for a little catch-up! I'm answering your questions .. even the ones that seem like i've been avoiding!\n XO MaCenna Vlogs by MaCenna Lee \n\nTurn on your post notifications so you don't miss any uploads!\n\nWatch the last vlog // https://youtu.be/B8gaVkYo2F0\n\nClick Here To SUBSCRIBE: https://bit.ly/xomacennavlogs-subscribe \nFollow Me on INSTAGRAM: @xomacenna\nMy DIY & HOME DECOR Channel:  @xomacennavlogs \n\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nSHOP\nPicnic table: https://go.shopmy.us/p-76682872 \nBasic White Tee: https://go.shopmy.us/p-76682151 \nWhite Long Sleeve: https://go.shopmy.us/p-76682042 \nWhite Top: https://go.shopmy.us/p-76682277 \nPink & Brown Overalls: https://go.shopmy.us/p-76682692 \nBrown Shorts Jumper: https://go.shopmy.us/p-76682559 \nDenim Overalls: https://go.shopmy.us/p-76682366 \nBlue Tee: https://go.shopmy.us/p-76682802 \nShoes: https://go.shopmy.us/p-76682494 \n✶ Auden Lueur Candles: https://www.audenlueur.com/ \n✶ Amazon Store Front: https://www.amazon.com/shop/xomacenna \n✶ TwoPages Curtains (20% OFF code XOMACENNA): https://twopagescurtains.com/WR11FbqMAWLk7x\n✶ Fable Dinnerware (10% OFF code XOMACENNA): https://glnk.io/4y0x/xomacenna\n✶ Our Place Cookware https://glnk.io/r5y0n/xomacenna\n✶ Mom’s Art Shop: https://bit.ly/3kBzy2V \n✶ Print art at The Stackhouse (20% OFF code XOMACENNA): https://thestackhouse.com/XOMACENNA\n\nSome links may be affiliate links!\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nFollow me on:\n✶ Instagram @xomacenna\n✶ Pinterest @xomacenna\n✶ Blog // https://www.xomacenna.com\n✶ TikTok @xomacenna\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n✶ BUSINESS INQUIRIES ONLY: xomacenna@select.co\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n\nLife behind the projects — that’s what you’ll find here on XO MaCenna Vlogs. I’m MaCenna Lee, creator of XO MaCenna and founder of the sustainable candle brand Auden Lueur. This channel is where I share the moments in between big DIY reveals: everyday adventures, travels, vintage treasure hunts, and the behind-the-scenes work of running a creative business.\n\nFTC: This video is not sponsored",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gquG3tWpufA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gquG3tWpufA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gquG3tWpufA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gquG3tWpufA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gquG3tWpufA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XO, MaCenna Vlogs",
+        "tags": [
+          "vlogger",
+          "xo macenna",
+          "macenna diy",
+          "macenna vlogs",
+          "lifestyle vlogger",
+          "day in the life",
+          "mckenna",
+          "kinsley",
+          "romeo and macenna",
+          "romeo",
+          "macenna lee",
+          "xo macenna vlogs"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "DIY tools, home renos, the Cottage & everything in Between *Q&A* | MaCenna Lee",
+          "description": "I can't believe it's August already! This summer has been crazy busy (in a good way) so it's time for a little catch-up! I'm answering your questions .. even the ones that seem like i've been avoiding!\n XO MaCenna Vlogs by MaCenna Lee \n\nTurn on your post notifications so you don't miss any uploads!\n\nWatch the last vlog // https://youtu.be/B8gaVkYo2F0\n\nClick Here To SUBSCRIBE: https://bit.ly/xomacennavlogs-subscribe \nFollow Me on INSTAGRAM: @xomacenna\nMy DIY & HOME DECOR Channel:  @xomacennavlogs \n\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nSHOP\nPicnic table: https://go.shopmy.us/p-76682872 \nBasic White Tee: https://go.shopmy.us/p-76682151 \nWhite Long Sleeve: https://go.shopmy.us/p-76682042 \nWhite Top: https://go.shopmy.us/p-76682277 \nPink & Brown Overalls: https://go.shopmy.us/p-76682692 \nBrown Shorts Jumper: https://go.shopmy.us/p-76682559 \nDenim Overalls: https://go.shopmy.us/p-76682366 \nBlue Tee: https://go.shopmy.us/p-76682802 \nShoes: https://go.shopmy.us/p-76682494 \n✶ Auden Lueur Candles: https://www.audenlueur.com/ \n✶ Amazon Store Front: https://www.amazon.com/shop/xomacenna \n✶ TwoPages Curtains (20% OFF code XOMACENNA): https://twopagescurtains.com/WR11FbqMAWLk7x\n✶ Fable Dinnerware (10% OFF code XOMACENNA): https://glnk.io/4y0x/xomacenna\n✶ Our Place Cookware https://glnk.io/r5y0n/xomacenna\n✶ Mom’s Art Shop: https://bit.ly/3kBzy2V \n✶ Print art at The Stackhouse (20% OFF code XOMACENNA): https://thestackhouse.com/XOMACENNA\n\nSome links may be affiliate links!\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\nFollow me on:\n✶ Instagram @xomacenna\n✶ Pinterest @xomacenna\n✶ Blog // https://www.xomacenna.com\n✶ TikTok @xomacenna\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n✶ BUSINESS INQUIRIES ONLY: xomacenna@select.co\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n\nLife behind the projects — that’s what you’ll find here on XO MaCenna Vlogs. I’m MaCenna Lee, creator of XO MaCenna and founder of the sustainable candle brand Auden Lueur. This channel is where I share the moments in between big DIY reveals: everyday adventures, travels, vintage treasure hunts, and the behind-the-scenes work of running a creative business.\n\nFTC: This video is not sponsored"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT32M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "74245",
+        "likeCount": "5578",
+        "favoriteCount": "0",
+        "commentCount": "252"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U5DIlB_iE1IHkUiQ0FJktRt-ea0",
+      "id": "J7USvi0FCZI",
+      "snippet": {
+        "publishedAt": "2026-08-04T21:47:39Z",
+        "channelId": "UC5Z_NfkksSQl4XmbLa8ZMGQ",
+        "title": "Obsessed with the pajamas 😍 #fypシ #estatesalefinds #yardsalefinds #vintage #cindydionicio #thrift",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J7USvi0FCZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cindy Dionicio🦋",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Obsessed with the pajamas 😍 #fypシ #estatesalefinds #yardsalefinds #vintage #cindydionicio #thrift",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "53508",
+        "likeCount": "5598",
+        "favoriteCount": "0",
+        "commentCount": "51"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1zXfjPqCLnNMpdsHhkEq74OiBbc",
+      "id": "0W4j7bPmJxg",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:30:06Z",
+        "channelId": "UCdqn7pevRdz57Yo8RA95C1w",
+        "title": "Allison’s California Summer! | Small Laude",
+        "description": "#SmallLaude #Vlog #AllisonTakesOver\nHello Guys! “Momma-ger” is handing over the camera! HAHA China doll is taking over the vlog to share a quick peek into her sunny California summer adventures! I will try to convince her to do it monthly. Lol ! Can’t wait for her next vlog!\n\n\nOF COURSE! NO BASHING! IT'S FOR FUN!\n--------------------------------------------------------------------------------------------------\nFOLLOW ME ON SOCIAL MEDIA\nFB: Small Laude\nhttps://www.facebook.com/LaudeSmall\nIG: @smalllaude\nhttp://instagram.com/smalllaude\nTIKTOK: @therealsmalllaude\nhttps://www.tiktok.com/therealsmalllaude\nFOR BUSINESS INQUIRIES\nEmail: marissalaude@gmail.com\n\nSMALL STEPS SKIN:\nFor orders in the Philippines:\nhttps://linktr.ee/smallstepsskin\n\nFor orders in the U.S.: (NEW)\nhttps://ptitue.com\n\nFor orders in DUBAI: (coming soon)\n--------------------------------------------------------------------------------------------------\nVideo Edit by: TJ Leonardo of Savvy Studios PH https://www.facebook.com/getsavvyph\nhttp://instagram.com/thetenderjuicy\nhttp://instagram.com/gerrymfrobinson\n--------------------------------------------------------------------------------------------------\nMUSIC USED:\nMusic by Becku - Neverland\n--------------------------------------------------------------------------------------------------\nThank you guyssss!\n\nSee you next week,\nSmall Laude 💖",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0W4j7bPmJxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0W4j7bPmJxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0W4j7bPmJxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0W4j7bPmJxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0W4j7bPmJxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Small Laude",
+        "tags": [
+          "small laude",
+          "vlogger",
+          "small laude vlog",
+          "lifestyle",
+          "fashion",
+          "luxury",
+          "travel",
+          "daddeh",
+          "alice eduardo",
+          "timothy laude",
+          "pj laude",
+          "allison laude",
+          "michael laude",
+          "philip laude"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Allison’s California Summer! | Small Laude",
+          "description": "#SmallLaude #Vlog #AllisonTakesOver\nHello Guys! “Momma-ger” is handing over the camera! HAHA China doll is taking over the vlog to share a quick peek into her sunny California summer adventures! I will try to convince her to do it monthly. Lol ! Can’t wait for her next vlog!\n\n\nOF COURSE! NO BASHING! IT'S FOR FUN!\n--------------------------------------------------------------------------------------------------\nFOLLOW ME ON SOCIAL MEDIA\nFB: Small Laude\nhttps://www.facebook.com/LaudeSmall\nIG: @smalllaude\nhttp://instagram.com/smalllaude\nTIKTOK: @therealsmalllaude\nhttps://www.tiktok.com/therealsmalllaude\nFOR BUSINESS INQUIRIES\nEmail: marissalaude@gmail.com\n\nSMALL STEPS SKIN:\nFor orders in the Philippines:\nhttps://linktr.ee/smallstepsskin\n\nFor orders in the U.S.: (NEW)\nhttps://ptitue.com\n\nFor orders in DUBAI: (coming soon)\n--------------------------------------------------------------------------------------------------\nVideo Edit by: TJ Leonardo of Savvy Studios PH https://www.facebook.com/getsavvyph\nhttp://instagram.com/thetenderjuicy\nhttp://instagram.com/gerrymfrobinson\n--------------------------------------------------------------------------------------------------\nMUSIC USED:\nMusic by Becku - Neverland\n--------------------------------------------------------------------------------------------------\nThank you guyssss!\n\nSee you next week,\nSmall Laude 💖"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT26M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "292768",
+        "likeCount": "5499",
+        "favoriteCount": "0",
+        "commentCount": "198"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3niFNHDvShuG6i_stz30TXB2t1s",
+      "id": "trw32kbqeOI",
+      "snippet": {
+        "publishedAt": "2026-08-07T19:47:56Z",
+        "channelId": "UCZym84-cGUKAf1T2isIIXvw",
+        "title": "being brave for my family",
+        "description": "Get 60% off The Farmer’s Dog real, fresh dog food: https://thefarmersdog.yt.link/ppc6Ahu Plus, you get FREE shipping and 24/7 customer support! #TFDpartner\n\r\n\nINSTAGRAM: http://instagram.com/kelseykreppel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/trw32kbqeOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/trw32kbqeOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/trw32kbqeOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/trw32kbqeOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/trw32kbqeOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kelsey Kreppel",
+        "tags": [
+          "kelsey kreppel",
+          "cody ko",
+          "comedy",
+          "commentary",
+          "roast",
+          "cody ko and kelsey",
+          "kelsey and cody",
+          "met gala",
+          "fashion review",
+          "girl talk",
+          "codyko",
+          "dinner with kelsey",
+          "kelsey kreppel cody",
+          "insane baking",
+          "makeup",
+          "Chrissy teigen"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "being brave for my family",
+          "description": "Get 60% off The Farmer’s Dog real, fresh dog food: https://thefarmersdog.yt.link/ppc6Ahu Plus, you get FREE shipping and 24/7 customer support! #TFDpartner\n\r\n\nINSTAGRAM: http://instagram.com/kelseykreppel"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "47617",
+        "likeCount": "2244",
+        "favoriteCount": "0",
+        "commentCount": "124"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Kmn0AOGq6fWMgNPJXmXvVYbHuME",
+      "id": "Sqki_tjtIlw",
+      "snippet": {
+        "publishedAt": "2026-08-08T18:19:44Z",
+        "channelId": "UC60Us0r_DkemXWD571PncfA",
+        "title": "Can’t catch a break 😩 + we have some things to tell you",
+        "description": "Download the FREE Upside App here https://yt.link/KJUZYdp and use code Birch10 to get an extra $10 Bonus on your first purchase. Thank you Upside for sponsoring this video!\n\nCome hang out with Marcus and me as we catch you up on everything that’s been going on this week! From a brand new wedding ring 💍 to my unexpected knee problem, a new kitten joining our family 🐱, and plenty more happening behind the scenes.\n\nGrab a coffee and hang out with us for a little life update! ❤️",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sqki_tjtIlw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sqki_tjtIlw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sqki_tjtIlw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sqki_tjtIlw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Meghan Birch",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Can’t catch a break 😩 + we have some things to tell you",
+          "description": "Download the FREE Upside App here https://yt.link/KJUZYdp and use code Birch10 to get an extra $10 Bonus on your first purchase. Thank you Upside for sponsoring this video!\n\nCome hang out with Marcus and me as we catch you up on everything that’s been going on this week! From a brand new wedding ring 💍 to my unexpected knee problem, a new kitten joining our family 🐱, and plenty more happening behind the scenes.\n\nGrab a coffee and hang out with us for a little life update! ❤️"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29856",
+        "likeCount": "2578",
+        "favoriteCount": "0",
+        "commentCount": "282"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vIFImMN7cD32l5xulbb_Hcw36a4",
       "id": "Dl143SDglGM",
       "snippet": {
         "publishedAt": "2026-08-06T15:00:14Z",
@@ -1385,15 +1819,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "37798",
-        "likeCount": "5444",
+        "viewCount": "41001",
+        "likeCount": "5675",
         "favoriteCount": "0",
-        "commentCount": "730"
+        "commentCount": "745"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HG3lNPvcqtVywUL2j_dsIFtGcKc",
+      "etag": "EhAXPpmrAmIBidQNezsKWqKF7J8",
       "id": "0lFS3y2lWMY",
       "snippet": {
         "publishedAt": "2026-08-07T21:13:17Z",
@@ -1447,15 +1881,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "37934",
-        "likeCount": "2777",
+        "viewCount": "61866",
+        "likeCount": "3769",
         "favoriteCount": "0",
-        "commentCount": "425"
+        "commentCount": "566"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gIJ2DqbFZ1mBsiIz7ecsBY1x4m0",
+      "etag": "1XivkdZ0pfre0w5GJCeWnqC0SJ4",
       "id": "moofSD-KtfI",
       "snippet": {
         "publishedAt": "2026-08-02T22:19:26Z",
@@ -1509,15 +1943,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "105493",
-        "likeCount": "9390",
+        "viewCount": "108576",
+        "likeCount": "9528",
         "favoriteCount": "0",
-        "commentCount": "363"
+        "commentCount": "368"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "pghPgGTMsKxB9kj_awQpOc4bI5w",
+      "etag": "u_zwVDGUkUkRRGDeKEL6RhN2lCw",
       "id": "1vEY9R8pnAw",
       "snippet": {
         "publishedAt": "2026-08-05T00:25:21Z",
@@ -1566,157 +2000,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "52682",
-        "likeCount": "3771",
+        "viewCount": "54814",
+        "likeCount": "3838",
         "favoriteCount": "0",
-        "commentCount": "191"
+        "commentCount": "196"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Uf-qhbeZgQN3IHHH1WR1hMQ86Ds",
-      "id": "trw32kbqeOI",
-      "snippet": {
-        "publishedAt": "2026-08-07T19:47:56Z",
-        "channelId": "UCZym84-cGUKAf1T2isIIXvw",
-        "title": "being brave for my family",
-        "description": "Get 60% off The Farmer’s Dog real, fresh dog food: https://thefarmersdog.yt.link/ppc6Ahu Plus, you get FREE shipping and 24/7 customer support! #TFDpartner\n\r\n\nINSTAGRAM: http://instagram.com/kelseykreppel",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/trw32kbqeOI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/trw32kbqeOI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/trw32kbqeOI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/trw32kbqeOI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/trw32kbqeOI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kelsey Kreppel",
-        "tags": [
-          "kelsey kreppel",
-          "cody ko",
-          "comedy",
-          "commentary",
-          "roast",
-          "cody ko and kelsey",
-          "kelsey and cody",
-          "met gala",
-          "fashion review",
-          "girl talk",
-          "codyko",
-          "dinner with kelsey",
-          "kelsey kreppel cody",
-          "insane baking",
-          "makeup",
-          "Chrissy teigen"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "being brave for my family",
-          "description": "Get 60% off The Farmer’s Dog real, fresh dog food: https://thefarmersdog.yt.link/ppc6Ahu Plus, you get FREE shipping and 24/7 customer support! #TFDpartner\n\r\n\nINSTAGRAM: http://instagram.com/kelseykreppel"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT16M19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "27905",
-        "likeCount": "1555",
-        "favoriteCount": "0",
-        "commentCount": "103"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-Pedlouc6fnZufIlMmVC1xJVnM4",
-      "id": "WEqTZdsjLik",
-      "snippet": {
-        "publishedAt": "2026-08-03T16:00:10Z",
-        "channelId": "UCqZDrYZzMKawDbxV-SiMLAQ",
-        "title": "Searching For The Best Egg Tart in Lisbon",
-        "description": "Pastel de Nata (known as egg tarts in the states) is a popular Portuguese pastry that can be found in just about every corner in Lisbon so of course I had to do some research in search of the best! Honestly they’re all delicious (well, most of them), and I think it comes down to preference of how you like your custard and how crunchy and caramelized you like it. They’re so accessible and easy to eat so I highly recommend doing the same when you’re in Portugal :)\n\n📍 Lisbon, Portugal\n\nFollow for more food adventures:\nShopMy: https://shopmy.us/kaitlynlavery\nInstagram: https://www.instagram.com/kaitlynlavery\nTikTok: https://www.tiktok.com/@kaitlyneats\nSubstack: https://substack.com/@kaitlynlavery\nBeli: https://beliapp.co/lists/kaitlyneats\nLTK: https://www.shopltk.com/explore/Kaitlynlavery\nAmazon Storefront: https://www.amazon.com/shop/kaitlyneats_\n\n#pastry #eggtart #lisbon #bakery",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WEqTZdsjLik/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WEqTZdsjLik/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WEqTZdsjLik/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WEqTZdsjLik/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WEqTZdsjLik/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kaitlyn Lavery",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Searching For The Best Egg Tart in Lisbon",
-          "description": "Pastel de Nata (known as egg tarts in the states) is a popular Portuguese pastry that can be found in just about every corner in Lisbon so of course I had to do some research in search of the best! Honestly they’re all delicious (well, most of them), and I think it comes down to preference of how you like your custard and how crunchy and caramelized you like it. They’re so accessible and easy to eat so I highly recommend doing the same when you’re in Portugal :)\n\n📍 Lisbon, Portugal\n\nFollow for more food adventures:\nShopMy: https://shopmy.us/kaitlynlavery\nInstagram: https://www.instagram.com/kaitlynlavery\nTikTok: https://www.tiktok.com/@kaitlyneats\nSubstack: https://substack.com/@kaitlynlavery\nBeli: https://beliapp.co/lists/kaitlyneats\nLTK: https://www.shopltk.com/explore/Kaitlynlavery\nAmazon Storefront: https://www.amazon.com/shop/kaitlyneats_\n\n#pastry #eggtart #lisbon #bakery"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "71765",
-        "likeCount": "4874",
-        "favoriteCount": "0",
-        "commentCount": "73"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wJ1QSy-cCQ-UGenOXPLOElauIqc",
+      "etag": "2i103BU6vVp7BGyrqKfx-Ha5Wjo",
       "id": "kGMjEo8PIHY",
       "snippet": {
         "publishedAt": "2026-08-02T21:01:18Z",
@@ -1789,15 +2081,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "98114",
-        "likeCount": "2057",
+        "viewCount": "101448",
+        "likeCount": "2111",
         "favoriteCount": "0",
         "commentCount": "125"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3-n_2loNpp6KaRGnq14dcwuF7sI",
+      "etag": "5UwRuMCiUUyOiobnxgpHZH9eYRc",
       "id": "kJLev52n1LQ",
       "snippet": {
         "publishedAt": "2026-08-07T22:13:01Z",
@@ -1851,15 +2143,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "57062",
-        "likeCount": "4890",
+        "viewCount": "111008",
+        "likeCount": "7902",
         "favoriteCount": "0",
-        "commentCount": "158"
+        "commentCount": "218"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7_yR1g9InLwuAr6dtWQIrkqzcmk",
+      "etag": "VhaC8ZPd7PG2HWkY-koTlzg-SsE",
       "id": "MDLzrh5azv8",
       "snippet": {
         "publishedAt": "2026-08-01T20:54:53Z",
@@ -1908,15 +2200,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "115046",
-        "likeCount": "2414",
+        "viewCount": "118421",
+        "likeCount": "2465",
         "favoriteCount": "0",
         "commentCount": "198"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ng_uL9vU0mjEZqpVfSXdr4u97oc",
+      "etag": "opjx8WjCcHY7B6LNrwafjEBZfuE",
       "id": "fY5oraksiQA",
       "snippet": {
         "publishedAt": "2026-08-06T21:53:39Z",
@@ -1970,15 +2262,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "44562",
-        "likeCount": "1265",
+        "viewCount": "55029",
+        "likeCount": "1469",
         "favoriteCount": "0",
-        "commentCount": "107"
+        "commentCount": "122"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3ovYuu79hEat57NhtnpsP_TsW8A",
+      "etag": "NT-wO7DmyGOvlg9q90hhUt1OHMY",
       "id": "0uE5TDkS8bM",
       "snippet": {
         "publishedAt": "2026-08-01T23:00:14Z",
@@ -2034,15 +2326,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "149885",
-        "likeCount": "3089",
+        "viewCount": "157293",
+        "likeCount": "3167",
         "favoriteCount": "0",
-        "commentCount": "394"
+        "commentCount": "398"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IHRtkwvD3nYQ2IR_O_tg_9W92WM",
+      "etag": "pFzbWcEKhuSVWTXt4ks1DY56Wck",
       "id": "QukIiwCNPrY",
       "snippet": {
         "publishedAt": "2026-08-06T19:33:54Z",
@@ -2130,15 +2422,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "26189",
-        "likeCount": "1601",
+        "viewCount": "29636",
+        "likeCount": "1761",
         "favoriteCount": "0",
-        "commentCount": "283"
+        "commentCount": "296"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-DXSyeZCb5KkIuHOpCz_OPEjz5k",
+      "etag": "5JDouyC8tf-yPezLjNWxcwWmSt4",
       "id": "1Axr4FaXiK0",
       "snippet": {
         "publishedAt": "2026-08-08T00:15:08Z",
@@ -2192,14 +2484,14 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "29591",
+        "viewCount": "41194",
         "favoriteCount": "0",
-        "commentCount": "496"
+        "commentCount": "721"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zHwD639RxD4WlpkHZmLRJgwvQ1Q",
+      "etag": "sY5fAPcxq5JeJ2rvyF1Q6IFCPjQ",
       "id": "hnw6K6-8yHg",
       "snippet": {
         "publishedAt": "2026-08-07T12:30:35Z",
@@ -2253,15 +2545,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "27406",
-        "likeCount": "2270",
+        "viewCount": "34872",
+        "likeCount": "2675",
         "favoriteCount": "0",
-        "commentCount": "132"
+        "commentCount": "156"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "L_ECFMQs2bUz0RvFvyCuP5iB2rc",
+      "etag": "Z8pS1zNSAJ72t3PfdwrnMOj6bpw",
       "id": "6rdrfbL6eE0",
       "snippet": {
         "publishedAt": "2026-08-02T13:00:21Z",
@@ -2351,15 +2643,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "87962",
-        "likeCount": "6597",
+        "viewCount": "90614",
+        "likeCount": "6690",
         "favoriteCount": "0",
-        "commentCount": "1076"
+        "commentCount": "1084"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Hl9yjIGvMoc1KnEvsGq_PzBZfnE",
+      "etag": "o-B9th_LZWSxuTY_2iPFPT_G05s",
       "id": "vbT97v58OJM",
       "snippet": {
         "publishedAt": "2026-08-05T17:36:23Z",
@@ -2431,15 +2723,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "51938",
-        "likeCount": "4176",
+        "viewCount": "57194",
+        "likeCount": "4346",
         "favoriteCount": "0",
-        "commentCount": "120"
+        "commentCount": "141"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "keMfJULfiF4LwLjoZ3HQFHbDHPU",
+      "etag": "Dxwkf-nOk7_QKf4hm7GNPsUta90",
       "id": "PEpo4yCut2E",
       "snippet": {
         "publishedAt": "2026-08-02T13:00:02Z",
@@ -2505,15 +2797,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "263200",
-        "likeCount": "11480",
+        "viewCount": "287935",
+        "likeCount": "11936",
         "favoriteCount": "0",
-        "commentCount": "941"
+        "commentCount": "972"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "e-anmEgfwfYXRKXuczH8YxW7t-A",
+      "etag": "bSRZJyctE5dqycPEBMUYjzTnDgc",
       "id": "nV6XnIP9h38",
       "snippet": {
         "publishedAt": "2026-08-07T19:37:15Z",
@@ -2604,15 +2896,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "49335",
-        "likeCount": "1980",
+        "viewCount": "77747",
+        "likeCount": "2657",
         "favoriteCount": "0",
-        "commentCount": "109"
+        "commentCount": "129"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ebUKh-E7GRGfUGn0rlC3jauXoH8",
+      "etag": "-N8A_E_2jv81QfA1rwv9FhLP_Os",
       "id": "5nbNEEFfQ1I",
       "snippet": {
         "publishedAt": "2026-08-07T01:07:17Z",
@@ -2686,15 +2978,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "105222",
-        "likeCount": "4050",
+        "viewCount": "134366",
+        "likeCount": "4811",
         "favoriteCount": "0",
-        "commentCount": "99"
+        "commentCount": "102"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "usOiZl1gZIemk1NrNU9h1MUTGhA",
+      "etag": "NlvoAp7dRl2NbFlSujcRJnptf4I",
       "id": "vLXkgvTcUi4",
       "snippet": {
         "publishedAt": "2026-08-06T01:40:50Z",
@@ -2754,21 +3046,83 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "33434",
-        "likeCount": "1033",
+        "viewCount": "37284",
+        "likeCount": "1097",
         "favoriteCount": "0",
-        "commentCount": "54"
+        "commentCount": "58"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "7IpWWiXM_iQndK3RwcH6IVkfUUM",
+      "etag": "-_9BxN4QRpPSbYSFsvuIGR0aBTA",
+      "id": "UJXojc4wku0",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:28:54Z",
+        "channelId": "UCBj244LMgn9I1JfPNeLMyew",
+        "title": "i'm back and these are the best books i've read so far this year",
+        "description": "six six-star reads for twenty twenty six!!!! [ad] head to http://squarespace.com/jackedwards to save 10% off your first purchase of a website or domain using code JACKEDWARDS\n\nmy book club instagram!!!! https://www.instagram.com/___inklings___/?hl=en\nbook club group chat!!!! https://fable.sng.link/Ali7l/5kmb/rnxe (fable)\n\nlinks:\n📚 second channel: https://youtu.be/hUAvNjS3vsw\n💬  join my close friends group chat: https://ig.me/j/AbYJiZjwhG6WakBT/\n💻  contact: jackedwardsteam@unitedtalent.com\n\nsocial media:\n📕  instagram: https://www.instagram.com/jackbenedwards \n📙  tiktok: https://www.tiktok.com/@jack_edwards\n📒  twitter: http://www.twitter.com/jackbenedwards \n📗  spotify: https://open.spotify.com/user/jackbenedwards\n📘  goodreads: https://www.goodreads.com/author/show/20013214.Jack_Edwards\n\nsub count:\n📊  1,684,165",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJXojc4wku0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJXojc4wku0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJXojc4wku0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UJXojc4wku0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UJXojc4wku0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jack Edwards",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "i'm back and these are the best books i've read so far this year",
+          "description": "six six-star reads for twenty twenty six!!!! [ad] head to http://squarespace.com/jackedwards to save 10% off your first purchase of a website or domain using code JACKEDWARDS\n\nmy book club instagram!!!! https://www.instagram.com/___inklings___/?hl=en\nbook club group chat!!!! https://fable.sng.link/Ali7l/5kmb/rnxe (fable)\n\nlinks:\n📚 second channel: https://youtu.be/hUAvNjS3vsw\n💬  join my close friends group chat: https://ig.me/j/AbYJiZjwhG6WakBT/\n💻  contact: jackedwardsteam@unitedtalent.com\n\nsocial media:\n📕  instagram: https://www.instagram.com/jackbenedwards \n📙  tiktok: https://www.tiktok.com/@jack_edwards\n📒  twitter: http://www.twitter.com/jackbenedwards \n📗  spotify: https://open.spotify.com/user/jackbenedwards\n📘  goodreads: https://www.goodreads.com/author/show/20013214.Jack_Edwards\n\nsub count:\n📊  1,684,165"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT31M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "68322",
+        "likeCount": "4889",
+        "favoriteCount": "0",
+        "commentCount": "281"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "elwiu_Udj2F3m4WSkSRXbA0SbPE",
       "id": "IAqhZEQhSy8",
       "snippet": {
         "publishedAt": "2026-08-07T21:00:06Z",
         "channelId": "UCzkdyqNEPDzoiaCXwQQxdWw",
         "title": "SALIR DE CUBA: mi prima cuenta toda la verdad de cómo llegó a España 🇨🇺🇪🇸",
-        "description": "Canal de youtube de mi prima: https://youtube.com/@anailymartin?si=g4ncuuJzdyAZ5jh7\n\n\nMi prima ya está en España 🇪🇸❤️ Después de ir a buscarla a Francia, hoy por fin podemos sentarnos a contar toda su historia: cómo salió de Cuba, cómo era realmente su vida allí y todo lo que tuvo que vivir hasta llegar hasta aquí.\n\nEn este vlog hablamos sin filtros sobre Cuba, emigrar, dejar atrás tu vida y empezar completamente de cero en otro país. Además, os enseñamos un poquito de sus primeros días en España, cómo se está acomodando en casa y cómo comienza esta nueva etapa junto a nosotros.\n\nPara los que visteis el vídeo anterior en el que viajé a Francia a buscarla: esta es la continuación. 🥹\n\nDinamitas, quiero leeros: ¿qué parte de su historia os sorprendió más?\n\nSuscríbete para acompañarnos en esta nueva etapa ❤️\n\n#Cuba #CubanosEnEspaña #EmigrarAEspaña #VlogFamiliar #DinaStars",
+        "description": "Canal de youtube de mi prima: https://youtube.com/@AnailyMartín?si=g4ncuuJzdyAZ5jh7\n\n\nMi prima ya está en España 🇪🇸❤️ Después de ir a buscarla a Francia, hoy por fin podemos sentarnos a contar toda su historia: cómo salió de Cuba, cómo era realmente su vida allí y todo lo que tuvo que vivir hasta llegar hasta aquí.\n\nEn este vlog hablamos sin filtros sobre Cuba, emigrar, dejar atrás tu vida y empezar completamente de cero en otro país. Además, os enseñamos un poquito de sus primeros días en España, cómo se está acomodando en casa y cómo comienza esta nueva etapa junto a nosotros.\n\nPara los que visteis el vídeo anterior en el que viajé a Francia a buscarla: esta es la continuación. 🥹\n\nDinamitas, quiero leeros: ¿qué parte de su historia os sorprendió más?\n\nSuscríbete para acompañarnos en esta nueva etapa ❤️\n\n#Cuba #CubanosEnEspaña #EmigrarAEspaña #VlogFamiliar #DinaStars",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/IAqhZEQhSy8/default.jpg",
@@ -2824,7 +3178,7 @@
         "defaultLanguage": "es",
         "localized": {
           "title": "SALIR DE CUBA: mi prima cuenta toda la verdad de cómo llegó a España 🇨🇺🇪🇸",
-          "description": "Canal de youtube de mi prima: https://youtube.com/@anailymartin?si=g4ncuuJzdyAZ5jh7\n\n\nMi prima ya está en España 🇪🇸❤️ Después de ir a buscarla a Francia, hoy por fin podemos sentarnos a contar toda su historia: cómo salió de Cuba, cómo era realmente su vida allí y todo lo que tuvo que vivir hasta llegar hasta aquí.\n\nEn este vlog hablamos sin filtros sobre Cuba, emigrar, dejar atrás tu vida y empezar completamente de cero en otro país. Además, os enseñamos un poquito de sus primeros días en España, cómo se está acomodando en casa y cómo comienza esta nueva etapa junto a nosotros.\n\nPara los que visteis el vídeo anterior en el que viajé a Francia a buscarla: esta es la continuación. 🥹\n\nDinamitas, quiero leeros: ¿qué parte de su historia os sorprendió más?\n\nSuscríbete para acompañarnos en esta nueva etapa ❤️\n\n#Cuba #CubanosEnEspaña #EmigrarAEspaña #VlogFamiliar #DinaStars"
+          "description": "Canal de youtube de mi prima: https://youtube.com/@AnailyMartín?si=g4ncuuJzdyAZ5jh7\n\n\nMi prima ya está en España 🇪🇸❤️ Después de ir a buscarla a Francia, hoy por fin podemos sentarnos a contar toda su historia: cómo salió de Cuba, cómo era realmente su vida allí y todo lo que tuvo que vivir hasta llegar hasta aquí.\n\nEn este vlog hablamos sin filtros sobre Cuba, emigrar, dejar atrás tu vida y empezar completamente de cero en otro país. Además, os enseñamos un poquito de sus primeros días en España, cómo se está acomodando en casa y cómo comienza esta nueva etapa junto a nosotros.\n\nPara los que visteis el vídeo anterior en el que viajé a Francia a buscarla: esta es la continuación. 🥹\n\nDinamitas, quiero leeros: ¿qué parte de su historia os sorprendió más?\n\nSuscríbete para acompañarnos en esta nueva etapa ❤️\n\n#Cuba #CubanosEnEspaña #EmigrarAEspaña #VlogFamiliar #DinaStars"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2838,15 +3192,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "26831",
-        "likeCount": "2551",
+        "viewCount": "38695",
+        "likeCount": "3146",
         "favoriteCount": "0",
-        "commentCount": "204"
+        "commentCount": "256"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4QTCaR8o8tT4kys63zEF7KRoVJE",
+      "etag": "ezWaiPWcBGTUJLcKGwLQoqadSMo",
       "id": "1C0kpOR8sZw",
       "snippet": {
         "publishedAt": "2026-08-04T21:40:05Z",
@@ -2921,15 +3275,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "38149",
-        "likeCount": "2117",
+        "viewCount": "39541",
+        "likeCount": "2159",
         "favoriteCount": "0",
         "commentCount": "92"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_YgBXF_wuyHeYmZ6Doo42aUo38o",
+      "etag": "TrgiXje_zUrArBi8IHjqPA5rkTw",
       "id": "6Y1k6FMrNTc",
       "snippet": {
         "publishedAt": "2026-08-04T20:00:04Z",
@@ -2990,15 +3344,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "26500",
-        "likeCount": "3002",
+        "viewCount": "27390",
+        "likeCount": "3065",
         "favoriteCount": "0",
-        "commentCount": "304"
+        "commentCount": "311"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8BTITqFWx69nfEUAPZsZv42XeYE",
+      "etag": "vnxRUayKLbOFjdM5fyRQBqw8Sdg",
       "id": "RpOoH3O4zgA",
       "snippet": {
         "publishedAt": "2026-08-02T14:00:09Z",
@@ -3078,15 +3432,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "66548",
-        "likeCount": "9488",
+        "viewCount": "67780",
+        "likeCount": "9589",
         "favoriteCount": "0",
-        "commentCount": "626"
+        "commentCount": "631"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OPSr4lZZoWTlJtUeECvKcpqRgOU",
+      "etag": "TTgu8-1rSdIjVnd4SAB7fr_mlWk",
       "id": "lubxURpkzOg",
       "snippet": {
         "publishedAt": "2026-08-02T14:00:33Z",
@@ -3159,93 +3513,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "42623",
-        "likeCount": "4414",
+        "viewCount": "44054",
+        "likeCount": "4466",
         "favoriteCount": "0",
-        "commentCount": "322"
+        "commentCount": "325"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OsM_v7PeohyFwNOZODhFH4ai0cY",
-      "id": "Cx16_sj4uOc",
-      "snippet": {
-        "publishedAt": "2026-08-01T00:22:34Z",
-        "channelId": "UCkd3JAKRLQ-Bo7uxJDazu2Q",
-        "title": "DID I MOVE? FALL CAMP BASKET + NEW HAIRSTYLIST + TRYING AFRICAN FOOD+ COOKING + MORE !",
-        "description": "SHOP https://www.surgebynique.com/ \nSUBSCRIBE TO MY PATREON patreon.com/LifeAsNique\n\nSUBSCRIBE TO KAISER'S CHANNEL \nhttps://www.youtube.com/@kaisersworld6256\n\n\nSHOP https://www.excusemybeautyco.com/ \nSUBSCRIBE \nCOMMENT ❤️\nSocial media : \ntiktok: https://www.tiktok.com/@_excuse_my_beauty1?language=en&sec_uid=MS4wLjABAAAARXLF7UEWi0aUxXvm4hgksVVpAgTJdihqnhzq10mvyEXWe8t2KPpXS-8FAAaFUKtH&u_code=d8lee5500akm14&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6748404301422789637&tt_from=copy&utm_source=copy&source=h5_m\nInstagram- @niquee\nTwitter-Reallnique\nSnapchat- niqueee2\n Email: antoniqua.b@gmail.com\nhttps://www.youtube.com/channel/UCHLqAp-tfotbXc-hdJOlOmg\nSUBSCRIBE TO MY MOM’S CHANNEL: https://www.youtube.com/channel/UCSld6h7JRFqbdRvpmF028OA\nSUBSCRIBE TO KOBY'S CHANNEL:\nhttps://www.youtube.com/channel/UCMAcSdGMcg0URUP8Dg4px3Q/videos?view_as=subscriber\nInstagram: https://www.instagram.com/reallykoby/...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Cx16_sj4uOc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Cx16_sj4uOc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cx16_sj4uOc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Cx16_sj4uOc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Cx16_sj4uOc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Life As Nique",
-        "tags": [
-          "nique",
-          "vlogs",
-          "beauty",
-          "excuse my beauty",
-          "excuse",
-          "my",
-          "makeup",
-          "hair",
-          "natural",
-          "life as nique",
-          "life",
-          "daily vlogs",
-          "skin care",
-          "day in my life",
-          "routine"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "DID I MOVE? FALL CAMP BASKET + NEW HAIRSTYLIST + TRYING AFRICAN FOOD+ COOKING + MORE !",
-          "description": "SHOP https://www.surgebynique.com/ \nSUBSCRIBE TO MY PATREON patreon.com/LifeAsNique\n\nSUBSCRIBE TO KAISER'S CHANNEL \nhttps://www.youtube.com/@kaisersworld6256\n\n\nSHOP https://www.excusemybeautyco.com/ \nSUBSCRIBE \nCOMMENT ❤️\nSocial media : \ntiktok: https://www.tiktok.com/@_excuse_my_beauty1?language=en&sec_uid=MS4wLjABAAAARXLF7UEWi0aUxXvm4hgksVVpAgTJdihqnhzq10mvyEXWe8t2KPpXS-8FAAaFUKtH&u_code=d8lee5500akm14&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6748404301422789637&tt_from=copy&utm_source=copy&source=h5_m\nInstagram- @niquee\nTwitter-Reallnique\nSnapchat- niqueee2\n Email: antoniqua.b@gmail.com\nhttps://www.youtube.com/channel/UCHLqAp-tfotbXc-hdJOlOmg\nSUBSCRIBE TO MY MOM’S CHANNEL: https://www.youtube.com/channel/UCSld6h7JRFqbdRvpmF028OA\nSUBSCRIBE TO KOBY'S CHANNEL:\nhttps://www.youtube.com/channel/UCMAcSdGMcg0URUP8Dg4px3Q/videos?view_as=subscriber\nInstagram: https://www.instagram.com/reallykoby/..."
-        }
-      },
-      "contentDetails": {
-        "duration": "PT36M25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "75614",
-        "likeCount": "3373",
-        "favoriteCount": "0",
-        "commentCount": "517"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "KNEt2qQFYa5VESqwfEVfr3SQWV8",
+      "etag": "_t5ENPuuB_uK2Nfa8HjxhP1Xhe8",
       "id": "hpHeRUrEqVA",
       "snippet": {
         "publishedAt": "2026-08-02T16:00:22Z",
@@ -3299,15 +3575,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "38276",
-        "likeCount": "3844",
+        "viewCount": "39102",
+        "likeCount": "3894",
         "favoriteCount": "0",
-        "commentCount": "572"
+        "commentCount": "577"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OQ1CUlz4B_vKtkO3ds277vRj84U",
+      "etag": "2lPLKT4mDsLgbj4RWGB83cOgrjM",
       "id": "g0G-W8EHKPs",
       "snippet": {
         "publishedAt": "2026-08-04T20:00:36Z",
@@ -3361,292 +3637,16 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "52856",
-        "likeCount": "7432",
+        "viewCount": "54425",
+        "likeCount": "7580",
         "favoriteCount": "0",
         "commentCount": "37"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "X_AfO75QNp9YI_G2Zj2LSFG4mBw",
-      "id": "L8Dn9WcpbDg",
-      "snippet": {
-        "publishedAt": "2026-08-05T18:30:00Z",
-        "channelId": "UCLQWhXC5aOZ_tQNloBg40BA",
-        "title": "Inside Our Cosy Victorian Home in England Created by Two Germans 🇬🇧🇩🇪",
-        "description": "Welcome inside the Victorian home in England created by two Germans. Over the past 7 years, we've filled our Victorian terrace with colour, character and traditional English interiors. \nIf you love English interiors, Victorian homes and quirkiness, we hope you'll enjoy looking around. Kirsten & Joerg\n\n_____\n\nCONTENTS OF THIS VIDEO:\n\n0:00 - Intro\n0:35 - Our Victorian Terrace hallway\n03:24 Our very yellow dining room\n08:30 Our cosy snug\n12:52 Our deVOL kitchen\n18:01 Adding an antique print to the kitchen\n19:49 Adding something to our gallery wall in the landing\n23:14 Making a German red wine cake & the result in the landing\n25:11 The cake and we are very German when it comes to owning a house\n\n_____\n\nWALLPAPER & COLOUR IN HALLWAY & LANDING:\n\nWILLIAM MORRIS 'WILLOW BOUGHS' WALLPAPER: https://www.janeclayton.com/uk/morris-co-willow-boughs-wallpaper-blue-216807/?tm=tt&ap=gads&aaid=adaEG1My71nJr&gad_source=1&gad_campaignid=22637153451&gbraid=0AAAAADrh9UIoxxXoBd8_Ix4Ne_PPG8Riy&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8nJm6UHT6tHkELm8pp3G79Haz6GxbNYsn3eplgD5ENbgd_RGh6ZqYAaAvjpEALw_wcB\n\nFARROW & BALL 'SULKING ROOM PINK': https://www.farrow-ball.com/paint/sulking-room-pink?gad_source=1&gad_campaignid=23123013791&gbraid=0AAAAAD8CEhDKL6WuQMWtFWVzTrlvcGJJS&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8lOrKcsKioIeSh7oA10Mo_NcInPbPe3gqQr9dKTQcbpJb-brgt7aeEaAhxYEALw_wcB\n\nROGER OATES STAIR RUNNER: https://www.rogeroates.com/product-category/stair-runners/\n\nEDWARD BULMER 'LILAC PINK': https://www.edwardbulmerpaint.co.uk/product/natural-paint/lilac-pink/?srsltid=AfmBOorEeeOX3P34ecVApkismWiYuAH_gatCWdsB_IpCkm3GhW4maphU\n\n\nDINING ROOM: \n\nPAINT & PAPER LIBRARY 'CHINESE EMPEROR': https://paintandpapers.com/products/paintandpaperlibrary-chinese-emperor?currency=GBP&variant=57575453294979&gad_source=1&gad_campaignid=23772367418&gbraid=0AAAAA_27W7-Cuai14RN6lpnmhaGfOHfr9&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8l6RxdnjHRSOpJNo-BjjtTLG8NioNPlV059WvMvR4PliQVfoxrLxdQaAkaTEALw_wcB\n\nFARROW & BALL 'POINTING': https://www.farrow-ball.com/paint/pointing\n\nLINWOOD 'THE ENGLISH GARDEN - HESTER' FABRIC: https://linwoodfabric.com/products/hester-pink-green\n\n\nSNUG:\n\nEDWARD BULMER 'POMONA': https://www.edwardbulmerpaint.co.uk/product/natural-paint/pomona/?srsltid=AfmBOoqILziSu_FLmia2QN-ikxcTZCnf5fXRmgG66JOVO1faFmORoEk9\n\n\nKITCHEN:\n\nEDWARD BULMER 'CUISSE DE NYMPHE EMUE': https://www.edwardbulmerpaint.co.uk/product/natural-paint/cuisse-de-nymphe-emue/?srsltid=AfmBOopxr-9XSyfsXxXFEzMqKBapiLuB9fu8h5Hjjuk1JIWH6I6Y1LBF\n\nDEVOL KITCHEN (IN 'CLERKENWELL BLUE' & 'PRINCELET PINK'): https://www.devolkitchens.co.uk\n\nDECORUM TILES: https://decorumtiles.co.uk/collections/cotswold-delft-collection?_su_rec=pIiMtuwm3XdOnaaqhwhZDHVLiRj98vtT7C6HzgT9IUqWgQcquVRMCMYYDg4RxrhJat8LimxzwwXaZM-FMdGcB4WtsSDoDNVa07N5788h7kfLSm13KMgcJSBCh2zAgImCANQsh-TqhFqXYTUjJQ8GAwsex3yi_xnNe5TBL7Fsw7SL1M61dO7LUrv9nZAdHPgJe39uzgeFnjdyQIGwMrG5Bt-7ZweLNrb5TKlMX8-y68xF6_rO8rnGTjE1BPNixgoGIqkKXfrDXqmhqOzsJl7YEV53aEI5YJ-PADWoHa7uaWu-mi0g03dNmCvlvqGZt1nO9Mg&_su_rec_id=117a3d24-27d4-4aed-82f0-d5678bbca906-1785877550\n(HERE'S A LITTLE ARTICLE ABOUT OUR TILES: https://decorumtiles.co.uk/blogs/decorumstudio/delft-with-a-german-twist?srsltid=AfmBOopJUEoHZ_qPCSpsXXI92LtlHL0Dqjylrt-2TRLCOkyvDdLGz06z)\n\nCHARLOTTE GAISFORD FABRICS IN THE UTILITY ROOM: https://charlottegaisford.com/de?srsltid=AfmBOoouGVA7uOrLskySvTqH9Qv6_62ukXy6guhXXDZtx0hbcW9nXrur\n\n_____\n\nRED WINE CAKE RECIPE:\n\nIngredients\n250g butter\n250g sugar (this is the original recipe, we always use a bit less sugar)\n4 eggs\n1 teaspoon vanilla sugar or vanilla extract (I show you how to make vanilla sugar here: https://www.youtube.com/watch?v=-3fttVIy7qo&t=660s at the 2 minute mark)\n2 teaspoons cocoa powder\n1 1/2 teaspoons cinnamon\n250g flour\n1 teaspoon baking powder\n 125 millilitres red wine\npinch of salt\n\nMethod\nBeat the butter until soft, then add the sugar, vanilla sugar and pinch of salt. Add the eggs bit by bit. Mix the flour with the baking powder and slowly add into the mixture. Then add the cocoa powder, cinnamon and red wine. \nPreheat the over to 180 degrees Celsius and grease your mold. Put the batter into the mold and bake the cake for 1 hour. \nAfter baking let the cake cool down and then put some icing sugar on top. Enjoy with a dollop of whipping cream.\n\n_____\n\nWE STARTED A PODCAST CHANNEL ON YOUTUBE: https://www.youtube.com/@UCKPQwBgNtIX9DJcrxEHzQQg \n\n_____\n\nMUSIC:\n\n\nThe music in our videos is from Musicbed, Epidemic Sound & Artlist, royalty free music sharing sites which you have to pay a monthly fee to be able to access: https://www.musicbed.com, https://www.epidemicsound.com/ & https://artlist.io/\n\n_____\n\n\nCONNECT WITH US:\n\nINSTAGRAM: https://www.instagram.com/kirstenandjoerg/\nPINTEREST: https://uk.pinterest.com/kirsten_wick/\nFACEBOOK: https://www.facebook.com/kirstenandjoerg\nTIKTOK: https://www.tiktok.com/@kirstenandjoerg\n\n#victorianhome #englishinteriors #englishhouse #housetouruk",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/L8Dn9WcpbDg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/L8Dn9WcpbDg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/L8Dn9WcpbDg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/L8Dn9WcpbDg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/L8Dn9WcpbDg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Kirsten & Joerg: 2 Germans in Britain",
-        "tags": [
-          "renovating a victorian terraced house",
-          "classic english country style",
-          "english interior",
-          "english cottages",
-          "british interiors",
-          "cottages",
-          "antiques",
-          "traditional design",
-          "victorian home renovation",
-          "interior design uk",
-          "traditional english design",
-          "living in england",
-          "inside the victorian home in england created by two germans",
-          "william morris",
-          "devol kitchens",
-          "victorian terrace",
-          "english home",
-          "british home",
-          "victorian terraced house",
-          "traditional english home",
-          "colourful home",
-          "english decor"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-GB",
-        "localized": {
-          "title": "Inside Our Cosy Victorian Home in England Created by Two Germans 🇬🇧🇩🇪",
-          "description": "Welcome inside the Victorian home in England created by two Germans. Over the past 7 years, we've filled our Victorian terrace with colour, character and traditional English interiors. \nIf you love English interiors, Victorian homes and quirkiness, we hope you'll enjoy looking around. Kirsten & Joerg\n\n_____\n\nCONTENTS OF THIS VIDEO:\n\n0:00 - Intro\n0:35 - Our Victorian Terrace hallway\n03:24 Our very yellow dining room\n08:30 Our cosy snug\n12:52 Our deVOL kitchen\n18:01 Adding an antique print to the kitchen\n19:49 Adding something to our gallery wall in the landing\n23:14 Making a German red wine cake & the result in the landing\n25:11 The cake and we are very German when it comes to owning a house\n\n_____\n\nWALLPAPER & COLOUR IN HALLWAY & LANDING:\n\nWILLIAM MORRIS 'WILLOW BOUGHS' WALLPAPER: https://www.janeclayton.com/uk/morris-co-willow-boughs-wallpaper-blue-216807/?tm=tt&ap=gads&aaid=adaEG1My71nJr&gad_source=1&gad_campaignid=22637153451&gbraid=0AAAAADrh9UIoxxXoBd8_Ix4Ne_PPG8Riy&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8nJm6UHT6tHkELm8pp3G79Haz6GxbNYsn3eplgD5ENbgd_RGh6ZqYAaAvjpEALw_wcB\n\nFARROW & BALL 'SULKING ROOM PINK': https://www.farrow-ball.com/paint/sulking-room-pink?gad_source=1&gad_campaignid=23123013791&gbraid=0AAAAAD8CEhDKL6WuQMWtFWVzTrlvcGJJS&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8lOrKcsKioIeSh7oA10Mo_NcInPbPe3gqQr9dKTQcbpJb-brgt7aeEaAhxYEALw_wcB\n\nROGER OATES STAIR RUNNER: https://www.rogeroates.com/product-category/stair-runners/\n\nEDWARD BULMER 'LILAC PINK': https://www.edwardbulmerpaint.co.uk/product/natural-paint/lilac-pink/?srsltid=AfmBOorEeeOX3P34ecVApkismWiYuAH_gatCWdsB_IpCkm3GhW4maphU\n\n\nDINING ROOM: \n\nPAINT & PAPER LIBRARY 'CHINESE EMPEROR': https://paintandpapers.com/products/paintandpaperlibrary-chinese-emperor?currency=GBP&variant=57575453294979&gad_source=1&gad_campaignid=23772367418&gbraid=0AAAAA_27W7-Cuai14RN6lpnmhaGfOHfr9&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8l6RxdnjHRSOpJNo-BjjtTLG8NioNPlV059WvMvR4PliQVfoxrLxdQaAkaTEALw_wcB\n\nFARROW & BALL 'POINTING': https://www.farrow-ball.com/paint/pointing\n\nLINWOOD 'THE ENGLISH GARDEN - HESTER' FABRIC: https://linwoodfabric.com/products/hester-pink-green\n\n\nSNUG:\n\nEDWARD BULMER 'POMONA': https://www.edwardbulmerpaint.co.uk/product/natural-paint/pomona/?srsltid=AfmBOoqILziSu_FLmia2QN-ikxcTZCnf5fXRmgG66JOVO1faFmORoEk9\n\n\nKITCHEN:\n\nEDWARD BULMER 'CUISSE DE NYMPHE EMUE': https://www.edwardbulmerpaint.co.uk/product/natural-paint/cuisse-de-nymphe-emue/?srsltid=AfmBOopxr-9XSyfsXxXFEzMqKBapiLuB9fu8h5Hjjuk1JIWH6I6Y1LBF\n\nDEVOL KITCHEN (IN 'CLERKENWELL BLUE' & 'PRINCELET PINK'): https://www.devolkitchens.co.uk\n\nDECORUM TILES: https://decorumtiles.co.uk/collections/cotswold-delft-collection?_su_rec=pIiMtuwm3XdOnaaqhwhZDHVLiRj98vtT7C6HzgT9IUqWgQcquVRMCMYYDg4RxrhJat8LimxzwwXaZM-FMdGcB4WtsSDoDNVa07N5788h7kfLSm13KMgcJSBCh2zAgImCANQsh-TqhFqXYTUjJQ8GAwsex3yi_xnNe5TBL7Fsw7SL1M61dO7LUrv9nZAdHPgJe39uzgeFnjdyQIGwMrG5Bt-7ZweLNrb5TKlMX8-y68xF6_rO8rnGTjE1BPNixgoGIqkKXfrDXqmhqOzsJl7YEV53aEI5YJ-PADWoHa7uaWu-mi0g03dNmCvlvqGZt1nO9Mg&_su_rec_id=117a3d24-27d4-4aed-82f0-d5678bbca906-1785877550\n(HERE'S A LITTLE ARTICLE ABOUT OUR TILES: https://decorumtiles.co.uk/blogs/decorumstudio/delft-with-a-german-twist?srsltid=AfmBOopJUEoHZ_qPCSpsXXI92LtlHL0Dqjylrt-2TRLCOkyvDdLGz06z)\n\nCHARLOTTE GAISFORD FABRICS IN THE UTILITY ROOM: https://charlottegaisford.com/de?srsltid=AfmBOoouGVA7uOrLskySvTqH9Qv6_62ukXy6guhXXDZtx0hbcW9nXrur\n\n_____\n\nRED WINE CAKE RECIPE:\n\nIngredients\n250g butter\n250g sugar (this is the original recipe, we always use a bit less sugar)\n4 eggs\n1 teaspoon vanilla sugar or vanilla extract (I show you how to make vanilla sugar here: https://www.youtube.com/watch?v=-3fttVIy7qo&t=660s at the 2 minute mark)\n2 teaspoons cocoa powder\n1 1/2 teaspoons cinnamon\n250g flour\n1 teaspoon baking powder\n 125 millilitres red wine\npinch of salt\n\nMethod\nBeat the butter until soft, then add the sugar, vanilla sugar and pinch of salt. Add the eggs bit by bit. Mix the flour with the baking powder and slowly add into the mixture. Then add the cocoa powder, cinnamon and red wine. \nPreheat the over to 180 degrees Celsius and grease your mold. Put the batter into the mold and bake the cake for 1 hour. \nAfter baking let the cake cool down and then put some icing sugar on top. Enjoy with a dollop of whipping cream.\n\n_____\n\nWE STARTED A PODCAST CHANNEL ON YOUTUBE: https://www.youtube.com/@UCKPQwBgNtIX9DJcrxEHzQQg \n\n_____\n\nMUSIC:\n\n\nThe music in our videos is from Musicbed, Epidemic Sound & Artlist, royalty free music sharing sites which you have to pay a monthly fee to be able to access: https://www.musicbed.com, https://www.epidemicsound.com/ & https://artlist.io/\n\n_____\n\n\nCONNECT WITH US:\n\nINSTAGRAM: https://www.instagram.com/kirstenandjoerg/\nPINTEREST: https://uk.pinterest.com/kirsten_wick/\nFACEBOOK: https://www.facebook.com/kirstenandjoerg\nTIKTOK: https://www.tiktok.com/@kirstenandjoerg\n\n#victorianhome #englishinteriors #englishhouse #housetouruk"
-        },
-        "defaultAudioLanguage": "en-GB"
-      },
-      "contentDetails": {
-        "duration": "PT29M22S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "84980",
-        "likeCount": "9259",
-        "favoriteCount": "0",
-        "commentCount": "1346"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "lN1zkLs7mOuA5ytj0Xu7MTX2xp8",
-      "id": "XRB5o8UWwhc",
-      "snippet": {
-        "publishedAt": "2026-08-05T02:16:25Z",
-        "channelId": "UCXyRtDXzptYN56-UxNhYAbQ",
-        "title": "🐦\u200d🔥 Do It Alone~The New Chapter",
-        "description": "🧡 Join Patara for another episode from Appalachia's Homestead~\n🇺🇸 See you on the farm! 8~4~2026\n❤️ Jesus Saves!\n\n⬇️ SEE MORE BELOW! ⬇️\n~ Pluck Organ Season: https://amzn.to/4o6e5vD\n~ Ancestral Organ Supplement: https://amzn.to/3ROg5MX\n~ Cosori Air Fryer: https://amzn.to/4enQIu4\n~ Stelo CGM: https://amzn.to/4wWFiEY\n~ Keto-Mojo: https://amzn.to/3ODjJIm~ Ice Roller: https://amzn.to/40RO0Fy\n~ Creatine: https://amzn.to/4qYGBjt\n~ Electrolytes & AA's: https://amzn.to/3ZOmwjH\n~ Blender Shaker: https://amzn.to/3O3CrIg\n~ TL Protein Powder: https://amzn.to/4efm0Uo\n~ CSE Protein Powder: https://amzn.to/4vgS133\n\n🐄 Carnivore Bar & get 10% OFF with code \"PATARA\": https://endlss.io/sl/the-carnivore-bar/pataramarlow\n\n💌 Patara Snail Mail:\n      PO Box 24501\n      Farragut, TN 37933\n\n📧 Appalachiashomesteadwithpatara@outlook.com\n\n🧡 All music by Epidemic Sound",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XRB5o8UWwhc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XRB5o8UWwhc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XRB5o8UWwhc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XRB5o8UWwhc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XRB5o8UWwhc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Appalachia's Homestead with Patara",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "🐦\u200d🔥 Do It Alone~The New Chapter",
-          "description": "🧡 Join Patara for another episode from Appalachia's Homestead~\n🇺🇸 See you on the farm! 8~4~2026\n❤️ Jesus Saves!\n\n⬇️ SEE MORE BELOW! ⬇️\n~ Pluck Organ Season: https://amzn.to/4o6e5vD\n~ Ancestral Organ Supplement: https://amzn.to/3ROg5MX\n~ Cosori Air Fryer: https://amzn.to/4enQIu4\n~ Stelo CGM: https://amzn.to/4wWFiEY\n~ Keto-Mojo: https://amzn.to/3ODjJIm~ Ice Roller: https://amzn.to/40RO0Fy\n~ Creatine: https://amzn.to/4qYGBjt\n~ Electrolytes & AA's: https://amzn.to/3ZOmwjH\n~ Blender Shaker: https://amzn.to/3O3CrIg\n~ TL Protein Powder: https://amzn.to/4efm0Uo\n~ CSE Protein Powder: https://amzn.to/4vgS133\n\n🐄 Carnivore Bar & get 10% OFF with code \"PATARA\": https://endlss.io/sl/the-carnivore-bar/pataramarlow\n\n💌 Patara Snail Mail:\n      PO Box 24501\n      Farragut, TN 37933\n\n📧 Appalachiashomesteadwithpatara@outlook.com\n\n🧡 All music by Epidemic Sound"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT19M37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "30058",
-        "likeCount": "2852",
-        "favoriteCount": "0",
-        "commentCount": "211"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Rl5lRNGoI9nqJi11mMoz4OzR_lw",
-      "id": "k_fe-HDgm1Y",
-      "snippet": {
-        "publishedAt": "2026-08-06T21:00:12Z",
-        "channelId": "UC7vIOz8GxtcbAWbjgdDflyg",
-        "title": "Nos vamos de San Salvador despues de vivir 6 meses en la CAPITAL. A donde iremos?🇸🇻😱",
-        "description": "GRACIAS POR VER Y BANCARME ❤️\nNO OLVIDES SUSCRIBIRTE Y ACTIVAR LA 🔔\n-\n-\nSi queres colaborar con canal te dejo mi PAYPAL\nhttps://www.paypal.me/Lascalonetacocinarg\n-\n-\nMIS REDES SOCIALES SON📲📲\n\nINSTAGRAM ⚡️ \nhttps://www.instagram.com/lagabyvlogs_?igsh=MXV3M2ZzeWs4NXhqeA==\n\nTIKTOK⚡️\nhttps://www.tiktok.com/@lagabyvlogs?_t=ZM-8tJ5Gia82Ss&_r=1\n\nFACEBOOK ♥️ \nhttps://www.facebook.com/share/19KtHKScHy/\n\nDE 🇦🇷 PARA EL 🌎",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/k_fe-HDgm1Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/k_fe-HDgm1Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/k_fe-HDgm1Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/k_fe-HDgm1Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/k_fe-HDgm1Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "La Gaby Vlogs ",
-        "categoryId": "19",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "es",
-        "localized": {
-          "title": "Nos vamos de San Salvador despues de vivir 6 meses en la CAPITAL. A donde iremos?🇸🇻😱",
-          "description": "GRACIAS POR VER Y BANCARME ❤️\nNO OLVIDES SUSCRIBIRTE Y ACTIVAR LA 🔔\n-\n-\nSi queres colaborar con canal te dejo mi PAYPAL\nhttps://www.paypal.me/Lascalonetacocinarg\n-\n-\nMIS REDES SOCIALES SON📲📲\n\nINSTAGRAM ⚡️ \nhttps://www.instagram.com/lagabyvlogs_?igsh=MXV3M2ZzeWs4NXhqeA==\n\nTIKTOK⚡️\nhttps://www.tiktok.com/@lagabyvlogs?_t=ZM-8tJ5Gia82Ss&_r=1\n\nFACEBOOK ♥️ \nhttps://www.facebook.com/share/19KtHKScHy/\n\nDE 🇦🇷 PARA EL 🌎"
-        },
-        "defaultAudioLanguage": "es-419"
-      },
-      "contentDetails": {
-        "duration": "PT25M35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "28318",
-        "likeCount": "3221",
-        "favoriteCount": "0",
-        "commentCount": "390"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "W4eg8yPYasaM_8JLFrR0MxBVXFE",
-      "id": "UqYDu0XWbDQ",
-      "snippet": {
-        "publishedAt": "2026-08-04T15:00:33Z",
-        "channelId": "UCVh3LI2S_lk8_TkD96zBKsg",
-        "title": "My New House Has the Most Incredible Backyard!",
-        "description": "Get your free LMNT sample pack with any purchase here: https://DrinkLMNT.com/KetoTwins \nMake sure to check out LMNT's newest flavor - Lemonade Iced Tea. Its perfect for summer!\nThanks to LMNT for sponsoring this video! Sponsors help keep our channel going!\n\nOur Favorite Products: Affiliate Links \nOur Functional Coffee Ritual: https://EveryDayDose.com/KetoTwins (click for coupon)\nLower Carb Ramen (we love it in any low carb pasta dish!)  - https://collabs.shop/y98kfu CODE: KETOTWINS15  to get 15% off -this ramen has 18g net carbs (compared to 54g)\nBest Electrolytes: https://DrinkLMNT.com/KetoTwins (get a free sample pack with any purchase!)\nLooking for crazy Keto deals? Try Martie! They have new items everyday at closeout prices!\nhttps://martie.pxf.io/e1ZxZ1 New customers get $10 to shop! (We are obsessed!)\nOur NEW Favorite Protein Flour (it sells out often, the 5 lb bag is great if you can grab it!)\nhttps://bakerbakingcompany.com/?ref=ketotwins code ketotwins for 10% off!\nOur favorite low net carb bread products: https://hero-bread.sjv.io/anj7qb\nVisit our Amazon Storefront to see our favs!: https://amzlink.to/az0sZyBZeDQ7N \n\nSign up for our Free Keto Twins Newsletter! https://ketotwins.kit.com/b32965d825\nWe are filming what we eat and more casual content for instagram! Please follow us https://www.instagram.com/ketotwinsofficial \nHave you always wanted to be a YouTuber but have no idea where to start?\nWe are working on a new project for aspiring creators of all ages! Join the waitlist to be notified when it's ready! Sign up here: https://sendfox.com/lp/1xkpxz\nPlease follow us on our NEW Facebook Page for more casual content: https://bit.ly/emilyandsarah\n\n\nAs an Amazon Associate I earn from qualifying purchases. \n\nJoin our Facebook Keto Support Group:  Keto with the Keto Twins!\nhttps://www.facebook.com/groups/3284628094942951\n\nWelcome to our channel! We call ourselves “Technically Keto” because we live a relaxed keto lifestyle. We don’t demonize ingredients, and we just try to do our best to eat low carb without overthinking it. Some might call it lazy or dirty but we love this lifestyle. If that sounds good to you…welcome to our world! We are not medical professionals. Please consult your doctor to see if a change in diet is right for you.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UqYDu0XWbDQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UqYDu0XWbDQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UqYDu0XWbDQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/UqYDu0XWbDQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/UqYDu0XWbDQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Keto Twins",
-        "tags": [
-          "ketotwins",
-          "keto twins"
-        ],
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "My New House Has the Most Incredible Backyard!",
-          "description": "Get your free LMNT sample pack with any purchase here: https://DrinkLMNT.com/KetoTwins \nMake sure to check out LMNT's newest flavor - Lemonade Iced Tea. Its perfect for summer!\nThanks to LMNT for sponsoring this video! Sponsors help keep our channel going!\n\nOur Favorite Products: Affiliate Links \nOur Functional Coffee Ritual: https://EveryDayDose.com/KetoTwins (click for coupon)\nLower Carb Ramen (we love it in any low carb pasta dish!)  - https://collabs.shop/y98kfu CODE: KETOTWINS15  to get 15% off -this ramen has 18g net carbs (compared to 54g)\nBest Electrolytes: https://DrinkLMNT.com/KetoTwins (get a free sample pack with any purchase!)\nLooking for crazy Keto deals? Try Martie! They have new items everyday at closeout prices!\nhttps://martie.pxf.io/e1ZxZ1 New customers get $10 to shop! (We are obsessed!)\nOur NEW Favorite Protein Flour (it sells out often, the 5 lb bag is great if you can grab it!)\nhttps://bakerbakingcompany.com/?ref=ketotwins code ketotwins for 10% off!\nOur favorite low net carb bread products: https://hero-bread.sjv.io/anj7qb\nVisit our Amazon Storefront to see our favs!: https://amzlink.to/az0sZyBZeDQ7N \n\nSign up for our Free Keto Twins Newsletter! https://ketotwins.kit.com/b32965d825\nWe are filming what we eat and more casual content for instagram! Please follow us https://www.instagram.com/ketotwinsofficial \nHave you always wanted to be a YouTuber but have no idea where to start?\nWe are working on a new project for aspiring creators of all ages! Join the waitlist to be notified when it's ready! Sign up here: https://sendfox.com/lp/1xkpxz\nPlease follow us on our NEW Facebook Page for more casual content: https://bit.ly/emilyandsarah\n\n\nAs an Amazon Associate I earn from qualifying purchases. \n\nJoin our Facebook Keto Support Group:  Keto with the Keto Twins!\nhttps://www.facebook.com/groups/3284628094942951\n\nWelcome to our channel! We call ourselves “Technically Keto” because we live a relaxed keto lifestyle. We don’t demonize ingredients, and we just try to do our best to eat low carb without overthinking it. Some might call it lazy or dirty but we love this lifestyle. If that sounds good to you…welcome to our world! We are not medical professionals. Please consult your doctor to see if a change in diet is right for you."
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT14M16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "45054",
-        "likeCount": "5726",
-        "favoriteCount": "0",
-        "commentCount": "637"
       }
     }
   ],
   "nextPageToken": "CDIQAA",
   "pageInfo": {
-    "totalResults": 73,
+    "totalResults": 77,
     "resultsPerPage": 50
   }
 }

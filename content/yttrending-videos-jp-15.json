@@ -1,72 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "rK0xG9m3j9-zy7HxTtfKr1Dk9KQ",
+  "etag": "mjEA75I-XT3i5gV1CcyqKvoo0XE",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "r2thvoDemU2bbngAUjsqeyLSE1A",
-      "id": "v5tAp3xS_R8",
-      "snippet": {
-        "publishedAt": "2026-08-03T09:00:33Z",
-        "channelId": "UCcA4xCNiGz7-yKTHwBT8GBg",
-        "title": "日本語を喋る猫TOP5 🐱🗣️",
-        "description": "#6",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ふぁ? 動物園",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "日本語を喋る猫TOP5 🐱🗣️",
-          "description": "#6"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT32S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3835215",
-        "likeCount": "194116",
-        "favoriteCount": "0",
-        "commentCount": "2049"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "WjexsaJtqFPLjghQRDL61RUgwYo",
+      "etag": "yjJ62l6rzoW1NOOEnxHbz5O0CR0",
       "id": "2M_odlWYB40",
       "snippet": {
         "publishedAt": "2026-08-06T22:00:14Z",
@@ -120,15 +58,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1281643",
-        "likeCount": "13706",
+        "viewCount": "1761945",
+        "likeCount": "17713",
         "favoriteCount": "0",
-        "commentCount": "733"
+        "commentCount": "954"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IRyFAZhg8h3arIxUn19w85yf9Pk",
+      "etag": "q_f4sBrfAJMJeDC0d61mU_c0oag",
+      "id": "v5tAp3xS_R8",
+      "snippet": {
+        "publishedAt": "2026-08-03T09:00:33Z",
+        "channelId": "UCcA4xCNiGz7-yKTHwBT8GBg",
+        "title": "日本語を喋る猫TOP5 🐱🗣️",
+        "description": "#6",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v5tAp3xS_R8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ふぁ? 動物園",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "日本語を喋る猫TOP5 🐱🗣️",
+          "description": "#6"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4331487",
+        "likeCount": "215400",
+        "favoriteCount": "0",
+        "commentCount": "2239"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qmEv2P9owr9Ym3ATi4vHsUNIyNM",
       "id": "4QdBygL89qM",
       "snippet": {
         "publishedAt": "2026-08-05T19:21:08Z",
@@ -182,15 +182,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2082555",
-        "likeCount": "69417",
+        "viewCount": "2730029",
+        "likeCount": "88435",
         "favoriteCount": "0",
-        "commentCount": "848"
+        "commentCount": "1057"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "PTutFnX-fJ7C8pEhf3jWPKANQMs",
+      "etag": "QltcW1cMDQgNFoTIumxWqdhJlEc",
       "id": "d73aeYO4RyY",
       "snippet": {
         "publishedAt": "2026-08-06T03:00:19Z",
@@ -254,15 +254,263 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "918901",
-        "likeCount": "24781",
+        "viewCount": "1329496",
+        "likeCount": "35729",
         "favoriteCount": "0",
-        "commentCount": "454"
+        "commentCount": "633"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ITXVeDiQshpSgd-6WLoJ-k-Fe84",
+      "etag": "G8OQHmgaLEgWeRzxGImlftJWgOo",
+      "id": "K0sEcvTiqcs",
+      "snippet": {
+        "publishedAt": "2026-08-07T06:52:00Z",
+        "channelId": "UCyxqA4wHX9MZv34_0YJL2ig",
+        "title": "世界でバズったウミガメ放流のご法度",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "僕はバズ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界でバズったウミガメ放流のご法度",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1072532",
+        "likeCount": "22887",
+        "favoriteCount": "0",
+        "commentCount": "433"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oGfLKRppKeLLtqeL-od5Nr20WgA",
+      "id": "eWiQNrwNxCk",
+      "snippet": {
+        "publishedAt": "2026-08-07T09:45:36Z",
+        "channelId": "UCrcD_-sIYpq60I5f6GxeOPw",
+        "title": "可愛い！？おもしろ水族館！",
+        "description": "水族館の可愛い生き物達の不思議な動きが面白くてずっと見ていたい！\n超絶可愛い生き物達をご覧あれ！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "笑ンク",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "可愛い！？おもしろ水族館！",
+          "description": "水族館の可愛い生き物達の不思議な動きが面白くてずっと見ていたい！\n超絶可愛い生き物達をご覧あれ！"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1244851",
+        "likeCount": "54095",
+        "favoriteCount": "0",
+        "commentCount": "322"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UDgHzE7sZIPsd6z5QoTDmxPlkro",
+      "id": "jNFleu4DyoE",
+      "snippet": {
+        "publishedAt": "2026-08-08T13:47:43Z",
+        "channelId": "UCDjXp2mwq3fvfRIBlvHuOAw",
+        "title": "牛を初めて見たレトリバーwww",
+        "description": "#犬のいる暮らし",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNFleu4DyoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNFleu4DyoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNFleu4DyoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jNFleu4DyoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jNFleu4DyoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "もふもふ事件簿",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "牛を初めて見たレトリバーwww",
+          "description": "#犬のいる暮らし"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "550948",
+        "likeCount": "21901",
+        "favoriteCount": "0",
+        "commentCount": "260"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Mc7BBy5r9AfQn_1CZZ_YHNs5n04",
+      "id": "IyRMFZUp63E",
+      "snippet": {
+        "publishedAt": "2026-08-08T10:47:43Z",
+        "channelId": "UCH9oscRsKRFmVV2ASa_rVHg",
+        "title": "道路で鳥が倒れていたので…",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "飯島レンジ / Renji Iijima",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "道路で鳥が倒れていたので…",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "699537",
+        "likeCount": "25409",
+        "favoriteCount": "0",
+        "commentCount": "927"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aCjvVznDEqSW72Euhxg9W8WcLJM",
       "id": "wzp3u-jHlbU",
       "snippet": {
         "publishedAt": "2026-08-01T07:00:14Z",
@@ -333,263 +581,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2666023",
-        "likeCount": "34556",
+        "viewCount": "2771426",
+        "likeCount": "36164",
         "favoriteCount": "0",
-        "commentCount": "107"
+        "commentCount": "115"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "LsgVYDE2VJ2ne1wm8dSfU-SwDEY",
-      "id": "K0sEcvTiqcs",
-      "snippet": {
-        "publishedAt": "2026-08-07T06:52:00Z",
-        "channelId": "UCyxqA4wHX9MZv34_0YJL2ig",
-        "title": "世界でバズったウミガメ放流のご法度",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/K0sEcvTiqcs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "僕はバズ",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "世界でバズったウミガメ放流のご法度",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "693884",
-        "likeCount": "15416",
-        "favoriteCount": "0",
-        "commentCount": "315"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tt4Dkr_vtn9_tZYawL2ubvzusHE",
-      "id": "eWiQNrwNxCk",
-      "snippet": {
-        "publishedAt": "2026-08-07T09:45:36Z",
-        "channelId": "UCrcD_-sIYpq60I5f6GxeOPw",
-        "title": "可愛い！？おもしろ水族館！",
-        "description": "水族館の可愛い生き物達の不思議な動きが面白くてずっと見ていたい！\n超絶可愛い生き物達をご覧あれ！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/eWiQNrwNxCk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "笑ンク",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "可愛い！？おもしろ水族館！",
-          "description": "水族館の可愛い生き物達の不思議な動きが面白くてずっと見ていたい！\n超絶可愛い生き物達をご覧あれ！"
-        },
-        "defaultAudioLanguage": "ko"
-      },
-      "contentDetails": {
-        "duration": "PT50S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "878167",
-        "likeCount": "35967",
-        "favoriteCount": "0",
-        "commentCount": "239"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "qlUUs8qIgPDWA0MYBkQ2GKxujbY",
-      "id": "aOdWclJni30",
-      "snippet": {
-        "publishedAt": "2026-08-05T12:00:05Z",
-        "channelId": "UCNwYXdErcxDUZtMxe6e9iNg",
-        "title": "可愛い動物特集！ #レッサーパンダ #柴犬 #動物",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aOdWclJni30/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aOdWclJni30/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aOdWclJni30/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aOdWclJni30/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aOdWclJni30/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ベリメニアニマル",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "可愛い動物特集！ #レッサーパンダ #柴犬 #動物",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1148699",
-        "likeCount": "27567",
-        "favoriteCount": "0",
-        "commentCount": "138"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "0M9FpmiQrG8LwkPhhazDaOlB7j4",
-      "id": "cNkjUW3j44E",
-      "snippet": {
-        "publishedAt": "2026-08-04T07:00:11Z",
-        "channelId": "UCQlzehqgTr0yfzxQZogbbCg",
-        "title": "かわいいフクロウ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "なんか気持ちいい",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "かわいいフクロウ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1407150",
-        "likeCount": "44521",
-        "favoriteCount": "0",
-        "commentCount": "452"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "D5OalYHrwUTcM7UsFhSKNBpQpCc",
+      "etag": "m5ZSZNMhU_VEPOfKDB54NATMR28",
       "id": "2IeJTkPJN1s",
       "snippet": {
         "publishedAt": "2026-08-03T05:29:08Z",
@@ -643,15 +643,201 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1255231",
-        "likeCount": "31365",
+        "viewCount": "1838272",
+        "likeCount": "48000",
         "favoriteCount": "0",
-        "commentCount": "144"
+        "commentCount": "246"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "T_9Xfy83CpuhMkflm9jbN8kdVQM",
+      "etag": "ukBQKQ_eK-5Tn6wQI-k0C3gUG4Q",
+      "id": "cNkjUW3j44E",
+      "snippet": {
+        "publishedAt": "2026-08-04T07:00:11Z",
+        "channelId": "UCQlzehqgTr0yfzxQZogbbCg",
+        "title": "かわいいフクロウ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cNkjUW3j44E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "なんか気持ちいい",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "かわいいフクロウ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1815500",
+        "likeCount": "55283",
+        "favoriteCount": "0",
+        "commentCount": "539"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ggeBNI3SPxRvtqgH06zKpO614m0",
+      "id": "aOdWclJni30",
+      "snippet": {
+        "publishedAt": "2026-08-05T12:00:05Z",
+        "channelId": "UCNwYXdErcxDUZtMxe6e9iNg",
+        "title": "可愛い動物特集！ #レッサーパンダ #柴犬 #動物",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOdWclJni30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOdWclJni30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOdWclJni30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aOdWclJni30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aOdWclJni30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ベリメニアニマル",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "可愛い動物特集！ #レッサーパンダ #柴犬 #動物",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1401761",
+        "likeCount": "33975",
+        "favoriteCount": "0",
+        "commentCount": "153"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hg_DMKbFElawlq2PyBIN6zHOHGE",
+      "id": "VuY-mR4mfYc",
+      "snippet": {
+        "publishedAt": "2026-08-08T15:00:00Z",
+        "channelId": "UC5QiZn-FKGKSTKLWy3eH3kw",
+        "title": "宇宙船がない！困惑する猫",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VuY-mR4mfYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VuY-mR4mfYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuY-mR4mfYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VuY-mR4mfYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VuY-mR4mfYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "モリアーカイブ",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "宇宙船がない！困惑する猫",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "533642",
+        "likeCount": "13932",
+        "favoriteCount": "0",
+        "commentCount": "112"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nWHBaEZE-KcQC-ivSeUBsHiT468",
       "id": "8YNsUWIFmg4",
       "snippet": {
         "publishedAt": "2026-08-01T01:05:35Z",
@@ -704,15 +890,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "37543304",
-        "likeCount": "1005925",
+        "viewCount": "47610903",
+        "likeCount": "1207366",
         "favoriteCount": "0",
-        "commentCount": "14486"
+        "commentCount": "17274"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "RsJibY_Ay2fwJdjKNW85hnzgNdk",
+      "etag": "MXACcqsLh4e6xHGIQAPpGvVL-2I",
       "id": "hrKPqJsCz7o",
       "snippet": {
         "publishedAt": "2026-08-04T13:04:04Z",
@@ -772,206 +958,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1007901",
-        "likeCount": "33169",
+        "viewCount": "1198669",
+        "likeCount": "38488",
         "favoriteCount": "0",
-        "commentCount": "1341"
+        "commentCount": "1487"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "aWuryM95Rr6uEeIb3_ZbbgMFVf8",
-      "id": "vrSvuaU9iPY",
-      "snippet": {
-        "publishedAt": "2026-07-31T08:28:09Z",
-        "channelId": "UClZvMgf99iSgAmdaPAvANYA",
-        "title": "滑り台で慌てて止まった理由",
-        "description": "#3",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vrSvuaU9iPY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vrSvuaU9iPY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vrSvuaU9iPY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vrSvuaU9iPY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vrSvuaU9iPY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "アニマル研究室",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "滑り台で慌てて止まった理由",
-          "description": "#3"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2395934",
-        "likeCount": "52625",
-        "favoriteCount": "0",
-        "commentCount": "346"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6Ami4gsoB0Q1GR9GF7EVK3xURcU",
-      "id": "ZTMax3WxBn0",
-      "snippet": {
-        "publishedAt": "2026-08-03T08:50:21Z",
-        "channelId": "UCBRvO-H5Wn2Doqzn4w_6xIQ",
-        "title": "助けるフリして〇を吸う！サバンナの偽名医 #ほっこりショート #動物 #共生 #雑学",
-        "description": "サイや水牛の寄生虫を食べてくれる優しいドクター鳥、実は傷口を舐めて血を吸うこともあるんですって。いい人だと思ってた友達に、ちょっとだけ裏の顔があった気分です。\n\n#ほっこりショート #動物 #共生 #雑学\n\n引用元：＠Planet Wild Earth ※本動画は引用元動画を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。 ※本動画は引用元の映像を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ほっこりショート",
-        "tags": [
-          "ほっこりショート",
-          "動物",
-          "共生",
-          "雑学"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "助けるフリして〇を吸う！サバンナの偽名医 #ほっこりショート #動物 #共生 #雑学",
-          "description": "サイや水牛の寄生虫を食べてくれる優しいドクター鳥、実は傷口を舐めて血を吸うこともあるんですって。いい人だと思ってた友達に、ちょっとだけ裏の顔があった気分です。\n\n#ほっこりショート #動物 #共生 #雑学\n\n引用元：＠Planet Wild Earth ※本動画は引用元動画を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。 ※本動画は引用元の映像を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT32S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "845493",
-        "likeCount": "59810",
-        "favoriteCount": "0",
-        "commentCount": "530"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Yc0C4zFZogOJvLVxKgLWT8rEIUA",
-      "id": "W5nLs62H31w",
-      "snippet": {
-        "publishedAt": "2026-08-03T02:27:37Z",
-        "channelId": "UC8_vcnMAj1Q89tvaIJzdDUw",
-        "title": "金魚専用ホースが賛否を呼んだ理由",
-        "description": "#6",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/W5nLs62H31w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/W5nLs62H31w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/W5nLs62H31w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/W5nLs62H31w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/W5nLs62H31w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "世界が驚くニッポン",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "金魚専用ホースが賛否を呼んだ理由",
-          "description": "#6"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1447911",
-        "likeCount": "23435",
-        "favoriteCount": "0",
-        "commentCount": "483"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fPP7hj7MnLHDAL-a4Wav1OMuEjY",
+      "etag": "sH_MxKTGJJ3KImVvTMIHDqzh1s8",
       "id": "uEaAHZelGf0",
       "snippet": {
         "publishedAt": "2026-08-06T11:01:57Z",
@@ -1037,59 +1032,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "525372",
-        "likeCount": "10695",
+        "viewCount": "828431",
+        "likeCount": "18012",
         "favoriteCount": "0",
-        "commentCount": "43"
+        "commentCount": "69"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vsmEMTvbkx02rlGXg1L_daUNCHg",
-      "id": "2rKD99W1SnY",
+      "etag": "2vT-jz_udIQnsPbopALoGXzYYQ8",
+      "id": "pTrd5fMYBlw",
       "snippet": {
-        "publishedAt": "2026-07-29T09:45:17Z",
-        "channelId": "UCgkUM6rrLSLEqRLSuUBhSGA",
-        "title": "マンボウが不憫すぎて泣ける..😭#動物 #雑学 #豆知識 #マンボウ",
-        "description": "みんなが知らない動物のくだらない雑学を投稿しています🙄\nコメント・チャンネル登録よろしくお願いします！🙇\u200d♂️🔥🐴\n\nBGM：Escort\n配布：DOVA-SYNDROME\nURL:https://youtu.be/J47fp8dcMZU?si=PB2HIw_q2vRBZR82\n\n【楽曲提供：株式会社Pinguino】",
+        "publishedAt": "2026-08-08T11:28:31Z",
+        "channelId": "UClZvMgf99iSgAmdaPAvANYA",
+        "title": "最後まで飼い主だけを見つめる猫",
+        "description": "#5",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/default.jpg",
+            "url": "https://i.ytimg.com/vi/pTrd5fMYBlw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pTrd5fMYBlw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pTrd5fMYBlw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/pTrd5fMYBlw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pTrd5fMYBlw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "動物ふしぎ発見",
+        "channelTitle": "アニマル研究室",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "マンボウが不憫すぎて泣ける..😭#動物 #雑学 #豆知識 #マンボウ",
-          "description": "みんなが知らない動物のくだらない雑学を投稿しています🙄\nコメント・チャンネル登録よろしくお願いします！🙇\u200d♂️🔥🐴\n\nBGM：Escort\n配布：DOVA-SYNDROME\nURL:https://youtu.be/J47fp8dcMZU?si=PB2HIw_q2vRBZR82\n\n【楽曲提供：株式会社Pinguino】"
-        }
+          "title": "最後まで飼い主だけを見つめる猫",
+          "description": "#5"
+        },
+        "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT1M10S",
+        "duration": "PT21S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1098,15 +1094,269 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3360532",
-        "likeCount": "55099",
+        "viewCount": "470933",
+        "likeCount": "13950",
         "favoriteCount": "0",
-        "commentCount": "1851"
+        "commentCount": "104"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4vpHZXBIS82qoq4mg3rADjSxW8A",
+      "etag": "6BMy4WOCwTbU6MN2Ys1s3nhhCUk",
+      "id": "O-x2TpmHii0",
+      "snippet": {
+        "publishedAt": "2026-08-03T15:30:37Z",
+        "channelId": "UC68AK5t3y5eJbfAh65t5TNw",
+        "title": "Link in my profile to get this product 💌✨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tailored Need",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "この商品のリンクはプロフィールからチェックできます 💌✨",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "35226896",
+        "likeCount": "860357",
+        "favoriteCount": "0",
+        "commentCount": "8868"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "314yTMnZC3Ta6ZoMFCPLVy2Pk30",
+      "id": "ZTMax3WxBn0",
+      "snippet": {
+        "publishedAt": "2026-08-03T08:50:21Z",
+        "channelId": "UCBRvO-H5Wn2Doqzn4w_6xIQ",
+        "title": "助けるフリして〇を吸う！サバンナの偽名医 #ほっこりショート #動物 #共生 #雑学",
+        "description": "サイや水牛の寄生虫を食べてくれる優しいドクター鳥、実は傷口を舐めて血を吸うこともあるんですって。いい人だと思ってた友達に、ちょっとだけ裏の顔があった気分です。\n\n#ほっこりショート #動物 #共生 #雑学\n\n引用元：＠Planet Wild Earth ※本動画は引用元動画を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。 ※本動画は引用元の映像を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZTMax3WxBn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ほっこりショート",
+        "tags": [
+          "ほっこりショート",
+          "動物",
+          "共生",
+          "雑学"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "助けるフリして〇を吸う！サバンナの偽名医 #ほっこりショート #動物 #共生 #雑学",
+          "description": "サイや水牛の寄生虫を食べてくれる優しいドクター鳥、実は傷口を舐めて血を吸うこともあるんですって。いい人だと思ってた友達に、ちょっとだけ裏の顔があった気分です。\n\n#ほっこりショート #動物 #共生 #雑学\n\n引用元：＠Planet Wild Earth ※本動画は引用元動画を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。 ※本動画は引用元の映像を教育・解説目的で引用し、独自の図解アニメーションおよび解説を加えて制作しております。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "937670",
+        "likeCount": "63935",
+        "favoriteCount": "0",
+        "commentCount": "554"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hnww4K7AFADgtQKEQ7MzX1Ujc2o",
+      "id": "W5nLs62H31w",
+      "snippet": {
+        "publishedAt": "2026-08-03T02:27:37Z",
+        "channelId": "UC8_vcnMAj1Q89tvaIJzdDUw",
+        "title": "金魚専用ホースが賛否を呼んだ理由",
+        "description": "#6",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5nLs62H31w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5nLs62H31w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5nLs62H31w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W5nLs62H31w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W5nLs62H31w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "世界が驚くニッポン",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "金魚専用ホースが賛否を呼んだ理由",
+          "description": "#6"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1531757",
+        "likeCount": "24716",
+        "favoriteCount": "0",
+        "commentCount": "504"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y0YA7skKMoPTl2jzlX7KNM6MkZ8",
+      "id": "MO-ExxrcpgU",
+      "snippet": {
+        "publishedAt": "2026-08-05T10:15:05Z",
+        "channelId": "UCqT41qFU4mcCXcmHvQrx9QQ",
+        "title": "クマからの生還法",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "セカイヲエンタメニ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "クマからの生還法",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "602035",
+        "likeCount": "21639",
+        "favoriteCount": "0",
+        "commentCount": "304"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xcYnQltB34NOiD0Mjq8mXXUj1_c",
       "id": "GETeysDsx_k",
       "snippet": {
         "publishedAt": "2026-08-04T14:00:32Z",
@@ -1166,449 +1416,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "579390",
-        "likeCount": "19219",
+        "viewCount": "700039",
+        "likeCount": "24453",
         "favoriteCount": "0",
-        "commentCount": "87"
+        "commentCount": "94"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "e5Jh1NuH8eMd1vs6_BeLG9a9ErI",
-      "id": "fpqvDi03NKM",
-      "snippet": {
-        "publishedAt": "2026-08-04T20:00:24Z",
-        "channelId": "UCdU0lALBi35E1vqwpbZrzSw",
-        "title": "初めての猫が優しかった｜PECO",
-        "description": "🐱✨「なでて〜」\n\n投稿している動画はすべて、飼い主様や撮影者様の承諾をいただいたうえでご紹介しております。\nこの動画も、飼い主様や撮影者様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主様のアカウント\nTikTok@__noakun1122\nhttps://www.tiktok.com/@__noakun1122/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#茶トラ白 #猫 #愛猫家 #猫のいる暮らし #猫動画 #猫のいる生活 #猫との暮らし #猫と暮らす #redtabbywhite #redtabbywhitecat #cat #catlover #catlife #catvideos #peco #pecotv #pecoチャンネルさん #癒やしのペット動画 #shorts \n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PECOチャンネルさん【癒やしのペット動画】",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "初めての猫が優しかった｜PECO",
-          "description": "🐱✨「なでて〜」\n\n投稿している動画はすべて、飼い主様や撮影者様の承諾をいただいたうえでご紹介しております。\nこの動画も、飼い主様や撮影者様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主様のアカウント\nTikTok@__noakun1122\nhttps://www.tiktok.com/@__noakun1122/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#茶トラ白 #猫 #愛猫家 #猫のいる暮らし #猫動画 #猫のいる生活 #猫との暮らし #猫と暮らす #redtabbywhite #redtabbywhitecat #cat #catlover #catlife #catvideos #peco #pecotv #pecoチャンネルさん #癒やしのペット動画 #shorts \n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "566464",
-        "likeCount": "30277",
-        "favoriteCount": "0",
-        "commentCount": "256"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "sLBBqT92waoP4od-kZcDB1cG6Bc",
-      "id": "MO-ExxrcpgU",
-      "snippet": {
-        "publishedAt": "2026-08-05T10:15:05Z",
-        "channelId": "UCqT41qFU4mcCXcmHvQrx9QQ",
-        "title": "クマからの生還法",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MO-ExxrcpgU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "セカイヲエンタメニ",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "クマからの生還法",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "439066",
-        "likeCount": "17030",
-        "favoriteCount": "0",
-        "commentCount": "243"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "frb_5-Wr_vISn3WT59SN5iNaEGk",
-      "id": "gDvm-lnXw30",
-      "snippet": {
-        "publishedAt": "2026-08-07T12:11:15Z",
-        "channelId": "UCFh85p2OyoOxpGyI7TH0eoA",
-        "title": "2頭のオス馬を見たメス馬たちの反応 #馬 #動物 #動物動画",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "奇跡の1分",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "2頭のオス馬を見たメス馬たちの反応 #馬 #動物 #動物動画",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "278668",
-        "likeCount": "10789",
-        "favoriteCount": "0",
-        "commentCount": "130"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "41WXVs6DI3YKtROQ-YRa6rX5RWc",
-      "id": "i505FWLDztU",
-      "snippet": {
-        "publishedAt": "2026-08-07T02:00:22Z",
-        "channelId": "UCHmOcszov5eoo1wKIlmxDYA",
-        "title": "巨大な波が家族を驚かせました",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/i505FWLDztU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/i505FWLDztU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/i505FWLDztU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/i505FWLDztU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/i505FWLDztU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ラッキーチャージ",
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "巨大な波が家族を驚かせました",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "333842",
-        "likeCount": "34947",
-        "favoriteCount": "0",
-        "commentCount": "3015"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "OtUV855LNmqUSHWL3VAK50M86ok",
-      "id": "cX91FvHr1wo",
-      "snippet": {
-        "publishedAt": "2026-08-06T08:54:21Z",
-        "channelId": "UCDjXp2mwq3fvfRIBlvHuOAw",
-        "title": "トラの口から水が止まらなかった理由",
-        "description": "#野生動物 #動物園",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cX91FvHr1wo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cX91FvHr1wo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cX91FvHr1wo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cX91FvHr1wo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cX91FvHr1wo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "もふもふ事件簿",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "トラの口から水が止まらなかった理由",
-          "description": "#野生動物 #動物園"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "338801",
-        "likeCount": "2498",
-        "favoriteCount": "0",
-        "commentCount": "45"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MIPAO5BeXymTnllRY985gId0iC8",
-      "id": "O-x2TpmHii0",
-      "snippet": {
-        "publishedAt": "2026-08-03T15:30:37Z",
-        "channelId": "UC68AK5t3y5eJbfAh65t5TNw",
-        "title": "Link in my profile to get this product 💌✨",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/O-x2TpmHii0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tailored Need",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "この商品のリンクはプロフィールからチェックできます 💌✨",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "28003417",
-        "likeCount": "699910",
-        "favoriteCount": "0",
-        "commentCount": "6837"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tB5d4j1Y4vogFjlIWCLM_EizHl8",
-      "id": "xV879QYfz2A",
-      "snippet": {
-        "publishedAt": "2026-08-02T10:15:01Z",
-        "channelId": "UCDOIrgPD78VHHXaVg0fl4pw",
-        "title": "【日本一周 福井編】福井県ならその辺の公園でも化石見つかる説 #おーがすと #日本一周 #福井県",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xV879QYfz2A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xV879QYfz2A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xV879QYfz2A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xV879QYfz2A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xV879QYfz2A/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "おーがすと",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【日本一周 福井編】福井県ならその辺の公園でも化石見つかる説 #おーがすと #日本一周 #福井県",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M8S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1545728",
-        "likeCount": "41226",
-        "favoriteCount": "0",
-        "commentCount": "550"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "zjItsyc1m1ncUPsW7WFKxCkARt4",
+      "etag": "JiLCIJvwr9i0gjkyXS6AbtBDRGI",
       "id": "s73ZKWe8nOg",
       "snippet": {
         "publishedAt": "2026-08-06T00:30:29Z",
@@ -1662,908 +1478,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "302964",
-        "likeCount": "5051",
+        "viewCount": "463814",
+        "likeCount": "6830",
         "favoriteCount": "0",
-        "commentCount": "141"
+        "commentCount": "199"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "E_2D1xxmSc3oqHIIIUmQDh4B320",
-      "id": "kBy0M8ooMOM",
+      "etag": "KC9op1PQ3BvuSTRHADuQxMycaOI",
+      "id": "i505FWLDztU",
       "snippet": {
-        "publishedAt": "2026-08-05T09:00:02Z",
-        "channelId": "UCI5xnmGDN5oN0hB4wgc-OIw",
-        "title": "この日だけは楽しみ😂",
-        "description": "学校に動物を連れて行ける日があるって知ってた？😂\nアメリカの「ペットデー」が自由すぎる！\n\n#YouTubeショート #ペットデー #海外文化 #アメリカ生活 #学校 #動物好き #犬 #カピバラ #インコ #ハムスター #癒し #面白い動画 #海外の反応 #バズ動画 #ショート #おすすめ #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "教えてショート",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "この日だけは楽しみ😂",
-          "description": "学校に動物を連れて行ける日があるって知ってた？😂\nアメリカの「ペットデー」が自由すぎる！\n\n#YouTubeショート #ペットデー #海外文化 #アメリカ生活 #学校 #動物好き #犬 #カピバラ #インコ #ハムスター #癒し #面白い動画 #海外の反応 #バズ動画 #ショート #おすすめ #shorts"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "regionRestriction": {
-          "blocked": [
-            "RU"
-          ]
-        },
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "367679",
-        "likeCount": "11986",
-        "favoriteCount": "0",
-        "commentCount": "150"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Nmbt1v55fY84ndibMGgio09qbg0",
-      "id": "IyRMFZUp63E",
-      "snippet": {
-        "publishedAt": "2026-08-08T10:47:43Z",
-        "channelId": "UCH9oscRsKRFmVV2ASa_rVHg",
-        "title": "道路で鳥が倒れていたので…",
+        "publishedAt": "2026-08-07T02:00:22Z",
+        "channelId": "UCHmOcszov5eoo1wKIlmxDYA",
+        "title": "巨大な波が家族を驚かせました",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/default.jpg",
+            "url": "https://i.ytimg.com/vi/i505FWLDztU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i505FWLDztU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i505FWLDztU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/i505FWLDztU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/IyRMFZUp63E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i505FWLDztU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "飯島レンジ / Renji Iijima",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "道路で鳥が倒れていたので…",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "152132",
-        "likeCount": "10475",
-        "favoriteCount": "0",
-        "commentCount": "533"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2MW8ys-DHCZzUZS6GhQlQrX6Rvg",
-      "id": "zmE33ugFUWs",
-      "snippet": {
-        "publishedAt": "2026-08-03T09:21:21Z",
-        "channelId": "UCt7xiPE9O26HDc7II0HGBqA",
-        "title": "鳥が獲物を刺して作るサイコパスな保存食 #海外 #shorts",
-        "description": "【楽曲提供：箕輪レコーズ】\n\n本チャンネルの動画はエンターテイメント要素を含みますが、教育・啓発を目的として制作されています。動物および人間に危害は一切加えられていません。\n銃器やその他の危険物、未成年が登場する場面は、演出または専門家・保護者の監督のもと、安全な環境で撮影された映像を使用しています。これらのシーンは使用方法の指導・助長を意図したものではありません。\n医学・手術に関する表現は教育用アニメーションであり、実際の負傷や過度にショッキングな実写映像は含みません。苦手な方は視聴にご注意ください。\n危険行為の模倣・再現は行わないでください。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "話題のショート",
-        "tags": [
-          "おもしろ",
-          "海外"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "鳥が獲物を刺して作るサイコパスな保存食 #海外 #shorts",
-          "description": "【楽曲提供：箕輪レコーズ】\n\n本チャンネルの動画はエンターテイメント要素を含みますが、教育・啓発を目的として制作されています。動物および人間に危害は一切加えられていません。\n銃器やその他の危険物、未成年が登場する場面は、演出または専門家・保護者の監督のもと、安全な環境で撮影された映像を使用しています。これらのシーンは使用方法の指導・助長を意図したものではありません。\n医学・手術に関する表現は教育用アニメーションであり、実際の負傷や過度にショッキングな実写映像は含みません。苦手な方は視聴にご注意ください。\n危険行為の模倣・再現は行わないでください。"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "577285",
-        "favoriteCount": "0",
-        "commentCount": "135"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wsqV4s0D8YNvHYOzYvF0rRQhBqo",
-      "id": "iGsU2dvgoRA",
-      "snippet": {
-        "publishedAt": "2026-08-05T10:00:02Z",
-        "channelId": "UClzwOAKplBu1YNwUjfUIr4g",
-        "title": "子犬の耳を矯正する理由",
-        "description": "#shorts #youtubeshorts #animals  #動物 #雑学",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "どうBUZZ",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "子犬の耳を矯正する理由",
-          "description": "#shorts #youtubeshorts #animals  #動物 #雑学"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "408871",
-        "likeCount": "7737",
-        "favoriteCount": "0",
-        "commentCount": "159"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fFqjsbfZUV9wFALLm9SSqwY5M2U",
-      "id": "LhqhjiPMsZs",
-      "snippet": {
-        "publishedAt": "2026-08-02T09:00:39Z",
-        "channelId": "UCiZdDdpVIOFCGTdNoIQkAZg",
-        "title": "蜂の巣解体したらヤバいのでた…🐝",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "マイコちゃん[MAIKO]",
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "蜂の巣解体したらヤバいのでた…🐝",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1586240",
-        "likeCount": "29206",
-        "favoriteCount": "0",
-        "commentCount": "318"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "QFDyBCLnoOkwqejyaLo4mpdEsPI",
-      "id": "CgG1IQtonSg",
-      "snippet": {
-        "publishedAt": "2026-07-31T07:09:00Z",
-        "channelId": "UCqhLS1cLN-CC4u3F6iqAmiQ",
-        "title": "世界でバズった虫の成長変化の瞬間TOP5",
-        "description": "世界で見られた「虫や生き物の成長の瞬間」TOP5まとめです！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ほんの1分",
-        "tags": [
-          "成長過程",
-          "カブトムシ",
-          "サソリ",
-          "カタツムリ",
-          "ナナフシ",
-          "蛾",
-          "ハプニング",
-          "衝撃映像",
-          "リアクション",
-          "ランキング",
-          "神回",
-          "暇つぶし",
-          "世界の衝撃映像"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "世界でバズった虫の成長変化の瞬間TOP5",
-          "description": "世界で見られた「虫や生き物の成長の瞬間」TOP5まとめです！"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT41S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2248523",
-        "likeCount": "53498",
-        "favoriteCount": "0",
-        "commentCount": "1637"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "P2aNmzq6FpPrLRFR90pkkMDctmM",
-      "id": "C4Cs0dnz_oI",
-      "snippet": {
-        "publishedAt": "2026-07-31T22:00:38Z",
-        "channelId": "UCzPJLIRDZCGAGyVDkCnlTcQ",
-        "title": "巨大なクモの巣を突破できたら18,000円",
-        "description": "#1",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/C4Cs0dnz_oI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/C4Cs0dnz_oI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/C4Cs0dnz_oI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/C4Cs0dnz_oI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/C4Cs0dnz_oI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "一分オタク",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "巨大なクモの巣を突破できたら18,000円",
-          "description": "#1"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1182520",
-        "likeCount": "27638",
-        "favoriteCount": "0",
-        "commentCount": "388"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "BCYS01ejG3ZZhhy6kXy_OOn6ex0",
-      "id": "nyXxgr7IY_s",
-      "snippet": {
-        "publishedAt": "2026-07-25T21:00:28Z",
-        "channelId": "UC-2EYCMALNu_jX6IjbuGzMw",
-        "title": "愛犬の口から出た２本の足",
-        "description": "愛犬が小動物を咥え、助けた動画を独自の解釈で編集したものです。\n\n以下引用ですが元ですので、ぜひご覧ください。\n\n【引用元】\nThe Dodo　さん\n\n【引用元動画】\nWoman Sees Tiny Legs Sticking Out Of Her Dog's Mouth | The Dodo",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "笑っていればなんとかなる",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "愛犬の口から出た２本の足",
-          "description": "愛犬が小動物を咥え、助けた動画を独自の解釈で編集したものです。\n\n以下引用ですが元ですので、ぜひご覧ください。\n\n【引用元】\nThe Dodo　さん\n\n【引用元動画】\nWoman Sees Tiny Legs Sticking Out Of Her Dog's Mouth | The Dodo"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT41S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3739143",
-        "likeCount": "42991",
-        "favoriteCount": "0",
-        "commentCount": "179"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-vnia3huA7q6ekfwjwVGNu54WlQ",
-      "id": "YTZyzd723Ds",
-      "snippet": {
-        "publishedAt": "2026-08-05T12:54:52Z",
-        "channelId": "UCndKvxIYaT4qPT-X7AJOsig",
-        "title": "昆虫採取したよ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "コスプレ彼女のいる生活",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "昆虫採取したよ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT1M1S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "548422",
-        "likeCount": "4417",
-        "favoriteCount": "0",
-        "commentCount": "94"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "nEvHgdlShPJarx4mzOHQBs1TZj8",
-      "id": "RbIoaY41cis",
-      "snippet": {
-        "publishedAt": "2026-08-02T11:45:58Z",
-        "channelId": "UCGLmcGnqL5nBaFwqQ2vowGQ",
-        "title": "飼育されているシャチが氷を食べる理由",
-        "description": "海の中で暮らしているのに、シャチはほとんど水を飲まないって知っていましたか？海水を口にしても、飲まずに吐き出してしまうんです。では、いったいどうやって水分を摂っているのでしょうか。そして、なぜ「氷」が大切な役割を果たすのか…。その意外な理由を知れば、きっとあなたもシャチの見方が変わるはずです。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RbIoaY41cis/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RbIoaY41cis/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RbIoaY41cis/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RbIoaY41cis/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RbIoaY41cis/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "星読みフクロウ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "飼育されているシャチが氷を食べる理由",
-          "description": "海の中で暮らしているのに、シャチはほとんど水を飲まないって知っていましたか？海水を口にしても、飲まずに吐き出してしまうんです。では、いったいどうやって水分を摂っているのでしょうか。そして、なぜ「氷」が大切な役割を果たすのか…。その意外な理由を知れば、きっとあなたもシャチの見方が変わるはずです。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "611290",
-        "likeCount": "4605",
-        "favoriteCount": "0",
-        "commentCount": "78"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "3o8CZfV5so4mAnoJ0JFEUVFwMZk",
-      "id": "p9iJddV1eiA",
-      "snippet": {
-        "publishedAt": "2026-08-05T22:00:15Z",
-        "channelId": "UCQX4KXmqfosdWj-cLWcmicg",
-        "title": "【衝撃】えっ、これが眞子さん！？NYでの「へそ出し姿」に批判殺到 #皇室 #雑学",
-        "description": "ご視聴ありがとうございます。\n\n【今回の動画について】\n民間人だし、服装は自由だけどね〜🗽\n※AI画像は一切使用していません。\n\n【チャンネルの理念：皇室という光】\n日本の歴史の根幹であり、私たちの心を温かく照らし続けてくださる皇室。\n当チャンネルでは、万世一系の歩みが紡ぐ麗しき伝統や、皇族方の慈しみ深いエピソードを、深い敬意とともに丁寧にお伝えしています。\n\n日本人として知っておきたい「誇りある文化」を、視聴者の皆様と共に学び、再発見していく場でありたいと願っております。\n\n【ぜひチャンネル登録で応援をお願いします】\n皇室の弥栄（いやさか）を願い、定期的に動画を配信しております。\n応援いただける方は、ぜひ「チャンネル登録」と「高評価」をお願いいたします。\n🔔通知ボタンを押していただくと、最新動画を見逃さずにご覧いただけます。\nhttps://www.youtube.com/channel/UCQX4KXmqfosdWj-cLWcmicg?sub_confirmation=1\n\n【皆様へのお願い】\n当チャンネルのコメント欄は、皇室を敬愛する方々が心地よく集える場にしたいと考えております。\nそのため、皇室への敬意を欠く表現や、他の方を不快にさせる書き込み、公序良俗に反する内容は、管理者の判断により削除させていただく場合がございます。\n温かく、節度ある交流にご協力をお願い申し上げます。\n\n【関連キーワード】\n＃皇室 ＃天皇陛下 ＃日本の伝統 ＃歴史 ＃皇室という光\n\n※動画内で使用している画像・資料は、公的機関の公開データや著作権法に基づき、適切な引用の範囲内で使用しております。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "皇室という光",
+        "channelTitle": "ラッキーチャージ",
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "【衝撃】えっ、これが眞子さん！？NYでの「へそ出し姿」に批判殺到 #皇室 #雑学",
-          "description": "ご視聴ありがとうございます。\n\n【今回の動画について】\n民間人だし、服装は自由だけどね〜🗽\n※AI画像は一切使用していません。\n\n【チャンネルの理念：皇室という光】\n日本の歴史の根幹であり、私たちの心を温かく照らし続けてくださる皇室。\n当チャンネルでは、万世一系の歩みが紡ぐ麗しき伝統や、皇族方の慈しみ深いエピソードを、深い敬意とともに丁寧にお伝えしています。\n\n日本人として知っておきたい「誇りある文化」を、視聴者の皆様と共に学び、再発見していく場でありたいと願っております。\n\n【ぜひチャンネル登録で応援をお願いします】\n皇室の弥栄（いやさか）を願い、定期的に動画を配信しております。\n応援いただける方は、ぜひ「チャンネル登録」と「高評価」をお願いいたします。\n🔔通知ボタンを押していただくと、最新動画を見逃さずにご覧いただけます。\nhttps://www.youtube.com/channel/UCQX4KXmqfosdWj-cLWcmicg?sub_confirmation=1\n\n【皆様へのお願い】\n当チャンネルのコメント欄は、皇室を敬愛する方々が心地よく集える場にしたいと考えております。\nそのため、皇室への敬意を欠く表現や、他の方を不快にさせる書き込み、公序良俗に反する内容は、管理者の判断により削除させていただく場合がございます。\n温かく、節度ある交流にご協力をお願い申し上げます。\n\n【関連キーワード】\n＃皇室 ＃天皇陛下 ＃日本の伝統 ＃歴史 ＃皇室という光\n\n※動画内で使用している画像・資料は、公的機関の公開データや著作権法に基づき、適切な引用の範囲内で使用しております。"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1219321",
-        "likeCount": "16226",
-        "favoriteCount": "0",
-        "commentCount": "3322"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hJ9fUOz8_GAvhLNe3panU_Nrlcw",
-      "id": "v7V-ARALkKY",
-      "snippet": {
-        "publishedAt": "2026-08-03T18:40:29Z",
-        "channelId": "UCsy7XmIL8NSsP3h3TW-3oMQ",
-        "title": "【本人は本気】小犬を発見したと思ったら【2ch面白いスレ】",
-        "description": "【2ch・5ch面白スレ】等を中心にエンタメ系short動画1〜3本毎日18時〜23時頃に投稿中🦊\nチャンネル登録して最新の動画を今すぐチェック‼︎\n\nお仕事の依頼はこちらから\n【 メールアドレス 】：ronronyt2011＠gmail.com\nスポンサー及び案件募集中\n\nYouTube：＠ロンロンの天秤\nInstagram：＠ronron _tenbin\nTikTok：＠ronron _tenbin\n\n当チャンネルは2chや5chの記事、実際に起こったとされる出来事、ニュースや動画などで報じられた内容をもとに制作しています！\nただし、中には真偽不明のものや誇張されたものも含まれている可能性があります。\n※使用許可申請済み\n※画像は全てイメージです\n※動画は全て国内・海外サイトを参考にしています。\n\nVOICEVOX:剣崎雌雄/ナースロボ＿タイプＴ/白上虎太郎/ずんだもん/麒ヶ島宗麟/†聖騎士紅桜†/青山龍星/春日部つむぎ/ちび式じい/もち子さん(cv明日葉よもぎ)/四国めたん/黒沢冴白/雀松朱司/玄野武宏/猫使ビィ\n\n#2ch \n#2ch面白いスレ \n#5ch \n#ジョーク \n#面白い\n#shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ロンロンの天秤ニカケルch",
-        "tags": [
-          "ロンロン",
-          "ブラックジョーク",
-          "アメリカンジョーク",
-          "ジョーク",
-          "冗談",
-          "２ch",
-          "ブラックジョーク集",
-          "日本",
-          "頭いい",
-          "jokes",
-          "Japan",
-          "ショート",
-          "面白すぎ",
-          "アメリカンジョーク集",
-          "5ch",
-          "面白コピペ",
-          "2ちゃんねる",
-          "5ちゃんねる"
-        ],
-        "categoryId": "23",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "【本人は本気】小犬を発見したと思ったら【2ch面白いスレ】",
-          "description": "【2ch・5ch面白スレ】等を中心にエンタメ系short動画1〜3本毎日18時〜23時頃に投稿中🦊\nチャンネル登録して最新の動画を今すぐチェック‼︎\n\nお仕事の依頼はこちらから\n【 メールアドレス 】：ronronyt2011＠gmail.com\nスポンサー及び案件募集中\n\nYouTube：＠ロンロンの天秤\nInstagram：＠ronron _tenbin\nTikTok：＠ronron _tenbin\n\n当チャンネルは2chや5chの記事、実際に起こったとされる出来事、ニュースや動画などで報じられた内容をもとに制作しています！\nただし、中には真偽不明のものや誇張されたものも含まれている可能性があります。\n※使用許可申請済み\n※画像は全てイメージです\n※動画は全て国内・海外サイトを参考にしています。\n\nVOICEVOX:剣崎雌雄/ナースロボ＿タイプＴ/白上虎太郎/ずんだもん/麒ヶ島宗麟/†聖騎士紅桜†/青山龍星/春日部つむぎ/ちび式じい/もち子さん(cv明日葉よもぎ)/四国めたん/黒沢冴白/雀松朱司/玄野武宏/猫使ビィ\n\n#2ch \n#2ch面白いスレ \n#5ch \n#ジョーク \n#面白い\n#shorts"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "450438",
-        "likeCount": "20873",
-        "favoriteCount": "0",
-        "commentCount": "301"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MBHevmzv_MyUK5cJyWAPy82FNQA",
-      "id": "9Arew8BXD-8",
-      "snippet": {
-        "publishedAt": "2026-08-02T12:28:57Z",
-        "channelId": "UCi5pk0b6YpXwcq3Y7BfkV7w",
-        "title": "#おんぶ猫ムロ　おんぶが大好き",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "おんぶ猫ムロ:元野良猫からおんぶ猫に",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "#おんぶ猫ムロ　おんぶが大好き",
+          "title": "巨大な波が家族を驚かせました",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT1M41S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "837529",
-        "likeCount": "26824",
-        "favoriteCount": "0",
-        "commentCount": "659"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "uEm74kTQHFq0vLn4mYDj-Um-aUE",
-      "id": "jmsFHqhA8r4",
-      "snippet": {
-        "publishedAt": "2026-07-27T02:42:16Z",
-        "channelId": "UCuDZ295gujvylOBHLrttO-A",
-        "title": "ミーアキャットは楽勝なのに象はびくともしない理由",
-        "description": "動物たちの実際の筋力を体感できる体験マシンで、成人男性が力比べに挑戦！ミーアキャットとチンパンジーは余裕で引けたけど、トラからは全力を出しても全然ダメで、ゾウに至っては全く動かないという圧倒的な差を見せつけられました\n\n#動物の筋力 #力比べ #ゾウパワー #トラの力 #動物園体験 #AnimalStrength #TugOfWar",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "오! 골프",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ミーアキャットは楽勝なのに象はびくともしない理由",
-          "description": "動物たちの実際の筋力を体感できる体験マシンで、成人男性が力比べに挑戦！ミーアキャットとチンパンジーは余裕で引けたけど、トラからは全力を出しても全然ダメで、ゾウに至っては全く動かないという圧倒的な差を見せつけられました\n\n#動物の筋力 #力比べ #ゾウパワー #トラの力 #動物園体験 #AnimalStrength #TugOfWar"
-        },
-        "defaultAudioLanguage": "zxx"
-      },
-      "contentDetails": {
-        "duration": "PT30S",
+        "duration": "PT33S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2572,121 +1540,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2082459",
-        "likeCount": "18212",
+        "viewCount": "439602",
+        "likeCount": "41637",
         "favoriteCount": "0",
-        "commentCount": "488"
+        "commentCount": "3458"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NFVkRTQu2B8omAGbI5Rs2C326hk",
-      "id": "SOg_6s6Um_s",
+      "etag": "m6uCqA8SQpl6whs32T5gT22Dobg",
+      "id": "2rKD99W1SnY",
       "snippet": {
-        "publishedAt": "2026-08-07T23:00:13Z",
-        "channelId": "UC4TGIwu-heirWlBKZDhrjMQ",
-        "title": "この魚を見つけたら口を開けろ！？😱🐟",
-        "description": "もしこの小さな魚を見つけたら、\n\nすぐに口を開けてください。\n\nこの魚は、\n\nほかの動物の口の中に入るのが大好き。\n\nそのため、\n\n「海の歯医者さん」と呼ばれています。\n\n歯の間に残った食べカスや、\n\n古い汚れを食べてくれるんです。\n\nちょっと気持ち悪いですが、\n\nとても役に立ちます。\n\nその腕前は本物で、\n\nサメまで口を開けて、\n\nお掃除してもらいます。\n\nだからこの魚には、\n\n「いいね」をあげてください。🥺❤️\n\n#物語 #shorts",
+        "publishedAt": "2026-07-29T09:45:17Z",
+        "channelId": "UCgkUM6rrLSLEqRLSuUBhSGA",
+        "title": "マンボウが不憫すぎて泣ける..😭#動物 #雑学 #豆知識 #マンボウ",
+        "description": "みんなが知らない動物のくだらない雑学を投稿しています🙄\nコメント・チャンネル登録よろしくお願いします！🙇\u200d♂️🔥🐴\n\nBGM：Escort\n配布：DOVA-SYNDROME\nURL:https://youtu.be/J47fp8dcMZU?si=PB2HIw_q2vRBZR82\n\n【楽曲提供：株式会社Pinguino】",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/default.jpg",
+            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2rKD99W1SnY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "The Neko Girl 🐈",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "この魚を見つけたら口を開けろ！？😱🐟",
-          "description": "もしこの小さな魚を見つけたら、\n\nすぐに口を開けてください。\n\nこの魚は、\n\nほかの動物の口の中に入るのが大好き。\n\nそのため、\n\n「海の歯医者さん」と呼ばれています。\n\n歯の間に残った食べカスや、\n\n古い汚れを食べてくれるんです。\n\nちょっと気持ち悪いですが、\n\nとても役に立ちます。\n\nその腕前は本物で、\n\nサメまで口を開けて、\n\nお掃除してもらいます。\n\nだからこの魚には、\n\n「いいね」をあげてください。🥺❤️\n\n#物語 #shorts"
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "191099",
-        "likeCount": "9780",
-        "favoriteCount": "0",
-        "commentCount": "55"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ZWyyEn89AMYsD5SJ17O-GKvjQC8",
-      "id": "qhE-usCb_8c",
-      "snippet": {
-        "publishedAt": "2026-08-01T04:45:17Z",
-        "channelId": "UCSYpbT_erK0Wvga0UPHdAeA",
-        "title": "雑に洗われてたアザラシ見て",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "アニマルランド",
+        "channelTitle": "動物ふしぎ発見",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "雑に洗われてたアザラシ見て",
-          "description": ""
+          "title": "マンボウが不憫すぎて泣ける..😭#動物 #雑学 #豆知識 #マンボウ",
+          "description": "みんなが知らない動物のくだらない雑学を投稿しています🙄\nコメント・チャンネル登録よろしくお願いします！🙇\u200d♂️🔥🐴\n\nBGM：Escort\n配布：DOVA-SYNDROME\nURL:https://youtu.be/J47fp8dcMZU?si=PB2HIw_q2vRBZR82\n\n【楽曲提供：株式会社Pinguino】"
         }
       },
       "contentDetails": {
-        "duration": "PT14S",
+        "duration": "PT1M10S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2695,259 +1601,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "639720",
-        "likeCount": "6068",
+        "viewCount": "3430151",
+        "likeCount": "55754",
         "favoriteCount": "0",
-        "commentCount": "177"
+        "commentCount": "1866"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VkpztMclG-S5buaXao3bKg2zaPk",
-      "id": "dY4v4Z7B4JQ",
-      "snippet": {
-        "publishedAt": "2026-07-24T11:00:17Z",
-        "channelId": "UCdlRE5qvtjyt7KGIq9b_U5w",
-        "title": "ドブ水飲むネッコのため池を蘇らせた結果 #2ch動物スレ #猫動画 #猫のいる暮らし",
-        "description": "山の敷地に長年放置されて真っ黒な死水になった池と水路\nそこの水をネッコたちが平気で飲んどる\n発酵しかけたドブ水飲まれたら虫が湧く\nワイが一人で雑草抜いて泥を掻き出して\n止まってた山の泉をもう一度蘇らせたった\n\n#2ch動物スレ #猫動画 #猫のいる暮らし #保護猫 #地域猫\n---\n楽曲提供：株式会社ウナシ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dY4v4Z7B4JQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dY4v4Z7B4JQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dY4v4Z7B4JQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dY4v4Z7B4JQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dY4v4Z7B4JQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "もっふるch",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "ドブ水飲むネッコのため池を蘇らせた結果 #2ch動物スレ #猫動画 #猫のいる暮らし",
-          "description": "山の敷地に長年放置されて真っ黒な死水になった池と水路\nそこの水をネッコたちが平気で飲んどる\n発酵しかけたドブ水飲まれたら虫が湧く\nワイが一人で雑草抜いて泥を掻き出して\n止まってた山の泉をもう一度蘇らせたった\n\n#2ch動物スレ #猫動画 #猫のいる暮らし #保護猫 #地域猫\n---\n楽曲提供：株式会社ウナシ"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT51S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4973879",
-        "likeCount": "165949",
-        "favoriteCount": "0",
-        "commentCount": "2103"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "rMyknDGhnP9EyDXBfhQLv_dD9zo",
-      "id": "BXchRmMSoTQ",
-      "snippet": {
-        "publishedAt": "2026-07-29T08:00:32Z",
-        "channelId": "UC2TQFI_BmNtVBNRkZWlG-KQ",
-        "title": "猫たちを1週間留守番させたら？",
-        "description": "10匹の猫のために部屋全体を巨大なトイレへ改造し、1週間留守にしたらどうなるのかを検証。\n帰宅後に待っていたのは、想像を超える驚きの結果でした。\n\n※この映像は企画・台本・編集を独自の観点で制作したものです。\n\n#猫 #検証 #ペット #留守番 #旅行",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BXchRmMSoTQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BXchRmMSoTQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BXchRmMSoTQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BXchRmMSoTQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BXchRmMSoTQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "バズるワールド",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "猫たちを1週間留守番させたら？",
-          "description": "10匹の猫のために部屋全体を巨大なトイレへ改造し、1週間留守にしたらどうなるのかを検証。\n帰宅後に待っていたのは、想像を超える驚きの結果でした。\n\n※この映像は企画・台本・編集を独自の観点で制作したものです。\n\n#猫 #検証 #ペット #留守番 #旅行"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1856824",
-        "likeCount": "36319",
-        "favoriteCount": "0",
-        "commentCount": "221"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "q6Vi0AnGex-WC3u8Xip5sn0Rcvg",
-      "id": "DVB9cETbXNY",
-      "snippet": {
-        "publishedAt": "2026-07-31T09:47:33Z",
-        "channelId": "UCZJT6ZrhyR35vTR939bmx9g",
-        "title": "#萌寵出道計劃 #猴子 #這小猴子太可愛了吧 #0-3歲兒童啟蒙早教 #這也太萌太可愛了吧",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DVB9cETbXNY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "nam truonghuy",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "zh-Hant",
-        "localized": {
-          "title": "#萌寵出道計劃 #猴子 #這小猴子太可愛了吧 #0-3歲兒童啟蒙早教 #這也太萌太可愛了吧",
-          "description": ""
-        },
-        "defaultAudioLanguage": "zh"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "133696705",
-        "likeCount": "1171506",
-        "favoriteCount": "0",
-        "commentCount": "1055"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_ssz7sQ097vfIYfHMuHKZugBtQ4",
-      "id": "6KYUbtSeoXo",
-      "snippet": {
-        "publishedAt": "2026-08-06T03:10:22Z",
-        "channelId": "UCT8B4Af2XUennhzBnJhAS5w",
-        "title": "トラたちは猛暑をどうやって乗り越えるのでしょうか。",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6KYUbtSeoXo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6KYUbtSeoXo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6KYUbtSeoXo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6KYUbtSeoXo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6KYUbtSeoXo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "地球星",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ja",
-        "localized": {
-          "title": "トラたちは猛暑をどうやって乗り越えるのでしょうか。",
-          "description": ""
-        },
-        "defaultAudioLanguage": "ja"
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "303097",
-        "favoriteCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "i81fy_ikDgCZxEOU6rh9jsmVRIk",
+      "etag": "-3LrDaRrp8R_YxB5F7MuI1T3TIM",
       "id": "ol2fZSsfYrw",
       "snippet": {
         "publishedAt": "2026-08-08T03:00:32Z",
@@ -3021,60 +1683,122 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "232341",
-        "likeCount": "3952",
+        "viewCount": "452538",
+        "likeCount": "6069",
         "favoriteCount": "0",
-        "commentCount": "43"
+        "commentCount": "60"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FDcXqPJLatDGjY5FEYOHJLcxpjQ",
-      "id": "11CHODNiqWM",
+      "etag": "f0bbupuQEj2oe9sgedFeaBF6ss8",
+      "id": "fpqvDi03NKM",
       "snippet": {
-        "publishedAt": "2026-08-06T12:53:54Z",
-        "channelId": "UC5QiZn-FKGKSTKLWy3eH3kw",
-        "title": "寝てる子猫にミルク垂らした反応",
-        "description": "",
+        "publishedAt": "2026-08-04T20:00:24Z",
+        "channelId": "UCdU0lALBi35E1vqwpbZrzSw",
+        "title": "初めての猫が優しかった｜PECO",
+        "description": "🐱✨「なでて〜」\n\n投稿している動画はすべて、飼い主様や撮影者様の承諾をいただいたうえでご紹介しております。\nこの動画も、飼い主様や撮影者様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主様のアカウント\nTikTok@__noakun1122\nhttps://www.tiktok.com/@__noakun1122/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#茶トラ白 #猫 #愛猫家 #猫のいる暮らし #猫動画 #猫のいる生活 #猫との暮らし #猫と暮らす #redtabbywhite #redtabbywhitecat #cat #catlover #catlife #catvideos #peco #pecotv #pecoチャンネルさん #癒やしのペット動画 #shorts \n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/11CHODNiqWM/default.jpg",
+            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/11CHODNiqWM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/11CHODNiqWM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/11CHODNiqWM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/11CHODNiqWM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fpqvDi03NKM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "モリアーカイブ",
+        "channelTitle": "PECOチャンネルさん【癒やしのペット動画】",
         "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "寝てる子猫にミルク垂らした反応",
+          "title": "初めての猫が優しかった｜PECO",
+          "description": "🐱✨「なでて〜」\n\n投稿している動画はすべて、飼い主様や撮影者様の承諾をいただいたうえでご紹介しております。\nこの動画も、飼い主様や撮影者様のご厚意により公開させていただいております。\nあたたかいお気持ちでご覧いただけましたら幸いです☺️\n\n飼い主様のアカウント\nTikTok@__noakun1122\nhttps://www.tiktok.com/@__noakun1122/\n\n▽チャンネル登録はこちらから🌱\nhttps://goo.gl/xPShcX\n\n#茶トラ白 #猫 #愛猫家 #猫のいる暮らし #猫動画 #猫のいる生活 #猫との暮らし #猫と暮らす #redtabbywhite #redtabbywhitecat #cat #catlover #catlife #catvideos #peco #pecotv #pecoチャンネルさん #癒やしのペット動画 #shorts \n\n※当チャンネルの動画を許可なく無断転載、コピー、再配布することはご遠慮ください。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "626682",
+        "likeCount": "33081",
+        "favoriteCount": "0",
+        "commentCount": "273"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gPUnGI77ALiS_jD9ORKbzSd2UzQ",
+      "id": "gDvm-lnXw30",
+      "snippet": {
+        "publishedAt": "2026-08-07T12:11:15Z",
+        "channelId": "UCFh85p2OyoOxpGyI7TH0eoA",
+        "title": "2頭のオス馬を見たメス馬たちの反応 #馬 #動物 #動物動画",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gDvm-lnXw30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "奇跡の1分",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "2頭のオス馬を見たメス馬たちの反応 #馬 #動物 #動物動画",
           "description": ""
         },
         "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT12S",
+        "duration": "PT21S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3083,59 +1807,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "205541",
-        "likeCount": "5148",
+        "viewCount": "327736",
+        "likeCount": "13187",
         "favoriteCount": "0",
-        "commentCount": "44"
+        "commentCount": "154"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rqwSMl7qHy7-ZVwzgn8mfVursW8",
-      "id": "52tZ3qy9Ibo",
+      "etag": "p65tpC5aqNMA08QScASNB01MBDw",
+      "id": "iGsU2dvgoRA",
       "snippet": {
-        "publishedAt": "2026-08-01T22:00:24Z",
-        "channelId": "UCPmeCAzDynzNRA6sY06sHjw",
-        "title": "世界一危険な亀の持ち方",
-        "description": "",
+        "publishedAt": "2026-08-05T10:00:02Z",
+        "channelId": "UClzwOAKplBu1YNwUjfUIr4g",
+        "title": "子犬の耳を矯正する理由",
+        "description": "#shorts #youtubeshorts #animals  #動物 #雑学",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/52tZ3qy9Ibo/default.jpg",
+            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/52tZ3qy9Ibo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/52tZ3qy9Ibo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/52tZ3qy9Ibo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/52tZ3qy9Ibo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iGsU2dvgoRA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ミステリ",
-        "categoryId": "28",
+        "channelTitle": "どうBUZZ",
+        "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "ja",
         "localized": {
-          "title": "世界一危険な亀の持ち方",
-          "description": ""
-        }
+          "title": "子犬の耳を矯正する理由",
+          "description": "#shorts #youtubeshorts #animals  #動物 #雑学"
+        },
+        "defaultAudioLanguage": "ja"
       },
       "contentDetails": {
-        "duration": "PT40S",
+        "duration": "PT25S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3144,15 +1869,577 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1022169",
-        "likeCount": "13366",
+        "viewCount": "567205",
+        "likeCount": "10549",
         "favoriteCount": "0",
-        "commentCount": "206"
+        "commentCount": "182"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eRQOm1777YmIkmntmLwdifciipw",
+      "etag": "K21DYDkvyrZQFk4NhoQcj4TqXQc",
+      "id": "zmE33ugFUWs",
+      "snippet": {
+        "publishedAt": "2026-08-03T09:21:21Z",
+        "channelId": "UCt7xiPE9O26HDc7II0HGBqA",
+        "title": "鳥が獲物を刺して作るサイコパスな保存食 #海外 #shorts",
+        "description": "【楽曲提供：箕輪レコーズ】\n\n本チャンネルの動画はエンターテイメント要素を含みますが、教育・啓発を目的として制作されています。動物および人間に危害は一切加えられていません。\n銃器やその他の危険物、未成年が登場する場面は、演出または専門家・保護者の監督のもと、安全な環境で撮影された映像を使用しています。これらのシーンは使用方法の指導・助長を意図したものではありません。\n医学・手術に関する表現は教育用アニメーションであり、実際の負傷や過度にショッキングな実写映像は含みません。苦手な方は視聴にご注意ください。\n危険行為の模倣・再現は行わないでください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zmE33ugFUWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "話題のショート",
+        "tags": [
+          "おもしろ",
+          "海外"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "鳥が獲物を刺して作るサイコパスな保存食 #海外 #shorts",
+          "description": "【楽曲提供：箕輪レコーズ】\n\n本チャンネルの動画はエンターテイメント要素を含みますが、教育・啓発を目的として制作されています。動物および人間に危害は一切加えられていません。\n銃器やその他の危険物、未成年が登場する場面は、演出または専門家・保護者の監督のもと、安全な環境で撮影された映像を使用しています。これらのシーンは使用方法の指導・助長を意図したものではありません。\n医学・手術に関する表現は教育用アニメーションであり、実際の負傷や過度にショッキングな実写映像は含みません。苦手な方は視聴にご注意ください。\n危険行為の模倣・再現は行わないでください。"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "732055",
+        "favoriteCount": "0",
+        "commentCount": "160"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TSX1O_s_KYj00KkzSz_fz0KIeQQ",
+      "id": "SOg_6s6Um_s",
+      "snippet": {
+        "publishedAt": "2026-08-07T23:00:13Z",
+        "channelId": "UC4TGIwu-heirWlBKZDhrjMQ",
+        "title": "この魚を見つけたら口を開けろ！？😱🐟",
+        "description": "もしこの小さな魚を見つけたら、\n\nすぐに口を開けてください。\n\nこの魚は、\n\nほかの動物の口の中に入るのが大好き。\n\nそのため、\n\n「海の歯医者さん」と呼ばれています。\n\n歯の間に残った食べカスや、\n\n古い汚れを食べてくれるんです。\n\nちょっと気持ち悪いですが、\n\nとても役に立ちます。\n\nその腕前は本物で、\n\nサメまで口を開けて、\n\nお掃除してもらいます。\n\nだからこの魚には、\n\n「いいね」をあげてください。🥺❤️\n\n#物語 #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SOg_6s6Um_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Neko Girl 🐈",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "この魚を見つけたら口を開けろ！？😱🐟",
+          "description": "もしこの小さな魚を見つけたら、\n\nすぐに口を開けてください。\n\nこの魚は、\n\nほかの動物の口の中に入るのが大好き。\n\nそのため、\n\n「海の歯医者さん」と呼ばれています。\n\n歯の間に残った食べカスや、\n\n古い汚れを食べてくれるんです。\n\nちょっと気持ち悪いですが、\n\nとても役に立ちます。\n\nその腕前は本物で、\n\nサメまで口を開けて、\n\nお掃除してもらいます。\n\nだからこの魚には、\n\n「いいね」をあげてください。🥺❤️\n\n#物語 #shorts"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "311948",
+        "likeCount": "13867",
+        "favoriteCount": "0",
+        "commentCount": "73"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nh_4AWLgru3xfvIIu21q3WhWap8",
+      "id": "xV879QYfz2A",
+      "snippet": {
+        "publishedAt": "2026-08-02T10:15:01Z",
+        "channelId": "UCDOIrgPD78VHHXaVg0fl4pw",
+        "title": "【日本一周 福井編】福井県ならその辺の公園でも化石見つかる説 #おーがすと #日本一周 #福井県",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xV879QYfz2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xV879QYfz2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xV879QYfz2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xV879QYfz2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xV879QYfz2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "おーがすと",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【日本一周 福井編】福井県ならその辺の公園でも化石見つかる説 #おーがすと #日本一周 #福井県",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1586027",
+        "likeCount": "41819",
+        "favoriteCount": "0",
+        "commentCount": "551"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gdwtX6Ngk0gA1vOdq5eBIk2RbFI",
+      "id": "p9iJddV1eiA",
+      "snippet": {
+        "publishedAt": "2026-08-05T22:00:15Z",
+        "channelId": "UCQX4KXmqfosdWj-cLWcmicg",
+        "title": "【衝撃】えっ、これが眞子さん！？NYでの「へそ出し姿」に批判殺到 #皇室 #雑学",
+        "description": "ご視聴ありがとうございます。\n\n【今回の動画について】\n民間人だし、服装は自由だけどね〜🗽\n※AI画像は一切使用していません。\n\n【チャンネルの理念：皇室という光】\n日本の歴史の根幹であり、私たちの心を温かく照らし続けてくださる皇室。\n当チャンネルでは、万世一系の歩みが紡ぐ麗しき伝統や、皇族方の慈しみ深いエピソードを、深い敬意とともに丁寧にお伝えしています。\n\n日本人として知っておきたい「誇りある文化」を、視聴者の皆様と共に学び、再発見していく場でありたいと願っております。\n\n【ぜひチャンネル登録で応援をお願いします】\n皇室の弥栄（いやさか）を願い、定期的に動画を配信しております。\n応援いただける方は、ぜひ「チャンネル登録」と「高評価」をお願いいたします。\n🔔通知ボタンを押していただくと、最新動画を見逃さずにご覧いただけます。\nhttps://www.youtube.com/channel/UCQX4KXmqfosdWj-cLWcmicg?sub_confirmation=1\n\n【皆様へのお願い】\n当チャンネルのコメント欄は、皇室を敬愛する方々が心地よく集える場にしたいと考えております。\nそのため、皇室への敬意を欠く表現や、他の方を不快にさせる書き込み、公序良俗に反する内容は、管理者の判断により削除させていただく場合がございます。\n温かく、節度ある交流にご協力をお願い申し上げます。\n\n【関連キーワード】\n＃皇室 ＃天皇陛下 ＃日本の伝統 ＃歴史 ＃皇室という光\n\n※動画内で使用している画像・資料は、公的機関の公開データや著作権法に基づき、適切な引用の範囲内で使用しております。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9iJddV1eiA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "皇室という光",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【衝撃】えっ、これが眞子さん！？NYでの「へそ出し姿」に批判殺到 #皇室 #雑学",
+          "description": "ご視聴ありがとうございます。\n\n【今回の動画について】\n民間人だし、服装は自由だけどね〜🗽\n※AI画像は一切使用していません。\n\n【チャンネルの理念：皇室という光】\n日本の歴史の根幹であり、私たちの心を温かく照らし続けてくださる皇室。\n当チャンネルでは、万世一系の歩みが紡ぐ麗しき伝統や、皇族方の慈しみ深いエピソードを、深い敬意とともに丁寧にお伝えしています。\n\n日本人として知っておきたい「誇りある文化」を、視聴者の皆様と共に学び、再発見していく場でありたいと願っております。\n\n【ぜひチャンネル登録で応援をお願いします】\n皇室の弥栄（いやさか）を願い、定期的に動画を配信しております。\n応援いただける方は、ぜひ「チャンネル登録」と「高評価」をお願いいたします。\n🔔通知ボタンを押していただくと、最新動画を見逃さずにご覧いただけます。\nhttps://www.youtube.com/channel/UCQX4KXmqfosdWj-cLWcmicg?sub_confirmation=1\n\n【皆様へのお願い】\n当チャンネルのコメント欄は、皇室を敬愛する方々が心地よく集える場にしたいと考えております。\nそのため、皇室への敬意を欠く表現や、他の方を不快にさせる書き込み、公序良俗に反する内容は、管理者の判断により削除させていただく場合がございます。\n温かく、節度ある交流にご協力をお願い申し上げます。\n\n【関連キーワード】\n＃皇室 ＃天皇陛下 ＃日本の伝統 ＃歴史 ＃皇室という光\n\n※動画内で使用している画像・資料は、公的機関の公開データや著作権法に基づき、適切な引用の範囲内で使用しております。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1497106",
+        "likeCount": "19125",
+        "favoriteCount": "0",
+        "commentCount": "3913"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F05Z3hIyf7WL8prsqr1fTWj1aM8",
+      "id": "RbIoaY41cis",
+      "snippet": {
+        "publishedAt": "2026-08-02T11:45:58Z",
+        "channelId": "UCGLmcGnqL5nBaFwqQ2vowGQ",
+        "title": "飼育されているシャチが氷を食べる理由",
+        "description": "海の中で暮らしているのに、シャチはほとんど水を飲まないって知っていましたか？海水を口にしても、飲まずに吐き出してしまうんです。では、いったいどうやって水分を摂っているのでしょうか。そして、なぜ「氷」が大切な役割を果たすのか…。その意外な理由を知れば、きっとあなたもシャチの見方が変わるはずです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RbIoaY41cis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RbIoaY41cis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RbIoaY41cis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RbIoaY41cis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RbIoaY41cis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "星読みフクロウ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "飼育されているシャチが氷を食べる理由",
+          "description": "海の中で暮らしているのに、シャチはほとんど水を飲まないって知っていましたか？海水を口にしても、飲まずに吐き出してしまうんです。では、いったいどうやって水分を摂っているのでしょうか。そして、なぜ「氷」が大切な役割を果たすのか…。その意外な理由を知れば、きっとあなたもシャチの見方が変わるはずです。"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "769074",
+        "likeCount": "5499",
+        "favoriteCount": "0",
+        "commentCount": "100"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jYIY6hjyGFRKQPiqKjrX_vJuN-c",
+      "id": "kBy0M8ooMOM",
+      "snippet": {
+        "publishedAt": "2026-08-05T09:00:02Z",
+        "channelId": "UCI5xnmGDN5oN0hB4wgc-OIw",
+        "title": "この日だけは楽しみ😂",
+        "description": "学校に動物を連れて行ける日があるって知ってた？😂\nアメリカの「ペットデー」が自由すぎる！\n\n#YouTubeショート #ペットデー #海外文化 #アメリカ生活 #学校 #動物好き #犬 #カピバラ #インコ #ハムスター #癒し #面白い動画 #海外の反応 #バズ動画 #ショート #おすすめ #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kBy0M8ooMOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "教えてショート",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "この日だけは楽しみ😂",
+          "description": "学校に動物を連れて行ける日があるって知ってた？😂\nアメリカの「ペットデー」が自由すぎる！\n\n#YouTubeショート #ペットデー #海外文化 #アメリカ生活 #学校 #動物好き #犬 #カピバラ #インコ #ハムスター #癒し #面白い動画 #海外の反応 #バズ動画 #ショート #おすすめ #shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "399341",
+        "likeCount": "13201",
+        "favoriteCount": "0",
+        "commentCount": "156"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GRSvUNgqXSR9t_mqJgzWA2PUbt4",
+      "id": "9Arew8BXD-8",
+      "snippet": {
+        "publishedAt": "2026-08-02T12:28:57Z",
+        "channelId": "UCi5pk0b6YpXwcq3Y7BfkV7w",
+        "title": "#おんぶ猫ムロ　おんぶが大好き",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Arew8BXD-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "おんぶ猫ムロ:元野良猫からおんぶ猫に",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "#おんぶ猫ムロ　おんぶが大好き",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1218450",
+        "likeCount": "35694",
+        "favoriteCount": "0",
+        "commentCount": "850"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U_-uGEDWhb-pZ2xpIzIwdA5ZnbA",
+      "id": "F1KDgsKvdeY",
+      "snippet": {
+        "publishedAt": "2026-08-03T03:00:36Z",
+        "channelId": "UCzPJLIRDZCGAGyVDkCnlTcQ",
+        "title": "人間を初めて見たシカが選んだ意外な行動",
+        "description": "#1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F1KDgsKvdeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F1KDgsKvdeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F1KDgsKvdeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F1KDgsKvdeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F1KDgsKvdeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "一分オタク",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "人間を初めて見たシカが選んだ意外な行動",
+          "description": "#1"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "853206",
+        "likeCount": "28225",
+        "favoriteCount": "0",
+        "commentCount": "461"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "npqI-4SdGxjn4pP0UwUscWRh94k",
+      "id": "qhE-usCb_8c",
+      "snippet": {
+        "publishedAt": "2026-08-01T04:45:17Z",
+        "channelId": "UCSYpbT_erK0Wvga0UPHdAeA",
+        "title": "雑に洗われてたアザラシ見て",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qhE-usCb_8c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "アニマルランド",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "雑に洗われてたアザラシ見て",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "870473",
+        "likeCount": "7744",
+        "favoriteCount": "0",
+        "commentCount": "241"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "85yNx6IyICkkz8a_ZhIaTU11X5U",
       "id": "lQR2h80jb8I",
       "snippet": {
         "publishedAt": "2026-08-05T12:00:21Z",
@@ -3206,10 +2493,697 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "16600003",
-        "likeCount": "234316",
+        "viewCount": "25715423",
+        "likeCount": "348775",
         "favoriteCount": "0",
-        "commentCount": "248"
+        "commentCount": "347"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tv8v7-2eKKMN01EGpCU-KdXiRds",
+      "id": "LhqhjiPMsZs",
+      "snippet": {
+        "publishedAt": "2026-08-02T09:00:39Z",
+        "channelId": "UCiZdDdpVIOFCGTdNoIQkAZg",
+        "title": "蜂の巣解体したらヤバいのでた…🐝",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LhqhjiPMsZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "マイコちゃん[MAIKO]",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "蜂の巣解体したらヤバいのでた…🐝",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1642178",
+        "likeCount": "29679",
+        "favoriteCount": "0",
+        "commentCount": "322"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G1QBS8V7qE8LGyI_lpta97jBaGE",
+      "id": "YTZyzd723Ds",
+      "snippet": {
+        "publishedAt": "2026-08-05T12:54:52Z",
+        "channelId": "UCndKvxIYaT4qPT-X7AJOsig",
+        "title": "昆虫採取したよ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTZyzd723Ds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "コスプレ彼女のいる生活",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "昆虫採取したよ",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "598258",
+        "likeCount": "4697",
+        "favoriteCount": "0",
+        "commentCount": "99"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "p4HzCAXJVSnxd1pPd_7N7Erk5bM",
+      "id": "CgG1IQtonSg",
+      "snippet": {
+        "publishedAt": "2026-07-31T07:09:00Z",
+        "channelId": "UCqhLS1cLN-CC4u3F6iqAmiQ",
+        "title": "世界でバズった虫の成長変化の瞬間TOP5",
+        "description": "世界で見られた「虫や生き物の成長の瞬間」TOP5まとめです！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CgG1IQtonSg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ほんの1分",
+        "tags": [
+          "成長過程",
+          "カブトムシ",
+          "サソリ",
+          "カタツムリ",
+          "ナナフシ",
+          "蛾",
+          "ハプニング",
+          "衝撃映像",
+          "リアクション",
+          "ランキング",
+          "神回",
+          "暇つぶし",
+          "世界の衝撃映像"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "世界でバズった虫の成長変化の瞬間TOP5",
+          "description": "世界で見られた「虫や生き物の成長の瞬間」TOP5まとめです！"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2298620",
+        "likeCount": "54445",
+        "favoriteCount": "0",
+        "commentCount": "1653"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "K-UufHS4LcKZij9ph6Vi21R-zSM",
+      "id": "nyXxgr7IY_s",
+      "snippet": {
+        "publishedAt": "2026-07-25T21:00:28Z",
+        "channelId": "UC-2EYCMALNu_jX6IjbuGzMw",
+        "title": "愛犬の口から出た２本の足",
+        "description": "愛犬が小動物を咥え、助けた動画を独自の解釈で編集したものです。\n\n以下引用ですが元ですので、ぜひご覧ください。\n\n【引用元】\nThe Dodo　さん\n\n【引用元動画】\nWoman Sees Tiny Legs Sticking Out Of Her Dog's Mouth | The Dodo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nyXxgr7IY_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "笑っていればなんとかなる",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "愛犬の口から出た２本の足",
+          "description": "愛犬が小動物を咥え、助けた動画を独自の解釈で編集したものです。\n\n以下引用ですが元ですので、ぜひご覧ください。\n\n【引用元】\nThe Dodo　さん\n\n【引用元動画】\nWoman Sees Tiny Legs Sticking Out Of Her Dog's Mouth | The Dodo"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3778662",
+        "likeCount": "43317",
+        "favoriteCount": "0",
+        "commentCount": "181"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KF0APJ8ACZWPp9N6oMigKAiLTWU",
+      "id": "jmsFHqhA8r4",
+      "snippet": {
+        "publishedAt": "2026-07-27T02:42:16Z",
+        "channelId": "UCuDZ295gujvylOBHLrttO-A",
+        "title": "ミーアキャットは楽勝なのに象はびくともしない理由",
+        "description": "動物たちの実際の筋力を体感できる体験マシンで、成人男性が力比べに挑戦！ミーアキャットとチンパンジーは余裕で引けたけど、トラからは全力を出しても全然ダメで、ゾウに至っては全く動かないという圧倒的な差を見せつけられました\n\n#動物の筋力 #力比べ #ゾウパワー #トラの力 #動物園体験 #AnimalStrength #TugOfWar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jmsFHqhA8r4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오! 골프",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ミーアキャットは楽勝なのに象はびくともしない理由",
+          "description": "動物たちの実際の筋力を体感できる体験マシンで、成人男性が力比べに挑戦！ミーアキャットとチンパンジーは余裕で引けたけど、トラからは全力を出しても全然ダメで、ゾウに至っては全く動かないという圧倒的な差を見せつけられました\n\n#動物の筋力 #力比べ #ゾウパワー #トラの力 #動物園体験 #AnimalStrength #TugOfWar"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2396479",
+        "likeCount": "21847",
+        "favoriteCount": "0",
+        "commentCount": "542"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P8ePP81xDp3kTgLyJOW2VkX5_RQ",
+      "id": "DPEqycSlRAc",
+      "snippet": {
+        "publishedAt": "2026-08-04T01:00:27Z",
+        "channelId": "UCOXcNCqj4s0XXk_Vx2UYMNg",
+        "title": "ビリヤード場の売上が倍になった理由",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DPEqycSlRAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DPEqycSlRAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DPEqycSlRAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DPEqycSlRAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DPEqycSlRAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ピンククジラ",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ビリヤード場の売上が倍になった理由",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "378659",
+        "likeCount": "7786",
+        "favoriteCount": "0",
+        "commentCount": "135"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FumDcFLKuppbRDvgewX6TzmU3E0",
+      "id": "e_IhqLynvXc",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:41:07Z",
+        "channelId": "UCVCVCeYcqnGT_gGLXfrHJBw",
+        "title": "ダニを食べるだけで助け合い！？ 動物たちの賢い生存戦略とは！？  #イボイノシシ #マングース #動物の共生 #野生動物の生態 #自然界の不思議",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e_IhqLynvXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e_IhqLynvXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e_IhqLynvXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e_IhqLynvXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e_IhqLynvXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kenzy Denney",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "ダニを食べるだけで助け合い！？ 動物たちの賢い生存戦略とは！？  #イボイノシシ #マングース #動物の共生 #野生動物の生態 #自然界の不思議",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "208850",
+        "likeCount": "1321",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GCY7_ro6XcNsdwOVgJfMF5iGaHc",
+      "id": "Iy38QM4ILIs",
+      "snippet": {
+        "publishedAt": "2026-08-05T15:15:38Z",
+        "channelId": "UC2tYLD5du9Wf6ZdvlwzDN_A",
+        "title": "The Craziest Surface Lure for Big Pike? 😱 🐍 3D Snake #SavageGear #fishing  #3DSnake",
+        "description": "The 3D Snake in action. 🐍💥 Sometimes the most unusual prey creates the biggest bites. 🎣\n\nDesigned for explosive topwater strikes, the Savage Gear 3D Snake delivers a unique surface presentation with its realistic snake profile, lifelike movement and irresistible side to side action.\n\nPerfect for fishing shallow areas, around cover, or anywhere big pike are hunting for an easy meal. A struggling snake on the surface is a high value target, and when a predator commits, the result can be absolutely brutal. 🐊🔥\n\nSlow it down, let it pause, and watch the surface come alive. The 3D Snake is built to trigger aggressive pike attacks when nothing else works.\n\n#savagegear #3dsnake #pikefishing #topwater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Savage Gear",
+        "tags": [
+          "Savage Gear",
+          "Pike",
+          "fishing",
+          "predator",
+          "3d snake",
+          "savage gear snake",
+          "pike snake",
+          "topwater",
+          "surface",
+          "pike lures",
+          "topwater fishing",
+          "lure fishing",
+          "3d lure",
+          "3d scan",
+          "real snake",
+          "angler life",
+          "predator fishing",
+          "angeln",
+          "bester köder",
+          "best lure",
+          "fishing lures",
+          "monster pike",
+          "surface fishing",
+          "big pike",
+          "esox"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Craziest Surface Lure for Big Pike? 😱 🐍 3D Snake #SavageGear #fishing  #3DSnake",
+          "description": "The 3D Snake in action. 🐍💥 Sometimes the most unusual prey creates the biggest bites. 🎣\n\nDesigned for explosive topwater strikes, the Savage Gear 3D Snake delivers a unique surface presentation with its realistic snake profile, lifelike movement and irresistible side to side action.\n\nPerfect for fishing shallow areas, around cover, or anywhere big pike are hunting for an easy meal. A struggling snake on the surface is a high value target, and when a predator commits, the result can be absolutely brutal. 🐊🔥\n\nSlow it down, let it pause, and watch the surface come alive. The 3D Snake is built to trigger aggressive pike attacks when nothing else works.\n\n#savagegear #3dsnake #pikefishing #topwater"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6366641",
+        "likeCount": "50565",
+        "favoriteCount": "0",
+        "commentCount": "149"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gi_fMQ6tetbDZTmq-FCSOqLkJww",
+      "id": "v7V-ARALkKY",
+      "snippet": {
+        "publishedAt": "2026-08-03T18:40:29Z",
+        "channelId": "UCsy7XmIL8NSsP3h3TW-3oMQ",
+        "title": "【本人は本気】小犬を発見したと思ったら【2ch面白いスレ】",
+        "description": "【2ch・5ch面白スレ】等を中心にエンタメ系short動画1〜3本毎日18時〜23時頃に投稿中🦊\nチャンネル登録して最新の動画を今すぐチェック‼︎\n\nお仕事の依頼はこちらから\n【 メールアドレス 】：ronronyt2011＠gmail.com\nスポンサー及び案件募集中\n\nYouTube：＠ロンロンの天秤\nInstagram：＠ronron _tenbin\nTikTok：＠ronron _tenbin\n\n当チャンネルは2chや5chの記事、実際に起こったとされる出来事、ニュースや動画などで報じられた内容をもとに制作しています！\nただし、中には真偽不明のものや誇張されたものも含まれている可能性があります。\n※使用許可申請済み\n※画像は全てイメージです\n※動画は全て国内・海外サイトを参考にしています。\n\nVOICEVOX:剣崎雌雄/ナースロボ＿タイプＴ/白上虎太郎/ずんだもん/麒ヶ島宗麟/†聖騎士紅桜†/青山龍星/春日部つむぎ/ちび式じい/もち子さん(cv明日葉よもぎ)/四国めたん/黒沢冴白/雀松朱司/玄野武宏/猫使ビィ\n\n#2ch \n#2ch面白いスレ \n#5ch \n#ジョーク \n#面白い\n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v7V-ARALkKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ロンロンの天秤ニカケルch",
+        "tags": [
+          "ロンロン",
+          "ブラックジョーク",
+          "アメリカンジョーク",
+          "ジョーク",
+          "冗談",
+          "２ch",
+          "ブラックジョーク集",
+          "日本",
+          "頭いい",
+          "jokes",
+          "Japan",
+          "ショート",
+          "面白すぎ",
+          "アメリカンジョーク集",
+          "5ch",
+          "面白コピペ",
+          "2ちゃんねる",
+          "5ちゃんねる"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【本人は本気】小犬を発見したと思ったら【2ch面白いスレ】",
+          "description": "【2ch・5ch面白スレ】等を中心にエンタメ系short動画1〜3本毎日18時〜23時頃に投稿中🦊\nチャンネル登録して最新の動画を今すぐチェック‼︎\n\nお仕事の依頼はこちらから\n【 メールアドレス 】：ronronyt2011＠gmail.com\nスポンサー及び案件募集中\n\nYouTube：＠ロンロンの天秤\nInstagram：＠ronron _tenbin\nTikTok：＠ronron _tenbin\n\n当チャンネルは2chや5chの記事、実際に起こったとされる出来事、ニュースや動画などで報じられた内容をもとに制作しています！\nただし、中には真偽不明のものや誇張されたものも含まれている可能性があります。\n※使用許可申請済み\n※画像は全てイメージです\n※動画は全て国内・海外サイトを参考にしています。\n\nVOICEVOX:剣崎雌雄/ナースロボ＿タイプＴ/白上虎太郎/ずんだもん/麒ヶ島宗麟/†聖騎士紅桜†/青山龍星/春日部つむぎ/ちび式じい/もち子さん(cv明日葉よもぎ)/四国めたん/黒沢冴白/雀松朱司/玄野武宏/猫使ビィ\n\n#2ch \n#2ch面白いスレ \n#5ch \n#ジョーク \n#面白い\n#shorts"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "461894",
+        "likeCount": "21422",
+        "favoriteCount": "0",
+        "commentCount": "308"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mQfgM0enFLsRIjbozzBpafM5ALI",
+      "id": "hnKVftMSGQY",
+      "snippet": {
+        "publishedAt": "2026-08-08T13:38:27Z",
+        "channelId": "UCRnb7Aa4uMkBTm3DEazd4gg",
+        "title": "#映画紹介 #映画 #映画解説",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hnKVftMSGQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hnKVftMSGQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hnKVftMSGQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hnKVftMSGQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hnKVftMSGQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "切ない劇場",
+        "tags": [
+          "映画",
+          "映画解説",
+          "映画紹介",
+          "映画red"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "#映画紹介 #映画 #映画解説",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "204090",
+        "likeCount": "2461",
+        "favoriteCount": "0",
+        "commentCount": "29"
       }
     }
   ],

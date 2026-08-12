@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "BKmKdZ2LYmi8qsQitkqzo2afnvA",
+  "etag": "mjebyvCGg8G4SssIEsDxr6NVht8",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "PmxFlM7xUxegyPT99wr-yKZCVTo",
+      "etag": "HDs0TvK4efENASawm4wUaih2qw0",
       "id": "O-x2TpmHii0",
       "snippet": {
         "publishedAt": "2026-08-03T15:30:37Z",
@@ -58,15 +58,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "35226880",
-        "likeCount": "860299",
+        "viewCount": "41122499",
+        "likeCount": "966444",
         "favoriteCount": "0",
-        "commentCount": "8866"
+        "commentCount": "9873"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "YGNZEOr5LScOxkgtmH4oWGXs8zk",
+      "etag": "pS6g-CHZUvapRle_ERPSUYnnqRw",
+      "id": "VMlJxtlGkb4",
+      "snippet": {
+        "publishedAt": "2026-08-10T19:18:05Z",
+        "channelId": "UCwtSxrvoxgoMKNwuj-eLSIg",
+        "title": "How Did The PUPPIES In Spider-Man: Brand New Day Act So Well?! 📉😱 | #Shorts",
+        "description": "Deconstructing the incredible practical animal training and canine behavioral choreography used to create the flawless, natural performances of the puppies in Spider-Man: Brand New Day! 🕵️\u200d♀️ Dissecting the behind-the-scenes rehearsals on the New York street sets, analyzing canine micro-expressions, and tracking practical effects versus animal welfare archives. Brought to you by Cine Vault YT. 📉\n\nCredits:\nSony Pictures Entertainment / Marvel Studios production archives, animal training logs, and multi-platform comedic animal edits. Commentary and analysis transformed under Fair Use.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VMlJxtlGkb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VMlJxtlGkb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VMlJxtlGkb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VMlJxtlGkb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VMlJxtlGkb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cine Vault YT",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "How Did The PUPPIES In Spider-Man: Brand New Day Act So Well?! 📉😱 | #Shorts",
+          "description": "Deconstructing the incredible practical animal training and canine behavioral choreography used to create the flawless, natural performances of the puppies in Spider-Man: Brand New Day! 🕵️\u200d♀️ Dissecting the behind-the-scenes rehearsals on the New York street sets, analyzing canine micro-expressions, and tracking practical effects versus animal welfare archives. Brought to you by Cine Vault YT. 📉\n\nCredits:\nSony Pictures Entertainment / Marvel Studios production archives, animal training logs, and multi-platform comedic animal edits. Commentary and analysis transformed under Fair Use."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3799602",
+        "likeCount": "77834",
+        "favoriteCount": "0",
+        "commentCount": "399"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NbTFxhhEGeTKqkLfXaUJuT5iHG4",
+      "id": "5MYaC-RO10Q",
+      "snippet": {
+        "publishedAt": "2026-08-09T12:30:05Z",
+        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
+        "title": "How Comfort Zones Trap You 😵",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5MYaC-RO10Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5MYaC-RO10Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5MYaC-RO10Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5MYaC-RO10Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5MYaC-RO10Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zack D. Films",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Comfort Zones Trap You 😵",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4935148",
+        "likeCount": "460361",
+        "favoriteCount": "0",
+        "commentCount": "4312"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zwfm3weF1zAoU-vEWZ2Gq2vWMUE",
       "id": "hzCtfpwoDiw",
       "snippet": {
         "publishedAt": "2026-08-06T22:27:21Z",
@@ -107,8 +231,7 @@
         "localized": {
           "title": "They both know they are babies 🥹🥹 #cat #movelycat #catshorts #funny #pets",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT15S",
@@ -120,54 +243,325 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3870786",
-        "likeCount": "241071",
+        "viewCount": "5360514",
+        "likeCount": "359054",
         "favoriteCount": "0",
-        "commentCount": "323"
+        "commentCount": "615"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Or5GAjKmYN-uLaFtEfiwAlR1cts",
-      "id": "00KyVjlFcwQ",
+      "etag": "VTS63oH4YAKfZ0SxDXOYgYGugk4",
+      "id": "6y-jzeRVkdM",
       "snippet": {
-        "publishedAt": "2026-08-02T18:17:20Z",
-        "channelId": "UCd0Kx_IGV3JZICtRvxt9d8w",
-        "title": "I guess we have matching bobs #bobs #honandfam",
-        "description": "",
+        "publishedAt": "2026-08-11T22:00:05Z",
+        "channelId": "UC73sF-7Ihcs1HpnXEEXZ2ew",
+        "title": "I love this trend",
+        "description": "Brooke Monk Socials:\nFanfix: https://app.fanfix.io/@brookemonk\nInstagram: https://instagram.com/brookemonk\nTikTok: https://tiktok.com/@brookemonk_\nSnapchat: brookemonk",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/6y-jzeRVkdM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6y-jzeRVkdM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6y-jzeRVkdM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/6y-jzeRVkdM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6y-jzeRVkdM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Hon & Fam",
-        "categoryId": "24",
+        "channelTitle": "Brooke Monk",
+        "tags": [
+          "Brooke Monk",
+          "brook monk",
+          "brooke",
+          "tiktok",
+          "influencer",
+          "tiktok influencer",
+          "brooke monk tiktok",
+          "Brooke monk christian",
+          "Brooke monk tiktok",
+          "Brooke monk boyfriend",
+          "Brooke monk age",
+          "instagram influencer",
+          "Brooke Monk instagram",
+          "Brooke Monk beauty",
+          "Brooke Monk hair"
+        ],
+        "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "es",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "I guess we have matching bobs #bobs #honandfam",
+          "title": "I love this trend",
+          "description": "Brooke Monk Socials:\nFanfix: https://app.fanfix.io/@brookemonk\nInstagram: https://instagram.com/brookemonk\nTikTok: https://tiktok.com/@brookemonk_\nSnapchat: brookemonk"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2580314",
+        "likeCount": "120024",
+        "favoriteCount": "0",
+        "commentCount": "849"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WX7fCJiSMVlUimBg8N310w4i1Vc",
+      "id": "vJOsKmtr7CI",
+      "snippet": {
+        "publishedAt": "2026-08-08T17:30:12Z",
+        "channelId": "UCGrIiKrVgxWKyn0LXlMSUZg",
+        "title": "Random Dog Ruins Owners Day...",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "streetflicks",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Random Dog Ruins Owners Day...",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2871197",
+        "likeCount": "79900",
+        "favoriteCount": "0",
+        "commentCount": "304"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UtY9r5X09o7QopA7HxVx9P8KBlY",
+      "id": "8_Wsi5GkZUw",
+      "snippet": {
+        "publishedAt": "2026-08-11T10:37:25Z",
+        "channelId": "UCabt-wt5e4qz-nWwpFREIiQ",
+        "title": "SAFE TO SAY THIS DIDNT END WELL.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_Wsi5GkZUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_Wsi5GkZUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_Wsi5GkZUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8_Wsi5GkZUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8_Wsi5GkZUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kirra Lee",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "SAFE TO SAY THIS DIDNT END WELL.",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1427272",
+        "likeCount": "24395",
+        "favoriteCount": "0",
+        "commentCount": "917"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NWgYJDyeTA0azgWR_TfVfp2OXjs",
+      "id": "vgy_IbegP40",
+      "snippet": {
+        "publishedAt": "2026-08-10T20:31:37Z",
+        "channelId": "UCaCLfRkBtQAszVzznCt-DoA",
+        "title": "\"she just had her first ever baby\" \"it's another little boy\" 😭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vgy_IbegP40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vgy_IbegP40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vgy_IbegP40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vgy_IbegP40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vgy_IbegP40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KittyCuddleTV",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "\"she just had her first ever baby\" \"it's another little boy\" 😭",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1786935",
+        "likeCount": "121324",
+        "favoriteCount": "0",
+        "commentCount": "607"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_OVLpczHKt8Tk7pmhtAvSDRTRWI",
+      "id": "EqZxiYDMZKM",
+      "snippet": {
+        "publishedAt": "2026-08-06T22:06:20Z",
+        "channelId": "UCbI1D3JTpps5DqD4OOrtNZQ",
+        "title": "nooo hoop” “hm?” “Go Hoop” “down?” “No hoop” “hoop?” “Hoop” “oh..” 🐶😂 #dog #dogshorts #dogvideos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Doggozdose",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "nooo hoop” “hm?” “Go Hoop” “down?” “No hoop” “hoop?” “Hoop” “oh..” 🐶😂 #dog #dogshorts #dogvideos",
           "description": ""
         }
       },
@@ -181,15 +575,385 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "13548244",
-        "likeCount": "122911",
+        "viewCount": "3140759",
+        "likeCount": "230767",
         "favoriteCount": "0",
-        "commentCount": "1152"
+        "commentCount": "792"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xXrzX36WZOsorXgr6j1cX722HDQ",
+      "etag": "k7vLarRFLKMhC10JDHKf6NZeRrQ",
+      "id": "VuCtDXvDijk",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:16:26Z",
+        "channelId": "UCNjylxUXyOUnVnZMDXsufag",
+        "title": "surprise gift🥰💝🩷 #pet #cat #dog #cute #animals #foryou #type",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VuCtDXvDijk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VuCtDXvDijk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuCtDXvDijk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VuCtDXvDijk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VuCtDXvDijk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aloys Rove",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "surprise gift🥰💝🩷 #pet #cat #dog #cute #animals #foryou #type",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2499052",
+        "likeCount": "76142",
+        "favoriteCount": "0",
+        "commentCount": "367"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LAO60nbkWeUMqKs2ktCLpIlz7rU",
+      "id": "XwlXqud2ZGw",
+      "snippet": {
+        "publishedAt": "2026-08-11T19:41:37Z",
+        "channelId": "UCYdlyr1P-xGpOZ98Rk6u70w",
+        "title": "No such thing as “not a cat person” 😊 #cats #catsofyoutube #catvideos #funnycats #catshorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XwlXqud2ZGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XwlXqud2ZGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XwlXqud2ZGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XwlXqud2ZGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XwlXqud2ZGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jared_and_Milo",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "No such thing as “not a cat person” 😊 #cats #catsofyoutube #catvideos #funnycats #catshorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2065501",
+        "likeCount": "112719",
+        "favoriteCount": "0",
+        "commentCount": "377"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bjtxqqQrUBtTg4TpAEEn_MoABl0",
+      "id": "a2M4sufzCgM",
+      "snippet": {
+        "publishedAt": "2026-08-11T01:44:40Z",
+        "channelId": "UCbeHOizg0Y41o6KxJrFmSag",
+        "title": "old clips of Taylor being annoyed withher mom's dog #taylorswift #traviskelce#cats #swifties #tayvis",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2M4sufzCgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2M4sufzCgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2M4sufzCgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a2M4sufzCgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a2M4sufzCgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DSWIFTTEA",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "old clips of Taylor being annoyed withher mom's dog #taylorswift #traviskelce#cats #swifties #tayvis",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "967359",
+        "likeCount": "27896",
+        "favoriteCount": "0",
+        "commentCount": "131"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vrgOjKuJFUfJv_Mak-TNjFFNjus",
+      "id": "sZvl4UD1cCY",
+      "snippet": {
+        "publishedAt": "2026-08-10T01:30:10Z",
+        "channelId": "UCFSPyTDChWbOn7zvoa_xG_g",
+        "title": "Joggers Panic When a Dog Runs Toward Them…",
+        "description": "#shorts #tensionspot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZvl4UD1cCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZvl4UD1cCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZvl4UD1cCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZvl4UD1cCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZvl4UD1cCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TensionSpot",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Joggers Panic When a Dog Runs Toward Them…",
+          "description": "#shorts #tensionspot"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1178229",
+        "likeCount": "56446",
+        "favoriteCount": "0",
+        "commentCount": "503"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VS9AK4MPyBTp3FNQtqTMAVW1R8o",
+      "id": "SUkNzjst0IA",
+      "snippet": {
+        "publishedAt": "2026-08-06T21:54:48Z",
+        "channelId": "UCacHfrKcJPdC-ItW5c8PZzw",
+        "title": "When Your Dog Races You Home…",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUkNzjst0IA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUkNzjst0IA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUkNzjst0IA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUkNzjst0IA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUkNzjst0IA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Patrol POV",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "When Your Dog Races You Home…",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2466191",
+        "likeCount": "68053",
+        "favoriteCount": "0",
+        "commentCount": "377"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qTIf5UCtNu4SU8AsIyRX72KGPek",
+      "id": "8TWVlUEvSAM",
+      "snippet": {
+        "publishedAt": "2026-08-07T13:09:17Z",
+        "channelId": "UCNh6j5-OchjgkgFliNCirSg",
+        "title": "When a Mountain Goat Greets a Hiker at the Top of a Mountain...",
+        "description": "Credits to kevindication YT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8TWVlUEvSAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8TWVlUEvSAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8TWVlUEvSAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8TWVlUEvSAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8TWVlUEvSAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DropTactics",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "When a Mountain Goat Greets a Hiker at the Top of a Mountain...",
+          "description": "Credits to kevindication YT"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1051602",
+        "likeCount": "53394",
+        "favoriteCount": "0",
+        "commentCount": "546"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2ii0BsI2JLPUrnXeWZhQPoiYNyA",
       "id": "RrPdYS87HL4",
       "snippet": {
         "publishedAt": "2026-08-04T18:00:21Z",
@@ -243,59 +1007,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "6069777",
-        "likeCount": "514857",
+        "viewCount": "8243976",
+        "likeCount": "676695",
         "favoriteCount": "0",
-        "commentCount": "4337"
+        "commentCount": "5620"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CKrQFwWd3XhEcb2WVLlI2mqr8Jk",
-      "id": "0IBk5tbviEg",
+      "etag": "fjYGZ7euUhCOdc7_LlvNs1chjeQ",
+      "id": "LZ5sx7wePYA",
       "snippet": {
-        "publishedAt": "2026-08-02T21:16:56Z",
-        "channelId": "UCNh6j5-OchjgkgFliNCirSg",
-        "title": "When a Dog and Its Owner Encountered 2 Foxes in the Middle of Nowhere...",
-        "description": "",
+        "publishedAt": "2026-08-09T10:00:02Z",
+        "channelId": "UCWsiAFdrPfAB7rkeJ6jNHrA",
+        "title": "She can understand what animals are saying🤣|Dr.Dolittle | Rather be (0.8x)#shorts",
+        "description": "Dr. Dolittle’s daughter, Maya, also inherited the gift of talking to animals, but this ability didn’t bring her happiness—instead, it made her an “oddball” at school. To help her regain her self-confidence, she was sent to spend the summer at a farm in the countryside. 🏕️\nMovie i used for edit: \"Dr.Dolittle.Million.Dollar.Mutts\".\nMusic:  Rather be (0.8x)\nProgram for editing: Adobe Premiere Pro |Adobe After Effects \n\n© Copyright\n\nAll the videos, songs, images, and graphics used in the video belong to their respective owners and I or this channel don't claim any rights over them.\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\n\nThanks For Watching!!!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0IBk5tbviEg/default.jpg",
+            "url": "https://i.ytimg.com/vi/LZ5sx7wePYA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0IBk5tbviEg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LZ5sx7wePYA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0IBk5tbviEg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LZ5sx7wePYA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0IBk5tbviEg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/LZ5sx7wePYA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0IBk5tbviEg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LZ5sx7wePYA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "DropTactics",
-        "categoryId": "24",
+        "channelTitle": "Honat zco",
+        "categoryId": "1",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "When a Dog and Its Owner Encountered 2 Foxes in the Middle of Nowhere...",
-          "description": ""
-        }
+          "title": "She can understand what animals are saying🤣|Dr.Dolittle | Rather be (0.8x)#shorts",
+          "description": "Dr. Dolittle’s daughter, Maya, also inherited the gift of talking to animals, but this ability didn’t bring her happiness—instead, it made her an “oddball” at school. To help her regain her self-confidence, she was sent to spend the summer at a farm in the countryside. 🏕️\nMovie i used for edit: \"Dr.Dolittle.Million.Dollar.Mutts\".\nMusic:  Rather be (0.8x)\nProgram for editing: Adobe Premiere Pro |Adobe After Effects \n\n© Copyright\n\nAll the videos, songs, images, and graphics used in the video belong to their respective owners and I or this channel don't claim any rights over them.\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\n\nThanks For Watching!!!"
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT19S",
+        "duration": "PT1M55S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -304,183 +1069,122 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4286509",
-        "likeCount": "215242",
+        "viewCount": "2264307",
+        "likeCount": "125034",
         "favoriteCount": "0",
-        "commentCount": "772"
+        "commentCount": "209"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0SgS92FDow_PwzWmxPulLNWlojk",
-      "id": "EqZxiYDMZKM",
+      "etag": "hV-mgh6f73zYgbbhRrJCrG6OtD8",
+      "id": "-YEa9f0o3cs",
       "snippet": {
-        "publishedAt": "2026-08-06T22:06:20Z",
-        "channelId": "UCbI1D3JTpps5DqD4OOrtNZQ",
-        "title": "nooo hoop” “hm?” “Go Hoop” “down?” “No hoop” “hoop?” “Hoop” “oh..” 🐶😂 #dog #dogshorts #dogvideos",
+        "publishedAt": "2026-08-03T20:38:22Z",
+        "channelId": "UC2EFWEct82cQiwmGRXE57Uw",
+        "title": "Funny Dog #dog",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/default.jpg",
+            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/EqZxiYDMZKM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Doggozdose",
+        "channelTitle": "Textoral",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "nooo hoop” “hm?” “Go Hoop” “down?” “No hoop” “hoop?” “Hoop” “oh..” 🐶😂 #dog #dogshorts #dogvideos",
+          "title": "Funny Dog #dog",
           "description": ""
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT13S",
+        "duration": "PT21S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1981104",
-        "likeCount": "123600",
+        "viewCount": "3864708",
+        "likeCount": "135434",
         "favoriteCount": "0",
-        "commentCount": "444"
+        "commentCount": "214"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lOARG1ZHn1YP2lTyX5zrpZziOeE",
-      "id": "M1pOeiAOx28",
+      "etag": "YPSdw6XKYCf3868fTI67IGCJEIk",
+      "id": "QZNma2MZ4Ss",
       "snippet": {
-        "publishedAt": "2026-08-01T22:30:39Z",
-        "channelId": "UCWlAaJz_Tci7Vp3sm8kaKug",
-        "title": "Come back to me smelling like a fresh hot baked Frito bag🥺 #dog #dogshorts #dogvideos",
-        "description": "",
+        "publishedAt": "2026-08-10T10:33:54Z",
+        "channelId": "UCcPv7W5EkzsudryBZTxQqvA",
+        "title": "Cane Corso Puppy Meets Savannah Cats for the First Time 🐶🐱❤️",
+        "description": "The Savannah cats were nervous at first, but soon realized the Cane Corso puppy was harmless. 🥹❤️\n\n⚠️ Fair Use Notice:\nThis content is shared under Fair Use for storytelling, awareness, and educational purposes. All original clips belong to their respective owners.\n\n🐾 Disclaimer:\nAll animals shown are safe, supervised, loved, and treated with care.\n\n#CaneCorso #SavannahCat #DogsAndCats #CuteAnimals #shorts",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/default.jpg",
+            "url": "https://i.ytimg.com/vi/QZNma2MZ4Ss/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZNma2MZ4Ss/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZNma2MZ4Ss/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZNma2MZ4Ss/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZNma2MZ4Ss/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Doggosbuzz🐶",
-        "categoryId": "22",
+        "channelTitle": "SIX STAR-S",
+        "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Come back to me smelling like a fresh hot baked Frito bag🥺 #dog #dogshorts #dogvideos",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT13S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4292274",
-        "likeCount": "140444",
-        "favoriteCount": "0",
-        "commentCount": "860"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "7glFwG6wknbRpVRy50g5b4ks94M",
-      "id": "3hnRfdQvWjw",
-      "snippet": {
-        "publishedAt": "2026-08-05T10:23:30Z",
-        "channelId": "UCw41V23p_2m5qlGjTbxDIxA",
-        "title": "How often does this happen bc u didn’t even flinch 😭",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "catzhubbbi",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How often does this happen bc u didn’t even flinch 😭",
-          "description": ""
+          "title": "Cane Corso Puppy Meets Savannah Cats for the First Time 🐶🐱❤️",
+          "description": "The Savannah cats were nervous at first, but soon realized the Cane Corso puppy was harmless. 🥹❤️\n\n⚠️ Fair Use Notice:\nThis content is shared under Fair Use for storytelling, awareness, and educational purposes. All original clips belong to their respective owners.\n\n🐾 Disclaimer:\nAll animals shown are safe, supervised, loved, and treated with care.\n\n#CaneCorso #SavannahCat #DogsAndCats #CuteAnimals #shorts"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT14S",
+        "duration": "PT23S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -489,59 +1193,58 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1722139",
-        "likeCount": "121370",
+        "viewCount": "1549373",
         "favoriteCount": "0",
-        "commentCount": "3679"
+        "commentCount": "223"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DVrVFPyzWde3ZCP0Jg7MGk0eMbQ",
-      "id": "HXGHZA7v6rM",
+      "etag": "sR8-ruI6TyB9bVLz4fzWg0VJNGs",
+      "id": "Jke0j6_Z8p4",
       "snippet": {
-        "publishedAt": "2026-08-04T02:41:08Z",
-        "channelId": "UCUdqWtapBx5Et3THb_wfcMw",
-        "title": "A sad story ,but with a happy ending #dog #lostdog #happyend #shorts #fyp",
+        "publishedAt": "2026-08-02T00:26:50Z",
+        "channelId": "UCj5gBDTltD5AITM-Ap2oudQ",
+        "title": "Ranking Cats in Slow Motion 😼",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/default.jpg",
+            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Second Chance Tails",
+        "channelTitle": "Simba Ranks",
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "no",
         "localized": {
-          "title": "A sad story ,but with a happy ending #dog #lostdog #happyend #shorts #fyp",
+          "title": "Ranking Cats in Slow Motion 😼",
           "description": ""
         }
       },
       "contentDetails": {
-        "duration": "PT1M",
+        "duration": "PT34S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -550,59 +1253,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2512198",
-        "likeCount": "84868",
+        "viewCount": "5881803",
+        "likeCount": "147341",
         "favoriteCount": "0",
-        "commentCount": "1606"
+        "commentCount": "2102"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "WHSlwaHGAY4tQmKmmrGVd_y6744",
-      "id": "8YNsUWIFmg4",
+      "etag": "znzEA1EbHoTV_OEO1I5PSiJf70Q",
+      "id": "00KyVjlFcwQ",
       "snippet": {
-        "publishedAt": "2026-08-01T01:05:35Z",
-        "channelId": "UCN8pDbdpLI20LVaC_3oQuVQ",
-        "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
+        "publishedAt": "2026-08-02T18:17:20Z",
+        "channelId": "UCd0Kx_IGV3JZICtRvxt9d8w",
+        "title": "I guess we have matching bobs #bobs #honandfam",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/default.jpg",
+            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/00KyVjlFcwQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Mundos Salvajes",
+        "channelTitle": "Hon & Fam",
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "es",
         "localized": {
-          "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
+          "title": "I guess we have matching bobs #bobs #honandfam",
           "description": ""
         }
       },
       "contentDetails": {
-        "duration": "PT1M",
+        "duration": "PT13S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -611,44 +1314,44 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "47610894",
-        "likeCount": "1207301",
+        "viewCount": "14794741",
+        "likeCount": "130233",
         "favoriteCount": "0",
-        "commentCount": "17274"
+        "commentCount": "1225"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0Mtg64Jvt6qqyirXjNA4ZNeg1-g",
-      "id": "rFfCcbpmJ7Q",
+      "etag": "EY5k6sl5jAuUY2g54azSaH5OWUI",
+      "id": "mxPpHsmrkkE",
       "snippet": {
-        "publishedAt": "2026-08-06T18:25:57Z",
+        "publishedAt": "2026-08-09T18:33:23Z",
         "channelId": "UC9Ot_x8dTdM1Vya8u0T613g",
-        "title": "How is that considered a wing?...",
+        "title": "the first one was creepy😱",
         "description": "#cat #catvideos",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rFfCcbpmJ7Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/mxPpHsmrkkE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rFfCcbpmJ7Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mxPpHsmrkkE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rFfCcbpmJ7Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mxPpHsmrkkE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rFfCcbpmJ7Q/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mxPpHsmrkkE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/rFfCcbpmJ7Q/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mxPpHsmrkkE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -658,13 +1361,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "How is that considered a wing?...",
+          "title": "the first one was creepy😱",
           "description": "#cat #catvideos"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT13S",
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -673,83 +1376,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1843741",
-        "likeCount": "129737",
+        "viewCount": "1482352",
+        "likeCount": "103535",
         "favoriteCount": "0",
-        "commentCount": "184"
+        "commentCount": "187"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "2nPK92VL_mVfzhcAbdAUp8Dqr2w",
-      "id": "Yj6s_uYyZAM",
+      "etag": "9tjbQv7q_eeSrL88kNUlXkPMZHE",
+      "id": "iBl78xKNBM4",
       "snippet": {
-        "publishedAt": "2026-08-04T10:00:00Z",
-        "channelId": "UCjE1-UXvX1HEF2V_XryA_lw",
-        "title": "\"I told you father, that's not a cat\"",
-        "description": "So anyways, enjoy the video!\nThis video is made clearly for entertainment purposes to make your day better. Please drop a subscribe, like the video and put your comments also turning that notifications on so you won't miss the next upload. You can always unsubscribe later. Thanks!\n\nBecome a Member!\nhttps://www.youtube.com/leovannn/join\n\nVisit my other platform!\nTwitter: https://twitter.com/leovannn\nInstagram: https://www.instagram.com/leovannnwastaken/\nTiktok: https://www.tiktok.com/@leovannnwastaken\n\n#memes #viral #funny #humor #fyp",
+        "publishedAt": "2026-08-09T23:23:21Z",
+        "channelId": "UC85YkeBuhN54y7OTOL32EDA",
+        "title": "When you drop your phone in 5 liters of motor oil🙀",
+        "description": "#cat #cats",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/default.jpg",
+            "url": "https://i.ytimg.com/vi/iBl78xKNBM4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iBl78xKNBM4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iBl78xKNBM4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/iBl78xKNBM4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iBl78xKNBM4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Leovannn",
-        "tags": [
-          "memes",
-          "funny",
-          "humor",
-          "funny video",
-          "memes video",
-          "unusual videos",
-          "relatable",
-          "haha",
-          "laugh",
-          "lol",
-          "daily dose of internet",
-          "leovannn",
-          "short memes",
-          "short form memes",
-          "memes with background",
-          "reels",
-          "insta memes",
-          "instagram memes",
-          "best memes",
-          "funny short videos",
-          "funny compilation videos"
-        ],
-        "categoryId": "23",
+        "channelTitle": "ExplainerByAsma",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "sv",
         "localized": {
-          "title": "\"I told you father, that's not a cat\"",
-          "description": "So anyways, enjoy the video!\nThis video is made clearly for entertainment purposes to make your day better. Please drop a subscribe, like the video and put your comments also turning that notifications on so you won't miss the next upload. You can always unsubscribe later. Thanks!\n\nBecome a Member!\nhttps://www.youtube.com/leovannn/join\n\nVisit my other platform!\nTwitter: https://twitter.com/leovannn\nInstagram: https://www.instagram.com/leovannnwastaken/\nTiktok: https://www.tiktok.com/@leovannnwastaken\n\n#memes #viral #funny #humor #fyp"
+          "title": "When you drop your phone in 5 liters of motor oil🙀",
+          "description": "#cat #cats"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT10S",
+        "duration": "PT17S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -758,60 +1438,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3145553",
-        "likeCount": "146290",
+        "viewCount": "1924444",
+        "likeCount": "90398",
         "favoriteCount": "0",
-        "commentCount": "2698"
+        "commentCount": "177"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5Lp0x9JXdArCHCRX5fTdjDD586Q",
-      "id": "-grkeJZL_sE",
+      "etag": "bJKeVZH61WtqqKi3w7QQayc_Dzg",
+      "id": "nAg4wojCXek",
       "snippet": {
-        "publishedAt": "2026-08-03T16:20:28Z",
-        "channelId": "UCr0Vrup4LwpTmTBIOXfZX4g",
-        "title": "Alien FootPrint Caught! 😳",
-        "description": "Cute Cat V/S Black Cat 😺🐈\u200d⬛  Welcome to our CatsYouTube channel #viralcat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cattoon\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #top\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1million\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #reels\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #funny\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1m\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #trend\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #instagram\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #kitten\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #wtf\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4 #relax\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #spiderman\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #philippines\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #myanmar\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #india\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #mexico\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #unitedstates\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cheating\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b A kitten wants to eat some? #aicat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cutecat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4kThanks\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b for Watching my video\n\u200b💬 Scripted, voiced, and edited by me 💻🎙️\n🔁 No reused content | 💯 Original efforts\n🎯 Subscribe for daily Indian fun and creative Shorts!\n📌 #Shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #FunnyShorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #AIwithEffort\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\n👀 Follow for more unique AI-powered storytelling with human touch 🔥\n📌 This video is created for entertainment and educational purposes only.\n📌 All characters, scenes, and voices are AI-generated and do not represent any real person or animal.\n📌 No animals were harmed in the making of this video.\n📌 Content is family-friendly, child-safe, and complies with YouTube's community",
+        "publishedAt": "2026-08-06T13:00:25Z",
+        "channelId": "UCMO-EjiRf8HHDEyeE5JV_Uw",
+        "title": "He just waits to be saved😭",
+        "description": "#whippetdog #sighthound #cutedogs #funnydogs #greyhound",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-grkeJZL_sE/default.jpg",
+            "url": "https://i.ytimg.com/vi/nAg4wojCXek/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-grkeJZL_sE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nAg4wojCXek/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-grkeJZL_sE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nAg4wojCXek/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-grkeJZL_sE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/nAg4wojCXek/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-grkeJZL_sE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nAg4wojCXek/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Dracoco",
-        "categoryId": "24",
+        "channelTitle": "Kayce The Whippet",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Alien FootPrint Caught! 😳",
-          "description": "Cute Cat V/S Black Cat 😺🐈\u200d⬛  Welcome to our CatsYouTube channel #viralcat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cattoon\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #top\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1million\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #reels\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #funny\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1m\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #trend\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #instagram\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #kitten\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #wtf\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4 #relax\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #spiderman\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #philippines\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #myanmar\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #india\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #mexico\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #unitedstates\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cheating\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b A kitten wants to eat some? #aicat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cutecat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4kThanks\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b for Watching my video\n\u200b💬 Scripted, voiced, and edited by me 💻🎙️\n🔁 No reused content | 💯 Original efforts\n🎯 Subscribe for daily Indian fun and creative Shorts!\n📌 #Shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #FunnyShorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #AIwithEffort\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\n👀 Follow for more unique AI-powered storytelling with human touch 🔥\n📌 This video is created for entertainment and educational purposes only.\n📌 All characters, scenes, and voices are AI-generated and do not represent any real person or animal.\n📌 No animals were harmed in the making of this video.\n📌 Content is family-friendly, child-safe, and complies with YouTube's community"
-        },
-        "defaultAudioLanguage": "en"
+          "title": "He just waits to be saved😭",
+          "description": "#whippetdog #sighthound #cutedogs #funnydogs #greyhound"
+        }
       },
       "contentDetails": {
-        "duration": "PT38S",
+        "duration": "PT15S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -820,60 +1499,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "7673173",
-        "likeCount": "494956",
+        "viewCount": "2931953",
+        "likeCount": "118881",
         "favoriteCount": "0",
-        "commentCount": "8612"
+        "commentCount": "737"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QBndyghvLsusx0oudCky9vRiVZE",
-      "id": "wAWgynNr8CE",
+      "etag": "_k4LT2iPlfmHMBSggSxfWbOisbc",
+      "id": "NlELdCyL7G0",
       "snippet": {
-        "publishedAt": "2026-08-04T14:00:20Z",
-        "channelId": "UChC_apOWk6MSl03byUiVZRQ",
-        "title": "Blue Sea Dragon",
+        "publishedAt": "2026-08-11T21:07:57Z",
+        "channelId": "UCz4yHVUr-h86dhA5nfq4HiQ",
+        "title": "First day grwm!! #funny #trending #fyp #viralvideo",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/default.jpg",
+            "url": "https://i.ytimg.com/vi/NlELdCyL7G0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NlELdCyL7G0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NlELdCyL7G0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/NlELdCyL7G0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NlELdCyL7G0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Thomas Mulligan",
-        "categoryId": "28",
+        "channelTitle": "emma & georgia ",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Blue Sea Dragon",
+          "title": "First day grwm!! #funny #trending #fyp #viralvideo",
           "description": ""
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT57S",
+        "duration": "PT1M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -882,15 +1561,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3411948",
-        "likeCount": "167301",
+        "viewCount": "1036198",
+        "likeCount": "78328",
         "favoriteCount": "0",
-        "commentCount": "1640"
+        "commentCount": "1985"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lwLIUurECkzDiqsyDXxvCtjF0ns",
+      "etag": "5a3XNozk8I-gK-FgNvPCw62Yf_s",
+      "id": "lQR2h80jb8I",
+      "snippet": {
+        "publishedAt": "2026-08-05T12:00:21Z",
+        "channelId": "UC0X1dp5Gkhos0QJpainsjUA",
+        "title": "I got Nika a new friend😬 #cat #cats",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Princess Nika cat",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I got Nika a new friend😬 #cat #cats",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "48181549",
+        "likeCount": "634381",
+        "favoriteCount": "0",
+        "commentCount": "594"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4mk-gXyNxESbeIkcnyGt9ZtXkY4",
       "id": "iUCFRojELy0",
       "snippet": {
         "publishedAt": "2026-08-04T10:29:07Z",
@@ -949,121 +1690,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "6705640",
-        "likeCount": "169343",
+        "viewCount": "10674456",
+        "likeCount": "231625",
         "favoriteCount": "0",
-        "commentCount": "265"
+        "commentCount": "372"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "VcX5qwFgnPnPOMvY223hHydu9aQ",
-      "id": "fxTvrG8xenw",
+      "etag": "2qSGn-4nV31i050OdVAI_YopzIo",
+      "id": "zvBEYHuxIVE",
       "snippet": {
-        "publishedAt": "2026-08-06T21:37:16Z",
-        "channelId": "UCwQOKgQ-2k4Ar7QFcF0EcTg",
-        "title": "Animals that will go EXTINCT by 2067… 😪💔💔 (Emotional)",
-        "description": "",
+        "publishedAt": "2026-08-11T14:39:50Z",
+        "channelId": "UCFNcY_a-jIigMo1DAjKqEfQ",
+        "title": "@portageviewfarm (they’re on TikTok, dunno bout YouTube) 😊",
+        "description": "Local to DC, RVA, CVL, BAL? Shop blackbirdcoop.com\nPet treats ship nationwide: https://blackbirdcoop.com/collections/pets\n\nFirst Generation Farming: A Blueprint for agriculture to keep you on the land for generations\nPaperback: https://www.amazon.com/dp/B0GBR2ZBCF\nE-Book: https://stan.store/sylvanaquafarms\n\nOn TikTok @blackbirdcoop\nOn Patreon: patreon.com/blackbirdcoop\nBanned from Instagram at 450K followers for saying mean things to White supremacists, never going back",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fxTvrG8xenw/default.jpg",
+            "url": "https://i.ytimg.com/vi/zvBEYHuxIVE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fxTvrG8xenw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zvBEYHuxIVE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fxTvrG8xenw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zvBEYHuxIVE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/fxTvrG8xenw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zvBEYHuxIVE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/fxTvrG8xenw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zvBEYHuxIVE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Michael Storen",
+        "channelTitle": "Farming While Beige",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Animals that will go EXTINCT by 2067… 😪💔💔 (Emotional)",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2373876",
-        "likeCount": "109153",
-        "favoriteCount": "0",
-        "commentCount": "4236"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "T4-1pnHa9CpMk78Q2DbgbNkQ3gI",
-      "id": "es7BnhRXb80",
-      "snippet": {
-        "publishedAt": "2026-08-07T22:30:23Z",
-        "channelId": "UCpqsXxTpeLXk8vWnuuEfWuA",
-        "title": "Why Cats Refuse to Drink Near Food",
-        "description": "#cats #catowners #cute #pets #kitten \n\nCredits:\n\"Trailer Park\" by Elbolillo (https://skfb.ly/oLFUt)\n\"Animated Deer Character\" by MCSTEEG on itch.io",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/es7BnhRXb80/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/es7BnhRXb80/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/es7BnhRXb80/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/es7BnhRXb80/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/es7BnhRXb80/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ZawPolyShorts",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Why Cats Refuse to Drink Near Food",
-          "description": "#cats #catowners #cute #pets #kitten \n\nCredits:\n\"Trailer Park\" by Elbolillo (https://skfb.ly/oLFUt)\n\"Animated Deer Character\" by MCSTEEG on itch.io"
+          "title": "@portageviewfarm (they’re on TikTok, dunno bout YouTube) 😊",
+          "description": "Local to DC, RVA, CVL, BAL? Shop blackbirdcoop.com\nPet treats ship nationwide: https://blackbirdcoop.com/collections/pets\n\nFirst Generation Farming: A Blueprint for agriculture to keep you on the land for generations\nPaperback: https://www.amazon.com/dp/B0GBR2ZBCF\nE-Book: https://stan.store/sylvanaquafarms\n\nOn TikTok @blackbirdcoop\nOn Patreon: patreon.com/blackbirdcoop\nBanned from Instagram at 450K followers for saying mean things to White supremacists, never going back"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT18S",
+        "duration": "PT1M57S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1072,83 +1752,55 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1470006",
-        "likeCount": "58166",
+        "viewCount": "647611",
+        "likeCount": "83817",
         "favoriteCount": "0",
-        "commentCount": "329"
+        "commentCount": "1278"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xnlp_L4n91Fknxcwpx2DjDiOgSc",
-      "id": "cJIyTdSxlMk",
+      "etag": "4mQNdHiWshA3O-ikGn2H7leFbVI",
+      "id": "3hnRfdQvWjw",
       "snippet": {
-        "publishedAt": "2026-08-05T11:30:34Z",
-        "channelId": "UCiZCTVmLShoGu6CGl8-VlTg",
-        "title": "Jeffy Gets His Tongue Stuck to a Frozen Railing 😭❄️",
-        "description": "Jeffy the chihuahua licks a frozen metal railing outside in the snow and gets stuck. Luckily Tim comes over to rescue him.\n\nHe starts to panic and cannot pull himself free. Tim saves the day and tries to help Jeffy escape from the icy rail, becoming the cutest friendship video between 2 best dog friends ever.\n\nThis cute, heartwarming and funny dog video is part of the Tim & Jeffy dog series.\n\n\n#Shorts #Chihuahua #FunnyDogs",
+        "publishedAt": "2026-08-05T10:23:30Z",
+        "channelId": "UCw41V23p_2m5qlGjTbxDIxA",
+        "title": "How often does this happen bc u didn’t even flinch 😭",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/default.jpg",
+            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3hnRfdQvWjw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Tim and Jeffy",
-        "tags": [
-          "Chihuahua",
-          "Chihuahua drama",
-          "Chihuahua fails",
-          "Chihuahua life",
-          "Chihuahua love",
-          "Cute chihuahua",
-          "Dog comedy",
-          "Dog hiding",
-          "Dog owner",
-          "Dog videos",
-          "Funny animals",
-          "Funny dog",
-          "Funny pets",
-          "Hilarious pets",
-          "Pet antics",
-          "Pet owner",
-          "Small dog",
-          "funny videos",
-          "funniest videos",
-          "tim and jeffy",
-          "timjeffy",
-          "tim & jeffy",
-          "tim&jeffy",
-          "jeffy chihuahua",
-          "jeffy",
-          "tim jeffy"
-        ],
-        "categoryId": "15",
+        "channelTitle": "catzhubbbi",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Jeffy Gets His Tongue Stuck to a Frozen Railing 😭❄️",
-          "description": "Jeffy the chihuahua licks a frozen metal railing outside in the snow and gets stuck. Luckily Tim comes over to rescue him.\n\nHe starts to panic and cannot pull himself free. Tim saves the day and tries to help Jeffy escape from the icy rail, becoming the cutest friendship video between 2 best dog friends ever.\n\nThis cute, heartwarming and funny dog video is part of the Tim & Jeffy dog series.\n\n\n#Shorts #Chihuahua #FunnyDogs"
+          "title": "How often does this happen bc u didn’t even flinch 😭",
+          "description": ""
         },
         "defaultAudioLanguage": "en"
       },
@@ -1162,59 +1814,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "21036647",
-        "likeCount": "242645",
+        "viewCount": "2066192",
+        "likeCount": "142640",
         "favoriteCount": "0",
-        "commentCount": "849"
+        "commentCount": "4469"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JyonILYTZkSxlcJ9ZKXUi2jqA08",
-      "id": "-YEa9f0o3cs",
+      "etag": "uelLwhEJ9SVE-3yuya6F-ySUHwE",
+      "id": "ac9SW_YwndU",
       "snippet": {
-        "publishedAt": "2026-08-03T20:38:22Z",
-        "channelId": "UC2EFWEct82cQiwmGRXE57Uw",
-        "title": "Funny Dog #dog",
+        "publishedAt": "2026-08-10T18:53:34Z",
+        "channelId": "UC5Ut5kKOnIUt2LDB3rfNShQ",
+        "title": "he had airplane ears, you were THIS close to taking too long 😭",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/default.jpg",
+            "url": "https://i.ytimg.com/vi/ac9SW_YwndU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ac9SW_YwndU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ac9SW_YwndU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ac9SW_YwndU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-YEa9f0o3cs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ac9SW_YwndU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Dunk Pivot",
+        "channelTitle": "girlieslit",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Funny Dog #dog",
+          "title": "he had airplane ears, you were THIS close to taking too long 😭",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT21S",
+        "duration": "PT10S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1223,178 +1876,54 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1617873",
-        "likeCount": "46960",
+        "viewCount": "638496",
+        "likeCount": "20154",
         "favoriteCount": "0",
-        "commentCount": "78"
+        "commentCount": "80"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "a9HZdMFrUBqLmr2WKqHIcLqd4pk",
-      "id": "vJOsKmtr7CI",
+      "etag": "JJzOqd4KOe11u8AhCv35V7PzqTg",
+      "id": "6ebhrJWfQ60",
       "snippet": {
-        "publishedAt": "2026-08-08T17:30:12Z",
-        "channelId": "UCGrIiKrVgxWKyn0LXlMSUZg",
-        "title": "Random Dog Ruins Owners Day...",
+        "publishedAt": "2026-08-11T07:05:31Z",
+        "channelId": "UCVrEHNmwOcTM85daIG6PSVg",
+        "title": "She REFUSED To Give Up On Him",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/default.jpg",
+            "url": "https://i.ytimg.com/vi/6ebhrJWfQ60/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6ebhrJWfQ60/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6ebhrJWfQ60/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/6ebhrJWfQ60/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/vJOsKmtr7CI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6ebhrJWfQ60/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "streetflicks",
-        "categoryId": "22",
+        "channelTitle": "Andy Jiang",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Random Dog Ruins Owners Day...",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "753489",
-        "likeCount": "23023",
-        "favoriteCount": "0",
-        "commentCount": "112"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cW_mcoTLqqcMcCLUhMC_zCjI_Dc",
-      "id": "NStDIl5YR6c",
-      "snippet": {
-        "publishedAt": "2026-08-06T02:31:33Z",
-        "channelId": "UCn-rqOpk4XTbEtmt7tRS6jQ",
-        "title": "His Teeth Kept the Air In #dog #funny #goldenretriever",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NStDIl5YR6c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NStDIl5YR6c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NStDIl5YR6c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NStDIl5YR6c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NStDIl5YR6c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Adventures With Snowy & Waffles",
-        "categoryId": "1",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "His Teeth Kept the Air In #dog #funny #goldenretriever",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1627851",
-        "likeCount": "83002",
-        "favoriteCount": "0",
-        "commentCount": "504"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "uY5K_DAoDKGxU63e7zg9KzlyE_c",
-      "id": "lQR2h80jb8I",
-      "snippet": {
-        "publishedAt": "2026-08-05T12:00:21Z",
-        "channelId": "UC0X1dp5Gkhos0QJpainsjUA",
-        "title": "I got Nika a new friend😬 #cat #cats",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lQR2h80jb8I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Princess Nika cat",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I got Nika a new friend😬 #cat #cats",
+          "title": "She REFUSED To Give Up On Him",
           "description": ""
         },
         "defaultAudioLanguage": "en"
@@ -1409,175 +1938,54 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "25715386",
-        "likeCount": "348725",
+        "viewCount": "1142710",
+        "likeCount": "156921",
         "favoriteCount": "0",
-        "commentCount": "347"
+        "commentCount": "2219"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wh9R2IH4hrlZTz9poCDLiZ1FpSE",
-      "id": "2sDjxe3oX7k",
+      "etag": "pbSesojgod0ww_GcHeJ0wt4dCcE",
+      "id": "M1pOeiAOx28",
       "snippet": {
-        "publishedAt": "2026-08-05T10:51:29Z",
-        "channelId": "UCTi69Nf08_tA21d_tTXqlyg",
-        "title": "How Tigers Cool Down 🐯🧊",
-        "description": "Video Source:@Respect Owner\nNarrator:@StoryInner\n\nIn this video, I provide a piece of background knowledge about tigers in the zoo, showing a man giving a tiger a blood popsicle made of frozen blood and meat juice to beat the summer heat. Tigers find these treats delicious, and they help prevent heatstroke.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2sDjxe3oX7k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2sDjxe3oX7k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2sDjxe3oX7k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2sDjxe3oX7k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2sDjxe3oX7k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "StoryInner",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "How Tigers Cool Down 🐯🧊",
-          "description": "Video Source:@Respect Owner\nNarrator:@StoryInner\n\nIn this video, I provide a piece of background knowledge about tigers in the zoo, showing a man giving a tiger a blood popsicle made of frozen blood and meat juice to beat the summer heat. Tigers find these treats delicious, and they help prevent heatstroke."
-        }
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3296501",
-        "favoriteCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "9xphp11VPLbuMxHv1XjzIvJqkNA",
-      "id": "EdoXJabmlxQ",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:01:56Z",
-        "channelId": "UCAp3j5XhHIoineJD5XahoqQ",
-        "title": "🥰❤️❤️#shorts #funny #plottwist #comedy #memes #humor #unexpected #viral #laughoutloud",
+        "publishedAt": "2026-08-01T22:30:39Z",
+        "channelId": "UCWlAaJz_Tci7Vp3sm8kaKug",
+        "title": "Come back to me smelling like a fresh hot baked Frito bag🥺 #dog #dogshorts #dogvideos",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EdoXJabmlxQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EdoXJabmlxQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EdoXJabmlxQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/EdoXJabmlxQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/EdoXJabmlxQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M1pOeiAOx28/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "utkumehmet",
+        "channelTitle": "Doggosbuzz🐶",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "🥰❤️❤️#shorts #funny #plottwist #comedy #memes #humor #unexpected #viral #laughoutloud",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "14208786",
-        "likeCount": "112092",
-        "favoriteCount": "0",
-        "commentCount": "151"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "qFQq9jzJKHcDgmMeEwSPWqE7IPw",
-      "id": "o0qu0GQItLI",
-      "snippet": {
-        "publishedAt": "2026-08-08T06:00:24Z",
-        "channelId": "UCJBBqGGHmo84rSoRDBWA3Uw",
-        "title": "In The Return (2024), Argos Waited 20 Years For Odysseus ❤️\u200d🩹",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o0qu0GQItLI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o0qu0GQItLI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o0qu0GQItLI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/o0qu0GQItLI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/o0qu0GQItLI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Memelogyz",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "In The Return (2024), Argos Waited 20 Years For Odysseus ❤️\u200d🩹",
+          "title": "Come back to me smelling like a fresh hot baked Frito bag🥺 #dog #dogshorts #dogvideos",
           "description": ""
         },
         "defaultAudioLanguage": "en"
@@ -1592,57 +2000,118 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "485494",
-        "likeCount": "15819",
+        "viewCount": "4402906",
+        "likeCount": "143023",
         "favoriteCount": "0",
-        "commentCount": "266"
+        "commentCount": "881"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "kifwMw9zt_t2SuXyZHa0ptFVL7U",
-      "id": "8ntLuvYbfv4",
+      "etag": "tTt7WzVJmctYTc4ySLz_1a7gpPA",
+      "id": "HXGHZA7v6rM",
       "snippet": {
-        "publishedAt": "2026-08-02T23:51:26Z",
-        "channelId": "UCvICJHzZEwb_9ckAMohAqzw",
-        "title": "ANIMAL HOSPITAL IN REAL LIFE! PART 2️⃣ ☕️🐰🐱",
+        "publishedAt": "2026-08-04T02:41:08Z",
+        "channelId": "UCUdqWtapBx5Et3THb_wfcMw",
+        "title": "A sad story ,but with a happy ending #dog #lostdog #happyend #shorts #fyp",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8ntLuvYbfv4/default.jpg",
+            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8ntLuvYbfv4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8ntLuvYbfv4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8ntLuvYbfv4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8ntLuvYbfv4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HXGHZA7v6rM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Lana's Life",
-        "categoryId": "20",
+        "channelTitle": "Second Chance Tails",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "ANIMAL HOSPITAL IN REAL LIFE! PART 2️⃣ ☕️🐰🐱",
+          "title": "A sad story ,but with a happy ending #dog #lostdog #happyend #shorts #fyp",
           "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3134422",
+        "likeCount": "108626",
+        "favoriteCount": "0",
+        "commentCount": "2058"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BxZwZqCJEx-sodrS6kzEgrAIBN8",
+      "id": "QMtXda8Dfp8",
+      "snippet": {
+        "publishedAt": "2026-08-05T23:51:31Z",
+        "channelId": "UCS10B9MD_hyKH0AESmqJkFg",
+        "title": "#sing",
+        "description": "#sing\n\nAll sunshines and rainbows until you turn upside down 🫩🥀\n\nEdited by: ME\n\n#sing #singing #acapella #meme #memes #shorts #fyp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QMtXda8Dfp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QMtXda8Dfp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QMtXda8Dfp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QMtXda8Dfp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QMtXda8Dfp8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
         },
-        "defaultAudioLanguage": "en"
+        "channelTitle": "staring bacon",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#sing",
+          "description": "#sing\n\nAll sunshines and rainbows until you turn upside down 🫩🥀\n\nEdited by: ME\n\n#sing #singing #acapella #meme #memes #shorts #fyp"
+        },
+        "defaultAudioLanguage": "en-CA"
       },
       "contentDetails": {
         "duration": "PT17S",
@@ -1654,121 +2123,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "7697019",
-        "likeCount": "114355",
+        "viewCount": "1419780",
+        "likeCount": "29658",
         "favoriteCount": "0",
-        "commentCount": "1595"
+        "commentCount": "359"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "P4WrlDF7HEfGSbE0Nmn-Ds0LBuc",
-      "id": "Jke0j6_Z8p4",
+      "etag": "26XdW-Zplfb6STI0g865VGABadM",
+      "id": "Bf51WyTmHao",
       "snippet": {
-        "publishedAt": "2026-08-02T00:26:50Z",
-        "channelId": "UCj5gBDTltD5AITM-Ap2oudQ",
-        "title": "Ranking Cats in Slow Motion 😼",
+        "publishedAt": "2026-08-11T00:00:03Z",
+        "channelId": "UCgmTP_lTG27SofTIC0rNsmw",
+        "title": "Hes my baby🥹",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/default.jpg",
+            "url": "https://i.ytimg.com/vi/Bf51WyTmHao/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bf51WyTmHao/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bf51WyTmHao/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bf51WyTmHao/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Jke0j6_Z8p4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bf51WyTmHao/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Simba Ranks",
+        "channelTitle": "Cyclewrld 2",
         "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "no",
-        "localized": {
-          "title": "Ranking Cats in Slow Motion 😼",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2269125",
-        "likeCount": "64774",
-        "favoriteCount": "0",
-        "commentCount": "1052"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "tdxFAAyqVCox0cN57kh9lys-FxM",
-      "id": "q62YOfF5xgg",
-      "snippet": {
-        "publishedAt": "2026-08-01T14:30:03Z",
-        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
-        "title": "Crows Started Leaving Her Tiny Gifts 😮",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/q62YOfF5xgg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/q62YOfF5xgg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/q62YOfF5xgg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/q62YOfF5xgg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/q62YOfF5xgg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Zack D. Films",
-        "categoryId": "19",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Crows Started Leaving Her Tiny Gifts 😮",
+          "title": "Hes my baby🥹",
           "description": ""
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT40S",
+        "duration": "PT20S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1777,60 +2185,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "7566836",
-        "likeCount": "690958",
+        "viewCount": "1386079",
+        "likeCount": "110625",
         "favoriteCount": "0",
-        "commentCount": "4046"
+        "commentCount": "1049"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DBwXll74dVcfeIURylkRCzSCzZA",
-      "id": "Ghw3QSjbmhI",
+      "etag": "GxHH2SNZZQWho_wTq9k3UJOmc_I",
+      "id": "Ao2Bpn7lklw",
       "snippet": {
-        "publishedAt": "2026-08-04T13:28:07Z",
-        "channelId": "UC-U6hnCuuhVGHdkCJ--NfgA",
-        "title": "This might be the funniest thing I’ve ever seen! He ran straight back to mom 😂😂",
+        "publishedAt": "2026-08-08T22:20:30Z",
+        "channelId": "UCJ_-L4d3S-5_hSdriglDsvQ",
+        "title": "Going To A Cat Cafe After A Rough Week",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ghw3QSjbmhI/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ao2Bpn7lklw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ghw3QSjbmhI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ao2Bpn7lklw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ghw3QSjbmhI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ao2Bpn7lklw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ghw3QSjbmhI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ao2Bpn7lklw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ghw3QSjbmhI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ao2Bpn7lklw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Woof World",
-        "categoryId": "15",
+        "channelTitle": "BenGtalks",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "en-US",
         "localized": {
-          "title": "This might be the funniest thing I’ve ever seen! He ran straight back to mom 😂😂",
+          "title": "Going To A Cat Cafe After A Rough Week",
           "description": ""
         },
-        "defaultAudioLanguage": "en"
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT49S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1839,120 +2247,149 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1942123",
-        "likeCount": "114803",
+        "viewCount": "1982736",
+        "likeCount": "95297",
         "favoriteCount": "0",
-        "commentCount": "6906"
+        "commentCount": "497"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Wa1PU9TK51xsl_RsBK2zW8G4hEg",
-      "id": "R53Wpy-KtAk",
+      "etag": "KoSyb-viJDIBIswSMCsvgPqXkHI",
+      "id": "0E5UgB8iJxo",
       "snippet": {
-        "publishedAt": "2026-08-01T13:10:20Z",
-        "channelId": "UCdzURTuOFsj5L8Hr9Et04Dw",
-        "title": "Ranking The Best Dogs in Snow Moments ❄️🐶 #usa",
-        "description": "#DogsInSnow #FunnyDogs #DogMoments #SnowDogs #WinterMoments #shorts #funnyfails #RankingMoments",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/R53Wpy-KtAk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/R53Wpy-KtAk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/R53Wpy-KtAk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/R53Wpy-KtAk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/R53Wpy-KtAk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Emerald Ranks",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Ranking The Best Dogs in Snow Moments ❄️🐶 #usa",
-          "description": "#DogsInSnow #FunnyDogs #DogMoments #SnowDogs #WinterMoments #shorts #funnyfails #RankingMoments"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2873889",
-        "likeCount": "116546",
-        "favoriteCount": "0",
-        "commentCount": "369"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "e--ksy9O_jgEr8d0YyBmzfsdJ-s",
-      "id": "rSmZ0Hjj0H4",
-      "snippet": {
-        "publishedAt": "2026-07-31T09:39:39Z",
-        "channelId": "UC5DyiVv8gUbNnQqgyLBxwzA",
-        "title": "A dog with OCD.#dog #dogshorts #doglife",
+        "publishedAt": "2026-08-11T21:00:05Z",
+        "channelId": "UC7qPgxRRJoYwBIGL8rNvxzw",
+        "title": "Bulldogs are way more dramatic. #dog",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rSmZ0Hjj0H4/default.jpg",
+            "url": "https://i.ytimg.com/vi/0E5UgB8iJxo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rSmZ0Hjj0H4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0E5UgB8iJxo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rSmZ0Hjj0H4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0E5UgB8iJxo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rSmZ0Hjj0H4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0E5UgB8iJxo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/rSmZ0Hjj0H4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0E5UgB8iJxo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Lovely pet 51",
-        "categoryId": "22",
+        "channelTitle": "Rankingfy",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "A dog with OCD.#dog #dogshorts #doglife",
+          "title": "Bulldogs are way more dramatic. #dog",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT1M15S",
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "660554",
+        "likeCount": "39168",
+        "favoriteCount": "0",
+        "commentCount": "106"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "11roxVH-iQkiVEvJrB-Wui2g7go",
+      "id": "Iy38QM4ILIs",
+      "snippet": {
+        "publishedAt": "2026-08-05T15:15:38Z",
+        "channelId": "UC2tYLD5du9Wf6ZdvlwzDN_A",
+        "title": "The Craziest Surface Lure for Big Pike? 😱 🐍 3D Snake #SavageGear #fishing  #3DSnake",
+        "description": "The 3D Snake in action. 🐍💥 Sometimes the most unusual prey creates the biggest bites. 🎣\n\nDesigned for explosive topwater strikes, the Savage Gear 3D Snake delivers a unique surface presentation with its realistic snake profile, lifelike movement and irresistible side to side action.\n\nPerfect for fishing shallow areas, around cover, or anywhere big pike are hunting for an easy meal. A struggling snake on the surface is a high value target, and when a predator commits, the result can be absolutely brutal. 🐊🔥\n\nSlow it down, let it pause, and watch the surface come alive. The 3D Snake is built to trigger aggressive pike attacks when nothing else works.\n\n#savagegear #3dsnake #pikefishing #topwater",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iy38QM4ILIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Savage Gear",
+        "tags": [
+          "Savage Gear",
+          "Pike",
+          "fishing",
+          "predator",
+          "3d snake",
+          "savage gear snake",
+          "pike snake",
+          "topwater",
+          "surface",
+          "pike lures",
+          "topwater fishing",
+          "lure fishing",
+          "3d lure",
+          "3d scan",
+          "real snake",
+          "angler life",
+          "predator fishing",
+          "angeln",
+          "bester köder",
+          "best lure",
+          "fishing lures",
+          "monster pike",
+          "surface fishing",
+          "big pike",
+          "esox"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Craziest Surface Lure for Big Pike? 😱 🐍 3D Snake #SavageGear #fishing  #3DSnake",
+          "description": "The 3D Snake in action. 🐍💥 Sometimes the most unusual prey creates the biggest bites. 🎣\n\nDesigned for explosive topwater strikes, the Savage Gear 3D Snake delivers a unique surface presentation with its realistic snake profile, lifelike movement and irresistible side to side action.\n\nPerfect for fishing shallow areas, around cover, or anywhere big pike are hunting for an easy meal. A struggling snake on the surface is a high value target, and when a predator commits, the result can be absolutely brutal. 🐊🔥\n\nSlow it down, let it pause, and watch the surface come alive. The 3D Snake is built to trigger aggressive pike attacks when nothing else works.\n\n#savagegear #3dsnake #pikefishing #topwater"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1961,122 +2398,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4526006",
-        "likeCount": "220257",
+        "viewCount": "21755398",
+        "likeCount": "157173",
         "favoriteCount": "0",
-        "commentCount": "1288"
+        "commentCount": "302"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "347erwkRjEQWnxBOJPQ3YtI8SXE",
-      "id": "qPw0nZKiEQ0",
+      "etag": "f7WzymOCa63WStjGFiTuJhtm_gI",
+      "id": "ZOMXVY0Ymdw",
       "snippet": {
-        "publishedAt": "2026-08-05T14:30:28Z",
-        "channelId": "UCMYJEwqBsVkLtRMs7AuGxbg",
-        "title": "Jeremy the dolphin 🎥 @alysha_a_meyer @real_wise_media",
-        "description": "",
+        "publishedAt": "2026-08-10T16:36:25Z",
+        "channelId": "UCr0Vrup4LwpTmTBIOXfZX4g",
+        "title": "A Spider Actually Gave a Little Boy $1 million! 😳",
+        "description": "Cute Cat V/S Black Cat 😺🐈\u200d⬛  Welcome to our CatsYouTube channel #viralcat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cattoon\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #top\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1million\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #reels\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #funny\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1m\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #trend\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #instagram\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #kitten\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #wtf\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4 #relax\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #spiderman\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #philippines\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #myanmar\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #india\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #mexico\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #unitedstates\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cheating\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b A kitten wants to eat some? #aicat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cutecat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4kThanks\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b for Watching my video\n\u200b💬 Scripted, voiced, and edited by me 💻🎙️\n🔁 No reused content | 💯 Original efforts\n🎯 Subscribe for daily Indian fun and creative Shorts!\n📌 #Shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #FunnyShorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #AIwithEffort\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\n👀 Follow for more unique AI-powered storytelling with human touch 🔥\n📌 This video is created for entertainment and educational purposes only.\n📌 All characters, scenes, and voices are AI-generated and do not represent any real person or animal.\n📌 No animals were harmed in the making of this video.\n📌 Content is family-friendly, child-safe, and complies with YouTube's community",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qPw0nZKiEQ0/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZOMXVY0Ymdw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qPw0nZKiEQ0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZOMXVY0Ymdw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qPw0nZKiEQ0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZOMXVY0Ymdw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/qPw0nZKiEQ0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZOMXVY0Ymdw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/qPw0nZKiEQ0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZOMXVY0Ymdw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Nunchakusdragon",
-        "categoryId": "22",
+        "channelTitle": "Dracoco",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Jeremy the dolphin 🎥 @alysha_a_meyer @real_wise_media",
-          "description": ""
+          "title": "A Spider Actually Gave a Little Boy $1 million! 😳",
+          "description": "Cute Cat V/S Black Cat 😺🐈\u200d⬛  Welcome to our CatsYouTube channel #viralcat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cattoon\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #top\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1million\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #reels\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #funny\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #1m\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #trend\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #instagram\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #kitten\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #wtf\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4 #relax\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #tiktok\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #spiderman\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cute\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #viral\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #philippines\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #myanmar\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #india\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #mexico\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #unitedstates\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cheating\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b A kitten wants to eat some? #aicat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #cutecat\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #4kThanks\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b for Watching my video\n\u200b💬 Scripted, voiced, and edited by me 💻🎙️\n🔁 No reused content | 💯 Original efforts\n🎯 Subscribe for daily Indian fun and creative Shorts!\n📌 #Shorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #FunnyShorts\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b #AIwithEffort\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\n👀 Follow for more unique AI-powered storytelling with human touch 🔥\n📌 This video is created for entertainment and educational purposes only.\n📌 All characters, scenes, and voices are AI-generated and do not represent any real person or animal.\n📌 No animals were harmed in the making of this video.\n📌 Content is family-friendly, child-safe, and complies with YouTube's community"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT1M5S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1050133",
-        "likeCount": "37664",
-        "favoriteCount": "0",
-        "commentCount": "5523"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cr_5NTPj28uDQ9sNXCotCS_zuQU",
-      "id": "7_WsHrYTdXs",
-      "snippet": {
-        "publishedAt": "2026-08-02T01:18:53Z",
-        "channelId": "UCkFs1AM1tHlaFNzYDrXVD8w",
-        "title": "The Worst Animals To Get Chased By ft. Forrest Galante",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7_WsHrYTdXs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7_WsHrYTdXs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7_WsHrYTdXs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7_WsHrYTdXs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7_WsHrYTdXs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Quantum Beefs",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "The Worst Animals To Get Chased By ft. Forrest Galante",
-          "description": ""
-        },
-        "defaultAudioLanguage": "hi"
-      },
-      "contentDetails": {
-        "duration": "PT28S",
+        "duration": "PT47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2085,77 +2460,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3754585",
-        "likeCount": "51967",
+        "viewCount": "2012109",
+        "likeCount": "78507",
         "favoriteCount": "0",
-        "commentCount": "368"
+        "commentCount": "1829"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "nUvvEzvQq5L6fR8-eXG5FbPSOs4",
-      "id": "yfb08tbbiDU",
-      "snippet": {
-        "publishedAt": "2026-08-07T20:02:07Z",
-        "channelId": "UCPqmHOzspEOwpsbJdPqtQLw",
-        "title": "#fyp #shorts #reels",
-        "description": "#fyp #shorts #reels",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yfb08tbbiDU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yfb08tbbiDU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yfb08tbbiDU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yfb08tbbiDU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/yfb08tbbiDU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Brooke Monk Fans",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "#fyp #shorts #reels",
-          "description": "#fyp #shorts #reels"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT15S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1481988",
-        "likeCount": "40601",
-        "favoriteCount": "0",
-        "commentCount": "1178"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "a6vp-izilPL_0rG7j0qQEkcg2QY",
+      "etag": "WBytk9jLx66YVUZzpsoV3fFyvmA",
       "id": "TJtLUE6lRiE",
       "snippet": {
         "publishedAt": "2026-08-08T17:29:14Z",
@@ -2209,507 +2522,57 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "573923",
-        "likeCount": "53582",
+        "viewCount": "1224931",
+        "likeCount": "101417",
         "favoriteCount": "0",
-        "commentCount": "208"
+        "commentCount": "427"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "86PbTCV-Q1Q0PY0MlF_mruiKJlk",
-      "id": "DVWMu6F5Wuw",
+      "etag": "wvplmwAFby-ELWGhIJAPyT6MwW4",
+      "id": "8YNsUWIFmg4",
       "snippet": {
-        "publishedAt": "2026-08-01T03:47:16Z",
-        "channelId": "UCV0dgoqsjzoNhBY5G4EnyZg",
-        "title": "AYYYY iampresleefaith #lollapalooza",
-        "description": "AYYYY iampresleefaith #lollapalooza",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DVWMu6F5Wuw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DVWMu6F5Wuw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DVWMu6F5Wuw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DVWMu6F5Wuw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DVWMu6F5Wuw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Deja Clark",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "AYYYY iampresleefaith #lollapalooza",
-          "description": "AYYYY iampresleefaith #lollapalooza"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4972699",
-        "likeCount": "182917",
-        "favoriteCount": "0",
-        "commentCount": "1033"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hgivpeWIUgYMYkSwgRxph7oic9U",
-      "id": "Nc8Sba2zykE",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:24:27Z",
-        "channelId": "UC0GFgRUbYIzCzZfA73jsK6g",
-        "title": "This is why you should get a cat. 😼#cat #pets #cute #funny #shorts #short",
+        "publishedAt": "2026-08-01T01:05:35Z",
+        "channelId": "UCN8pDbdpLI20LVaC_3oQuVQ",
+        "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Nc8Sba2zykE/default.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Nc8Sba2zykE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Nc8Sba2zykE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Nc8Sba2zykE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Nc8Sba2zykE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8YNsUWIFmg4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Fun Stories Here",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "This is why you should get a cat. 😼#cat #pets #cute #funny #shorts #short",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT2M20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2660434",
-        "likeCount": "62753",
-        "favoriteCount": "0",
-        "commentCount": "5657"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ySrmBKb_Wjn82AU7QavmL1mW6U4",
-      "id": "ges6VPTKe9M",
-      "snippet": {
-        "publishedAt": "2026-08-05T00:39:49Z",
-        "channelId": "UCEgcjWr6i32DAt6_AZFeaLQ",
-        "title": "Ranking FUNNIEST CATS ON CATNIP Core Moments!! 🐱🍃",
-        "description": "Cats on catnip are either blissfully floating through an alternate dimension or just absolutely losing every last shred of dignity in front of everyone. Time to rank the funniest cats on catnip moments on the internet! From a cat rolling around in pure euphoric bliss to other hilariously unhinged completely sent to another planet moments, these blissed out felines will make you wonder what exactly they are experiencing! 🐱🌿 \n\nDid you know: Roughly one in three cats are completely immune to catnip's effects due to a genetic trait, meaning that wild euphoric reaction is not universal. Some cats will sniff it, shrug, and walk away completely unaffected! 🐾",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ges6VPTKe9M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ges6VPTKe9M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ges6VPTKe9M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ges6VPTKe9M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ges6VPTKe9M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "AniRank",
+        "channelTitle": "Mundos Salvajes",
         "categoryId": "24",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "es",
         "localized": {
-          "title": "Ranking FUNNIEST CATS ON CATNIP Core Moments!! 🐱🍃",
-          "description": "Cats on catnip are either blissfully floating through an alternate dimension or just absolutely losing every last shred of dignity in front of everyone. Time to rank the funniest cats on catnip moments on the internet! From a cat rolling around in pure euphoric bliss to other hilariously unhinged completely sent to another planet moments, these blissed out felines will make you wonder what exactly they are experiencing! 🐱🌿 \n\nDid you know: Roughly one in three cats are completely immune to catnip's effects due to a genetic trait, meaning that wild euphoric reaction is not universal. Some cats will sniff it, shrug, and walk away completely unaffected! 🐾"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2436844",
-        "likeCount": "97472",
-        "favoriteCount": "0",
-        "commentCount": "513"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "REctAs6rkbUcOzwkz0Emhq87DSQ",
-      "id": "8ddn9xMsfDA",
-      "snippet": {
-        "publishedAt": "2026-08-01T18:57:15Z",
-        "channelId": "UCOvuK5HSwctbN7ccZ9vKO3w",
-        "title": "Petting Dog For Every Follower!",
-        "description": "This video was so cute, follow @petthedogfordays everywhere!\n\n#series #cute #viral",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8ddn9xMsfDA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8ddn9xMsfDA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8ddn9xMsfDA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8ddn9xMsfDA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8ddn9xMsfDA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SoThisGuy",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Petting Dog For Every Follower!",
-          "description": "This video was so cute, follow @petthedogfordays everywhere!\n\n#series #cute #viral"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT56S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3095000",
-        "likeCount": "86444",
-        "favoriteCount": "0",
-        "commentCount": "214"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "M0RDowgoycQtdaqU5_NC_KV6Gkc",
-      "id": "zE2yKKQJDCc",
-      "snippet": {
-        "publishedAt": "2026-08-06T00:14:54Z",
-        "channelId": "UCj8QC9ikgWuYMByIlHSUJPw",
-        "title": "My Dog Wouldn't Stop Barking 🐶",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zE2yKKQJDCc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zE2yKKQJDCc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zE2yKKQJDCc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zE2yKKQJDCc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zE2yKKQJDCc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Asian Story",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "My Dog Wouldn't Stop Barking 🐶",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M49S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1848467",
-        "likeCount": "23383",
-        "favoriteCount": "0",
-        "commentCount": "375"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "cY94INY8Vs0ZC_lmrTgjEjwWx7k",
-      "id": "LTRpghVwBC4",
-      "snippet": {
-        "publishedAt": "2026-08-02T18:00:22Z",
-        "channelId": "UCBObOAsNJwf__cABxbdHMbA",
-        "title": "You're Wrong About Alligators #shorts #wildlife",
-        "description": "Do alligators show affection? An expert explains why alligator behavior is often misunderstood.\n\nWe break down why calm reactions during handling are just training, not friendship. This guide is essential for anyone curious about wildlife safety and the reality of keeping wild animals. Even the most docile reptiles remain unpredictable predators.\n\nSubscribe for more expert wildlife insights and comment below if you want to learn more about reptile safety.\n\nCredits: @gatorchris on instagram.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LTRpghVwBC4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LTRpghVwBC4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LTRpghVwBC4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LTRpghVwBC4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/LTRpghVwBC4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MaybeFacts",
-        "tags": [
-          "alligator behavior",
-          "wild animal handling",
-          "are alligators dangerous",
-          "alligator safety",
-          "wildlife expert",
-          "alligator facts",
-          "alligator",
-          "wildlife",
-          "wild animals",
-          "forrest galante",
-          "alligator fun facts",
-          "alligators",
-          "american alligator",
-          "facts about alligators",
-          "extinct or alive"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "You're Wrong About Alligators #shorts #wildlife",
-          "description": "Do alligators show affection? An expert explains why alligator behavior is often misunderstood.\n\nWe break down why calm reactions during handling are just training, not friendship. This guide is essential for anyone curious about wildlife safety and the reality of keeping wild animals. Even the most docile reptiles remain unpredictable predators.\n\nSubscribe for more expert wildlife insights and comment below if you want to learn more about reptile safety.\n\nCredits: @gatorchris on instagram."
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT36S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2216998",
-        "likeCount": "134561",
-        "favoriteCount": "0",
-        "commentCount": "1003"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "3k4BpYPC7v4RuUpJ_Ud8ipDBw24",
-      "id": "0yFFkR_UVLM",
-      "snippet": {
-        "publishedAt": "2026-08-02T16:43:30Z",
-        "channelId": "UCtQ_9aZaGvAaCeeVXLh2qnQ",
-        "title": "RANKING THE WEIRDEST SEA CREATURES EVER",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0yFFkR_UVLM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0yFFkR_UVLM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0yFFkR_UVLM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0yFFkR_UVLM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0yFFkR_UVLM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Milo",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "RANKING THE WEIRDEST SEA CREATURES EVER",
+          "title": "Rescaté a Este Pequeño Oso Polar y Esto Pasó",
           "description": ""
         },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3998595",
-        "likeCount": "115855",
-        "favoriteCount": "0",
-        "commentCount": "2020"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "WW11CgqdarE-TEOx0qZGZL4HdYU",
-      "id": "V9jnqbZL20A",
-      "snippet": {
-        "publishedAt": "2026-08-05T01:00:22Z",
-        "channelId": "UCTGTXJT5Sucp44tjXkhTmWw",
-        "title": "My Snake Has Entered The Chat.🐍#snake #pets #snakevideo #pet #animals #funny #funniestvideo",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V9jnqbZL20A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V9jnqbZL20A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V9jnqbZL20A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/V9jnqbZL20A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/V9jnqbZL20A/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Pet.mp4",
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "My Snake Has Entered The Chat.🐍#snake #pets #snakevideo #pet #animals #funny #funniestvideo",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        "defaultAudioLanguage": "es"
       },
       "contentDetails": {
         "duration": "PT1M",
@@ -2721,200 +2584,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1655977",
-        "likeCount": "62873",
+        "viewCount": "61353392",
+        "likeCount": "1491328",
         "favoriteCount": "0",
-        "commentCount": "712"
+        "commentCount": "20731"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lf3aVBQaax4g3yMdkRGGj-c3q8E",
-      "id": "fcATWttMWa8",
-      "snippet": {
-        "publishedAt": "2026-08-01T01:01:01Z",
-        "channelId": "UC3E4OpVWDDKImn2xZEzSIxg",
-        "title": "Jurassic Dinosaur Moments 🌋🦕 #viral #animals #wildlife #dinosaur #jurassicworld #trex",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fcATWttMWa8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fcATWttMWa8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fcATWttMWa8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fcATWttMWa8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fcATWttMWa8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Animal Mosaic ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Jurassic Dinosaur Moments 🌋🦕 #viral #animals #wildlife #dinosaur #jurassicworld #trex",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT58S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "7302351",
-        "likeCount": "204711",
-        "favoriteCount": "0",
-        "commentCount": "765"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "WGQc2HjfbDYSTR8JRprjYRcAaiU",
-      "id": "CQZfRf20BI4",
-      "snippet": {
-        "publishedAt": "2026-08-08T20:03:05Z",
-        "channelId": "UCZ7HzTBmljSCMBNRoNgHuJA",
-        "title": "Trading SQUISHED squishies 😭",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CQZfRf20BI4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CQZfRf20BI4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CQZfRf20BI4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/CQZfRf20BI4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/CQZfRf20BI4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jessica Kaylee",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Trading SQUISHED squishies 😭",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "716747",
-        "likeCount": "16736",
-        "favoriteCount": "0",
-        "commentCount": "121"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "i-MZt125X8R9SWXANwLNnHinjks",
-      "id": "jkmjYYBJ_fc",
-      "snippet": {
-        "publishedAt": "2026-07-31T15:55:34Z",
-        "channelId": "UCmeg3rBUUpmw70BMlfmpIng",
-        "title": "Never Give This Directly to Your Dog.",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jkmjYYBJ_fc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jkmjYYBJ_fc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jkmjYYBJ_fc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jkmjYYBJ_fc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jkmjYYBJ_fc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "EvelynUnboxing",
-        "categoryId": "15",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Never Give This Directly to Your Dog.",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3918034",
-        "likeCount": "193858",
-        "favoriteCount": "0",
-        "commentCount": "7164"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "xk4REhqUtXR85ac-aZ0s5SLrXvo",
+      "etag": "tIv0aVrWrubSstaGJGXuwhWFRLQ",
       "id": "yXyFFXXqkI0",
       "snippet": {
         "publishedAt": "2026-08-08T01:00:15Z",
@@ -2995,59 +2673,87 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "838639",
-        "likeCount": "18130",
+        "viewCount": "2058343",
+        "likeCount": "33883",
         "favoriteCount": "0",
-        "commentCount": "103"
+        "commentCount": "232"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZeHRc_UQ6xlsvbbTXbSPxILY-2Y",
-      "id": "RfrTk3aKquM",
+      "etag": "jfUbNhIPswJu-ashnuX856S7U0U",
+      "id": "cJIyTdSxlMk",
       "snippet": {
-        "publishedAt": "2026-08-03T01:05:49Z",
-        "channelId": "UCvRbN435TJ4s7np-SjQeACw",
-        "title": "Her ID Was FAKE! 😭",
-        "description": "",
+        "publishedAt": "2026-08-05T11:30:34Z",
+        "channelId": "UCiZCTVmLShoGu6CGl8-VlTg",
+        "title": "Jeffy Gets His Tongue Stuck to a Frozen Railing 😭❄️",
+        "description": "Jeffy the chihuahua licks a frozen metal railing outside in the snow and gets stuck. Luckily Tim comes over to rescue him.\n\nHe starts to panic and cannot pull himself free. Tim saves the day and tries to help Jeffy escape from the icy rail, becoming the cutest friendship video between 2 best dog friends ever.\n\nThis cute, heartwarming and funny dog video is part of the Tim & Jeffy dog series.\n\n\n#Shorts #Chihuahua #FunnyDogs",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RfrTk3aKquM/default.jpg",
+            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RfrTk3aKquM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RfrTk3aKquM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RfrTk3aKquM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RfrTk3aKquM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cJIyTdSxlMk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ZipTvClips",
-        "categoryId": "22",
+        "channelTitle": "Tim and Jeffy",
+        "tags": [
+          "Chihuahua",
+          "Chihuahua drama",
+          "Chihuahua fails",
+          "Chihuahua life",
+          "Chihuahua love",
+          "Cute chihuahua",
+          "Dog comedy",
+          "Dog hiding",
+          "Dog owner",
+          "Dog videos",
+          "Funny animals",
+          "Funny dog",
+          "Funny pets",
+          "Hilarious pets",
+          "Pet antics",
+          "Pet owner",
+          "Small dog",
+          "funny videos",
+          "funniest videos",
+          "tim and jeffy",
+          "timjeffy",
+          "tim & jeffy",
+          "tim&jeffy",
+          "jeffy chihuahua",
+          "jeffy",
+          "tim jeffy"
+        ],
+        "categoryId": "15",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Her ID Was FAKE! 😭",
-          "description": ""
+          "title": "Jeffy Gets His Tongue Stuck to a Frozen Railing 😭❄️",
+          "description": "Jeffy the chihuahua licks a frozen metal railing outside in the snow and gets stuck. Luckily Tim comes over to rescue him.\n\nHe starts to panic and cannot pull himself free. Tim saves the day and tries to help Jeffy escape from the icy rail, becoming the cutest friendship video between 2 best dog friends ever.\n\nThis cute, heartwarming and funny dog video is part of the Tim & Jeffy dog series.\n\n\n#Shorts #Chihuahua #FunnyDogs"
         }
       },
       "contentDetails": {
-        "duration": "PT47S",
+        "duration": "PT14S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3056,60 +2762,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "505285",
-        "likeCount": "41481",
+        "viewCount": "35530760",
+        "likeCount": "375494",
         "favoriteCount": "0",
-        "commentCount": "300"
+        "commentCount": "1210"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OMiu1rfQnpPhVRbmHGg6eDinACc",
-      "id": "T529nK88G8A",
+      "etag": "2S-MihIMj0Rm7k3w91igLs5aNd4",
+      "id": "IzXZ6rsn1Ek",
       "snippet": {
-        "publishedAt": "2026-08-06T19:30:26Z",
-        "channelId": "UCj2iiYhHjCHlYl9FdRjY1sQ",
-        "title": "Can you guess the songs we were jamming to?? 🤭🎧 #besties #bestiesforever #myfavoriteherfavorite",
+        "publishedAt": "2026-08-11T00:05:03Z",
+        "channelId": "UCmN7CfZXBmkGWrmjqDqQqkQ",
+        "title": "When A Dog Loves Butt Smacks…",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/T529nK88G8A/default.jpg",
+            "url": "https://i.ytimg.com/vi/IzXZ6rsn1Ek/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/T529nK88G8A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IzXZ6rsn1Ek/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/T529nK88G8A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IzXZ6rsn1Ek/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/T529nK88G8A/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/IzXZ6rsn1Ek/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/T529nK88G8A/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IzXZ6rsn1Ek/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Sophia & Noelle",
-        "categoryId": "24",
+        "channelTitle": "Cams Witness",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Can you guess the songs we were jamming to?? 🤭🎧 #besties #bestiesforever #myfavoriteherfavorite",
+          "title": "When A Dog Loves Butt Smacks…",
           "description": ""
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT2M19S",
+        "duration": "PT12S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -3118,10 +2824,413 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1200754",
-        "likeCount": "129205",
+        "viewCount": "528643",
+        "likeCount": "9512",
         "favoriteCount": "0",
-        "commentCount": "1066"
+        "commentCount": "351"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1To5_KFgD4EyorwX_T-Yk1xE5EY",
+      "id": "c81AgYIKtDY",
+      "snippet": {
+        "publishedAt": "2026-08-12T01:08:29Z",
+        "channelId": "UCnc-sUntmqxvRaEQz8GNOVA",
+        "title": "When Wildlife Takes Over Your Backyard #backyardwildlife #wildlifeencounters #funnyanimals #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c81AgYIKtDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c81AgYIKtDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c81AgYIKtDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c81AgYIKtDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c81AgYIKtDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Farm Laugh Lab",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "When Wildlife Takes Over Your Backyard #backyardwildlife #wildlifeencounters #funnyanimals #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "336788",
+        "likeCount": "19181",
+        "favoriteCount": "0",
+        "commentCount": "342"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IGOPjPhiimtbqNQiQHDzgqwM7us",
+      "id": "43ojW88Gidc",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:52:25Z",
+        "channelId": "UCvM1nLmSQCMElKoEhbVW3ng",
+        "title": "Ranking BEST KITTEN Moments Core🐈❤ #cat",
+        "description": "❤Kittens are the juvenile stage of domesticated cats, renowned for their tiny proportions, boundless curiosity, and endearing innocence. Weighing only a few ounces at birth, a newborn kitten relies entirely on its mother, opening its eyes after about seven to ten days to reveal a characteristic baby-blue hue that often shifts to its permanent eye color as it matures.🐾\n\n🐾In their early weeks, kittens experience rapid physical and cognitive development. As they learn to navigate their surroundings, their movement evolves from hesitant, wobbly crawls into high-energy sprints and ambitious jumps. This stage is defined by instinctual play—pouncing on shadows, chasing stray thread, and wrestling with littermates. These energetic bursts are crucial for honing their reflexes, balance, and hunting skills, and are typically followed by sudden, deep sleep as their bodies recharge.❤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43ojW88Gidc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43ojW88Gidc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43ojW88Gidc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43ojW88Gidc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43ojW88Gidc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XelitRanks",
+        "tags": [
+          "cat",
+          "dog",
+          "animal",
+          "funny",
+          "funnycat",
+          "ranking"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ranking BEST KITTEN Moments Core🐈❤ #cat",
+          "description": "❤Kittens are the juvenile stage of domesticated cats, renowned for their tiny proportions, boundless curiosity, and endearing innocence. Weighing only a few ounces at birth, a newborn kitten relies entirely on its mother, opening its eyes after about seven to ten days to reveal a characteristic baby-blue hue that often shifts to its permanent eye color as it matures.🐾\n\n🐾In their early weeks, kittens experience rapid physical and cognitive development. As they learn to navigate their surroundings, their movement evolves from hesitant, wobbly crawls into high-energy sprints and ambitious jumps. This stage is defined by instinctual play—pouncing on shadows, chasing stray thread, and wrestling with littermates. These energetic bursts are crucial for honing their reflexes, balance, and hunting skills, and are typically followed by sudden, deep sleep as their bodies recharge.❤"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1419146",
+        "likeCount": "57179",
+        "favoriteCount": "0",
+        "commentCount": "424"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TZxUDeWu8wizEd8vsrVgtY8UnEI",
+      "id": "V9EKlUlX5DI",
+      "snippet": {
+        "publishedAt": "2026-08-05T15:40:00Z",
+        "channelId": "UC_ILD1JkWcSYYJuX1vr0Npw",
+        "title": "Me when i grab the last pringle!😹#cat #pet #cute #pov",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9EKlUlX5DI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9EKlUlX5DI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9EKlUlX5DI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9EKlUlX5DI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9EKlUlX5DI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pidan Dudu",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Me when i grab the last pringle!😹#cat #pet #cute #pov",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "24139716",
+        "likeCount": "458394",
+        "favoriteCount": "0",
+        "commentCount": "9465"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Sfv5WLJmnuuq7dxwmqoFun811iI",
+      "id": "wAWgynNr8CE",
+      "snippet": {
+        "publishedAt": "2026-08-04T14:00:20Z",
+        "channelId": "UChC_apOWk6MSl03byUiVZRQ",
+        "title": "Blue Sea Dragon",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wAWgynNr8CE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thomas Mulligan",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Blue Sea Dragon",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4079625",
+        "likeCount": "186641",
+        "favoriteCount": "0",
+        "commentCount": "1789"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EgzkNFGfguJKa-zuis1FWRYP3II",
+      "id": "Yj6s_uYyZAM",
+      "snippet": {
+        "publishedAt": "2026-08-04T10:00:00Z",
+        "channelId": "UCjE1-UXvX1HEF2V_XryA_lw",
+        "title": "\"I told you father, that's not a cat\"",
+        "description": "So anyways, enjoy the video!\nThis video is made clearly for entertainment purposes to make your day better. Please drop a subscribe, like the video and put your comments also turning that notifications on so you won't miss the next upload. You can always unsubscribe later. Thanks!\n\nBecome a Member!\nhttps://www.youtube.com/leovannn/join\n\nVisit my other platform!\nTwitter: https://twitter.com/leovannn\nInstagram: https://www.instagram.com/leovannnwastaken/\nTiktok: https://www.tiktok.com/@leovannnwastaken\n\n#memes #viral #funny #humor #fyp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yj6s_uYyZAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Leovannn",
+        "tags": [
+          "memes",
+          "funny",
+          "humor",
+          "funny video",
+          "memes video",
+          "unusual videos",
+          "relatable",
+          "haha",
+          "laugh",
+          "lol",
+          "daily dose of internet",
+          "leovannn",
+          "short memes",
+          "short form memes",
+          "memes with background",
+          "reels",
+          "insta memes",
+          "instagram memes",
+          "best memes",
+          "funny short videos",
+          "funny compilation videos"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "\"I told you father, that's not a cat\"",
+          "description": "So anyways, enjoy the video!\nThis video is made clearly for entertainment purposes to make your day better. Please drop a subscribe, like the video and put your comments also turning that notifications on so you won't miss the next upload. You can always unsubscribe later. Thanks!\n\nBecome a Member!\nhttps://www.youtube.com/leovannn/join\n\nVisit my other platform!\nTwitter: https://twitter.com/leovannn\nInstagram: https://www.instagram.com/leovannnwastaken/\nTiktok: https://www.tiktok.com/@leovannnwastaken\n\n#memes #viral #funny #humor #fyp"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3959399",
+        "likeCount": "175323",
+        "favoriteCount": "0",
+        "commentCount": "3160"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Gy9ts_DPHRg5hEkb5s_qJ-Sdfx8",
+      "id": "8xNxgJXmTwc",
+      "snippet": {
+        "publishedAt": "2026-08-10T19:51:51Z",
+        "channelId": "UCFeQdlWLyeZoBHbRxoo2a5A",
+        "title": "Cam did NOT approve of this list…",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8xNxgJXmTwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8xNxgJXmTwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8xNxgJXmTwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8xNxgJXmTwc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8xNxgJXmTwc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sierra Rose",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cam did NOT approve of this list…",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "982365",
+        "likeCount": "136382",
+        "favoriteCount": "0",
+        "commentCount": "1040"
       }
     }
   ],

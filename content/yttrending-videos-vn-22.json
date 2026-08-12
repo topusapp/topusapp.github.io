@@ -1,10 +1,81 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "tIgLL3dwA4pKs7ppDx1BLNju_Uk",
+  "etag": "RH9J9HVD-g_xv3fpiS-ZQB_HUDk",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "ydtTHBcaZf3Z_RpMTIT53MtO3ME",
+      "etag": "w2EqW0aKbkcPInQG2cPELvL8RTI",
+      "id": "wLAre983LZg",
+      "snippet": {
+        "publishedAt": "2026-08-12T12:30:09Z",
+        "channelId": "UCYABMlX0fO1U6D4UvwDKUWA",
+        "title": "Lâm Vlog Buồn Khi Nhiều Thành Viên Cũ Rời Team!",
+        "description": "Lâm Vlog Buồn Khi Nhiều Thành Viên Cũ Rời Team! #shorts\n----------------------------------------------------------------------------\nChào các bạn,\nKênh Ông Quái Thú xây dựng chủ yếu những nội dung về giải trí lành mạnh, tích cực và mong muốn mang lại tiếng cười cho các bạn sau giờ học tập làm việc mệt mỏi!\nNội dung được thực hiện bởi ÔNG QUÁI THÚ💡\nVideo chỉ mang tính chất giải trí! không có ý xúc phạm cá nhân hay tổ chức nào!\nHastag:  #short #ongquaithu #lamvlog #phd #haihuoc #giaitri #thuvi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wLAre983LZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wLAre983LZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wLAre983LZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wLAre983LZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wLAre983LZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ông Quái Thú",
+        "tags": [
+          "ông quái thú",
+          "ong quai thu",
+          "trending",
+          "viral",
+          "giải trí",
+          "thú vị",
+          "funny"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Lâm Vlog Buồn Khi Nhiều Thành Viên Cũ Rời Team!",
+          "description": "Lâm Vlog Buồn Khi Nhiều Thành Viên Cũ Rời Team! #shorts\n----------------------------------------------------------------------------\nChào các bạn,\nKênh Ông Quái Thú xây dựng chủ yếu những nội dung về giải trí lành mạnh, tích cực và mong muốn mang lại tiếng cười cho các bạn sau giờ học tập làm việc mệt mỏi!\nNội dung được thực hiện bởi ÔNG QUÁI THÚ💡\nVideo chỉ mang tính chất giải trí! không có ý xúc phạm cá nhân hay tổ chức nào!\nHastag:  #short #ongquaithu #lamvlog #phd #haihuoc #giaitri #thuvi"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18323",
+        "likeCount": "944",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4tyHcvx0t74YRk5rOBnr5YUJNWw",
       "id": "LCa74-sZU_M",
       "snippet": {
         "publishedAt": "2026-08-06T06:47:02Z",
@@ -45,8 +116,7 @@
         "localized": {
           "title": "Khi Lòng Tốt Xuất Hiện Đúng Lúc Nhất ❤️ #xuhuongyoutube",
           "description": "Khi Lòng Tốt Xuất Hiện Đúng Lúc Nhất ❤️\nChào mừng bạn đến với kênh của mình:\n - Nơi tụi mình chia sẻ những khoảnh khắc đặc biệt trong Cuộc Sống Hằng Ngày 💛\n - Từ ấm áp, cảm động, hài hước, dễ thương xoay quanh Thế Giới.\nĐăng Ký kênh để mỗi ngày đều có thêm một lý do để mỉm cười với cuộc sống nha!\nChúc mọi người xem video Vui Vẻ !!!\n-Tuyên bố miễn trừ trách nhiệm:\nKhông có động vật hay người nào bị hại trong video này.\nĐược thực hiện bởi một người có kinh nghiệm.\nKhông nên thử làm điều này ở nhà.\n#viralshorts #xuhuongyoutube #giaitri #xuhuong #viral #camdong"
-        },
-        "defaultAudioLanguage": "vi"
+        }
       },
       "contentDetails": {
         "duration": "PT22S",
@@ -58,15 +128,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "68668",
-        "likeCount": "945",
+        "viewCount": "72453",
+        "likeCount": "1015",
         "favoriteCount": "0",
-        "commentCount": "11"
+        "commentCount": "13"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "HcJ6VE0kS4Y3IjUJ6uzob_P3RZQ",
+      "etag": "6ecwrdXyMbLAnlAppABMRCL3UEE",
       "id": "SaaM4cuUqcE",
       "snippet": {
         "publishedAt": "2026-08-02T01:43:51Z",
@@ -139,15 +209,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "144916",
-        "likeCount": "2146",
+        "viewCount": "160487",
+        "likeCount": "2346",
         "favoriteCount": "0",
-        "commentCount": "161"
+        "commentCount": "171"
       }
     }
   ],
   "pageInfo": {
-    "totalResults": 2,
+    "totalResults": 3,
     "resultsPerPage": 50
   }
 }

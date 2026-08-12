@@ -1,10 +1,72 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "umLyv29ErNHO7pP52-PPY6Gu3ng",
+  "etag": "xEu5NeAMW6XEsmfGCoXWcNQcIRo",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "QfYiV64O0PMKoXQ5wdl8VIqCkno",
+      "etag": "M_IAVHQi0ZFIIB9zs_dLiIXesUE",
+      "id": "OVJ0dEPpYyM",
+      "snippet": {
+        "publishedAt": "2026-08-10T10:15:37Z",
+        "channelId": "UC1dnrZnTPHdqkV1SXVf7NvA",
+        "title": "ทำไมหมึกเครื่องพิมพ์ ถึงแพงกว่าเครื่องพิมพ์ทั้งเครื่อง? 🤔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OVJ0dEPpYyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OVJ0dEPpYyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OVJ0dEPpYyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OVJ0dEPpYyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OVJ0dEPpYyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CubeQ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ทำไมหมึกเครื่องพิมพ์ ถึงแพงกว่าเครื่องพิมพ์ทั้งเครื่อง? 🤔",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "613671",
+        "likeCount": "26897",
+        "favoriteCount": "0",
+        "commentCount": "158"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GxaPvfaUaN8VtudHx3nLYf-ycco",
       "id": "zmNl3zgdlXY",
       "snippet": {
         "publishedAt": "2026-08-08T09:39:37Z",
@@ -66,15 +128,464 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "168116",
-        "likeCount": "6742",
+        "viewCount": "247180",
+        "likeCount": "9555",
         "favoriteCount": "0",
-        "commentCount": "22"
+        "commentCount": "42"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "SZ1SM2eU2L98X79vrwBCF2OztKI",
+      "etag": "BBRGeYQLERK8KnE2eIXe0WE2I1w",
+      "id": "iH30XF3BTqs",
+      "snippet": {
+        "publishedAt": "2026-08-10T10:04:31Z",
+        "channelId": "UCPT2AbIvEh_6GU6ODbBOSmA",
+        "title": "ระวัง SD Card ปลอม | TOGE トゲ",
+        "description": "#TOGE #สาระน่ารู้ #ความรู้รอบตัว #สาระ #สาระความรู้ #สาระสั้นๆ #คลิปความรู้ #funfacts #เรื่องรอบรู้ #vtuber #vtuberth",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iH30XF3BTqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iH30XF3BTqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iH30XF3BTqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iH30XF3BTqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iH30XF3BTqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TOGE トゲ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ระวัง SD Card ปลอม | TOGE トゲ",
+          "description": "#TOGE #สาระน่ารู้ #ความรู้รอบตัว #สาระ #สาระความรู้ #สาระสั้นๆ #คลิปความรู้ #funfacts #เรื่องรอบรู้ #vtuber #vtuberth"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "156639",
+        "likeCount": "11780",
+        "favoriteCount": "0",
+        "commentCount": "139"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ONDSCIJrcYZb9ejNbwVuqEHC3X8",
+      "id": "x8DIBPZRDtk",
+      "snippet": {
+        "publishedAt": "2026-08-12T00:00:08Z",
+        "channelId": "UChzZ19fnjC-G0y-bzacEr0Q",
+        "title": "กลายเป็นเจ้าของ Google... แบบไม่ตั้งใจ! 😱#shorts",
+        "description": "กลายเป็นเจ้าของ Google... แบบไม่ตั้งใจ! 😱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x8DIBPZRDtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x8DIBPZRDtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x8DIBPZRDtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x8DIBPZRDtk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x8DIBPZRDtk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fact Fast Files",
+        "tags": [
+          "shorts",
+          "youtubeshorts",
+          "shortvideo"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "กลายเป็นเจ้าของ Google... แบบไม่ตั้งใจ! 😱#shorts",
+          "description": "กลายเป็นเจ้าของ Google... แบบไม่ตั้งใจ! 😱"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "77942",
+        "likeCount": "3595",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sMgHiRKgvemV68nAinLOcEE2Rvw",
+      "id": "Thh2i5SJAUw",
+      "snippet": {
+        "publishedAt": "2026-08-06T11:21:50Z",
+        "channelId": "UCw-kmsEgwTcljJEHvlEmiXQ",
+        "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
+        "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HARDWARE EN",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
+          "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8469404",
+        "likeCount": "255966",
+        "favoriteCount": "0",
+        "commentCount": "1676"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LP2kqP9CINcrA8XFI4hFnS9yUjA",
+      "id": "UaYdKFx7ml8",
+      "snippet": {
+        "publishedAt": "2026-08-10T02:00:09Z",
+        "channelId": "UC1l9NQ__kCp9JoBnuZsaUjA",
+        "title": "ประกอบคอมงบ30K ไม่ยากหรอก...แต่เหนื่อย",
+        "description": "ประกอบคอมงบ30K ไม่ยากหรอก...แต่เหนื่อย\n\nรับชมผ่าน\nYouTube : https://www.youtube.com/extremeit/\nFacebook : https://www.facebook.com/extremeitreview/\nInstagram : https://www.instagram.com/extremeit.ig\nTikTok : https://www.tiktok.com/@extremeit\nสนับสนุนเรา : https://www.youtube.com/channel/UC1l9NQ__kCp9JoBnuZsaUjA/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UaYdKFx7ml8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UaYdKFx7ml8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UaYdKFx7ml8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UaYdKFx7ml8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UaYdKFx7ml8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Extreme IT",
+        "tags": [
+          "ExtremeIT",
+          "EXIT",
+          "Extremepc",
+          "Gaming",
+          "โน๊ตบุ๊คสเปค",
+          "คอมพิวเตอร์",
+          "รีวิวโน๊ตบุ๊ค",
+          "เทคโนโลยี"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ประกอบคอมงบ30K ไม่ยากหรอก...แต่เหนื่อย",
+          "description": "ประกอบคอมงบ30K ไม่ยากหรอก...แต่เหนื่อย\n\nรับชมผ่าน\nYouTube : https://www.youtube.com/extremeit/\nFacebook : https://www.facebook.com/extremeitreview/\nInstagram : https://www.instagram.com/extremeit.ig\nTikTok : https://www.tiktok.com/@extremeit\nสนับสนุนเรา : https://www.youtube.com/channel/UC1l9NQ__kCp9JoBnuZsaUjA/join"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "142387",
+        "likeCount": "8978",
+        "favoriteCount": "0",
+        "commentCount": "90"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3gv_EPkqJ7EQzgZqwItegZSTa_s",
+      "id": "hzR5dPbn_bg",
+      "snippet": {
+        "publishedAt": "2026-08-09T08:24:53Z",
+        "channelId": "UCL4zUAOjc91qrGw654AhrPQ",
+        "title": "ซื้อทีวีใหม่ อย่าเพิ่งลอกแผ่นนี้ออก!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KYNDO",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ซื้อทีวีใหม่ อย่าเพิ่งลอกแผ่นนี้ออก!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "165289",
+        "likeCount": "5892",
+        "favoriteCount": "0",
+        "commentCount": "34"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z9K8W1QjyJQgf1bjaPLh7HmCiuQ",
+      "id": "i1Lw5ofjTD4",
+      "snippet": {
+        "publishedAt": "2026-08-11T23:45:54Z",
+        "channelId": "UCQpWPs48cGSAzB_lhFHjnJQ",
+        "title": "ถ้า iPhone 18 Pro Max มีฟีเจอร์แบบนี้จริง… ใช้แบบยาวๆ📱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i1Lw5ofjTD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i1Lw5ofjTD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i1Lw5ofjTD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i1Lw5ofjTD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i1Lw5ofjTD4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sunstory99",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ถ้า iPhone 18 Pro Max มีฟีเจอร์แบบนี้จริง… ใช้แบบยาวๆ📱",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "55329",
+        "likeCount": "2193",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xmu_VlCVOKnfzkRVcbfsPQAtZKA",
+      "id": "71s8j5c5Fio",
+      "snippet": {
+        "publishedAt": "2026-08-11T11:00:16Z",
+        "channelId": "UClpCSCo-XK5wIUHyrnanCaA",
+        "title": "สายชาร์จมือถือคุณตายาวมากๆเลย!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71s8j5c5Fio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71s8j5c5Fio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71s8j5c5Fio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/71s8j5c5Fio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/71s8j5c5Fio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IThai2",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "สายชาร์จมือถือคุณตายาวมากๆเลย!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "54804",
+        "likeCount": "1394",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UgHjZTZfbIIDSMfywQgUdV0Xz8g",
       "id": "hjLv_Z2KskI",
       "snippet": {
         "publishedAt": "2026-08-07T23:00:27Z",
@@ -128,60 +639,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5130935",
-        "likeCount": "48577",
+        "viewCount": "9315577",
+        "likeCount": "85682",
         "favoriteCount": "0",
-        "commentCount": "66"
+        "commentCount": "92"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-fR6Ceff-0mMRPoCjSihlW-WVwI",
-      "id": "ryNUhfStiT8",
+      "etag": "EuGhHC3Toc8Q13n974OVse1rY9Q",
+      "id": "_WLezr14RMA",
       "snippet": {
-        "publishedAt": "2026-07-24T11:54:51Z",
-        "channelId": "UC1dnrZnTPHdqkV1SXVf7NvA",
-        "title": "เธอเปิดกล่องไอโฟนเครื่องใหม่ แต่สิ่งที่เจอกลับเป็น... 😱",
-        "description": "",
+        "publishedAt": "2026-08-07T11:00:22Z",
+        "channelId": "UCl8jzJb_DROSn379tdrZFFQ",
+        "title": "ไปรับ Galaxy Z Fold8 แต่เกือบไม่ได้กลับบ้านครับ",
+        "description": "ติดต่องาน E-mail : contact.tumpyung@gmail.com\n.\nIG : tump_witthawat\nhttps://www.instagram.com/tump_witthawat\nแฟนเพจ FB : Tump Yung \nhttps://www.facebook.com/TumpYungCH/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ryNUhfStiT8/default.jpg",
+            "url": "https://i.ytimg.com/vi/_WLezr14RMA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ryNUhfStiT8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_WLezr14RMA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ryNUhfStiT8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_WLezr14RMA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ryNUhfStiT8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/_WLezr14RMA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ryNUhfStiT8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_WLezr14RMA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "CubeQ",
+        "channelTitle": "Tump Yung",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เธอเปิดกล่องไอโฟนเครื่องใหม่ แต่สิ่งที่เจอกลับเป็น... 😱",
-          "description": ""
+          "title": "ไปรับ Galaxy Z Fold8 แต่เกือบไม่ได้กลับบ้านครับ",
+          "description": "ติดต่องาน E-mail : contact.tumpyung@gmail.com\n.\nIG : tump_witthawat\nhttps://www.instagram.com/tump_witthawat\nแฟนเพจ FB : Tump Yung \nhttps://www.facebook.com/TumpYungCH/"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT18S",
+        "duration": "PT1M4S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -190,15 +701,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1662460",
-        "likeCount": "47557",
+        "viewCount": "109578",
+        "likeCount": "6574",
         "favoriteCount": "0",
-        "commentCount": "133"
+        "commentCount": "99"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "8bh6cwKRuY1YJVPs7AyTrtb0rvg",
+      "etag": "Qb7fMDjvktAad8hJ29x4cVaR8h0",
       "id": "8WbXomSJdOE",
       "snippet": {
         "publishedAt": "2026-07-25T16:02:05Z",
@@ -262,151 +773,28 @@
         "localized": {
           "title": "แม่บ้านทำคอมพังทั้งแถบ! แต่เจ้าของร้านทำสิ่งนี้..คดีพลิกสุดๆ 😱",
           "description": "เมื่อแม่บ้านทำความสะอาดอยู่ดีๆ แค่เลื่อนเก้าอี้ไปชนเบาๆ แต่โต๊ะคอมพิวเตอร์กลับล้มระเนระนาดพังพินาศทั้งเซ็ต! งานนี้คุณป้าแม่บ้านเตรียมใจรับผิดชอบค่าเสียหายหลักหมื่นแบบเต็มๆ แต่เรื่องราวกลับคดีพลิก เมื่อเจ้าของร้านมาเช็กกล้องวงจรปิด นอกจากจะไม่ปรับเงินสักบาทแล้ว ยังหันไป \"ขอบคุณ\" แม่บ้านอีกด้วย!?\n\nเหตุผลคืออะไร? ดูให้จบแล้วจะรู้ว่าทำไมบอสคนนี้ถึงได้ใจชาวเน็ตไปเต็มๆ! 👏 ใครเจอหัวหน้าแบบนี้บ้าง คอมเมนต์บอกกันหน่อย! 👇\n\n#สติ #ไวรัล #ฟีลกู๊ด #เรื่องดีๆบอกต่อ #เจ้าของร้านใจดี #คลิปวงจรปิด #ข่าวโซเชียล #ร้านเกม #อุบัติเหต #ViralVideo #Wholesome #FeelGood #CCTV #GoodBoss #InternetCafe #TrendingNow #fail #shorts #viral"
-        }
+        },
+        "defaultAudioLanguage": "th"
       },
       "contentDetails": {
         "duration": "PT27S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1076499",
-        "likeCount": "20759",
+        "viewCount": "1233274",
+        "likeCount": "24129",
         "favoriteCount": "0",
-        "commentCount": "89"
+        "commentCount": "93"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "hXcGXfo19bS-iFiowIDGRlUxwLg",
-      "id": "hzR5dPbn_bg",
-      "snippet": {
-        "publishedAt": "2026-08-09T08:24:53Z",
-        "channelId": "UCL4zUAOjc91qrGw654AhrPQ",
-        "title": "ซื้อทีวีใหม่ อย่าเพิ่งลอกแผ่นนี้ออก!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hzR5dPbn_bg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KYNDO",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ซื้อทีวีใหม่ อย่าเพิ่งลอกแผ่นนี้ออก!",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT51S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "43831",
-        "likeCount": "2320",
-        "favoriteCount": "0",
-        "commentCount": "14"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6PqfzCM2NdMNOs9MhK_N4PsHviE",
-      "id": "_WLezr14RMA",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:00:22Z",
-        "channelId": "UCl8jzJb_DROSn379tdrZFFQ",
-        "title": "ไปรับ Galaxy Z Fold8 แต่เกือบไม่ได้กลับบ้านครับ",
-        "description": "ติดต่องาน E-mail : contact.tumpyung@gmail.com\n.\nIG : tump_witthawat\nhttps://www.instagram.com/tump_witthawat\nแฟนเพจ FB : Tump Yung \nhttps://www.facebook.com/TumpYungCH/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_WLezr14RMA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_WLezr14RMA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_WLezr14RMA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_WLezr14RMA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_WLezr14RMA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tump Yung",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ไปรับ Galaxy Z Fold8 แต่เกือบไม่ได้กลับบ้านครับ",
-          "description": "ติดต่องาน E-mail : contact.tumpyung@gmail.com\n.\nIG : tump_witthawat\nhttps://www.instagram.com/tump_witthawat\nแฟนเพจ FB : Tump Yung \nhttps://www.facebook.com/TumpYungCH/"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "75483",
-        "likeCount": "4296",
-        "favoriteCount": "0",
-        "commentCount": "71"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "C4CNURCPSgJRYZ4j6CcrCn49zOE",
+      "etag": "EE1yU6JfFubm9NFV1f1lfLXOUmM",
       "id": "pOMJYSseLTc",
       "snippet": {
         "publishedAt": "2026-08-08T04:00:19Z",
@@ -472,77 +860,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "78816",
-        "likeCount": "7128",
+        "viewCount": "99042",
+        "likeCount": "9125",
         "favoriteCount": "0",
-        "commentCount": "112"
+        "commentCount": "130"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zgV0zcUGYybNkFFNrg6OyR7WRQc",
-      "id": "Thh2i5SJAUw",
-      "snippet": {
-        "publishedAt": "2026-08-06T11:21:50Z",
-        "channelId": "UCw-kmsEgwTcljJEHvlEmiXQ",
-        "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
-        "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Thh2i5SJAUw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "HARDWARE EN",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "“The true power of CTRL + Z💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
-          "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2356765",
-        "likeCount": "81132",
-        "favoriteCount": "0",
-        "commentCount": "575"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1XJvPF8y3d4e_Xq-bWQ0OPm2sY4",
+      "etag": "BJ9qyChXHYYGyopX9RGKz70VdrU",
       "id": "JdZfehHAYw8",
       "snippet": {
         "publishedAt": "2026-08-04T04:32:41Z",
@@ -605,15 +931,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "408281",
-        "likeCount": "20318",
+        "viewCount": "440452",
+        "likeCount": "21343",
         "favoriteCount": "0",
-        "commentCount": "990"
+        "commentCount": "1010"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ymN3GlIbgkSeNSHd11bb1qrLAHk",
+      "etag": "f3C_XzSZwhkVFYNyZKewqBm78B0",
+      "id": "ahYQiZmaLJI",
+      "snippet": {
+        "publishedAt": "2026-08-11T11:30:01Z",
+        "channelId": "UC08ofVAidLJO9e9Q2Pihb_g",
+        "title": "มีกุญแจก็เปิดไม่ได้ 🔐",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahYQiZmaLJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahYQiZmaLJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahYQiZmaLJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ahYQiZmaLJI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ahYQiZmaLJI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OwlRealm",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "มีกุญแจก็เปิดไม่ได้ 🔐",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "23647",
+        "likeCount": "398",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KAGZrex2LZMh1cZ3XMeAsQkrCHw",
       "id": "tXmEz6QZlnA",
       "snippet": {
         "publishedAt": "2026-07-28T12:55:20Z",
@@ -667,15 +1055,177 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "441597",
-        "likeCount": "7077",
+        "viewCount": "459871",
+        "likeCount": "7283",
         "favoriteCount": "0",
         "commentCount": "34"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "L4M82LsKkieOJrKe0E-AwGqHNR0",
+      "etag": "0LLpRWlpvICBzJSQFhUUWnnLG44",
+      "id": "tI3IelIZBg4",
+      "snippet": {
+        "publishedAt": "2026-08-11T12:45:20Z",
+        "channelId": "UCbu5nxUSNWF84sOhKPGLWvg",
+        "title": "CMLink ซิมจีนใช้ 5Gในไทยได้ ว่าที่ซิมเทพคุ้มที่สุดในปี 2026!?",
+        "description": "📌CMLink 70GB (1 เดือน) : https://s.shopee.co.th/20uZlbr2lL\n📌CMLink 150GB/เดือน (12 เดือน) : https://s.shopee.co.th/4Az4LiEgTg\n📌เว็บ CMLink : https://www.cmlink.com/th/\n\nลองใช้จริง CMLink ซิมจีนที่สามารถใช้งาน 5G ในประเทศไทยได้ แถมแพ็กเกจรายปียังให้เน็ตสูงสุดถึง 150GB/เดือน ความเร็ว 30Mbps ใช้ครบแล้วยังเล่นต่อได้ที่ 6Mbps ในราคาเฉลี่ยเพียงเดือนละ 200 กว่าบาทเท่านั้น\n.\nคลิปนี้ผมซื้อซิม CMLink มาลองใช้งานจริง ตั้งแต่ขั้นตอนการลงทะเบียน เช็คสัญญาณ 4G/5G ทดสอบความเร็ว ดู YouTube, TikTok, ปล่อย Hotspot ไปเล่นเกม รวมถึงดูข้อดีและข้อสังเกตต่าง ๆ หลังใช้งาน ว่าถ้าจะซื้อมาเป็นซิมหลักหรือซิมเน็ตรายปีในปี 2026 น่าสนใจแค่ไหน\n.\nนอกจากนี้เราจะมาดูกันด้วยว่า CMLink คือใคร เกี่ยวข้องกับ China Mobile และ True อย่างไร ทำไมซิมจีนถึงสามารถใช้เครือข่าย 5G ในประเทศไทยได้ รวมถึงเปรียบเทียบแพ็กเกจและราคากับซิมเทพรายปีที่มีขายอยู่ในปัจจุบัน\n.\nใครกำลังมองหาซิมรายปี ซิมเน็ตราคาประหยัด หรือใช้เน็ตเยอะเป็นประจำ คลิปนี้น่าจะช่วยประกอบการตัดสินใจได้ครับ\n\n00:00 Intro\n01:25 โปรที่น่าสนใจ\n03:53 แกะลงทะเบียน\n05:33 การใช้งาน\n07:26 สรุป\n---------------------------------------\nTikTok : https://www.tiktok.com/@comcraft.ds\nFanpage : https://www.facebook.com/comcraft.ds\nGroup : https://www.facebook.com/groups/569586269423078",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tI3IelIZBg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tI3IelIZBg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tI3IelIZBg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tI3IelIZBg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tI3IelIZBg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "คอมคร้าบ",
+        "tags": [
+          "คอมคร้าบ",
+          "comcraft",
+          "CMLink",
+          "CMLink รีวิว",
+          "รีวิว CMLink",
+          "ซิม CMLink",
+          "ซิมจีน",
+          "ซิมจีนใช้ในไทย",
+          "ซิมจีน 5G",
+          "ซิมจีน CMLink",
+          "ซิมเทพ",
+          "ซิมเทพ 2026",
+          "ซิมเทพรายปี",
+          "ซิมรายปี",
+          "ซิมรายปี 2026",
+          "ซิมรายปีราคาถูก",
+          "ซิมเน็ต",
+          "ซิมเน็ตรายปี",
+          "ซิมเน็ตไม่อั้น",
+          "ซิมเน็ตราคาถูก",
+          "ซิม 5G",
+          "ซิม 5G รายปี",
+          "5G Thailand",
+          "True 5G",
+          "TrueMove H",
+          "ซิมทรู",
+          "ซิมเทพทรู",
+          "China Mobile",
+          "เน็ต 30Mbps",
+          "ซิมเน็ต 150GB",
+          "รีวิวซิม",
+          "ซิมไหนดี",
+          "ซิมรายปีไหนดี",
+          "ซิมเทพไหนดี",
+          "ซิมเน็ตไหนดี",
+          "ซิมคุ้ม 2026"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "CMLink ซิมจีนใช้ 5Gในไทยได้ ว่าที่ซิมเทพคุ้มที่สุดในปี 2026!?",
+          "description": "📌CMLink 70GB (1 เดือน) : https://s.shopee.co.th/20uZlbr2lL\n📌CMLink 150GB/เดือน (12 เดือน) : https://s.shopee.co.th/4Az4LiEgTg\n📌เว็บ CMLink : https://www.cmlink.com/th/\n\nลองใช้จริง CMLink ซิมจีนที่สามารถใช้งาน 5G ในประเทศไทยได้ แถมแพ็กเกจรายปียังให้เน็ตสูงสุดถึง 150GB/เดือน ความเร็ว 30Mbps ใช้ครบแล้วยังเล่นต่อได้ที่ 6Mbps ในราคาเฉลี่ยเพียงเดือนละ 200 กว่าบาทเท่านั้น\n.\nคลิปนี้ผมซื้อซิม CMLink มาลองใช้งานจริง ตั้งแต่ขั้นตอนการลงทะเบียน เช็คสัญญาณ 4G/5G ทดสอบความเร็ว ดู YouTube, TikTok, ปล่อย Hotspot ไปเล่นเกม รวมถึงดูข้อดีและข้อสังเกตต่าง ๆ หลังใช้งาน ว่าถ้าจะซื้อมาเป็นซิมหลักหรือซิมเน็ตรายปีในปี 2026 น่าสนใจแค่ไหน\n.\nนอกจากนี้เราจะมาดูกันด้วยว่า CMLink คือใคร เกี่ยวข้องกับ China Mobile และ True อย่างไร ทำไมซิมจีนถึงสามารถใช้เครือข่าย 5G ในประเทศไทยได้ รวมถึงเปรียบเทียบแพ็กเกจและราคากับซิมเทพรายปีที่มีขายอยู่ในปัจจุบัน\n.\nใครกำลังมองหาซิมรายปี ซิมเน็ตราคาประหยัด หรือใช้เน็ตเยอะเป็นประจำ คลิปนี้น่าจะช่วยประกอบการตัดสินใจได้ครับ\n\n00:00 Intro\n01:25 โปรที่น่าสนใจ\n03:53 แกะลงทะเบียน\n05:33 การใช้งาน\n07:26 สรุป\n---------------------------------------\nTikTok : https://www.tiktok.com/@comcraft.ds\nFanpage : https://www.facebook.com/comcraft.ds\nGroup : https://www.facebook.com/groups/569586269423078"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT10M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "100628",
+        "likeCount": "2117",
+        "favoriteCount": "0",
+        "commentCount": "443"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a1rYhX95jW5__TZgRlfPQ_9hPiI",
+      "id": "Ukf-S9dnIJs",
+      "snippet": {
+        "publishedAt": "2026-08-01T05:00:18Z",
+        "channelId": "UChjKDMnMMG6iZY3twuuS2zg",
+        "title": "VLOG : สวัสดีคอมใหม่ 2569",
+        "description": "อู๊ยยยย ระบบสมัครสมาชิกอะแกรรรร\nhttps://www.youtube.com/channel/UChjKDMnMMG6iZY3twuuS2zg/join\n------------------------\nชื่นชอบกดไลค์ กดซับ กดกระดิ่งให้กันด้วยน้า กดเลยลิงค์ด้านล่าง\nhttps://goo.gl/uJg78I\n------------------------\nฝากกดไลค์แฟนเพจจ้า \nhttps://www.facebook.com/CH.primkung/\n-----------------------\nFacebook ส่วนตัว \nhttps://www.facebook.com/Puckawut\n------------------------\nติดต่องาน :pwh.prod@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PRIMKUNG",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "VLOG : สวัสดีคอมใหม่ 2569",
+          "description": "อู๊ยยยย ระบบสมัครสมาชิกอะแกรรรร\nhttps://www.youtube.com/channel/UChjKDMnMMG6iZY3twuuS2zg/join\n------------------------\nชื่นชอบกดไลค์ กดซับ กดกระดิ่งให้กันด้วยน้า กดเลยลิงค์ด้านล่าง\nhttps://goo.gl/uJg78I\n------------------------\nฝากกดไลค์แฟนเพจจ้า \nhttps://www.facebook.com/CH.primkung/\n-----------------------\nFacebook ส่วนตัว \nhttps://www.facebook.com/Puckawut\n------------------------\nติดต่องาน :pwh.prod@gmail.com"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT22M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "476265",
+        "likeCount": "14156",
+        "favoriteCount": "0",
+        "commentCount": "603"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Vc5-JkkI2kyz8kINvbOwcZvpn-U",
       "id": "cIkfw5u3WHw",
       "snippet": {
         "publishedAt": "2026-08-05T14:00:14Z",
@@ -716,8 +1266,7 @@
         "localized": {
           "title": "หุ่นยนต์แนวหน้า! ยูเครนส่ง Tanchik Droid 12.7 เข้าประจำการ",
           "description": "ยูเครนเปิดตัว Tanchik Droid 12.7 หุ่นยนต์ภาคพื้นดินไร้คนขับ พัฒนาโดย DevDroid ร่วมกับ Overland Defense สำหรับภารกิจลาดตระเวน ตรวจการณ์ และสนับสนุนการทำงานของกำลังภาคพื้นดิน ระบบติดตั้งกล้องตรวจการณ์ กล้องความร้อน และระบบติดตามเป้าหมายด้วย AI สามารถควบคุมจากระยะไกลผ่านชุดควบคุม Droid Box พร้อมระยะปฏิบัติการสูงสุด 25 กิโลเมตรในพื้นที่ออฟโรด เทคโนโลยีดังกล่าวสะท้อนแนวโน้มการนำระบบไร้คนขับเข้ามาช่วยเพิ่มประสิทธิภาพและลดความเสี่ยงต่อกำลังพล กระทรวงกลาโหมยูเครนรับรอง Tanchik Droid 12.7 ให้ใช้งานในกองทัพตั้งแต่เดือนกรกฎาคม 2569\n.\n✅ สถานที่ : ประเทศยูเครน\n✅ ที่มาแหล่งข่าว : DevDroid\n.\n#TheBreakingConnect #TanchikDroid127 #เทคโนโลยีทหาร #ระบบไร้คนขับ"
-        },
-        "defaultAudioLanguage": "th"
+        }
       },
       "contentDetails": {
         "duration": "PT58S",
@@ -729,15 +1278,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "63452",
-        "likeCount": "1640",
+        "viewCount": "72380",
+        "likeCount": "1767",
         "favoriteCount": "0",
-        "commentCount": "49"
+        "commentCount": "51"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "z11VyibozcTZjiUjIxylqdJXfFk",
+      "etag": "TXsW41bdvIm-Q-RCIz2qDVFhCvs",
+      "id": "GIJT_Oh1uD0",
+      "snippet": {
+        "publishedAt": "2026-08-10T10:14:35Z",
+        "channelId": "UCqdG30T3uMYhiqA3Py3KhmQ",
+        "title": "จากลูกครูผู้ยากจน สู่เจ้าพ่อมือถือแสนล้าน!! #xiaomi",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GIJT_Oh1uD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GIJT_Oh1uD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GIJT_Oh1uD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GIJT_Oh1uD0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GIJT_Oh1uD0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Life of Cars Bkk - ตามติดชีวิต 4 ล้อ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "จากลูกครูผู้ยากจน สู่เจ้าพ่อมือถือแสนล้าน!! #xiaomi",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29118",
+        "likeCount": "2374",
+        "favoriteCount": "0",
+        "commentCount": "65"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vJ-zVThhSE3oOcYCIGB0UTC3YIc",
       "id": "wmrzC46q28E",
       "snippet": {
         "publishedAt": "2026-07-31T11:28:00Z",
@@ -801,77 +1412,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "248505",
-        "likeCount": "16251",
+        "viewCount": "264589",
+        "likeCount": "17123",
         "favoriteCount": "0",
-        "commentCount": "146"
+        "commentCount": "150"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "ZXpvvba-OlXJWj6txMnzkD1cw58",
-      "id": "Ukf-S9dnIJs",
-      "snippet": {
-        "publishedAt": "2026-08-01T05:00:18Z",
-        "channelId": "UChjKDMnMMG6iZY3twuuS2zg",
-        "title": "VLOG : สวัสดีคอมใหม่ 2569",
-        "description": "อู๊ยยยย ระบบสมัครสมาชิกอะแกรรรร\nhttps://www.youtube.com/channel/UChjKDMnMMG6iZY3twuuS2zg/join\n------------------------\nชื่นชอบกดไลค์ กดซับ กดกระดิ่งให้กันด้วยน้า กดเลยลิงค์ด้านล่าง\nhttps://goo.gl/uJg78I\n------------------------\nฝากกดไลค์แฟนเพจจ้า \nhttps://www.facebook.com/CH.primkung/\n-----------------------\nFacebook ส่วนตัว \nhttps://www.facebook.com/Puckawut\n------------------------\nติดต่องาน :pwh.prod@gmail.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ukf-S9dnIJs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PRIMKUNG",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "VLOG : สวัสดีคอมใหม่ 2569",
-          "description": "อู๊ยยยย ระบบสมัครสมาชิกอะแกรรรร\nhttps://www.youtube.com/channel/UChjKDMnMMG6iZY3twuuS2zg/join\n------------------------\nชื่นชอบกดไลค์ กดซับ กดกระดิ่งให้กันด้วยน้า กดเลยลิงค์ด้านล่าง\nhttps://goo.gl/uJg78I\n------------------------\nฝากกดไลค์แฟนเพจจ้า \nhttps://www.facebook.com/CH.primkung/\n-----------------------\nFacebook ส่วนตัว \nhttps://www.facebook.com/Puckawut\n------------------------\nติดต่องาน :pwh.prod@gmail.com"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT22M32S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "454073",
-        "likeCount": "13834",
-        "favoriteCount": "0",
-        "commentCount": "590"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "9PyUszvTjdRJqQ1cUe5ZURP2nzQ",
+      "etag": "LpXnL_TgkbjtblUDYclrzO50Bmw",
       "id": "tzLexHl_dAI",
       "snippet": {
         "publishedAt": "2026-08-01T02:30:33Z",
@@ -924,15 +1473,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5683330",
-        "likeCount": "62560",
+        "viewCount": "5785926",
+        "likeCount": "64565",
         "favoriteCount": "0",
-        "commentCount": "290"
+        "commentCount": "313"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "736EVJuw83iwON0tHEbVpb0zumc",
+      "etag": "swExKWgKGzV0Yn4HjNHAeTIjnno",
       "id": "Aet5tZZulK4",
       "snippet": {
         "publishedAt": "2026-08-08T04:37:48Z",
@@ -986,139 +1535,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3686798",
-        "likeCount": "26360",
+        "viewCount": "4352202",
+        "likeCount": "30865",
         "favoriteCount": "0",
-        "commentCount": "94"
+        "commentCount": "111"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "loS0YRGwqJnnRJQgO9k-NxRaNPo",
-      "id": "GaPl26u62dE",
-      "snippet": {
-        "publishedAt": "2026-07-22T11:30:34Z",
-        "channelId": "UCfoXuLwwvN--a_wrxY-17Mw",
-        "title": "ไอโฟนมือสองเกือบได้แต่พลาด😂",
-        "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GaPl26u62dE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GaPl26u62dE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GaPl26u62dE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GaPl26u62dE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GaPl26u62dE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "PANDA STORY",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "ไอโฟนมือสองเกือบได้แต่พลาด😂",
-          "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "824283",
-        "likeCount": "21070",
-        "favoriteCount": "0",
-        "commentCount": "23"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EVXNojYGLnOHZ0Dyesq4ef9eW9A",
-      "id": "P5VYXpitAvE",
-      "snippet": {
-        "publishedAt": "2026-08-02T15:47:01Z",
-        "channelId": "UCudIYj3sN5s6GLQgh0qpTew",
-        "title": "Apple แอบกั๊ก คนใช้หน้าจอ 120Hz ต้องรู้ #houkandbank #iphonetricks #iphone #ทริคไอโฟน #เทรนด์วันนี้",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P5VYXpitAvE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P5VYXpitAvE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P5VYXpitAvE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/P5VYXpitAvE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/P5VYXpitAvE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "HoukandBank",
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "Apple แอบกั๊ก คนใช้หน้าจอ 120Hz ต้องรู้ #houkandbank #iphonetricks #iphone #ทริคไอโฟน #เทรนด์วันนี้",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "96468",
-        "likeCount": "5602",
-        "favoriteCount": "0",
-        "commentCount": "108"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "8Io1E2fjLVWHP3WOIQdKgWkWzrA",
+      "etag": "n7ODavikXD6W0kOU9bfoS4iKgzM",
       "id": "rkqSImkFF5Q",
       "snippet": {
         "publishedAt": "2026-08-03T10:20:27Z",
@@ -1224,15 +1649,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "160228",
-        "likeCount": "3542",
+        "viewCount": "181573",
+        "likeCount": "3901",
         "favoriteCount": "0",
-        "commentCount": "168"
+        "commentCount": "179"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jncuB9mqA8ICtOKlWoez1XVEqEk",
+      "etag": "FGqc_wuEQBr8kx9MZMDXksipRm8",
+      "id": "GaPl26u62dE",
+      "snippet": {
+        "publishedAt": "2026-07-22T11:30:34Z",
+        "channelId": "UCfoXuLwwvN--a_wrxY-17Mw",
+        "title": "ไอโฟนมือสองเกือบได้แต่พลาด😂",
+        "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GaPl26u62dE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GaPl26u62dE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GaPl26u62dE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GaPl26u62dE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GaPl26u62dE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PANDA STORY",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "ไอโฟนมือสองเกือบได้แต่พลาด😂",
+          "description": "หมายเหตุ: วิดีโอทั้งหมดของฉันอยู่ภายใต้การคุ้มครองตามมาตรา 107 ของพระราชบัญญัติลิขสิทธิ์ (Fair Use) แต่ถ้าคุณพบว่าเนื้อหาของคุณถูกใช้งานในช่องของฉันและต้องการให้ลบออก ฉันยินดีที่จะดำเนินการตามคำขอของคุณทันที! 😊\n📩 ติดต่อฉันได้ที่: pandaverse735@gmail.com\"\n\nสมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ\nhttps://www.youtube.com/channel/UCfoXuLwwvN--a_wrxY-17Mw/join"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "864977",
+        "likeCount": "22168",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "od_WWQoHfNO0Y7BxZXVK3ScPX-4",
+      "id": "_QF9-cXwz5c",
+      "snippet": {
+        "publishedAt": "2026-08-07T14:57:30Z",
+        "channelId": "UCnlPVOcrTBlH2_JUHob8IAQ",
+        "title": "ทำไม Wifi ของคุณถึง “ช้า”? #ความรู้",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "พีท จิรายุ (U DRINK I DRIVE)",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "ทำไม Wifi ของคุณถึง “ช้า”? #ความรู้",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT1M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "37839",
+        "likeCount": "3299",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "50xNjmcPDWSd9D1peUBajev4khE",
       "id": "vOCJt_nbEm8",
       "snippet": {
         "publishedAt": "2026-07-25T09:00:11Z",
@@ -1302,77 +1851,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "737676",
-        "likeCount": "14184",
+        "viewCount": "902587",
+        "likeCount": "15600",
         "favoriteCount": "0",
-        "commentCount": "101"
+        "commentCount": "108"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Cq61Yv0yrtAWfT2EfEzR16EXknc",
-      "id": "_QF9-cXwz5c",
-      "snippet": {
-        "publishedAt": "2026-08-07T14:57:30Z",
-        "channelId": "UCnlPVOcrTBlH2_JUHob8IAQ",
-        "title": "ทำไม Wifi ของคุณถึง “ช้า”? #ความรู้",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_QF9-cXwz5c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "พีท จิรายุ (U DRINK I DRIVE)",
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ทำไม Wifi ของคุณถึง “ช้า”? #ความรู้",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT1M12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "25926",
-        "likeCount": "2241",
-        "favoriteCount": "0",
-        "commentCount": "16"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mfZqpJHZNLN8Ix3aqt6M14frgFY",
+      "etag": "wXD2tj-FMsRrKjMQkqKZJJuv5lw",
       "id": "AYau0em4X7Y",
       "snippet": {
         "publishedAt": "2026-08-01T11:45:25Z",
@@ -1437,15 +1924,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "114596",
-        "likeCount": "5173",
+        "viewCount": "115971",
+        "likeCount": "5215",
         "favoriteCount": "0",
         "commentCount": "18"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "eM5TD8UwqUBQKSTULsQujiSZkjQ",
+      "etag": "lDe8V2d0DRJbGvDDlb5w2RvJ6A0",
       "id": "kkqu-U4TGVQ",
       "snippet": {
         "publishedAt": "2026-08-06T11:41:59Z",
@@ -1498,15 +1985,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "19404",
-        "likeCount": "590",
+        "viewCount": "21275",
+        "likeCount": "639",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yya1fg0PE2A-eaQXSmBJIsJm22c",
+      "etag": "luqOnHiURCA1ExvO46yCz_zAty4",
+      "id": "PCcSga_RRPc",
+      "snippet": {
+        "publishedAt": "2026-08-10T11:33:32Z",
+        "channelId": "UCudIYj3sN5s6GLQgh0qpTew",
+        "title": "เรื่องจริงไหม กดบังคับรีสตาร์ท ทำแบบนี้แล้วเครื่องเสีย #houkandbank #iphone #hardreset #iphonetricks",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCcSga_RRPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCcSga_RRPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCcSga_RRPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCcSga_RRPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCcSga_RRPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HoukandBank",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เรื่องจริงไหม กดบังคับรีสตาร์ท ทำแบบนี้แล้วเครื่องเสีย #houkandbank #iphone #hardreset #iphonetricks",
+          "description": ""
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT2M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21961",
+        "likeCount": "1640",
+        "favoriteCount": "0",
+        "commentCount": "36"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wrTVSxFsjk11A6IvhovL-yeFpew",
       "id": "N6S7ZMq9h6g",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:24Z",
@@ -1547,8 +2096,7 @@
         "localized": {
           "title": "IPHONE 18 PROMAX DARK CHERY 🙏💚 #usa #shorts #noads",
           "description": ""
-        },
-        "defaultAudioLanguage": "vi"
+        }
       },
       "contentDetails": {
         "duration": "PT15S",
@@ -1560,60 +2108,66 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "961493",
-        "likeCount": "12457",
+        "viewCount": "1628611",
+        "likeCount": "20604",
         "favoriteCount": "0",
-        "commentCount": "46"
+        "commentCount": "70"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "FldehRZqtcPqvmqYH8Yx056qiwI",
-      "id": "Ph5VzA68Rvs",
+      "etag": "N9GK4gZHJu1c4Qj2Fqc7vUwqqU8",
+      "id": "55e0Mpcvpwk",
       "snippet": {
-        "publishedAt": "2026-07-24T23:00:24Z",
-        "channelId": "UCxj5Q1u_5PJtdKtxtyVUa2w",
-        "title": "เมื่อไฟฉายที่สว่างที่สุดในโลก ส่องใส่สีที่ดำที่สุดในโลก! 🔦vs🖤",
-        "description": "แสงขั้นสุด ปะทะ ความมืดขั้นสุด! พาดูผลการทดลองสุดอึ้ง เมื่อเอาไฟฉายพลังสูงมาส่องใส่สี Black 4.0 ทำไมส่องปุ๊บถึงไหม้จนควันพุ่งปั๊บ? มาดูเหตุผลทางฟิสิกส์กันครับ!",
+        "publishedAt": "2026-08-10T23:42:19Z",
+        "channelId": "UCcO6xbUEU-8drX1IHQaDJAQ",
+        "title": "ใครใช้ LINE รีบไปสำรองด่วน จะโดนลบหมดแล้ว LINE VOOM",
+        "description": "#line",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ph5VzA68Rvs/default.jpg",
+            "url": "https://i.ytimg.com/vi/55e0Mpcvpwk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ph5VzA68Rvs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/55e0Mpcvpwk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ph5VzA68Rvs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/55e0Mpcvpwk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ph5VzA68Rvs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/55e0Mpcvpwk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ph5VzA68Rvs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/55e0Mpcvpwk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "SouperStory",
-        "categoryId": "24",
+        "channelTitle": "zystem",
+        "tags": [
+          "zystem",
+          "อำนวย",
+          "LINE",
+          "แอป"
+        ],
+        "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "เมื่อไฟฉายที่สว่างที่สุดในโลก ส่องใส่สีที่ดำที่สุดในโลก! 🔦vs🖤",
-          "description": "แสงขั้นสุด ปะทะ ความมืดขั้นสุด! พาดูผลการทดลองสุดอึ้ง เมื่อเอาไฟฉายพลังสูงมาส่องใส่สี Black 4.0 ทำไมส่องปุ๊บถึงไหม้จนควันพุ่งปั๊บ? มาดูเหตุผลทางฟิสิกส์กันครับ!"
+          "title": "ใครใช้ LINE รีบไปสำรองด่วน จะโดนลบหมดแล้ว LINE VOOM",
+          "description": "#line"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT35S",
+        "duration": "PT14M55S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1622,15 +2176,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "333862",
-        "likeCount": "6678",
+        "viewCount": "45954",
+        "likeCount": "1682",
         "favoriteCount": "0",
-        "commentCount": "33"
+        "commentCount": "234"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "M-VAzm-6-3cCJcenITaEnlP9_nI",
+      "etag": "Zd_ONgx2yMPDR-nwWhTGygfsZ3A",
       "id": "1av0H96PFPg",
       "snippet": {
         "publishedAt": "2026-07-25T22:20:09Z",
@@ -1683,99 +2237,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3704532",
-        "likeCount": "72606",
+        "viewCount": "3974715",
+        "likeCount": "77496",
         "favoriteCount": "0",
-        "commentCount": "201"
+        "commentCount": "211"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Unl2UKGCHPWWfALJ6UvEBCOfj4k",
-      "id": "O_rAUhtTpA4",
-      "snippet": {
-        "publishedAt": "2026-08-06T09:00:11Z",
-        "channelId": "UCWlpsadUB1_v4GikCy2-FVg",
-        "title": "อย่าลอกแผ่นนี้ออกจากทีวี!",
-        "description": "หลายคนคิดว่าแผ่นหน้าจอทีวีทุกเครื่องลอกออกได้ แต่ความจริงคือทีวีบางรุ่นมีแผ่นโพลาไรเซอร์ที่เป็นส่วนหนึ่งของหน้าจอ หากลอกออก ภาพอาจหายหรือจอดับได้ คลิปนี้อธิบายสั้น ๆ ว่าทำไมถึงเกิดขึ้น\n#แผ่นโพลาไรเซอร์ #ฟิล์มหน้าจอทีวี #ทีวีเครื่องใหม่\n#ความรู้รอบตัว #เรื่องที่คนส่วนใหญ่ไม่รู้ #เทคโนโลยี\n#Shorts #ไวรัล #สาระสั้น",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RealTive",
-        "tags": [
-          "ทีวี",
-          "ฟิล์มหน้าจอทีวี",
-          "แผ่นโพลาไรเซอร์",
-          "ฟิล์มกันรอยทีวี",
-          "หน้าจอทีวี",
-          "จอทีวี",
-          "เทคโนโลยี",
-          "ความรู้รอบตัว",
-          "เรื่องที่คนส่วนใหญ่ไม่รู้",
-          "สาระสั้น",
-          "คลิปไวรัล",
-          "ไวรัล",
-          "หักมุม",
-          "เรื่องจริง",
-          "ความรู้",
-          "ทริก",
-          "ของใช้ในบ้าน",
-          "อิเล็กทรอนิกส์",
-          "ทีวีพัง",
-          "shorts"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "อย่าลอกแผ่นนี้ออกจากทีวี!",
-          "description": "หลายคนคิดว่าแผ่นหน้าจอทีวีทุกเครื่องลอกออกได้ แต่ความจริงคือทีวีบางรุ่นมีแผ่นโพลาไรเซอร์ที่เป็นส่วนหนึ่งของหน้าจอ หากลอกออก ภาพอาจหายหรือจอดับได้ คลิปนี้อธิบายสั้น ๆ ว่าทำไมถึงเกิดขึ้น\n#แผ่นโพลาไรเซอร์ #ฟิล์มหน้าจอทีวี #ทีวีเครื่องใหม่\n#ความรู้รอบตัว #เรื่องที่คนส่วนใหญ่ไม่รู้ #เทคโนโลยี\n#Shorts #ไวรัล #สาระสั้น"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "16161",
-        "likeCount": "935",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "prV0JJ5q754aZ---JSo24iIFBT8",
+      "etag": "w457o5Ti5qyYMpYHeCyo5dBvkOc",
       "id": "cRzBBP1S0cc",
       "snippet": {
         "publishedAt": "2026-08-03T05:00:38Z",
@@ -1846,77 +2316,98 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "46549",
-        "likeCount": "1528",
+        "viewCount": "55591",
+        "likeCount": "1798",
         "favoriteCount": "0",
-        "commentCount": "10"
+        "commentCount": "12"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dzAT-qzdapwTzmJMMid3LkINjNk",
-      "id": "Mt1mD1eoWdE",
+      "etag": "hBpG7WF6yYiVG0nm9Wdo0P9dCfc",
+      "id": "O_rAUhtTpA4",
       "snippet": {
-        "publishedAt": "2026-08-01T03:20:50Z",
-        "channelId": "UCXWH2oQFG7m-XGfuEDg0rag",
-        "title": "iPhone 18 Pro Max Dark Cherry 📱🔥#usa #noads #tiktok",
-        "description": "",
+        "publishedAt": "2026-08-06T09:00:11Z",
+        "channelId": "UCWlpsadUB1_v4GikCy2-FVg",
+        "title": "อย่าลอกแผ่นนี้ออกจากทีวี!",
+        "description": "หลายคนคิดว่าแผ่นหน้าจอทีวีทุกเครื่องลอกออกได้ แต่ความจริงคือทีวีบางรุ่นมีแผ่นโพลาไรเซอร์ที่เป็นส่วนหนึ่งของหน้าจอ หากลอกออก ภาพอาจหายหรือจอดับได้ คลิปนี้อธิบายสั้น ๆ ว่าทำไมถึงเกิดขึ้น\n#แผ่นโพลาไรเซอร์ #ฟิล์มหน้าจอทีวี #ทีวีเครื่องใหม่\n#ความรู้รอบตัว #เรื่องที่คนส่วนใหญ่ไม่รู้ #เทคโนโลยี\n#Shorts #ไวรัล #สาระสั้น",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/default.jpg",
+            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O_rAUhtTpA4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Khang Trần Shorts",
+        "channelTitle": "RealTive",
+        "tags": [
+          "ทีวี",
+          "ฟิล์มหน้าจอทีวี",
+          "แผ่นโพลาไรเซอร์",
+          "ฟิล์มกันรอยทีวี",
+          "หน้าจอทีวี",
+          "จอทีวี",
+          "เทคโนโลยี",
+          "ความรู้รอบตัว",
+          "เรื่องที่คนส่วนใหญ่ไม่รู้",
+          "สาระสั้น",
+          "คลิปไวรัล",
+          "ไวรัล",
+          "หักมุม",
+          "เรื่องจริง",
+          "ความรู้",
+          "ทริก",
+          "ของใช้ในบ้าน",
+          "อิเล็กทรอนิกส์",
+          "ทีวีพัง",
+          "shorts"
+        ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
+        "defaultLanguage": "th",
         "localized": {
-          "title": "iPhone 18 Pro Max Dark Cherry 📱🔥#usa #noads #tiktok",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
+          "title": "อย่าลอกแผ่นนี้ออกจากทีวี!",
+          "description": "หลายคนคิดว่าแผ่นหน้าจอทีวีทุกเครื่องลอกออกได้ แต่ความจริงคือทีวีบางรุ่นมีแผ่นโพลาไรเซอร์ที่เป็นส่วนหนึ่งของหน้าจอ หากลอกออก ภาพอาจหายหรือจอดับได้ คลิปนี้อธิบายสั้น ๆ ว่าทำไมถึงเกิดขึ้น\n#แผ่นโพลาไรเซอร์ #ฟิล์มหน้าจอทีวี #ทีวีเครื่องใหม่\n#ความรู้รอบตัว #เรื่องที่คนส่วนใหญ่ไม่รู้ #เทคโนโลยี\n#Shorts #ไวรัล #สาระสั้น"
+        }
       },
       "contentDetails": {
-        "duration": "PT11S",
+        "duration": "PT21S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4968332",
-        "likeCount": "46332",
+        "viewCount": "16726",
+        "likeCount": "977",
         "favoriteCount": "0",
-        "commentCount": "39"
+        "commentCount": "6"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "DdxskjuZzgqpBBqp08_n4Qpb5DI",
+      "etag": "zyruf70RrHhliRgnZpGeJ_52Yvw",
       "id": "ma0jk8yAOjc",
       "snippet": {
         "publishedAt": "2026-08-06T10:48:45Z",
@@ -1984,15 +2475,232 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "35190",
-        "likeCount": "538",
+        "viewCount": "45764",
+        "likeCount": "669",
         "favoriteCount": "0",
-        "commentCount": "69"
+        "commentCount": "84"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "tUdn5P2ahBVykCcf1yMulzPShlY",
+      "etag": "guUboJVgZuXIJZgZPTWd1idIzfk",
+      "id": "-tgLvg_YNk8",
+      "snippet": {
+        "publishedAt": "2026-08-11T12:04:57Z",
+        "channelId": "UCWtWh8vy_JZ1HnZE-BWddIw",
+        "title": "คุยกับ ฮวก @houkandbank4450 iPad & MacBook รุ่นไหน “พัง” บ่อยที่สุด | Expert Dose EP.3 Part 2",
+        "description": "ชวน ฮวก Houk & Bank มาคุยถึงอาการเสียและปัญหาของ iPad และ MacBook ที่ลูกค้าส่งซ่อมกันบ่อย ๆ พร้อมเจาะประเด็น MacBook Neo รุ่นใหม่ของ Apple ว่าจริง ๆ แล้วน่าซื้อหรือไม่ และควรรู้อะไรบ้างก่อนตัดสินใจซื้อ\n\n#HoukandBank #iPad #MacBook #Apple #ExpertDose #Ceemeagain\n\nติดต่อโฆษณากับรายการ :\nEMAIL: sales@sociallab.co.th\nLINE: @ceeforwork\nCALL: 091-819-7925\n\nPlease Subscribe:\nhttp://Youtube.com/chatpawee\nhttp://Facebook.com/chatpawee\nhttp://Twitter.com/ceemeagain\n\n--------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tgLvg_YNk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tgLvg_YNk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tgLvg_YNk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-tgLvg_YNk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-tgLvg_YNk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ceemeagain",
+        "tags": [
+          "ceemeagain",
+          "ซีว่าดี",
+          "รีวิว",
+          "Apple",
+          "iPhone",
+          "Smartphone",
+          "สมาร์ตโฟน",
+          "ไอโฟน",
+          "มือถือ",
+          "AI",
+          "AI Phone",
+          "Chat GPT",
+          "Smarthome",
+          "สมาร์ทโฟน"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "คุยกับ ฮวก @houkandbank4450 iPad & MacBook รุ่นไหน “พัง” บ่อยที่สุด | Expert Dose EP.3 Part 2",
+          "description": "ชวน ฮวก Houk & Bank มาคุยถึงอาการเสียและปัญหาของ iPad และ MacBook ที่ลูกค้าส่งซ่อมกันบ่อย ๆ พร้อมเจาะประเด็น MacBook Neo รุ่นใหม่ของ Apple ว่าจริง ๆ แล้วน่าซื้อหรือไม่ และควรรู้อะไรบ้างก่อนตัดสินใจซื้อ\n\n#HoukandBank #iPad #MacBook #Apple #ExpertDose #Ceemeagain\n\nติดต่อโฆษณากับรายการ :\nEMAIL: sales@sociallab.co.th\nLINE: @ceeforwork\nCALL: 091-819-7925\n\nPlease Subscribe:\nhttp://Youtube.com/chatpawee\nhttp://Facebook.com/chatpawee\nhttp://Twitter.com/ceemeagain\n\n--------------------------------------------------"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT14M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18065",
+        "likeCount": "471",
+        "favoriteCount": "0",
+        "commentCount": "41"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jjWuCV5clfNwdi5HwJou-LhWjWo",
+      "id": "HDAPPfWu41Q",
+      "snippet": {
+        "publishedAt": "2026-08-11T12:26:37Z",
+        "channelId": "UCQskVJd_b-U2u1cRohOpoeg",
+        "title": "เกือบจะ รีวิว GARMIN CIRQA | 6990 ไม่ติดสับตะไคร้",
+        "description": "GARMIN CIRQA เกิดมาเพื่อฆ่า WHOOP ได้จริงมั้ย!? ตอนนี้ฮ็อตเว่อร์มาก 555 อุ้มรีบเอามาให้ทุกคนดูกัน ได้ข่าวว่าวันแรกของหมดแล้ว โหดดดจัด 🔥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HDAPPfWu41Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HDAPPfWu41Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HDAPPfWu41Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HDAPPfWu41Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HDAPPfWu41Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "iaumreview",
+        "tags": [
+          "Garmin Cirqa",
+          "รีวิว Garmin Cirqa",
+          "Garmin",
+          "การ์มิน",
+          "นาฬิกา Garmin",
+          "Garmin Cirqa รีวิว",
+          "นาฬิกาออกกำลังกาย",
+          "สมาร์ทวอทช์",
+          "Smartwatch 2026",
+          "Garmin ราคาคุ้มค่า",
+          "นาฬิกาสุขภาพ",
+          "IAUMReview",
+          "สายไอที",
+          "รีวิวนาฬิกา"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "เกือบจะ รีวิว GARMIN CIRQA | 6990 ไม่ติดสับตะไคร้",
+          "description": "GARMIN CIRQA เกิดมาเพื่อฆ่า WHOOP ได้จริงมั้ย!? ตอนนี้ฮ็อตเว่อร์มาก 555 อุ้มรีบเอามาให้ทุกคนดูกัน ได้ข่าวว่าวันแรกของหมดแล้ว โหดดดจัด 🔥"
+        },
+        "defaultAudioLanguage": "th"
+      },
+      "contentDetails": {
+        "duration": "PT18M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29087",
+        "likeCount": "246",
+        "favoriteCount": "0",
+        "commentCount": "24"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-MB_pKu9hvJhgfk-eUmzx_zlgtU",
+      "id": "Mt1mD1eoWdE",
+      "snippet": {
+        "publishedAt": "2026-08-01T03:20:50Z",
+        "channelId": "UCXWH2oQFG7m-XGfuEDg0rag",
+        "title": "iPhone 18 Pro Max Dark Cherry 📱🔥#usa #noads #tiktok",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khang Trần Shorts",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "iPhone 18 Pro Max Dark Cherry 📱🔥#usa #noads #tiktok",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4981344",
+        "likeCount": "46388",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HhlnlX-iRp0-NJimBXLiXcQNqQ4",
       "id": "cg_3KunttTc",
       "snippet": {
         "publishedAt": "2026-08-06T13:41:14Z",
@@ -2049,15 +2757,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "25436",
-        "likeCount": "1449",
+        "viewCount": "32278",
+        "likeCount": "1848",
         "favoriteCount": "0",
-        "commentCount": "25"
+        "commentCount": "27"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "9cdBSQZyWRApH44GH7DR9g-fBis",
+      "etag": "pkWpy4ff2Q674Hn7nnutkANERTk",
       "id": "5fzUlJ7FToI",
       "snippet": {
         "publishedAt": "2026-08-04T12:00:35Z",
@@ -2118,76 +2826,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "37873",
-        "likeCount": "3231",
+        "viewCount": "41212",
+        "likeCount": "3491",
         "favoriteCount": "0",
-        "commentCount": "60"
+        "commentCount": "61"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "4tgkEBgN4ZKOeRnhn7frZX-5Vlg",
-      "id": "j-9dLX9432o",
+      "etag": "qaS_oGOug0Z9o8PaL1PFILbS9CY",
+      "id": "bMQl51Vckow",
       "snippet": {
-        "publishedAt": "2026-08-03T06:30:09Z",
-        "channelId": "UCWtWh8vy_JZ1HnZE-BWddIw",
-        "title": "สินค้า Apple รุ่นไหน ‘ราคา’ ไม่น่าซื้อในช่วงนี้ | Ceemeagain",
-        "description": "#HoukandBank #iPhone #ไอโฟน #Apple #ExpertDose #Ceemeagain\n\nติดต่อโฆษณากับรายการ :\nEMAIL: sales@sociallab.co.th\nLINE: @ceeforwork\nCALL: 091-819-7925\n\nPlease Subscribe:\nhttp://Youtube.com/chatpawee\nhttp://Facebook.com/chatpawee\nhttp://Twitter.com/ceemeagain\n\n--------------------------------------------------",
+        "publishedAt": "2026-08-08T12:00:13Z",
+        "channelId": "UCgmvNLjky6bp6rG8uISQ0Kw",
+        "title": "เหตุผลสายดาร์ก ที่คลั่ง และเกลียด  Galaxy Z Fold 8",
+        "description": "หลังจากลองใช้งานจริง ทั้งข้อดี จุดเด่น และสิ่งที่ทำให้ Samsung Galaxy Z Fold 8 อาจไม่ได้เหมาะกับทุกคน ดูจบแล้วคุณอาจมองมือถือจอพับรุ่นนี้ไม่เหมือนเดิม\n\n#samsunggalaxyzfold8 #samsung #domunk #munkTV #munkproduction #munkphotography\n\n__________________________________________________________\n\nFollow us\nFacebook : https://www.facebook.com/munkmunktv\nInstagram : https://www.instagram.com/munkmeg/\n\nติดต่องาน Contact Us\nEmail : thehighprofile.tv@gmail.com\n            munkmunkproduction@gmail.com",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/j-9dLX9432o/default.jpg",
+            "url": "https://i.ytimg.com/vi/bMQl51Vckow/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/j-9dLX9432o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bMQl51Vckow/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/j-9dLX9432o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bMQl51Vckow/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/j-9dLX9432o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/bMQl51Vckow/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/j-9dLX9432o/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bMQl51Vckow/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Ceemeagain",
-        "tags": [
-          "ceemeagain",
-          "ซีว่าดี",
-          "รีวิว",
-          "Apple",
-          "iPhone",
-          "Smartphone",
-          "สมาร์ตโฟน",
-          "ไอโฟน",
-          "มือถือ",
-          "AI",
-          "AI Phone",
-          "Chat GPT",
-          "Smarthome",
-          "สมาร์ทโฟน"
-        ],
-        "categoryId": "28",
+        "channelTitle": "Munk TV",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "th",
         "localized": {
-          "title": "สินค้า Apple รุ่นไหน ‘ราคา’ ไม่น่าซื้อในช่วงนี้ | Ceemeagain",
-          "description": "#HoukandBank #iPhone #ไอโฟน #Apple #ExpertDose #Ceemeagain\n\nติดต่อโฆษณากับรายการ :\nEMAIL: sales@sociallab.co.th\nLINE: @ceeforwork\nCALL: 091-819-7925\n\nPlease Subscribe:\nhttp://Youtube.com/chatpawee\nhttp://Facebook.com/chatpawee\nhttp://Twitter.com/ceemeagain\n\n--------------------------------------------------"
+          "title": "เหตุผลสายดาร์ก ที่คลั่ง และเกลียด  Galaxy Z Fold 8",
+          "description": "หลังจากลองใช้งานจริง ทั้งข้อดี จุดเด่น และสิ่งที่ทำให้ Samsung Galaxy Z Fold 8 อาจไม่ได้เหมาะกับทุกคน ดูจบแล้วคุณอาจมองมือถือจอพับรุ่นนี้ไม่เหมือนเดิม\n\n#samsunggalaxyzfold8 #samsung #domunk #munkTV #munkproduction #munkphotography\n\n__________________________________________________________\n\nFollow us\nFacebook : https://www.facebook.com/munkmunktv\nInstagram : https://www.instagram.com/munkmeg/\n\nติดต่องาน Contact Us\nEmail : thehighprofile.tv@gmail.com\n            munkmunkproduction@gmail.com"
         },
         "defaultAudioLanguage": "th"
       },
       "contentDetails": {
-        "duration": "PT1M6S",
+        "duration": "PT12M47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2196,15 +2888,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "41739",
-        "likeCount": "1347",
+        "viewCount": "50971",
+        "likeCount": "663",
         "favoriteCount": "0",
-        "commentCount": "27"
+        "commentCount": "88"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "OWqTJHiXm-VyhY0jtSKVKJUwWGM",
+      "etag": "jeIb9V3D70TaLoQH11h3irKIDK4",
+      "id": "HlYbSfPjEow",
+      "snippet": {
+        "publishedAt": "2026-07-26T17:01:30Z",
+        "channelId": "UCltLerT4i8bNhSsKlRSnblQ",
+        "title": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+        "description": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HlYbSfPjEow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HlYbSfPjEow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HlYbSfPjEow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HlYbSfPjEow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Animal Bd",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+          "description": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13060411",
+        "likeCount": "719205",
+        "favoriteCount": "0",
+        "commentCount": "2526"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "17JaGKa9xpfbtdoUacw_SkvCIuE",
       "id": "5BVcGbmcyi8",
       "snippet": {
         "publishedAt": "2026-08-05T15:27:56Z",
@@ -2258,15 +3012,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "25856",
-        "likeCount": "1169",
+        "viewCount": "29475",
+        "likeCount": "1290",
         "favoriteCount": "0",
         "commentCount": "5"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rIrJVQvwkmNX4E2d4fwkGQ3UX4E",
+      "etag": "YUPJLcjo67ggImGe-JzxewB4qWo",
       "id": "b41hUGwlqMM",
       "snippet": {
         "publishedAt": "2026-08-06T17:30:09Z",
@@ -2320,104 +3074,121 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3317399",
-        "likeCount": "253102",
+        "viewCount": "3558056",
+        "likeCount": "267643",
         "favoriteCount": "0",
-        "commentCount": "1030"
+        "commentCount": "1096"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Uqp6vx3eCApipbEQCqDv3IajFPM",
-      "id": "UThSCY0vsl0",
+      "etag": "0V_AJ-HNumjv7XcncfLPJjrkAg8",
+      "id": "shTMYbr7DuM",
       "snippet": {
-        "publishedAt": "2026-08-03T09:00:12Z",
-        "channelId": "UCj2IhHDy9A9VGXC_N_NTm3A",
-        "title": "ซื้อการ์ดจอเกือบ 4 หมื่น ได้เเค่ขวดน้ำ การ์ดจอแบบใด! #เรื่องเล่า #ฟีด #เรื่องนี้ต้องดู #เทรนด์วันนี้",
-        "description": "ซื้อการ์ดจอเกือบ 4 หมื่น ได้เเค่ขวดน้ำ การ์ดจอแบบใด ! #เรื่องนี้ต้องดู #เทรนด์วันนี้ #สาระความรู้ #เรื่องเล่า #ไวรัล #ไวรัลtiktok #คลิปสั้น #ข่าวล่าสุด #shorts #reels  #viral #trending #shortsvideo #news #youtubeshorts #ข่าวต่างประเทศ #นายเล่าสตอรี่",
+        "publishedAt": "2026-08-09T04:45:24Z",
+        "channelId": "UCUSSKnUGOMi612JboyyFqsg",
+        "title": "So Amazing This SmartBand Might Surprise You 😱 #shortsfeed #shortsfeed #trending",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UThSCY0vsl0/default.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UThSCY0vsl0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UThSCY0vsl0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UThSCY0vsl0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UThSCY0vsl0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "นายเล่าสตอรี่",
-        "tags": [
-          "เรื่องเล่า",
-          "เล่าเรื่อง",
-          "เรื่องสั้น",
-          "สาระ",
-          "สาระความรู้",
-          "สาระน่ารู้",
-          "ความรู้",
-          "เรื่องน่ารู้",
-          "เรื่องจริง",
-          "ความจริง",
-          "เรื่องเล่าก่อนนอน",
-          "เล่าเรื่องก่อนนอน",
-          "เรื่องลึกลับ",
-          "เทรนวันนี้",
-          "facts",
-          "fact",
-          "Knowledge",
-          "เรื่องแปลก",
-          "เรื่องนี้ต้องดู",
-          "เทรนด์วันนี้",
-          "ฟีด",
-          "สาระความรู้เรื่องแปลก",
-          "ข่าวTikTok",
-          "ข่าววันนี้",
-          "เรื่องแปลกๆ",
-          "เรื่องเตือนภัย",
-          "เกล็ดความรู้",
-          "นายเล่าสตอรี่",
-          "nailaostory",
-          "shorts",
-          "short",
-          "viral",
-          "viral video",
-          "viral shorts",
-          "viral short",
-          "news",
-          "ไวรัล",
-          "คลิปไวรัล",
-          "ข่าวล่าสุด",
-          "คลิปเด็ด",
-          "ข่าว",
-          "ข่าวต่างประเทศ"
-        ],
-        "categoryId": "23",
+        "channelTitle": "Hey Copy 01",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "ซื้อการ์ดจอเกือบ 4 หมื่น ได้เเค่ขวดน้ำ การ์ดจอแบบใด! #เรื่องเล่า #ฟีด #เรื่องนี้ต้องดู #เทรนด์วันนี้",
-          "description": "ซื้อการ์ดจอเกือบ 4 หมื่น ได้เเค่ขวดน้ำ การ์ดจอแบบใด ! #เรื่องนี้ต้องดู #เทรนด์วันนี้ #สาระความรู้ #เรื่องเล่า #ไวรัล #ไวรัลtiktok #คลิปสั้น #ข่าวล่าสุด #shorts #reels  #viral #trending #shortsvideo #news #youtubeshorts #ข่าวต่างประเทศ #นายเล่าสตอรี่"
+          "title": "So Amazing This SmartBand Might Surprise You 😱 #shortsfeed #shortsfeed #trending",
+          "description": ""
         },
-        "defaultAudioLanguage": "th"
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT1M1S",
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2019385",
+        "favoriteCount": "0",
+        "commentCount": "351"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2V9s4lqcVnbaY1zQW3_gvTbtMOA",
+      "id": "e_ERlEZtAfg",
+      "snippet": {
+        "publishedAt": "2026-07-23T23:31:04Z",
+        "channelId": "UCpqUZ7NNTRJr6tzovchk3Tg",
+        "title": "Ranking Most Realistic Gaming Setups",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e_ERlEZtAfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e_ERlEZtAfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e_ERlEZtAfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e_ERlEZtAfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e_ERlEZtAfg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "cocovyse",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Ranking Most Realistic Gaming Setups",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2426,20 +3197,20 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "43873",
-        "likeCount": "2755",
+        "viewCount": "4362086",
+        "likeCount": "133349",
         "favoriteCount": "0",
-        "commentCount": "39"
+        "commentCount": "1240"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "dowhQcvqfFFEZ1XCyuDL3Bno1Js",
+      "etag": "7imwK9vlDjfhijalLmG8DZZgtP4",
       "id": "j3zNRkptUOA",
       "snippet": {
         "publishedAt": "2026-07-31T08:00:00Z",
         "channelId": "UCHwGFkyRqALzWl4T3ly1uGQ",
-        "title": "New Viral Home Gadgets & Smart Appliances 2026! 🏠✨ #shorts #gadgets",
+        "title": "Smart Home Innovations You Need to See! ✨🏠 #shorts #gadgets",
         "description": "",
         "thumbnails": {
           "default": {
@@ -2473,7 +3244,7 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "New Viral Home Gadgets & Smart Appliances 2026! 🏠✨ #shorts #gadgets",
+          "title": "Smart Home Innovations You Need to See! ✨🏠 #shorts #gadgets",
           "description": ""
         },
         "defaultAudioLanguage": "hi"
@@ -2488,15 +3259,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5418480",
-        "likeCount": "307053",
+        "viewCount": "5483316",
+        "likeCount": "308187",
         "favoriteCount": "0",
         "commentCount": "808"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "YEbIfyvSEPDN4tTFoX6bwqAoJZI",
+      "etag": "X75UbUt8pR02dNney0p0o-13O54",
       "id": "_-K1j-RGtpY",
       "snippet": {
         "publishedAt": "2026-07-13T11:14:45Z",
@@ -2550,161 +3321,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1669290",
-        "likeCount": "32815",
+        "viewCount": "1693749",
+        "likeCount": "33008",
         "favoriteCount": "0",
         "commentCount": "77"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "J05A4GMtHvyMQMwZUrcwA3sSG18",
-      "id": "Ga2-ArTxtFs",
-      "snippet": {
-        "publishedAt": "2026-08-02T02:07:15Z",
-        "channelId": "UCmOjO-j4fNRJ2PGVCTYa6uQ",
-        "title": "ให้น๊อตซ่อมรีโมท!!￼",
-        "description": "ฝากติดตามด้วยนะครับทุกคน",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ga2-ArTxtFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ga2-ArTxtFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ga2-ArTxtFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ga2-ArTxtFs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ga2-ArTxtFs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "FADNOTTNOTE",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ให้น๊อตซ่อมรีโมท!!￼",
-          "description": "ฝากติดตามด้วยนะครับทุกคน"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "24031",
-        "likeCount": "599",
-        "favoriteCount": "0",
-        "commentCount": "56"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1CXt_HWn-a0ti1OrjRxevfHp9Uc",
-      "id": "6d1GEquOjEQ",
-      "snippet": {
-        "publishedAt": "2026-08-01T03:00:39Z",
-        "channelId": "UC1l9NQ__kCp9JoBnuZsaUjA",
-        "title": "ผ่อนคอมเดือนละ 500 ไปจัดสเปกคอมงบ 20,000 ที่ @iHAVECPU_ พิษณุโลก",
-        "description": "ผ่อนคอมเดือนละ 500 ไปจัดสเปกคอมงบ 20,000 ที่  @iHAVECPU_  พิษณุโลก\n\nบุก iHAVECPU สาขาพิษณุโลก พามาจัดสเปกคอมงบ 2 หมื่นนิดๆ ที่คุ้มสุดๆ เพราะผ่อนได้นานสูงสุด 48 เดือน ตกวันละ 16 บาท ใครที่เก็บตังค์ค่าขนมอยู่ หรืออยากได้คอมแรงๆ ไปใช้งานแต่ไม่อยากจ่ายก้อนใหญ่ ห้ามพลาดคลิปนี้เลย พี่เปาจัดให้แบบเน้นๆ พร้อมเผยเทคนิคการผ่อนผ่าน TrueMoney และ Shopee แบบไม่มีบัตรเครดิตก็ทำได้\n\nสเปกคอมที่ซื้อได้\n- CPU : AMD Ryzen 5 5500\n- MB : MSI A520M-A PRO\n- RAM : 16GB DDR4\n- GPU : NVIDIA GeForce RTX 5050 8GB\n- SSD : 500GB M.2\n- PSU : FSP 550W 80+ Bronze\n- Case : iHAVECPU R06\n\nีราคา 22,990 บาท\n\nรับชมผ่าน\nYouTube : https://www.youtube.com/extremeit/\nFacebook : https://www.facebook.com/extremeitreview/\nInstagram : https://www.instagram.com/extremeit.ig\nTikTok : https://www.tiktok.com/@extremeit\nสนับสนุนเรา : https://www.youtube.com/channel/UC1l9NQ__kCp9JoBnuZsaUjA/join",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6d1GEquOjEQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6d1GEquOjEQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6d1GEquOjEQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6d1GEquOjEQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6d1GEquOjEQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Extreme IT",
-        "tags": [
-          "ExtremeIT",
-          "EXIT",
-          "Extremepc",
-          "Gaming",
-          "โน๊ตบุ๊คสเปค",
-          "คอมพิวเตอร์",
-          "รีวิวโน๊ตบุ๊ค",
-          "เทคโนโลยี",
-          "bananait",
-          "advice",
-          "jib",
-          "extreme it",
-          "ihavecpu",
-          "ประกอบคอม",
-          "ผ่อนคอม ihavecpu",
-          "i have cpu",
-          "คอม",
-          "คอมงบ 20000",
-          "คอมงบ 30000",
-          "คอมประกอบ",
-          "extreme it ihavecpu"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ผ่อนคอมเดือนละ 500 ไปจัดสเปกคอมงบ 20,000 ที่ @iHAVECPU_ พิษณุโลก",
-          "description": "ผ่อนคอมเดือนละ 500 ไปจัดสเปกคอมงบ 20,000 ที่  @iHAVECPU_  พิษณุโลก\n\nบุก iHAVECPU สาขาพิษณุโลก พามาจัดสเปกคอมงบ 2 หมื่นนิดๆ ที่คุ้มสุดๆ เพราะผ่อนได้นานสูงสุด 48 เดือน ตกวันละ 16 บาท ใครที่เก็บตังค์ค่าขนมอยู่ หรืออยากได้คอมแรงๆ ไปใช้งานแต่ไม่อยากจ่ายก้อนใหญ่ ห้ามพลาดคลิปนี้เลย พี่เปาจัดให้แบบเน้นๆ พร้อมเผยเทคนิคการผ่อนผ่าน TrueMoney และ Shopee แบบไม่มีบัตรเครดิตก็ทำได้\n\nสเปกคอมที่ซื้อได้\n- CPU : AMD Ryzen 5 5500\n- MB : MSI A520M-A PRO\n- RAM : 16GB DDR4\n- GPU : NVIDIA GeForce RTX 5050 8GB\n- SSD : 500GB M.2\n- PSU : FSP 550W 80+ Bronze\n- Case : iHAVECPU R06\n\nีราคา 22,990 บาท\n\nรับชมผ่าน\nYouTube : https://www.youtube.com/extremeit/\nFacebook : https://www.facebook.com/extremeitreview/\nInstagram : https://www.instagram.com/extremeit.ig\nTikTok : https://www.tiktok.com/@extremeit\nสนับสนุนเรา : https://www.youtube.com/channel/UC1l9NQ__kCp9JoBnuZsaUjA/join"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT12M45S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "130013",
-        "likeCount": "2935",
-        "favoriteCount": "0",
-        "commentCount": "140"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "q0nc7u5HAGROYuQqetTjgfJu2tk",
+      "etag": "0tsTLT79R8CKJzP1O6PY33NMrF0",
       "id": "avJN78JUER4",
       "snippet": {
         "publishedAt": "2026-07-26T05:30:19Z",
@@ -2745,8 +3370,7 @@
         "localized": {
           "title": "JBL go essential mud throw",
           "description": "#trendingshorts \n#shorts \n#viralshorts \n#jblspeaker \n#watertest\n#test"
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT20S",
@@ -2758,709 +3382,16 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "9549046",
-        "likeCount": "95721",
+        "viewCount": "9928747",
+        "likeCount": "99481",
         "favoriteCount": "0",
-        "commentCount": "60"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "VkMk84zsUxru3Q3mWElR9ytt950",
-      "id": "qbJu86sSRR4",
-      "snippet": {
-        "publishedAt": "2026-08-01T13:58:25Z",
-        "channelId": "UCQe-5NGYuUl1VMvauj20fRw",
-        "title": "ทดสอบฟิล์มกรองแสง 4 ยี่ห้อ ยอดนิยม ติดตัวไหนกันร้อนได้ดีที่สุด | ลองให้",
-        "description": "เลือกติดฟิล์มรถยนต์ยี่ห้อไหนดี? ปัญหายอดฮิตของคนเพิ่งถอยรถใหม่ โดยเฉพาะชาว Tesla หรือรถหรูที่ต้องเจอแดดเมืองไทย คลิปนี้เราเลย \"ลองให้\" แบบจัดเต็ม!\n\nเราลงทุนสร้างกล่องทดสอบและใช้เวลาเก็บข้อมูลนานกว่า 2 สัปดาห์ เพื่อหาคำตอบว่าฟิล์ม 4 ยี่ห้อดัง (V-Kool VK, 3M Crystalline, Arctic Spectre, Solar Guard) ตัวไหนจะกันความร้อนและรังสี UV ได้ดีที่สุด พร้อมบทพิสูจน์โศกนาฏกรรมกลางแดดที่ทำให้เราต้องเริ่มใหม่หลายรอบเพื่อให้ได้ค่าที่แม่นยำที่สุด!\n\nในคลิปนี้คุณจะได้เห็น:\n\nการทดสอบอุณหภูมิภายในกล่องจำลองรถยนต์\nการวัดความร้อนสะสมบนผิวเบาะหนัง (Alcantara)\nการทดสอบการกันรังสี UV แบบ Digital และ Analog\nเปรียบเทียบสีและความใสของฟิล์มแต่ละยี่ห้อ\nสรุปความคุ้มค่าและปัจจัยที่ควรใช้เลือกซื้อฟิล์ม\nใครที่กำลังลังเลว่าจะติดฟิล์มตัวไหน หรืออยากรู้ว่าฟิล์มแพงๆ ต่างจากฟิล์มทั่วไปยังไง ห้ามพลาดคลิปนี้ครับ!\n\nฝากกด Like และ Subscribe เพื่อเป็นกำลังใจให้พวกเราทำคลิปทดสอบแบบนี้ต่อไปด้วยนะครับ\n\nสารบัญเวลา\n00:00 เกริ่นนำ\n01:12 เตรียมอุปกรณ์\n03:41 เงื่อนไขการทดสอบ\n04:35 วัดอุณหภูมิ DAY 1\n06:44 วัดอุณหภูมิ DAY 2\n07:39 วัดอุณหภูมิ DAY 308:55 ทดสอบ UV แล้วพายุเข้า\n11:19  สรุปผลรอบแรก\n12:36 อุณหภูมิหนัง\n14:48 ปัจจัยที่ทำให้เกิดความร้อน\n16:15 ทดสอบ UV อีกรอบ\n17:19 สรุป",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qbJu86sSRR4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qbJu86sSRR4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qbJu86sSRR4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qbJu86sSRR4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qbJu86sSRR4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ลองให้",
-        "tags": [
-          "ลองให้",
-          "ฟิล์มกรองแสง",
-          "ฟิล์มรถยนต์",
-          "ทดสอบฟิล์ม",
-          "กันความร้อน",
-          "รถยนต์ไฟฟ้า",
-          "Tesla Thailand",
-          "3M Crystalline",
-          "V-Kool",
-          "Arctic Spectre",
-          "Solar Guard",
-          "รีวิวรถยนต์",
-          "อุปกรณ์แต่งรถ",
-          "ฟิมล์กรองแสง",
-          "ฟิมล์รถยนต์",
-          "ฟิล์มกันร้อน",
-          "ติดฟิล์ม",
-          "ติดฟิมล์",
-          "เทสล่า",
-          "เทสลา",
-          "ฟิมรถยนต์",
-          "ฟิมกันความร้อน",
-          "รีวิวฟิล์มรถยนต์",
-          "ฟิล์ม v-kool",
-          "ฟิล์ม 3m",
-          "ฟิล์มเซรามิค",
-          "ฟิมล์เซรามิค",
-          "ฟิล์มใสกันรอย",
-          "ฟิมล์ใส",
-          "กันยูวี",
-          "กัน UV",
-          "ฟิล์มติดรถ",
-          "ฟิมติดรถ",
-          "ฟิล์มลดความร้อน",
-          "ราคาฟิล์มรถยนต์",
-          "ร้านติดฟิล์ม",
-          "แต่งรถ Tesla"
-        ],
-        "categoryId": "26",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "ทดสอบฟิล์มกรองแสง 4 ยี่ห้อ ยอดนิยม ติดตัวไหนกันร้อนได้ดีที่สุด | ลองให้",
-          "description": "เลือกติดฟิล์มรถยนต์ยี่ห้อไหนดี? ปัญหายอดฮิตของคนเพิ่งถอยรถใหม่ โดยเฉพาะชาว Tesla หรือรถหรูที่ต้องเจอแดดเมืองไทย คลิปนี้เราเลย \"ลองให้\" แบบจัดเต็ม!\n\nเราลงทุนสร้างกล่องทดสอบและใช้เวลาเก็บข้อมูลนานกว่า 2 สัปดาห์ เพื่อหาคำตอบว่าฟิล์ม 4 ยี่ห้อดัง (V-Kool VK, 3M Crystalline, Arctic Spectre, Solar Guard) ตัวไหนจะกันความร้อนและรังสี UV ได้ดีที่สุด พร้อมบทพิสูจน์โศกนาฏกรรมกลางแดดที่ทำให้เราต้องเริ่มใหม่หลายรอบเพื่อให้ได้ค่าที่แม่นยำที่สุด!\n\nในคลิปนี้คุณจะได้เห็น:\n\nการทดสอบอุณหภูมิภายในกล่องจำลองรถยนต์\nการวัดความร้อนสะสมบนผิวเบาะหนัง (Alcantara)\nการทดสอบการกันรังสี UV แบบ Digital และ Analog\nเปรียบเทียบสีและความใสของฟิล์มแต่ละยี่ห้อ\nสรุปความคุ้มค่าและปัจจัยที่ควรใช้เลือกซื้อฟิล์ม\nใครที่กำลังลังเลว่าจะติดฟิล์มตัวไหน หรืออยากรู้ว่าฟิล์มแพงๆ ต่างจากฟิล์มทั่วไปยังไง ห้ามพลาดคลิปนี้ครับ!\n\nฝากกด Like และ Subscribe เพื่อเป็นกำลังใจให้พวกเราทำคลิปทดสอบแบบนี้ต่อไปด้วยนะครับ\n\nสารบัญเวลา\n00:00 เกริ่นนำ\n01:12 เตรียมอุปกรณ์\n03:41 เงื่อนไขการทดสอบ\n04:35 วัดอุณหภูมิ DAY 1\n06:44 วัดอุณหภูมิ DAY 2\n07:39 วัดอุณหภูมิ DAY 308:55 ทดสอบ UV แล้วพายุเข้า\n11:19  สรุปผลรอบแรก\n12:36 อุณหภูมิหนัง\n14:48 ปัจจัยที่ทำให้เกิดความร้อน\n16:15 ทดสอบ UV อีกรอบ\n17:19 สรุป"
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT21M1S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "95554",
-        "likeCount": "5002",
-        "favoriteCount": "0",
-        "commentCount": "285"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "aLemVwXUhcLFvOYsAoNueQ5y2_E",
-      "id": "AK3SpXZZXLo",
-      "snippet": {
-        "publishedAt": "2026-08-02T00:07:30Z",
-        "channelId": "UCA3veL8FhQtrWLeWZY8bXlQ",
-        "title": "หาวิธีเปลี่ยนตุ่มรีโมททีวีให้ได้ #ช่องน้องไอเดีย #ฝากกดติดตามด้วยนะครับ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AK3SpXZZXLo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AK3SpXZZXLo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AK3SpXZZXLo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/AK3SpXZZXLo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/AK3SpXZZXLo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "เล่นเกมยังงัย?? (ช่องน้องไอเดีย)",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "หาวิธีเปลี่ยนตุ่มรีโมททีวีให้ได้ #ช่องน้องไอเดีย #ฝากกดติดตามด้วยนะครับ",
-          "description": ""
-        },
-        "defaultAudioLanguage": "th"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "34878",
-        "likeCount": "522",
-        "favoriteCount": "0",
-        "commentCount": "9"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "yeTb-sF0uNBwSs24EKQfQdU8_Rc",
-      "id": "lSpK4RrakJg",
-      "snippet": {
-        "publishedAt": "2026-07-31T06:01:39Z",
-        "channelId": "UCv9A7Hr8WUHGiU9H-e3_46Q",
-        "title": "กระจกนิรภัยปกป้อง สำหรับ iPhone #techstarค้นหานักรีวิว #ช้อปเทรนด์ไอที #รีวิวปังราคาล็อค",
-        "description": "กระจกนิรภัยปกป้อง สำหรับ iPhone #techstarค้นหานักรีวิว #ช้อปเทรนด์ไอที #รีวิวปังราคาล็อค #ราคาดีทุกวัน #สิ้นปีไม่สิ้นโบนัส #สิ้นปีเปิดตี้พาช้อป #tiktokshopครีเอเตอร์",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lSpK4RrakJg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lSpK4RrakJg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lSpK4RrakJg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lSpK4RrakJg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lSpK4RrakJg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "QUB-Qunbox",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "กระจกนิรภัยปกป้อง สำหรับ iPhone #techstarค้นหานักรีวิว #ช้อปเทรนด์ไอที #รีวิวปังราคาล็อค",
-          "description": "กระจกนิรภัยปกป้อง สำหรับ iPhone #techstarค้นหานักรีวิว #ช้อปเทรนด์ไอที #รีวิวปังราคาล็อค #ราคาดีทุกวัน #สิ้นปีไม่สิ้นโบนัส #สิ้นปีเปิดตี้พาช้อป #tiktokshopครีเอเตอร์"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT1M6S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "22846",
-        "likeCount": "302",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "QvlNlLnDtfS--sFVABiiVxKNW-8",
-      "id": "ySTe2g9TxeM",
-      "snippet": {
-        "publishedAt": "2026-07-21T11:40:00Z",
-        "channelId": "UCrAc3ijxpC9f7HCg57Xt4Zg",
-        "title": "Polaroid Photography Hack: Make Your Photos Have A Built-In Filter",
-        "description": "ทริคโพลารอยด์ ทำให้รูปถ่ายมีฟิลเตอร์ในตัว",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ySTe2g9TxeM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ySTe2g9TxeM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ySTe2g9TxeM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ySTe2g9TxeM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ySTe2g9TxeM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Duncan Hensleys",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "Polaroid Photography Hack: Make Your Photos Have A Built-In Filter",
-          "description": "ทริคโพลารอยด์ ทำให้รูปถ่ายมีฟิลเตอร์ในตัว"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M6S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "229394",
-        "likeCount": "7643",
-        "favoriteCount": "0",
-        "commentCount": "4"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ue3ezC9HkTi6-Zhv0-shFaurPcA",
-      "id": "x8xV5rD66fM",
-      "snippet": {
-        "publishedAt": "2026-07-25T01:00:02Z",
-        "channelId": "UCB2K4XNn1kFhKdASpr00OpA",
-        "title": "เก็บคอมได้ข้างขยะอิอิ",
-        "description": "ผมเก็บคอมได้ค้าบบบ 🤣🤣\n\n#thetowercomputer #ร้านคอมเชียงใหม่ #computertower #จัดสเปคคอมตามงบ #เซ็ตคอมประกอบ #คอมเล่นเกม #รีวิวคอมประกอบ #pcgaming #เชียงใหม่ #PCtips #คอมออฟฟิศ #pcsetup #คอมประกอบ #ประกอบคอม #ความรู้คอมพิวเตอร์ #คอมพิวเตอร์ #PCgaming #Gaming #สเปคคอม #GamingPC",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x8xV5rD66fM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x8xV5rD66fM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x8xV5rD66fM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/x8xV5rD66fM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/x8xV5rD66fM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "The Tower Computer",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "th",
-        "localized": {
-          "title": "เก็บคอมได้ข้างขยะอิอิ",
-          "description": "ผมเก็บคอมได้ค้าบบบ 🤣🤣\n\n#thetowercomputer #ร้านคอมเชียงใหม่ #computertower #จัดสเปคคอมตามงบ #เซ็ตคอมประกอบ #คอมเล่นเกม #รีวิวคอมประกอบ #pcgaming #เชียงใหม่ #PCtips #คอมออฟฟิศ #pcsetup #คอมประกอบ #ประกอบคอม #ความรู้คอมพิวเตอร์ #คอมพิวเตอร์ #PCgaming #Gaming #สเปคคอม #GamingPC"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M1S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "91691",
-        "likeCount": "2307",
-        "favoriteCount": "0",
-        "commentCount": "10"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2N97T3tYBRNuZKT0F-AGTq9hPAg",
-      "id": "7LHAREM6auc",
-      "snippet": {
-        "publishedAt": "2026-07-23T13:10:51Z",
-        "channelId": "UCz5MWfoUx4TWmMVHMfGkFhg",
-        "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-        "description": "plz subscribe",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7LHAREM6auc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7LHAREM6auc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7LHAREM6auc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7LHAREM6auc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MR Vision BD",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-          "description": "plz subscribe"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "9307261",
-        "likeCount": "770621",
-        "favoriteCount": "0",
-        "commentCount": "2059"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UjUFoAhMwXXQg39RA4CihQGj6B8",
-      "id": "3R11qCdSlv8",
-      "snippet": {
-        "publishedAt": "2026-08-01T14:15:09Z",
-        "channelId": "UCzwihdbDIDTJ5i2aqLBCLDg",
-        "title": "Transforme sua parede em um cinema gigante com este projetor 4K inteligente! 🎬✨",
-        "description": "Quer ter uma verdadeira experiência de cinema em casa sem gastar uma fortuna? 🍿 O projetor Magcubic HY300 entrega projeção de até 150 polegadas em alta definição, ideal para maratonar séries, jogar no videogame ou espelhar a tela do celular!\nCom Wi-Fi, Bluetooth e compatibilidade total com TV Box, PS5, Xbox e PC, ele é super versátil e fácil de instalar em qualquer cômodo. Praticidade e entretenimento nas alturas onde você quiser! 🎮📺\nVocê prefere ver filmes no escuro total ou comendo pipoca na sala? Conta aqui embaixo! 👇\n#shopee #achadinhosshopee #projetor #cinemaemcasa #gamer #tecnologia #sala #eletronicos #utilidades #shorts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3R11qCdSlv8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3R11qCdSlv8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3R11qCdSlv8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3R11qCdSlv8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3R11qCdSlv8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Achados que Valem a Pena",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "pt-PT",
-        "localized": {
-          "title": "Transforme sua parede em um cinema gigante com este projetor 4K inteligente! 🎬✨",
-          "description": "Quer ter uma verdadeira experiência de cinema em casa sem gastar uma fortuna? 🍿 O projetor Magcubic HY300 entrega projeção de até 150 polegadas em alta definição, ideal para maratonar séries, jogar no videogame ou espelhar a tela do celular!\nCom Wi-Fi, Bluetooth e compatibilidade total com TV Box, PS5, Xbox e PC, ele é super versátil e fácil de instalar em qualquer cômodo. Praticidade e entretenimento nas alturas onde você quiser! 🎮📺\nVocê prefere ver filmes no escuro total ou comendo pipoca na sala? Conta aqui embaixo! 👇\n#shopee #achadinhosshopee #projetor #cinemaemcasa #gamer #tecnologia #sala #eletronicos #utilidades #shorts"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "5151742",
-        "likeCount": "191679",
-        "favoriteCount": "0",
-        "commentCount": "1126"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "bX85aNFxgcJW47Qz9niq97qeyqI",
-      "id": "lYqPG_e1GZ4",
-      "snippet": {
-        "publishedAt": "2026-07-17T16:00:24Z",
-        "channelId": "UCXyan9YHdIxXNTvhXtVEXWA",
-        "title": "Purple iPad Setup, More Ways to Use It #tiaota #ipadkeyboard",
-        "description": "Snap on the clear case, type with the keyboard, store your Pencil, and light up the keys. 💜\r\n\r\nOne setup for work, notes, videos, and everyday use.\r\n\r\nComment “PURPLE” for the link.\r\n\r\n#Shorts #tiaota #ipadkeyboardcase #desksetup #techgadgets #applelife",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lYqPG_e1GZ4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lYqPG_e1GZ4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lYqPG_e1GZ4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lYqPG_e1GZ4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lYqPG_e1GZ4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tiaota",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Purple iPad Setup, More Ways to Use It #tiaota #ipadkeyboard",
-          "description": "Snap on the clear case, type with the keyboard, store your Pencil, and light up the keys. 💜\r\n\r\nOne setup for work, notes, videos, and everyday use.\r\n\r\nComment “PURPLE” for the link.\r\n\r\n#Shorts #tiaota #ipadkeyboardcase #desksetup #techgadgets #applelife"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "9380016",
-        "likeCount": "131139",
-        "favoriteCount": "0",
-        "commentCount": "1104"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "h1gIhbNsaE_R8CNu6xT3MPE9_go",
-      "id": "hjYcTykDv0Q",
-      "snippet": {
-        "publishedAt": "2026-07-27T14:33:09Z",
-        "channelId": "UCQ6oREzkIo5MDYZt-JdfEVA",
-        "title": "Tesla Speaker⚡💯 Rate this 1-10💡",
-        "description": "#shorts #short #wow #best #respect #music #amazing #charge #tesla #trending #funny #viral #fyp #diy #lifehacks #experiment #awesome #spacex #fidgetspinner\n\n\nWhat do you think this is⚡❓\nAwesome 👍🏻",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hjYcTykDv0Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hjYcTykDv0Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hjYcTykDv0Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hjYcTykDv0Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hjYcTykDv0Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SER",
-        "tags": [
-          "#shorts",
-          "#short",
-          "#wow",
-          "#best",
-          "#respect",
-          "#tiktok",
-          "#like",
-          "#trend",
-          "#top",
-          "#trending",
-          "#technology",
-          "#amazing",
-          "#viral",
-          "Tesla Energy",
-          "powerful electronic music",
-          "tesla coil dance",
-          "power music speaker",
-          "tesla speaker",
-          "electric speaker",
-          "amazing speaker",
-          "speaker dance",
-          "#funny",
-          "ElectroBOOM",
-          "#fyp",
-          "#diy",
-          "#lifehacks",
-          "#experiment",
-          "#awesome",
-          "Technology",
-          "#power",
-          "#spacex",
-          "spacexstarship",
-          "#fidgetspinner",
-          "tesla coil speaker",
-          "Music Tesla Coil",
-          "Amazing Tesla music",
-          "Tesla Coil Testing"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Tesla Speaker⚡💯 Rate this 1-10💡",
-          "description": "#shorts #short #wow #best #respect #music #amazing #charge #tesla #trending #funny #viral #fyp #diy #lifehacks #experiment #awesome #spacex #fidgetspinner\n\n\nWhat do you think this is⚡❓\nAwesome 👍🏻"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1722931",
-        "likeCount": "18587",
-        "favoriteCount": "0",
-        "commentCount": "45"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ZBhM7Z1hHcCSXh974aum4k1FZwU",
-      "id": "GD0tqRdxFjk",
-      "snippet": {
-        "publishedAt": "2026-07-25T21:02:40Z",
-        "channelId": "UCAYTr-LOiD3i5IdAL7kh4Fw",
-        "title": "I Built a Transparent Screen Into My PC Case",
-        "description": "I Built a Transparent Screen Into My PC Case",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Chris Builds",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I Built a Transparent Screen Into My PC Case",
-          "description": "I Built a Transparent Screen Into My PC Case"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "26300466",
-        "likeCount": "1569093",
-        "favoriteCount": "0",
-        "commentCount": "5030"
+        "commentCount": "61"
       }
     }
   ],
   "nextPageToken": "CDIQAA",
   "pageInfo": {
-    "totalResults": 78,
+    "totalResults": 85,
     "resultsPerPage": 50
   }
 }

@@ -1,10 +1,72 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "I-9o-zgQkelULaajPqAnJY7hiYM",
+  "etag": "ofmdbLExDeWaijq90mxplya_TNA",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "sdshEFQD9Qo-PiWXWUFQnHOkZ30",
+      "etag": "xP5ZhvXPpez-X_Vv1c7lSie5M-I",
+      "id": "CqJBW9vdv60",
+      "snippet": {
+        "publishedAt": "2026-08-09T13:14:50Z",
+        "channelId": "UCygrw2EQQaFymeRB-E_wQsw",
+        "title": "Khi bạn mới mua iPhone 17😂 #reviewcongnghe #smartphone #iphone #apple #phone",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CqJBW9vdv60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CqJBW9vdv60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqJBW9vdv60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CqJBW9vdv60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CqJBW9vdv60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Công Nghệ Có Gì Vui",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Khi bạn mới mua iPhone 17😂 #reviewcongnghe #smartphone #iphone #apple #phone",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1639300",
+        "likeCount": "20040",
+        "favoriteCount": "0",
+        "commentCount": "266"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "psX5MRkNDlYAxOL66D2rCjz799Q",
       "id": "Gm7rPHwJDyw",
       "snippet": {
         "publishedAt": "2026-08-07T06:15:29Z",
@@ -58,15 +120,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1187394",
-        "likeCount": "12866",
+        "viewCount": "2172682",
+        "likeCount": "22886",
         "favoriteCount": "0",
-        "commentCount": "101"
+        "commentCount": "172"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "-ef5M5_YMFZuifcTmD8F00zLnIo",
+      "etag": "t4nWhclaCzluubc4HNOdrQiUdg8",
       "id": "MIHVbWfbLew",
       "snippet": {
         "publishedAt": "2026-08-06T05:44:06Z",
@@ -107,8 +169,7 @@
         "localized": {
           "title": "Bạn thân là phải xài kính cường lực đôi nha!",
           "description": ""
-        },
-        "defaultAudioLanguage": "vi"
+        }
       },
       "contentDetails": {
         "duration": "PT26S",
@@ -120,15 +181,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1211389",
-        "likeCount": "13633",
+        "viewCount": "1928442",
+        "likeCount": "20498",
         "favoriteCount": "0",
-        "commentCount": "85"
+        "commentCount": "106"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "AKliy5cCGvDawt0r1WlCG-jX4mM",
+      "etag": "qjHUjV9YW1zqiYhZpYXy0rXcR4s",
+      "id": "mFp6mvvvA2s",
+      "snippet": {
+        "publishedAt": "2026-08-11T01:42:28Z",
+        "channelId": "UCzm7Z06YY_r4Obu0NyCWjFQ",
+        "title": "Khả năng bắt sóng của các hãng điện thoại 🤩 #apple #smartphone #reviewcongnghe #samsung #phone",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mFp6mvvvA2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mFp6mvvvA2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mFp6mvvvA2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mFp6mvvvA2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mFp6mvvvA2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vũ Trụ Công Nghệ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Khả năng bắt sóng của các hãng điện thoại 🤩 #apple #smartphone #reviewcongnghe #samsung #phone",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "497381",
+        "likeCount": "6933",
+        "favoriteCount": "0",
+        "commentCount": "420"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xwO6cy7agkvBB-RcNtvD3p7supM",
+      "id": "wtNE37BWvTY",
+      "snippet": {
+        "publishedAt": "2026-08-11T11:32:13Z",
+        "channelId": "UCh79IazPBN62-27J7qZuVkw",
+        "title": "Chiếc ốp lưng đã cứu chiếc điện thoại #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wtNE37BWvTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wtNE37BWvTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wtNE37BWvTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wtNE37BWvTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wtNE37BWvTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mèo Lém Lỉnh",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Chiếc ốp lưng đã cứu chiếc điện thoại #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "354636",
+        "likeCount": "2692",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FNm0NXJ_oYGkHjqUIJxPIA8rRgQ",
       "id": "jNofkDVJH3U",
       "snippet": {
         "publishedAt": "2026-08-06T01:33:55Z",
@@ -169,8 +354,7 @@
         "localized": {
           "title": "Dán tem này lên camera điện thoại, muốn chụp lén cũng chịu - Bí quyết bảo mật của công ty công nghệ",
           "description": "Chỉ với một miếng tem nhỏ dán lên camera, chiếc điện thoại của bạn coi như \"vô hiệu hóa\" hoàn toàn khả năng chụp ảnh. Đây là giải pháp bảo mật thông minh mà nhiều công ty công nghệ, nhà máy và trung tâm dữ liệu đang áp dụng để ngăn chặn rò rỉ thông tin.\n\nTrong video có sử dụng bản nhạc \"Monkeys Spinning Monkeys\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/"
-        },
-        "defaultAudioLanguage": "vi"
+        }
       },
       "contentDetails": {
         "duration": "PT19S",
@@ -182,59 +366,72 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1026918",
-        "likeCount": "11256",
+        "viewCount": "1369520",
+        "likeCount": "15557",
         "favoriteCount": "0",
-        "commentCount": "212"
+        "commentCount": "281"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zs38BJT93lrSFWSu2cqzIqQexdA",
-      "id": "3eK1ThjZJ9M",
+      "etag": "ZSCeh2Fn2ftH3WLwkC9H9T47XcQ",
+      "id": "wa6hd053530",
       "snippet": {
-        "publishedAt": "2026-08-04T04:17:35Z",
-        "channelId": "UCfXfbkLOTo-Ko6ZdpHslYGg",
-        "title": "Cuối cùng cũng gom đủ chữ love rồi #muaiphone #smartphone #apple #muadienthoai",
-        "description": "",
+        "publishedAt": "2026-08-11T04:08:50Z",
+        "channelId": "UCZkUq9FCPbKpo6jzZdz3cZw",
+        "title": "Khi máy tính CASIO dùng hết 100% công dụng: 😆 #shorts",
+        "description": "Khi máy tính CASIO dùng hết 100% công dụng: 😆 #shorts \n\n► Kết nối với Tin Nhanh 3 Phút ở trên Fanpage chính thức nha: https://www.facebook.com/TINNHANH3PHUT86/\n► Email: contact.tinnhanh3phut@gmail.com\n✋ Nhớ ấn Đăng Ký để theo dõi thêm nhiều tin tức thú vị mỗi ngày của Tin Nhanh 3 Phút:\nhttps://www.youtube.com/@TINNHANH3PHUT\n\n\nCảm ơn các bạn đã theo dõi bản Tin nhanh 3 phút !\n\nHastag: #tinnhanh3phut #tin3phut",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/default.jpg",
+            "url": "https://i.ytimg.com/vi/wa6hd053530/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wa6hd053530/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wa6hd053530/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/wa6hd053530/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wa6hd053530/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Trạm Công Nghệ",
+        "channelTitle": "TIN NHANH 3 PHÚT",
+        "tags": [
+          "tin nhanh 3 phút",
+          "tin 3 phút",
+          "tin tức",
+          "giải trí",
+          "short",
+          "shorts",
+          "máy tính casio",
+          "khi máy tính casio",
+          "dùng hết 100% công dụng",
+          "casio"
+        ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Cuối cùng cũng gom đủ chữ love rồi #muaiphone #smartphone #apple #muadienthoai",
-          "description": ""
-        }
+          "title": "Khi máy tính CASIO dùng hết 100% công dụng: 😆 #shorts",
+          "description": "Khi máy tính CASIO dùng hết 100% công dụng: 😆 #shorts \n\n► Kết nối với Tin Nhanh 3 Phút ở trên Fanpage chính thức nha: https://www.facebook.com/TINNHANH3PHUT86/\n► Email: contact.tinnhanh3phut@gmail.com\n✋ Nhớ ấn Đăng Ký để theo dõi thêm nhiều tin tức thú vị mỗi ngày của Tin Nhanh 3 Phút:\nhttps://www.youtube.com/@TINNHANH3PHUT\n\n\nCảm ơn các bạn đã theo dõi bản Tin nhanh 3 phút !\n\nHastag: #tinnhanh3phut #tin3phut"
+        },
+        "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT15S",
+        "duration": "PT51S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -243,15 +440,217 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1242212",
-        "likeCount": "17568",
+        "viewCount": "1071018",
+        "likeCount": "15802",
         "favoriteCount": "0",
-        "commentCount": "158"
+        "commentCount": "778"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "wfIaJs1srqtvQwnKmLQAzWLCu0I",
+      "etag": "QxwUMfZVPC9oKtxAWHikO8W9A2I",
+      "id": "DXyoLZqeU5w",
+      "snippet": {
+        "publishedAt": "2026-08-10T09:14:30Z",
+        "channelId": "UCxjaNfofY-vBlm_ZGqYpbNA",
+        "title": "Quá đủ internet cho hôm nay p13 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DXyoLZqeU5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DXyoLZqeU5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DXyoLZqeU5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DXyoLZqeU5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DXyoLZqeU5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Super Hoang Long",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Quá đủ internet cho hôm nay p13 #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "533414",
+        "likeCount": "21966",
+        "favoriteCount": "0",
+        "commentCount": "299"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bjG7qBlPXNVA7vrKKMxzmBA_rnc",
+      "id": "c1TPsVIJ21E",
+      "snippet": {
+        "publishedAt": "2026-08-09T03:07:41Z",
+        "channelId": "UCVQXRlwKNjOGiNKN2FO73rA",
+        "title": "Lương tháng này coi như bỏ rồi #smartphone #congnghe #techreview #muaiphone",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c1TPsVIJ21E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c1TPsVIJ21E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c1TPsVIJ21E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c1TPsVIJ21E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c1TPsVIJ21E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thở Ra Wifi",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Lương tháng này coi như bỏ rồi #smartphone #congnghe #techreview #muaiphone",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "549101",
+        "likeCount": "7814",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T4WtzyuzuCFWQPl0j-5FwruL8Ak",
+      "id": "hILth7GepLY",
+      "snippet": {
+        "publishedAt": "2026-08-11T03:30:12Z",
+        "channelId": "UCZTQFjdLbcR9_5hvmBY_4AA",
+        "title": "Tại Sao Phải Dùng Sợi Xích Nối 2 Bánh Răng 🧐 | Đế Chế Công Nghệ",
+        "description": "►Chào mừng bạn đến với Đế Chế Công Nghệ! \n\n►Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n►Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hILth7GepLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hILth7GepLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hILth7GepLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hILth7GepLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hILth7GepLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Đế Chế Công Nghệ",
+        "tags": [
+          "công nghệ",
+          "khoa học",
+          "sáng tạo",
+          "kiến thức",
+          "độc lạ",
+          "đồ công nghệ",
+          "thiết bị thông minh",
+          "khoa học công nghệ",
+          "review công nghệ",
+          "công nghệ độc lạ",
+          "giải thích công nghệ",
+          "shorts công nghệ",
+          "công nghệ 2025",
+          "công nghệ giá rẻ"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Tại Sao Phải Dùng Sợi Xích Nối 2 Bánh Răng 🧐 | Đế Chế Công Nghệ",
+          "description": "►Chào mừng bạn đến với Đế Chế Công Nghệ! \n\n►Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n►Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner."
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "340576",
+        "likeCount": "4109",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i6yJaSHYygTManiy0YatA-vgqjw",
       "id": "C-1DpxiprKU",
       "snippet": {
         "publishedAt": "2026-08-08T11:16:03Z",
@@ -305,323 +704,59 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "404243",
-        "likeCount": "3400",
+        "viewCount": "572477",
+        "likeCount": "4340",
         "favoriteCount": "0",
-        "commentCount": "16"
+        "commentCount": "24"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Gbhxnu82-0CqQXDeDFce9iGy7lo",
-      "id": "ndcR_XkjU5k",
+      "etag": "Wxu3zqeIKRO-kHSefO9dhVMaVvU",
+      "id": "3eK1ThjZJ9M",
       "snippet": {
-        "publishedAt": "2026-08-07T08:30:35Z",
-        "channelId": "UCxjaNfofY-vBlm_ZGqYpbNA",
-        "title": "Quá đủ internet cho hôm nay p10 #shorts",
+        "publishedAt": "2026-08-04T04:17:35Z",
+        "channelId": "UCfXfbkLOTo-Ko6ZdpHslYGg",
+        "title": "Cuối cùng cũng gom đủ chữ love rồi #muaiphone #smartphone #apple #muadienthoai",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ndcR_XkjU5k/default.jpg",
+            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ndcR_XkjU5k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ndcR_XkjU5k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ndcR_XkjU5k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ndcR_XkjU5k/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3eK1ThjZJ9M/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Super Hoang Long",
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Quá đủ internet cho hôm nay p10 #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "507438",
-        "likeCount": "20291",
-        "favoriteCount": "0",
-        "commentCount": "262"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "UHjTzC6JXrPtVAt9l0nP11qPJM4",
-      "id": "RwlFTCLnaKw",
-      "snippet": {
-        "publishedAt": "2026-08-07T11:42:54Z",
-        "channelId": "UCygrw2EQQaFymeRB-E_wQsw",
-        "title": "Các bạn chọn máy nào🤩 #reviewcongnghe #smartphone #iphone #huawei #phone",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RwlFTCLnaKw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RwlFTCLnaKw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RwlFTCLnaKw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RwlFTCLnaKw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RwlFTCLnaKw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Công Nghệ Có Gì Vui",
+        "channelTitle": "Trạm Công Nghệ",
         "categoryId": "22",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Các bạn chọn máy nào🤩 #reviewcongnghe #smartphone #iphone #huawei #phone",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "335168",
-        "likeCount": "4853",
-        "favoriteCount": "0",
-        "commentCount": "268"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "lddaCENEObgunIYMaTYTLS8JPPQ",
-      "id": "aJ3cf5Ghk6g",
-      "snippet": {
-        "publishedAt": "2026-08-03T01:55:12Z",
-        "channelId": "UCzm7Z06YY_r4Obu0NyCWjFQ",
-        "title": "Khi bạn chuyển từ iPhone sang Android😂 #smartphone #apple #iphone #android #reviewcongnghe",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aJ3cf5Ghk6g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aJ3cf5Ghk6g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aJ3cf5Ghk6g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aJ3cf5Ghk6g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aJ3cf5Ghk6g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vũ Trụ Công Nghệ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Khi bạn chuyển từ iPhone sang Android😂 #smartphone #apple #iphone #android #reviewcongnghe",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT29S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "919959",
-        "likeCount": "27496",
-        "favoriteCount": "0",
-        "commentCount": "379"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "YTjzHI4G5ZPnc_sHqxl-RKj0pH8",
-      "id": "xgAbOR2-WmY",
-      "snippet": {
-        "publishedAt": "2026-08-03T07:55:24Z",
-        "channelId": "UCsW65Kn2oEmrI9ikgCOz4aA",
-        "title": "Mua điện thoại về mà dùng luôn là dở rồi đó #smartphone #dienthoai #congnghe #techtips",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Hệ Điều Hành Lỗi",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Mua điện thoại về mà dùng luôn là dở rồi đó #smartphone #dienthoai #congnghe #techtips",
+          "title": "Cuối cùng cũng gom đủ chữ love rồi #muaiphone #smartphone #apple #muadienthoai",
           "description": ""
         }
       },
       "contentDetails": {
-        "duration": "PT2M22S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1756647",
-        "likeCount": "41033",
-        "favoriteCount": "0",
-        "commentCount": "581"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "BazFNOfSWXCsxYrSNqxouDLLUh0",
-      "id": "I7smP5yLCGw",
-      "snippet": {
-        "publishedAt": "2026-08-08T12:00:02Z",
-        "channelId": "UCZTQFjdLbcR9_5hvmBY_4AA",
-        "title": "Tại Sao Vẫn Phải Đánh Bóng Bằng Tay Khi Đã Có CNC? 🧐 | Đế Chế Công Nghệ",
-        "description": "►Chào mừng bạn đến với Đế Chế Công Nghệ! \n\n►Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n►Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/I7smP5yLCGw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/I7smP5yLCGw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/I7smP5yLCGw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/I7smP5yLCGw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/I7smP5yLCGw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Đế Chế Công Nghệ",
-        "tags": [
-          "công nghệ",
-          "khoa học",
-          "sáng tạo",
-          "kiến thức",
-          "độc lạ",
-          "đồ công nghệ",
-          "thiết bị thông minh",
-          "khoa học công nghệ",
-          "review công nghệ",
-          "công nghệ độc lạ",
-          "giải thích công nghệ",
-          "shorts công nghệ",
-          "công nghệ 2025",
-          "công nghệ giá rẻ"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Tại Sao Vẫn Phải Đánh Bóng Bằng Tay Khi Đã Có CNC? 🧐 | Đế Chế Công Nghệ",
-          "description": "►Chào mừng bạn đến với Đế Chế Công Nghệ! \n\n►Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n►Nếu bạn là người yêu thích công nghệ, muốn tìm hiểu và mở rộng kiến thức một cách thú vị và tiết kiệm thời gian, thì kênh chính là nơi dành cho bạn!\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner."
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT53S",
+        "duration": "PT15S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -630,44 +765,106 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "268353",
-        "likeCount": "3602",
+        "viewCount": "1515316",
+        "likeCount": "20501",
         "favoriteCount": "0",
-        "commentCount": "75"
+        "commentCount": "186"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xNeKxxe3SgLRVnb2M_jdBSCyOBY",
-      "id": "lf8w56qvnI4",
+      "etag": "yUFJbByvV7IvzJP8CGf44AuPmgM",
+      "id": "8AmAyGo1Czk",
       "snippet": {
-        "publishedAt": "2026-08-04T02:03:05Z",
-        "channelId": "UCewRhY9FibTpCj5vxCHUN9Q",
-        "title": "Ông anh này mang bản vẽ iPhone 18 tới bắt tôi ráp cho ổng #muaiphone #smartphone #iphone17promax",
-        "description": "",
+        "publishedAt": "2026-08-11T14:20:21Z",
+        "channelId": "UCA19n6s-lUpydnKzEm5blZA",
+        "title": "Phát Minh Giúp Tránh Bị Mẹ Mắng? 🤔 | Đế Vương Công Nghệ",
+        "description": "► Chào mừng bạn đến với Đế Vương Công Nghệ! \n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.\n\n#devuongcongnghe #giaitri #viral",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lf8w56qvnI4/default.jpg",
+            "url": "https://i.ytimg.com/vi/8AmAyGo1Czk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lf8w56qvnI4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8AmAyGo1Czk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lf8w56qvnI4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8AmAyGo1Czk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lf8w56qvnI4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8AmAyGo1Czk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lf8w56qvnI4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8AmAyGo1Czk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Đế Vương Công Nghệ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Phát Minh Giúp Tránh Bị Mẹ Mắng? 🤔 | Đế Vương Công Nghệ",
+          "description": "► Chào mừng bạn đến với Đế Vương Công Nghệ! \n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.\n\n#devuongcongnghe #giaitri #viral"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "268323",
+        "likeCount": "2955",
+        "favoriteCount": "0",
+        "commentCount": "95"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N6U2dB0XmWv5BLcinwnFYhv5PVk",
+      "id": "UR0GhMV41KI",
+      "snippet": {
+        "publishedAt": "2026-08-10T06:52:07Z",
+        "channelId": "UCewRhY9FibTpCj5vxCHUN9Q",
+        "title": "Rồi xong luôn #muaiphone #smartphone #iphone17promax",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UR0GhMV41KI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UR0GhMV41KI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UR0GhMV41KI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UR0GhMV41KI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UR0GhMV41KI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -677,13 +874,13 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Ông anh này mang bản vẽ iPhone 18 tới bắt tôi ráp cho ổng #muaiphone #smartphone #iphone17promax",
+          "title": "Rồi xong luôn #muaiphone #smartphone #iphone17promax",
           "description": ""
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT1M16S",
+        "duration": "PT16S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -692,201 +889,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "784092",
-        "likeCount": "13914",
+        "viewCount": "363221",
+        "likeCount": "3848",
         "favoriteCount": "0",
-        "commentCount": "107"
+        "commentCount": "21"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "SZ1SM2eU2L98X79vrwBCF2OztKI",
-      "id": "hjLv_Z2KskI",
-      "snippet": {
-        "publishedAt": "2026-08-07T23:00:27Z",
-        "channelId": "UC4k2sEjl7eDhSwXaUjr3aLA",
-        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 111",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mr Tungtungsahur Blue ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 111",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "5130935",
-        "likeCount": "48577",
-        "favoriteCount": "0",
-        "commentCount": "66"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PGYG1pc78VqJs2FcoHnHCDJYweg",
-      "id": "8VWzw2J0A-E",
-      "snippet": {
-        "publishedAt": "2026-08-09T10:20:37Z",
-        "channelId": "UCS7RRZGkDwMzfUvkDEnagFg",
-        "title": "Chắc dữ liệu chưa quen nhà máy",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tường Tinh Tế",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Chắc dữ liệu chưa quen nhà máy",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "100918",
-        "likeCount": "1240",
-        "favoriteCount": "0",
-        "commentCount": "6"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SJFf8udXgqlalsNVR-w9WZp3n4E",
-      "id": "yGID_cp3r9g",
-      "snippet": {
-        "publishedAt": "2026-08-09T05:00:11Z",
-        "channelId": "UCtA-m2n-NpVNUsPKPJwedmg",
-        "title": "AI nghiện web đen MoltHub",
-        "description": "BÍ MẬT MOLTHUB: Trang \"web đen\" khiến AI mê mẩn đến mức tiêu tốn $2.000USD tiền điện một tuần thực chất là gì? Giải mã trò đùa công nghệ cực mặn về cơn khát dữ liệu của trí tuệ nhân tạo! Nhấn Follow để xem thêm nhiều clip công nghệ tấu hài nhé!\n\nBẢN CHẤT CỦA \"MOLTHUB\" LÀ GI? \nTên gọi & Giao diện: Mô phỏng theo giao diện của trang web người lớn nổi tiếng Pornhub (từ tông màu cam - đen cho đến bảng cảnh báo tuổi 18+ khi mới truy cập).\nNội dung thực tế trên trang web: Thay vì chứa video của con người, MoltHub chứa các dữ liệu thô của máy tính:Các ma trận toán học chưa qua nén (unmasked attention matrices).Dải ma trận dữ liệu tensor đầy đủ (full-precision tensor operations).Các khối màu nhiễu hạt (raw noise), biểu đồ thuật toán và tệp trọng số nơ-ron thô (LLM weights).\n🎯 Ý NGHĨA VÀ MỤC ĐÍCH CỦA VIDEO\nVideo nhân hóa quá trình huấn luyện dữ liệu nặng (heavy compute / training) của AI:Khái niệm \"Phim người lớn của AI\": Đối với cỗ máy trí tuệ nhân tạo, những tập dữ liệu thô chưa qua tối ưu hóa chính là thứ làm cho card đồ họa (GPU) phải hoạt động hết công suất $100\\%$, sinh nhiệt lớn và tiêu tốn cực kỳ nhiều điện năng.Kịch bản tấu hài (Meme): Việc biên soạn kịch bản \"AI tìm mọi cách vượt rào, nói dối nhà phát triển để xem MoltHub\" là một cách ví von dí dỏm về hiện tượng AI tự tìm đường tối ưu (bypass system prompts) và cơn khát dữ liệu vô tận của các mô hình ngôn ngữ lớn (LLM) hiện nay.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Khai Sáng Tri Thức",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "AI nghiện web đen MoltHub",
-          "description": "BÍ MẬT MOLTHUB: Trang \"web đen\" khiến AI mê mẩn đến mức tiêu tốn $2.000USD tiền điện một tuần thực chất là gì? Giải mã trò đùa công nghệ cực mặn về cơn khát dữ liệu của trí tuệ nhân tạo! Nhấn Follow để xem thêm nhiều clip công nghệ tấu hài nhé!\n\nBẢN CHẤT CỦA \"MOLTHUB\" LÀ GI? \nTên gọi & Giao diện: Mô phỏng theo giao diện của trang web người lớn nổi tiếng Pornhub (từ tông màu cam - đen cho đến bảng cảnh báo tuổi 18+ khi mới truy cập).\nNội dung thực tế trên trang web: Thay vì chứa video của con người, MoltHub chứa các dữ liệu thô của máy tính:Các ma trận toán học chưa qua nén (unmasked attention matrices).Dải ma trận dữ liệu tensor đầy đủ (full-precision tensor operations).Các khối màu nhiễu hạt (raw noise), biểu đồ thuật toán và tệp trọng số nơ-ron thô (LLM weights).\n🎯 Ý NGHĨA VÀ MỤC ĐÍCH CỦA VIDEO\nVideo nhân hóa quá trình huấn luyện dữ liệu nặng (heavy compute / training) của AI:Khái niệm \"Phim người lớn của AI\": Đối với cỗ máy trí tuệ nhân tạo, những tập dữ liệu thô chưa qua tối ưu hóa chính là thứ làm cho card đồ họa (GPU) phải hoạt động hết công suất $100\\%$, sinh nhiệt lớn và tiêu tốn cực kỳ nhiều điện năng.Kịch bản tấu hài (Meme): Việc biên soạn kịch bản \"AI tìm mọi cách vượt rào, nói dối nhà phát triển để xem MoltHub\" là một cách ví von dí dỏm về hiện tượng AI tự tìm đường tối ưu (bypass system prompts) và cơn khát dữ liệu vô tận của các mô hình ngôn ngữ lớn (LLM) hiện nay."
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT48S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "135172",
-        "likeCount": "6732",
-        "favoriteCount": "0",
-        "commentCount": "229"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "JQ_q187r5wQpwE-9fRPMtvwAcAs",
+      "etag": "J12B9PgJJybm3LnR3JS5bfnodv4",
       "id": "Thh2i5SJAUw",
       "snippet": {
         "publishedAt": "2026-08-06T11:21:50Z",
@@ -940,60 +951,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2356765",
-        "likeCount": "81115",
+        "viewCount": "8465640",
+        "likeCount": "255956",
         "favoriteCount": "0",
-        "commentCount": "575"
+        "commentCount": "1676"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NkoB0Div3-cZIBPLyAOQuuL3rl8",
-      "id": "xD_eXJdR-Hk",
+      "etag": "uIvLNnsGElNKFdoMNkQM1o7ZgDU",
+      "id": "8VWzw2J0A-E",
       "snippet": {
-        "publishedAt": "2026-07-28T23:00:22Z",
-        "channelId": "UCW96UNel8c4LgX9a56U_lFg",
-        "title": "Vì Sao Vòng Giám Sát Không Được Dính Nước ?",
-        "description": "Vòng giám sát điện tử là thiết bị đeo ở mắt cá chân để theo dõi vị trí và việc tuân thủ các quy định của người bị quản thúc tại gia hoặc chịu sự giám sát của cơ quan chức năng. Tùy từng mẫu, thiết bị có thể sử dụng GPS, sóng di động hoặc tín hiệu vô tuyến để gửi dữ liệu. Nếu người đeo tự ý tháo, cắt hoặc rời khỏi khu vực được phép, hệ thống sẽ phát cảnh báo đến cơ quan quản lý. Hiện nay, Việt Nam chưa áp dụng phổ biến vòng giám sát điện tử (ankle monitor) cho người bị quản thúc tại gia như ở Mỹ, Anh hay một số nước châu Âu.\n \n#shorts",
+        "publishedAt": "2026-08-09T10:20:37Z",
+        "channelId": "UCS7RRZGkDwMzfUvkDEnagFg",
+        "title": "Chắc dữ liệu chưa quen nhà máy",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/default.jpg",
+            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8VWzw2J0A-E/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Cưng Quá Xá",
+        "channelTitle": "Tường Tinh Tế",
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Vì Sao Vòng Giám Sát Không Được Dính Nước ?",
-          "description": "Vòng giám sát điện tử là thiết bị đeo ở mắt cá chân để theo dõi vị trí và việc tuân thủ các quy định của người bị quản thúc tại gia hoặc chịu sự giám sát của cơ quan chức năng. Tùy từng mẫu, thiết bị có thể sử dụng GPS, sóng di động hoặc tín hiệu vô tuyến để gửi dữ liệu. Nếu người đeo tự ý tháo, cắt hoặc rời khỏi khu vực được phép, hệ thống sẽ phát cảnh báo đến cơ quan quản lý. Hiện nay, Việt Nam chưa áp dụng phổ biến vòng giám sát điện tử (ankle monitor) cho người bị quản thúc tại gia như ở Mỹ, Anh hay một số nước châu Âu.\n \n#shorts"
+          "title": "Chắc dữ liệu chưa quen nhà máy",
+          "description": ""
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT16S",
+        "duration": "PT11S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1002,15 +1013,466 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1258239",
-        "likeCount": "9907",
+        "viewCount": "276231",
+        "likeCount": "2372",
         "favoriteCount": "0",
-        "commentCount": "57"
+        "commentCount": "16"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zbLJ96ohhCbuIe0vctKMjP8HeFs",
+      "etag": "td4VAw6pw8n6RvVhv7h4gCH8_Nw",
+      "id": "yGID_cp3r9g",
+      "snippet": {
+        "publishedAt": "2026-08-09T05:00:11Z",
+        "channelId": "UCtA-m2n-NpVNUsPKPJwedmg",
+        "title": "AI nghiện web đen MoltHub",
+        "description": "BÍ MẬT MOLTHUB: Trang \"web đen\" khiến AI mê mẩn đến mức tiêu tốn $2.000USD tiền điện một tuần thực chất là gì? Giải mã trò đùa công nghệ cực mặn về cơn khát dữ liệu của trí tuệ nhân tạo! Nhấn Follow để xem thêm nhiều clip công nghệ tấu hài nhé!\n\nBẢN CHẤT CỦA \"MOLTHUB\" LÀ GI? \nTên gọi & Giao diện: Mô phỏng theo giao diện của trang web người lớn nổi tiếng Pornhub (từ tông màu cam - đen cho đến bảng cảnh báo tuổi 18+ khi mới truy cập).\nNội dung thực tế trên trang web: Thay vì chứa video của con người, MoltHub chứa các dữ liệu thô của máy tính:Các ma trận toán học chưa qua nén (unmasked attention matrices).Dải ma trận dữ liệu tensor đầy đủ (full-precision tensor operations).Các khối màu nhiễu hạt (raw noise), biểu đồ thuật toán và tệp trọng số nơ-ron thô (LLM weights).\n🎯 Ý NGHĨA VÀ MỤC ĐÍCH CỦA VIDEO\nVideo nhân hóa quá trình huấn luyện dữ liệu nặng (heavy compute / training) của AI:Khái niệm \"Phim người lớn của AI\": Đối với cỗ máy trí tuệ nhân tạo, những tập dữ liệu thô chưa qua tối ưu hóa chính là thứ làm cho card đồ họa (GPU) phải hoạt động hết công suất $100\\%$, sinh nhiệt lớn và tiêu tốn cực kỳ nhiều điện năng.Kịch bản tấu hài (Meme): Việc biên soạn kịch bản \"AI tìm mọi cách vượt rào, nói dối nhà phát triển để xem MoltHub\" là một cách ví von dí dỏm về hiện tượng AI tự tìm đường tối ưu (bypass system prompts) và cơn khát dữ liệu vô tận của các mô hình ngôn ngữ lớn (LLM) hiện nay.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yGID_cp3r9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khai Sáng Tri Thức",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "AI nghiện web đen MoltHub",
+          "description": "BÍ MẬT MOLTHUB: Trang \"web đen\" khiến AI mê mẩn đến mức tiêu tốn $2.000USD tiền điện một tuần thực chất là gì? Giải mã trò đùa công nghệ cực mặn về cơn khát dữ liệu của trí tuệ nhân tạo! Nhấn Follow để xem thêm nhiều clip công nghệ tấu hài nhé!\n\nBẢN CHẤT CỦA \"MOLTHUB\" LÀ GI? \nTên gọi & Giao diện: Mô phỏng theo giao diện của trang web người lớn nổi tiếng Pornhub (từ tông màu cam - đen cho đến bảng cảnh báo tuổi 18+ khi mới truy cập).\nNội dung thực tế trên trang web: Thay vì chứa video của con người, MoltHub chứa các dữ liệu thô của máy tính:Các ma trận toán học chưa qua nén (unmasked attention matrices).Dải ma trận dữ liệu tensor đầy đủ (full-precision tensor operations).Các khối màu nhiễu hạt (raw noise), biểu đồ thuật toán và tệp trọng số nơ-ron thô (LLM weights).\n🎯 Ý NGHĨA VÀ MỤC ĐÍCH CỦA VIDEO\nVideo nhân hóa quá trình huấn luyện dữ liệu nặng (heavy compute / training) của AI:Khái niệm \"Phim người lớn của AI\": Đối với cỗ máy trí tuệ nhân tạo, những tập dữ liệu thô chưa qua tối ưu hóa chính là thứ làm cho card đồ họa (GPU) phải hoạt động hết công suất $100\\%$, sinh nhiệt lớn và tiêu tốn cực kỳ nhiều điện năng.Kịch bản tấu hài (Meme): Việc biên soạn kịch bản \"AI tìm mọi cách vượt rào, nói dối nhà phát triển để xem MoltHub\" là một cách ví von dí dỏm về hiện tượng AI tự tìm đường tối ưu (bypass system prompts) và cơn khát dữ liệu vô tận của các mô hình ngôn ngữ lớn (LLM) hiện nay."
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "370539",
+        "likeCount": "15731",
+        "favoriteCount": "0",
+        "commentCount": "447"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ftfd5rx4WBOQWe92MnqLviIAY0g",
+      "id": "SSCfGmjMrlg",
+      "snippet": {
+        "publishedAt": "2026-08-09T14:08:39Z",
+        "channelId": "UCYFMbNl6OCbt-a5U70QMg5w",
+        "title": "1 Thanh niên đã độ chiếc máy tính casio để màn hình có thể phát được cả video #docvithegioi #tintuc",
+        "description": "🌍 ĐỌC VỊ THẾ GIỚI – Kênh YouTube dành cho những người mê khám phá, thích hiểu sâu và luôn khát khao bóc tách sự thật phía sau bức màn truyền thông.\nTừ những hiện tượng toàn cầu, các bí ẩn quốc tế cho đến các phân tích chiến lược, mọi nội dung đều được tổng hợp – chọn lọc – dựng lại với góc nhìn nghi ngờ có cơ sở và tư duy phản biện.\n\n👉 Đừng quên nhấn Đăng ký (Subscribe) và bật chuông để không bỏ lỡ bất kỳ video nào.\nMỗi lượt sub của bạn là một bước tiếp thêm động lực để tụi mình đi sâu hơn, xa hơn, và thật hơn.\n\n📌 Bản quyền thuộc về Đọc Vị Thế Giới.\nNghiêm cấm sao chép, reup hoặc cắt dựng lại nội dung dưới mọi hình thức nếu không được sự cho phép bằng văn bản. Hãy tôn trọng chất xám và cùng nhau xây dựng một cộng đồng tri thức văn minh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SSCfGmjMrlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SSCfGmjMrlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SSCfGmjMrlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SSCfGmjMrlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SSCfGmjMrlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Đọc Vị Thế Giới",
+        "tags": [
+          "docvithegioi",
+          "tintuc",
+          "news",
+          "docla",
+          "khoahoc",
+          "vutru"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "1 Thanh niên đã độ chiếc máy tính casio để màn hình có thể phát được cả video #docvithegioi #tintuc",
+          "description": "🌍 ĐỌC VỊ THẾ GIỚI – Kênh YouTube dành cho những người mê khám phá, thích hiểu sâu và luôn khát khao bóc tách sự thật phía sau bức màn truyền thông.\nTừ những hiện tượng toàn cầu, các bí ẩn quốc tế cho đến các phân tích chiến lược, mọi nội dung đều được tổng hợp – chọn lọc – dựng lại với góc nhìn nghi ngờ có cơ sở và tư duy phản biện.\n\n👉 Đừng quên nhấn Đăng ký (Subscribe) và bật chuông để không bỏ lỡ bất kỳ video nào.\nMỗi lượt sub của bạn là một bước tiếp thêm động lực để tụi mình đi sâu hơn, xa hơn, và thật hơn.\n\n📌 Bản quyền thuộc về Đọc Vị Thế Giới.\nNghiêm cấm sao chép, reup hoặc cắt dựng lại nội dung dưới mọi hình thức nếu không được sự cho phép bằng văn bản. Hãy tôn trọng chất xám và cùng nhau xây dựng một cộng đồng tri thức văn minh."
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "487373",
+        "likeCount": "13236",
+        "favoriteCount": "0",
+        "commentCount": "328"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FwQvkFEK5EGaSiKk5OQNG39ieYM",
+      "id": "gxmzRBQQhmQ",
+      "snippet": {
+        "publishedAt": "2026-08-11T06:11:43Z",
+        "channelId": "UCOygiQNXiiQ_rpRjHU5ri-A",
+        "title": "Lầm tưởng, thói quen nên bỏ khi dùng iPhone!!",
+        "description": "Lầm tưởng, thói quen nên bỏ khi dùng iPhone!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gxmzRBQQhmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gxmzRBQQhmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gxmzRBQQhmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gxmzRBQQhmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gxmzRBQQhmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ngô Đức Duy",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Lầm tưởng, thói quen nên bỏ khi dùng iPhone!!",
+          "description": "Lầm tưởng, thói quen nên bỏ khi dùng iPhone!!"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT2M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "363461",
+        "likeCount": "10729",
+        "favoriteCount": "0",
+        "commentCount": "266"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t7JAtgNqK3RUV8z7eHG66Jb752I",
+      "id": "joZdjgXvj_0",
+      "snippet": {
+        "publishedAt": "2026-08-10T10:44:40Z",
+        "channelId": "UCqXLzRHokJlMXahe5BKkPOA",
+        "title": "Nokia huyền thoại vs smartphone hiện đại 💀 #shorts #nokia #sosanh",
+        "description": "Độ bền điện thoại đã thay đổi thế nào từ năm 2000 đến nay?\n\nVideo này so sánh khả năng chịu va đập của các dòng điện thoại huyền thoại qua từng thập kỷ. Bạn sẽ thấy sự khác biệt rõ rệt giữa \"cục gạch\" Nokia bền bỉ và những mẫu smartphone mỏng manh hiện đại.\n\nLiệu dự đoán về điện thoại năm 2050 có trở thành sự thật? Hãy bình luận về chiếc điện thoại bền nhất mà bạn từng sở hữu nhé.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/joZdjgXvj_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/joZdjgXvj_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/joZdjgXvj_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/joZdjgXvj_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/joZdjgXvj_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pháp Sư Hải ™",
+        "tags": [
+          "#shorts",
+          "#reaction",
+          "#trends",
+          "độ bền điện thoại",
+          "điện thoại nokia",
+          "lịch sử điện thoại",
+          "smartphone đời cũ",
+          "test độ bền"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Nokia huyền thoại vs smartphone hiện đại 💀 #shorts #nokia #sosanh",
+          "description": "Độ bền điện thoại đã thay đổi thế nào từ năm 2000 đến nay?\n\nVideo này so sánh khả năng chịu va đập của các dòng điện thoại huyền thoại qua từng thập kỷ. Bạn sẽ thấy sự khác biệt rõ rệt giữa \"cục gạch\" Nokia bền bỉ và những mẫu smartphone mỏng manh hiện đại.\n\nLiệu dự đoán về điện thoại năm 2050 có trở thành sự thật? Hãy bình luận về chiếc điện thoại bền nhất mà bạn từng sở hữu nhé."
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "150525",
+        "likeCount": "2236",
+        "favoriteCount": "0",
+        "commentCount": "49"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pdOMkzEuDKKQE98ndx7P5l-im5k",
+      "id": "xgAbOR2-WmY",
+      "snippet": {
+        "publishedAt": "2026-08-03T07:55:24Z",
+        "channelId": "UCsW65Kn2oEmrI9ikgCOz4aA",
+        "title": "Mua điện thoại về mà dùng luôn là dở rồi đó #smartphone #dienthoai #congnghe #techtips",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xgAbOR2-WmY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hệ Điều Hành Lỗi",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Mua điện thoại về mà dùng luôn là dở rồi đó #smartphone #dienthoai #congnghe #techtips",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1941986",
+        "likeCount": "44726",
+        "favoriteCount": "0",
+        "commentCount": "628"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vBNPlsStUPOdPIb2d6_Vv2yQcgE",
+      "id": "oV7R59lavOY",
+      "snippet": {
+        "publishedAt": "2026-08-11T02:00:31Z",
+        "channelId": "UCvRkMcDCZyLzFD3NzupJwiw",
+        "title": "Mở Điện Thoại Không Cần Chạm Tay? 🤔 | Bạn Coá Biết",
+        "description": "🧠 Chào mừng bạn đến với Bạn Coá Biết? – nơi khám phá những sự thật thú vị, kiến thức bổ ích và những điều kỳ lạ về thế giới chỉ trong chưa đầy 60 giây!\n\nMỗi video Shorts sẽ mang đến các chủ đề hấp dẫn như:\n✨ Sự thật ít người biết\n🌍 Khoa học & thiên nhiên\n🏛️ Lịch sử & văn hóa\n🚀 Công nghệ & vũ trụ\n🦖 Động vật & sinh vật kỳ lạ\n🤯 Bí ẩn, khám phá và những kiến thức khiến bạn phải bất ngờ!\n\nNếu yêu thích những video ngắn, dễ hiểu và giàu thông tin, hãy Đăng ký kênh, Like và Chia sẻ để không bỏ lỡ những kiến thức thú vị mới mỗi ngày.\n\n🔔 Đăng ký ngay để khám phá thế giới cùng Bạn Coá Biết?\n\n#bancoabiet #shorts #kienthucthuvi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oV7R59lavOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oV7R59lavOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oV7R59lavOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oV7R59lavOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oV7R59lavOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bạn Coá Biết?",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Mở Điện Thoại Không Cần Chạm Tay? 🤔 | Bạn Coá Biết",
+          "description": "🧠 Chào mừng bạn đến với Bạn Coá Biết? – nơi khám phá những sự thật thú vị, kiến thức bổ ích và những điều kỳ lạ về thế giới chỉ trong chưa đầy 60 giây!\n\nMỗi video Shorts sẽ mang đến các chủ đề hấp dẫn như:\n✨ Sự thật ít người biết\n🌍 Khoa học & thiên nhiên\n🏛️ Lịch sử & văn hóa\n🚀 Công nghệ & vũ trụ\n🦖 Động vật & sinh vật kỳ lạ\n🤯 Bí ẩn, khám phá và những kiến thức khiến bạn phải bất ngờ!\n\nNếu yêu thích những video ngắn, dễ hiểu và giàu thông tin, hãy Đăng ký kênh, Like và Chia sẻ để không bỏ lỡ những kiến thức thú vị mới mỗi ngày.\n\n🔔 Đăng ký ngay để khám phá thế giới cùng Bạn Coá Biết?\n\n#bancoabiet #shorts #kienthucthuvi"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "268946",
+        "likeCount": "1456",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UgHjZTZfbIIDSMfywQgUdV0Xz8g",
+      "id": "hjLv_Z2KskI",
+      "snippet": {
+        "publishedAt": "2026-08-07T23:00:27Z",
+        "channelId": "UC4k2sEjl7eDhSwXaUjr3aLA",
+        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 111",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hjLv_Z2KskI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr Tungtungsahur Blue ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 111",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9315577",
+        "likeCount": "85682",
+        "favoriteCount": "0",
+        "commentCount": "92"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Agu-glxws2BtW02EMwk-OY7b3UU",
       "id": "kc-62V_Gg6s",
       "snippet": {
         "publishedAt": "2026-08-08T04:09:46Z",
@@ -1064,60 +1526,345 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "158731",
-        "likeCount": "1819",
+        "viewCount": "262243",
+        "likeCount": "2762",
         "favoriteCount": "0",
-        "commentCount": "118"
+        "commentCount": "143"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "R4XnidqwZTLi_o0HmmAgQdh-5nU",
-      "id": "DuSDnCk9ZdI",
+      "etag": "SDaaTV8MMrd6gaerAtYXAVG5kGA",
+      "id": "WFTL2hqWZtk",
       "snippet": {
-        "publishedAt": "2026-08-07T01:58:41Z",
-        "channelId": "UCVQXRlwKNjOGiNKN2FO73rA",
-        "title": "ghi âm mà còn để bị phát hiện nữa thì chịu đó #smartphone #techreview #congnghe #apple #dienthoai",
+        "publishedAt": "2026-08-11T11:18:06Z",
+        "channelId": "UC5vTdoZ2mR8vkqzs08agJzA",
+        "title": "Mở hộp IP 17 Pro Max 😝 #thuymy499 #playtogethervng #playtogether",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DuSDnCk9ZdI/default.jpg",
+            "url": "https://i.ytimg.com/vi/WFTL2hqWZtk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DuSDnCk9ZdI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WFTL2hqWZtk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DuSDnCk9ZdI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WFTL2hqWZtk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/DuSDnCk9ZdI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/WFTL2hqWZtk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/DuSDnCk9ZdI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WFTL2hqWZtk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Thở Ra Wifi",
-        "categoryId": "22",
+        "channelTitle": "ThuỳMỵ499",
+        "categoryId": "20",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "ghi âm mà còn để bị phát hiện nữa thì chịu đó #smartphone #techreview #congnghe #apple #dienthoai",
+          "title": "Mở hộp IP 17 Pro Max 😝 #thuymy499 #playtogethervng #playtogether",
           "description": ""
         },
         "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT27S",
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "84152",
+        "likeCount": "3158",
+        "favoriteCount": "0",
+        "commentCount": "205"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GFG4i453UeApsXelftzy-pEV9hQ",
+      "id": "1CRyQBOa8ZU",
+      "snippet": {
+        "publishedAt": "2026-08-10T23:08:06Z",
+        "channelId": "UCiALGylCt91_QJ2DzLxnOyQ",
+        "title": "REVIEW Bảng Từ Tính Tự Xóa Có Chân Bàn Tiện Lợi #funnyshorts #trending",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1CRyQBOa8ZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1CRyQBOa8ZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1CRyQBOa8ZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1CRyQBOa8ZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1CRyQBOa8ZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Min DIY",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "REVIEW Bảng Từ Tính Tự Xóa Có Chân Bàn Tiện Lợi #funnyshorts #trending",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "127115",
+        "likeCount": "1202",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N5VNBhDHGFfP0tjbmf3VGU_SeRk",
+      "id": "Hwoa8G2tpFI",
+      "snippet": {
+        "publishedAt": "2026-08-12T09:52:37Z",
+        "channelId": "UCaGoWVqFoyzss70razoC7nA",
+        "title": "Case máy tính tự chế",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hwoa8G2tpFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hwoa8G2tpFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hwoa8G2tpFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hwoa8G2tpFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hwoa8G2tpFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TOP STORY",
+        "tags": [
+          "review",
+          "Top story",
+          "TOP STORY",
+          "topstory",
+          "ke chuyen",
+          "short",
+          "câu chuyện",
+          "sự thật",
+          "reaction",
+          "độc lạ",
+          "sự thật lạ lùng",
+          "điều thú vị",
+          "bí ẩn",
+          "hài hước",
+          "những tình huống",
+          "éo le",
+          "khó đỡ",
+          "facts",
+          "fun facts",
+          "amazing facts",
+          "true stories",
+          "viral facts",
+          "weird facts",
+          "crazy facts",
+          "unbelievable facts",
+          "shocking facts",
+          "short facts",
+          "global shorts",
+          "youtube shorts",
+          "amazing shorts",
+          "daily shorts",
+          "real life stories",
+          "weird things",
+          "crazy videos",
+          "viral shorts",
+          "funny reaction"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Case máy tính tự chế",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "51813",
+        "likeCount": "739",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lioIkT0sjXv7-gI_FNR3H4OoOdI",
+      "id": "mNUnbeEPzyg",
+      "snippet": {
+        "publishedAt": "2026-08-12T06:40:32Z",
+        "channelId": "UCT8Yn8XWFvP-C2qWHoSf0Gg",
+        "title": "Phễu lưới kim loại trên drone - Bí quyết kiểm tra chống sét cánh quạt điện gió",
+        "description": "Thay vì mạo hiểm leo lên độ cao cả trăm mét, giờ đây chỉ cần một chiếc drone là kiểm tra được cả hệ thống chống sét của cánh quạt điện gió! Chỉ mất 10-15 phút mỗi trụ, an toàn tuyệt đối cho kỹ thuật viên so với phương pháp đu dây truyền thống mất hàng giờ đồng hồ.\n\n\"Monkeys Spinning Monkeys\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNUnbeEPzyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNUnbeEPzyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNUnbeEPzyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mNUnbeEPzyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mNUnbeEPzyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tin Nhanh 24h",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Phễu lưới kim loại trên drone - Bí quyết kiểm tra chống sét cánh quạt điện gió",
+          "description": "Thay vì mạo hiểm leo lên độ cao cả trăm mét, giờ đây chỉ cần một chiếc drone là kiểm tra được cả hệ thống chống sét của cánh quạt điện gió! Chỉ mất 10-15 phút mỗi trụ, an toàn tuyệt đối cho kỹ thuật viên so với phương pháp đu dây truyền thống mất hàng giờ đồng hồ.\n\n\"Monkeys Spinning Monkeys\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "34905",
+        "likeCount": "259",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HNc1aMH65w7C-_Whb6Yax2p16go",
+      "id": "EdvV4OIuVao",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:47:42Z",
+        "channelId": "UCNz_GFyrBm78qe7Rh3nYMOg",
+        "title": "Phát hiện điện thoại trong đống rác #iphone #chuyenvuicongnghe #muadienthoai",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chuyện vui công nghệ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Phát hiện điện thoại trong đống rác #iphone #chuyenvuicongnghe #muadienthoai",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT46S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1126,15 +1873,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "185654",
-        "likeCount": "3131",
+        "viewCount": "366818",
+        "likeCount": "2583",
         "favoriteCount": "0",
-        "commentCount": "34"
+        "commentCount": "15"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "yya1fg0PE2A-eaQXSmBJIsJm22c",
+      "etag": "y3aUuX_NEjdHhVGpr92PqO8dccI",
+      "id": "xD_eXJdR-Hk",
+      "snippet": {
+        "publishedAt": "2026-07-28T23:00:22Z",
+        "channelId": "UCW96UNel8c4LgX9a56U_lFg",
+        "title": "Vì Sao Vòng Giám Sát Không Được Dính Nước ?",
+        "description": "Vòng giám sát điện tử là thiết bị đeo ở mắt cá chân để theo dõi vị trí và việc tuân thủ các quy định của người bị quản thúc tại gia hoặc chịu sự giám sát của cơ quan chức năng. Tùy từng mẫu, thiết bị có thể sử dụng GPS, sóng di động hoặc tín hiệu vô tuyến để gửi dữ liệu. Nếu người đeo tự ý tháo, cắt hoặc rời khỏi khu vực được phép, hệ thống sẽ phát cảnh báo đến cơ quan quản lý. Hiện nay, Việt Nam chưa áp dụng phổ biến vòng giám sát điện tử (ankle monitor) cho người bị quản thúc tại gia như ở Mỹ, Anh hay một số nước châu Âu.\n \n#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xD_eXJdR-Hk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cưng Quá Xá",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Vì Sao Vòng Giám Sát Không Được Dính Nước ?",
+          "description": "Vòng giám sát điện tử là thiết bị đeo ở mắt cá chân để theo dõi vị trí và việc tuân thủ các quy định của người bị quản thúc tại gia hoặc chịu sự giám sát của cơ quan chức năng. Tùy từng mẫu, thiết bị có thể sử dụng GPS, sóng di động hoặc tín hiệu vô tuyến để gửi dữ liệu. Nếu người đeo tự ý tháo, cắt hoặc rời khỏi khu vực được phép, hệ thống sẽ phát cảnh báo đến cơ quan quản lý. Hiện nay, Việt Nam chưa áp dụng phổ biến vòng giám sát điện tử (ankle monitor) cho người bị quản thúc tại gia như ở Mỹ, Anh hay một số nước châu Âu.\n \n#shorts"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1300098",
+        "likeCount": "10126",
+        "favoriteCount": "0",
+        "commentCount": "58"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Yly1mniEiuIvHYDE7FkPMjZrjg",
       "id": "N6S7ZMq9h6g",
       "snippet": {
         "publishedAt": "2026-08-08T09:00:24Z",
@@ -1175,8 +1984,7 @@
         "localized": {
           "title": "IPHONE 18 PROMAX DARK CHERY 🙏💚 #usa #shorts #noads",
           "description": ""
-        },
-        "defaultAudioLanguage": "vi"
+        }
       },
       "contentDetails": {
         "duration": "PT15S",
@@ -1188,15 +1996,76 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "961493",
-        "likeCount": "12457",
+        "viewCount": "1628603",
+        "likeCount": "20604",
         "favoriteCount": "0",
-        "commentCount": "46"
+        "commentCount": "70"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NjEWS_u9Orbwj5C7FynTTTpEs38",
+      "etag": "AWD1ITD_2GqkljUMXtVKIlkD4b8",
+      "id": "03CddUHKeMc",
+      "snippet": {
+        "publishedAt": "2026-08-03T04:57:28Z",
+        "channelId": "UCjph34Jm-MrB-NlXeBLt-eg",
+        "title": "Nhà trường phát laptop cho học sinh để theo dõi",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/03CddUHKeMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/03CddUHKeMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/03CddUHKeMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/03CddUHKeMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/03CddUHKeMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nhien Discovery",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Nhà trường phát laptop cho học sinh để theo dõi",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "544228",
+        "likeCount": "7503",
+        "favoriteCount": "0",
+        "commentCount": "42"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WOmw9TXv7ADB585JW7Q0zgR5j-c",
       "id": "MA3TI2HpVRQ",
       "snippet": {
         "publishedAt": "2026-08-01T09:54:34Z",
@@ -1250,15 +2119,139 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "466010",
-        "likeCount": "3684",
+        "viewCount": "512228",
+        "likeCount": "4009",
         "favoriteCount": "0",
         "commentCount": "12"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "M2aQS4yQnAAk_lD9ci6wSWPnDoI",
+      "etag": "82qHvRjaYZtwf3_J5GZJihxyjbk",
+      "id": "44rpBZfhdUU",
+      "snippet": {
+        "publishedAt": "2026-08-10T13:40:21Z",
+        "channelId": "UC3xBiT2Jso0u9vAOBubCncQ",
+        "title": "pc với ngân sách 1 nghìn đồng #memes #shorts #tiktok",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/44rpBZfhdUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/44rpBZfhdUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/44rpBZfhdUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/44rpBZfhdUU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/44rpBZfhdUU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Carri776Roblox",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "pc với ngân sách 1 nghìn đồng #memes #shorts #tiktok",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "123862",
+        "likeCount": "1365",
+        "favoriteCount": "0",
+        "commentCount": "139"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mSLNksU3JXwlOqNgPEco-Fy8bmw",
+      "id": "sud3cOqaz0E",
+      "snippet": {
+        "publishedAt": "2026-08-12T03:12:34Z",
+        "channelId": "UCDFrRu1SgCwOM0WJT6alcQQ",
+        "title": "Khi vợ mua cho bạn RTX 5090",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sud3cOqaz0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sud3cOqaz0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sud3cOqaz0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sud3cOqaz0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sud3cOqaz0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Huyền Gà",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Khi vợ mua cho bạn RTX 5090",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "27868",
+        "likeCount": "1782",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0J5LmNX5vrBP-o72f3CyhvQGHkE",
       "id": "OKYMertBT2A",
       "snippet": {
         "publishedAt": "2026-08-07T00:18:19Z",
@@ -1312,15 +2305,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "159227",
-        "likeCount": "1188",
+        "viewCount": "181297",
+        "likeCount": "1316",
         "favoriteCount": "0",
-        "commentCount": "47"
+        "commentCount": "52"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "pZinaBqRmdZ61j-HcVcp7GeSdUs",
+      "etag": "Smal_YKp4eiNdzfUu7j97M89ZI4",
       "id": "EpaPILBLTU8",
       "snippet": {
         "publishedAt": "2026-08-03T06:16:24Z",
@@ -1373,15 +2366,151 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "329798",
-        "likeCount": "6649",
+        "viewCount": "373968",
+        "likeCount": "7173",
         "favoriteCount": "0",
-        "commentCount": "56"
+        "commentCount": "63"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "zEKNnURhhPvUPrA-hM6Iu_onLvc",
+      "etag": "hoPDktQVdE4JoeTk7da3J2wFz2I",
+      "id": "argXrfQ3Jc0",
+      "snippet": {
+        "publishedAt": "2026-08-10T11:30:22Z",
+        "channelId": "UCfLY44lkdT-0tBZus1RgjWQ",
+        "title": "Tai nghe chống ồn hoạt động như thế nào  #kienthuc #giaitri",
+        "description": "Credit: I would like to express my deepest gratitude and respect to the talented and kind individuals who created this content.\n\nDisclaimer: This video is for sharing and translation purposes only. If there are any copyright concerns, please contact me for the fastest resolution. I am committed to handling any issues with total goodwill and a spirit of cooperation. Thank you!\n\n(Original content by talented creators)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/argXrfQ3Jc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/argXrfQ3Jc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/argXrfQ3Jc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/argXrfQ3Jc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/argXrfQ3Jc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hùng Không Ngu Tv",
+        "tags": [
+          "Memes",
+          "Meme",
+          "funnymemes",
+          "shorts",
+          "hài hước",
+          "troll",
+          "Cà khịa",
+          "vui vẻ",
+          "Cười",
+          "video hài"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Tai nghe chống ồn hoạt động như thế nào  #kienthuc #giaitri",
+          "description": "Credit: I would like to express my deepest gratitude and respect to the talented and kind individuals who created this content.\n\nDisclaimer: This video is for sharing and translation purposes only. If there are any copyright concerns, please contact me for the fastest resolution. I am committed to handling any issues with total goodwill and a spirit of cooperation. Thank you!\n\n(Original content by talented creators)"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "67624",
+        "likeCount": "1243",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j4aKL4t_LprvIDAtY0YKeq1lBAo",
+      "id": "L_mO1l12dBU",
+      "snippet": {
+        "publishedAt": "2026-08-09T13:27:48Z",
+        "channelId": "UCRlwO-llQuvxuIgwv__XVjg",
+        "title": "So sánh điện thoại của chủ quán và nhân viên #anhchubungbu #trasua #NVNM #TNK7",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L_mO1l12dBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L_mO1l12dBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L_mO1l12dBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L_mO1l12dBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L_mO1l12dBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Anh Chủ Bụng Bự",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "So sánh điện thoại của chủ quán và nhân viên #anhchubungbu #trasua #NVNM #TNK7",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "51137",
+        "likeCount": "525",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5kCsdaP4vZbQtwHdPSKDPAh8WUU",
       "id": "LDSyurpufCs",
       "snippet": {
         "publishedAt": "2026-08-08T01:00:01Z",
@@ -1422,8 +2551,7 @@
         "localized": {
           "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
           "description": ""
-        },
-        "defaultAudioLanguage": "en"
+        }
       },
       "contentDetails": {
         "duration": "PT10S",
@@ -1435,59 +2563,159 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "310883",
-        "likeCount": "2290",
+        "viewCount": "354228",
+        "likeCount": "2535",
         "favoriteCount": "0",
         "commentCount": "14"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "pYLgApRy4eaN9tVy6eS0nVZpJVM",
-      "id": "JTVS1ETMcDk",
+      "etag": "0V_AJ-HNumjv7XcncfLPJjrkAg8",
+      "id": "shTMYbr7DuM",
       "snippet": {
-        "publishedAt": "2026-07-24T04:28:24Z",
-        "channelId": "UC-narj1U38BosxD7LuOAEpw",
-        "title": "Tưởng thông minh hóa ra lại vô dụng. Né gấp list smarthome \"rước họa\" này nha!",
+        "publishedAt": "2026-08-09T04:45:24Z",
+        "channelId": "UCUSSKnUGOMi612JboyyFqsg",
+        "title": "So Amazing This SmartBand Might Surprise You 😱 #shortsfeed #shortsfeed #trending",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/default.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shTMYbr7DuM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Hà Giang ",
+        "channelTitle": "Hey Copy 01",
         "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "So Amazing This SmartBand Might Surprise You 😱 #shortsfeed #shortsfeed #trending",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2019385",
+        "favoriteCount": "0",
+        "commentCount": "351"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vl-MQ5ClYNKiFQvqWHSN6Ga981o",
+      "id": "SWUX9njm5pY",
+      "snippet": {
+        "publishedAt": "2026-08-11T12:00:35Z",
+        "channelId": "UCA_23dkEYToAc37hjSsCnXA",
+        "title": "(Talkshow) Độ Mixi unbox Samsung Galaxy Z Fold8 Ultra và Galaxy Z Fold8 nóng hổi từ CellphoneS.",
+        "description": "#mixigaming #Domixi #restream #mixigaming #CellphoneS #galaxyzfold8 \n\nChúc các bạn xem stream vui vẻ.\n\n(Talkshow) Độ Mixi unbox Samsung Galaxy Z Fold8 Ultra và Galaxy Z Fold8 nóng hổi từ CellphoneS.\n\n►Lịch Live:\n22:22-3:00 hàng ngày trên Youtube (nghỉ Thứ Tư và Chủ Nhật)\n23:00-03:00 Thứ Bảy\n\n#ĐộMixi #MixiGaming #BộTộcMixi\n-------------------------------------------------------------------------------------------------------------\n\n► DONATE:\nhttps://zypage.com/mixigaming\nhttps://streamlabs.com/mixigamingofficial\n\n►Trang web chính thức để các bạn xem lại video và livestream: https://mixigaming.com/\n\n► Fanpage chính thức: https://www.facebook.com/MixiGaming/\n► Facebook cá nhân: https://www.facebook.com/dophung89\n► Instagram: https://www.instagram.com/dochet1989\n► Link Discord giao lưu: https://discord.gg/mixigaming\n► Link Group FB:  https://www.facebook.com/groups/mixigaming/\n► Email liên hệ công việc: works@mixigaming.com\n► Email liên hệ văn phòng: vanphongvotri.mixicorp@gmail.com\n-----------------------------------------------------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SWUX9njm5pY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SWUX9njm5pY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWUX9njm5pY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SWUX9njm5pY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SWUX9njm5pY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MixiGaming",
+        "tags": [
+          "Mixigaming",
+          "Mixi",
+          "Độ Tày",
+          "Streamer Mixigaming",
+          "Mixigaming Funny Stream",
+          "mixivlog",
+          "do mixi",
+          "mixigaming",
+          "mixi",
+          "độ tày",
+          "độ mixi",
+          "độ mixi stream",
+          "restream",
+          "restream hôm qua",
+          "restream độ mixi",
+          "pubg duo",
+          "pubg refund",
+          "pubg mixi",
+          "độ mixi restream",
+          "restream mixi",
+          "độ mixi reaction",
+          "độ mixi live",
+          "độ mixi funny",
+          "mixi live",
+          "mixi gaming",
+          "độ phùng",
+          "mixi meme",
+          "mixi pubg",
+          "diễu binh",
+          "diễu binh 2/9",
+          "2/9",
+          "quốc khánh 2/9",
+          "trực tiếp diễu binh",
+          "a80",
+          "a80 trực tiếp",
+          "trực tiếp lễ diễu binh 2/9"
+        ],
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "defaultLanguage": "vi",
         "localized": {
-          "title": "Tưởng thông minh hóa ra lại vô dụng. Né gấp list smarthome \"rước họa\" này nha!",
-          "description": ""
-        }
+          "title": "(Talkshow) Độ Mixi unbox Samsung Galaxy Z Fold8 Ultra và Galaxy Z Fold8 nóng hổi từ CellphoneS.",
+          "description": "#mixigaming #Domixi #restream #mixigaming #CellphoneS #galaxyzfold8 \n\nChúc các bạn xem stream vui vẻ.\n\n(Talkshow) Độ Mixi unbox Samsung Galaxy Z Fold8 Ultra và Galaxy Z Fold8 nóng hổi từ CellphoneS.\n\n►Lịch Live:\n22:22-3:00 hàng ngày trên Youtube (nghỉ Thứ Tư và Chủ Nhật)\n23:00-03:00 Thứ Bảy\n\n#ĐộMixi #MixiGaming #BộTộcMixi\n-------------------------------------------------------------------------------------------------------------\n\n► DONATE:\nhttps://zypage.com/mixigaming\nhttps://streamlabs.com/mixigamingofficial\n\n►Trang web chính thức để các bạn xem lại video và livestream: https://mixigaming.com/\n\n► Fanpage chính thức: https://www.facebook.com/MixiGaming/\n► Facebook cá nhân: https://www.facebook.com/dophung89\n► Instagram: https://www.instagram.com/dochet1989\n► Link Discord giao lưu: https://discord.gg/mixigaming\n► Link Group FB:  https://www.facebook.com/groups/mixigaming/\n► Email liên hệ công việc: works@mixigaming.com\n► Email liên hệ văn phòng: vanphongvotri.mixicorp@gmail.com\n-----------------------------------------------------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "vi"
       },
       "contentDetails": {
-        "duration": "PT1M24S",
+        "duration": "PT17M11S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1496,15 +2724,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1876814",
-        "likeCount": "19967",
+        "viewCount": "115776",
+        "likeCount": "1640",
         "favoriteCount": "0",
-        "commentCount": "86"
+        "commentCount": "72"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "lmj8qevU7FmAW3JQ6ES1GuOTL0U",
+      "etag": "crV2ySWlJUjdz-u9thW7nKCoqz0",
       "id": "lYqPG_e1GZ4",
       "snippet": {
         "publishedAt": "2026-07-17T16:00:24Z",
@@ -1558,15 +2786,212 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "9380016",
-        "likeCount": "131133",
+        "viewCount": "10385291",
+        "likeCount": "147004",
         "favoriteCount": "0",
-        "commentCount": "1104"
+        "commentCount": "1249"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ts8JX4dRpG6dNkLBksQqIcHFheY",
+      "etag": "8pMk-KBnjAzeQR8Ube2ifM7qfTs",
+      "id": "JTVS1ETMcDk",
+      "snippet": {
+        "publishedAt": "2026-07-24T04:28:24Z",
+        "channelId": "UC-narj1U38BosxD7LuOAEpw",
+        "title": "Tưởng thông minh hóa ra lại vô dụng. Né gấp list smarthome \"rước họa\" này nha!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JTVS1ETMcDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hà Giang ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Tưởng thông minh hóa ra lại vô dụng. Né gấp list smarthome \"rước họa\" này nha!",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1957475",
+        "likeCount": "20529",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C6UhVfP5QYYXzvQpexblX-TKl9k",
+      "id": "sYWlh99zDqg",
+      "snippet": {
+        "publishedAt": "2026-08-10T12:36:56Z",
+        "channelId": "UCfZG-lL6uiD9axGk5vXUfeA",
+        "title": "Thiết Bị Này Sẽ Nối 2 Thanh Sắt Một Cách Hoàn Hảo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sYWlh99zDqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sYWlh99zDqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sYWlh99zDqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sYWlh99zDqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sYWlh99zDqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thỏ Nâu Review",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Thiết Bị Này Sẽ Nối 2 Thanh Sắt Một Cách Hoàn Hảo",
+          "description": ""
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "38185",
+        "likeCount": "532",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xbq0sSUIOJZwEtYC5npuP2cpr9k",
+      "id": "NAQTdr0I1BA",
+      "snippet": {
+        "publishedAt": "2026-08-10T09:00:08Z",
+        "channelId": "UCDNnJejpk_EkdhENCTXqeeQ",
+        "title": "Anh trai trổ tài sửa điện thoại cho em gái, ai ngờ cái kết khiến cả hai đứng hình! 😂📱#shorts",
+        "description": "Anh trai tự tin trổ tài sửa điện thoại cho em gái, tưởng rằng sẽ nhanh chóng khắc phục được sự cố. 📱🔧 Nhưng không ngờ sau một hồi loay hoay, cái kết lại khiến cả hai dở khóc dở cười! 😂😱\n\n👉 Liệu chiếc điện thoại có được sửa thành công không? Xem đến cuối để biết nhé! 👀\n#AnhTrai\n#EmGai\n#SuaDienThoai\n#DienThoai\n#ThoSuaBatDacDi\n#TinhHuongHaiHuoc\n#CaiKetBatNgo\n#KhoanhKhacBatNgo\n#VideoHaiHuoc\n#YouTubeShorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NAQTdr0I1BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NAQTdr0I1BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NAQTdr0I1BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NAQTdr0I1BA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NAQTdr0I1BA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cá Cười",
+        "tags": [
+          "CáCười",
+          "AnhTrai",
+          "EmGai",
+          "SuaDienThoai",
+          "DienThoai",
+          "ThoSuaBatDacDi",
+          "CaiKetBatNgo",
+          "KhoanhKhacBatNgo",
+          "YouTubeShorts",
+          "TinhHuongHaiHuoc"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Anh trai trổ tài sửa điện thoại cho em gái, ai ngờ cái kết khiến cả hai đứng hình! 😂📱#shorts",
+          "description": "Anh trai tự tin trổ tài sửa điện thoại cho em gái, tưởng rằng sẽ nhanh chóng khắc phục được sự cố. 📱🔧 Nhưng không ngờ sau một hồi loay hoay, cái kết lại khiến cả hai dở khóc dở cười! 😂😱\n\n👉 Liệu chiếc điện thoại có được sửa thành công không? Xem đến cuối để biết nhé! 👀\n#AnhTrai\n#EmGai\n#SuaDienThoai\n#DienThoai\n#ThoSuaBatDacDi\n#TinhHuongHaiHuoc\n#CaiKetBatNgo\n#KhoanhKhacBatNgo\n#VideoHaiHuoc\n#YouTubeShorts"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "37245",
+        "likeCount": "290",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DoEHc79yJw4fHAeE0pcbicRRYSE",
       "id": "e8yrSGiiNrQ",
       "snippet": {
         "publishedAt": "2026-07-22T11:36:32Z",
@@ -1619,1214 +3044,206 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1612938",
-        "likeCount": "10387",
-        "favoriteCount": "0",
-        "commentCount": "65"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "iTt4_bCiLyyihOwSF72bLgzPyF8",
-      "id": "208gziv60y4",
-      "snippet": {
-        "publishedAt": "2026-08-06T11:30:02Z",
-        "channelId": "UCaZOHPwRFVa7KqJdqUEgV2A",
-        "title": "VGA tăng mạnh rồi ae... Cho nên là chúc ae 1 ngày vui",
-        "description": "💻  NGUYỄN THUẬN COMPUTER\n👉 TƯ VẤN BUILD PC GAMING - MÁY TÍNH VĂN PHÒNG TRƯỜNG HỌC - GAMING GEAR.\n🔥 Liên hệ tư vấn: https://oa.zalo.me/2128506603020757675\n🏢 Showroom CN1: Số 201 Bông Sao, P. Bình Đông, TP. Hồ Chí Minh\n🏢 Showroom CN2: Số 197 Đường 30 Tháng 4, P. Rạch Dừa, TP. Hồ Chí Minh\n📞 Bảo Hành:  0777 651 798 (8H30 - 18H30)\n------------------------------------------------------------------------------------------------------------------------------------\n🌐 Website : https://thuancomputer.com \n🔰  Fanpage : https://www.facebook.com/NguyenThuanComputer/ \n🎼 Tiktok : https://www.tiktok.com/@nvtcomputer \n------------------------------------------------------------------------------------------------------------------------------------\n#pcgaming #maytinhchoigame #pctratutu #pctragop #pcluisaga #NVTComputer #PCquan8 #giaopcquan8",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/208gziv60y4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/208gziv60y4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/208gziv60y4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/208gziv60y4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/208gziv60y4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Nguyễn Thuận Computer",
-        "tags": [
-          "pc gaming 2024",
-          "pc gaming bể cá",
-          "lắp pc bể cá",
-          "pc bể cá",
-          "PC building",
-          "Gaming PC",
-          "PC reviews",
-          "pc chơi game",
-          "pc gaming",
-          "gaming pc build",
-          "pc build",
-          "build pc",
-          "thùng pc bể cá",
-          "pc 15 triệu",
-          "pc chơi aaa",
-          "pc giá rẻ",
-          "nguyễn thuận computer",
-          "vi tính nguyễn thuận",
-          "pc đẹp",
-          "nguyễn thuận pc",
-          "góc pc đẹp",
-          "pc trả góp",
-          "pc gaming giá rẻ",
-          "mua pc trả góp",
-          "mua máy tính trả góp rẻ",
-          "máy tính nguyễn thuận"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "VGA tăng mạnh rồi ae... Cho nên là chúc ae 1 ngày vui",
-          "description": "💻  NGUYỄN THUẬN COMPUTER\n👉 TƯ VẤN BUILD PC GAMING - MÁY TÍNH VĂN PHÒNG TRƯỜNG HỌC - GAMING GEAR.\n🔥 Liên hệ tư vấn: https://oa.zalo.me/2128506603020757675\n🏢 Showroom CN1: Số 201 Bông Sao, P. Bình Đông, TP. Hồ Chí Minh\n🏢 Showroom CN2: Số 197 Đường 30 Tháng 4, P. Rạch Dừa, TP. Hồ Chí Minh\n📞 Bảo Hành:  0777 651 798 (8H30 - 18H30)\n------------------------------------------------------------------------------------------------------------------------------------\n🌐 Website : https://thuancomputer.com \n🔰  Fanpage : https://www.facebook.com/NguyenThuanComputer/ \n🎼 Tiktok : https://www.tiktok.com/@nvtcomputer \n------------------------------------------------------------------------------------------------------------------------------------\n#pcgaming #maytinhchoigame #pctratutu #pctragop #pcluisaga #NVTComputer #PCquan8 #giaopcquan8"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT1M18S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "63184",
-        "likeCount": "3247",
-        "favoriteCount": "0",
-        "commentCount": "158"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "slb-VcSOMZOZhOlQqcTKBiflU90",
-      "id": "lAEX3i8wIlk",
-      "snippet": {
-        "publishedAt": "2026-08-02T11:08:46Z",
-        "channelId": "UCScJwfx_en0EpxqIiY3g2HQ",
-        "title": "Tuổi ranh mà đã đòi đi trả góp IPhone 17 #táonghiệntech #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lAEX3i8wIlk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lAEX3i8wIlk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lAEX3i8wIlk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/lAEX3i8wIlk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/lAEX3i8wIlk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Táo Nghiện Tech",
-        "categoryId": "26",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Tuổi ranh mà đã đòi đi trả góp IPhone 17 #táonghiệntech #shorts",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT1M16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "171943",
-        "likeCount": "1154",
-        "favoriteCount": "0"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "YQoVWWqqZug0olrOpDlCumJ-PdE",
-      "id": "T-UrKLnpXh0",
-      "snippet": {
-        "publishedAt": "2026-08-08T10:00:17Z",
-        "channelId": "UCiALGylCt91_QJ2DzLxnOyQ",
-        "title": "REVIEW Điện Thoại Bộ Đàm Mini Xịn Sò #funnyshorts #trending",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/T-UrKLnpXh0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/T-UrKLnpXh0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/T-UrKLnpXh0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/T-UrKLnpXh0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/T-UrKLnpXh0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Min DIY",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "REVIEW Điện Thoại Bộ Đàm Mini Xịn Sò #funnyshorts #trending",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT44S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "33572",
-        "likeCount": "537",
-        "favoriteCount": "0",
-        "commentCount": "3"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XUkYOmhZDWDoXqkf0xjZBJfd0jM",
-      "id": "j3zNRkptUOA",
-      "snippet": {
-        "publishedAt": "2026-07-31T08:00:00Z",
-        "channelId": "UCHwGFkyRqALzWl4T3ly1uGQ",
-        "title": "New Viral Home Gadgets & Smart Appliances 2026! 🏠✨ #shorts #gadgets",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/j3zNRkptUOA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/j3zNRkptUOA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/j3zNRkptUOA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/j3zNRkptUOA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/j3zNRkptUOA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Jijima Bro",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "New Viral Home Gadgets & Smart Appliances 2026! 🏠✨ #shorts #gadgets",
-          "description": ""
-        },
-        "defaultAudioLanguage": "hi"
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "5417454",
-        "likeCount": "307053",
-        "favoriteCount": "0",
-        "commentCount": "808"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EMYUYMZs9-GeBl8RrI2X-IoPlyk",
-      "id": "74wEI6uiq4Y",
-      "snippet": {
-        "publishedAt": "2026-08-07T03:18:14Z",
-        "channelId": "UC43jjQ1DCtaniAq_Zw6KFjQ",
-        "title": "ĐIỆN THOẠI GÌ ĐÂY? #shorts",
-        "description": "⭐️ Tham khảo sản phẩm tại đây:\n⭐ Thanh lý đồ xịn giá bèo – (MỚI UPDATE): https://shorturl.at/vo0V7\n\n⬇️ Theo dõi mình qua ⬇️:\nFacebook Admin Kha: https://www.facebook.com/duykharev1506/\nFanpage Admin Kha: https://www.facebook.com/adminkha.official\nTiktok Admin Kha: https://www.tiktok.com/@adminkhaofficial\n\n⬇️ Liên hệ hợp tác ⬇️:\nEmail Admin Kha: duykharev1506@gmail.com\nEmail quản lý Ms.Annie: cooperationcontact8@gmail.com\nEmail quản lý Mr.Hùng: mrhung.cooperationcontact@gmail.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/74wEI6uiq4Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/74wEI6uiq4Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/74wEI6uiq4Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/74wEI6uiq4Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/74wEI6uiq4Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Admin Kha",
-        "tags": [
-          "adminkha review",
-          "admin kha"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "ĐIỆN THOẠI GÌ ĐÂY? #shorts",
-          "description": "⭐️ Tham khảo sản phẩm tại đây:\n⭐ Thanh lý đồ xịn giá bèo – (MỚI UPDATE): https://shorturl.at/vo0V7\n\n⬇️ Theo dõi mình qua ⬇️:\nFacebook Admin Kha: https://www.facebook.com/duykharev1506/\nFanpage Admin Kha: https://www.facebook.com/adminkha.official\nTiktok Admin Kha: https://www.tiktok.com/@adminkhaofficial\n\n⬇️ Liên hệ hợp tác ⬇️:\nEmail Admin Kha: duykharev1506@gmail.com\nEmail quản lý Ms.Annie: cooperationcontact8@gmail.com\nEmail quản lý Mr.Hùng: mrhung.cooperationcontact@gmail.com"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT1M8S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "46289",
-        "likeCount": "1586",
-        "favoriteCount": "0",
-        "commentCount": "40"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "dzAT-qzdapwTzmJMMid3LkINjNk",
-      "id": "Mt1mD1eoWdE",
-      "snippet": {
-        "publishedAt": "2026-08-01T03:20:50Z",
-        "channelId": "UCXWH2oQFG7m-XGfuEDg0rag",
-        "title": "iPhone 18 Pro Max Dark Cherry 📱🔥#usa #noads #tiktok",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Mt1mD1eoWdE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Khang Trần Shorts",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "iPhone 18 Pro Max Dark Cherry 📱🔥#usa #noads #tiktok",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4968332",
-        "likeCount": "46332",
-        "favoriteCount": "0",
-        "commentCount": "39"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "wLGH7sHlgdZ17w044EEApc0DDQ8",
-      "id": "MILhqbD8qHc",
-      "snippet": {
-        "publishedAt": "2026-08-06T04:15:00Z",
-        "channelId": "UCKuWiqo18J0oixh5Z6w1Hlw",
-        "title": "CÁCH TÌM ĐƯỜNG MÀ KHÔNG DÙNG GPS 😱🧭",
-        "description": "#shorts #khampha",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MILhqbD8qHc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MILhqbD8qHc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MILhqbD8qHc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MILhqbD8qHc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MILhqbD8qHc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Dế Lửa Khám Phá",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "CÁCH TÌM ĐƯỜNG MÀ KHÔNG DÙNG GPS 😱🧭",
-          "description": "#shorts #khampha"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "58949",
-        "likeCount": "584",
-        "favoriteCount": "0",
-        "commentCount": "1"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "GnTp8KQ0nylvopROmRLjvndAdd8",
-      "id": "QME2YUCuieg",
-      "snippet": {
-        "publishedAt": "2026-08-02T22:31:22Z",
-        "channelId": "UCWwvxaiOBKX6mglJRADuUPg",
-        "title": "Huawei nhìn xịn thật sự 🐧🐧🗿 #memes #funny",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QME2YUCuieg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QME2YUCuieg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QME2YUCuieg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QME2YUCuieg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QME2YUCuieg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mg.Short110",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Huawei nhìn xịn thật sự 🐧🐧🗿 #memes #funny",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT21S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "107241",
-        "likeCount": "3268",
-        "favoriteCount": "0",
-        "commentCount": "69"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ap6eL3yH8XGi99NZhTK2EeR1npk",
-      "id": "EdvV4OIuVao",
-      "snippet": {
-        "publishedAt": "2026-08-06T10:47:42Z",
-        "channelId": "UCNz_GFyrBm78qe7Rh3nYMOg",
-        "title": "Phát hiện điện thoại trong đống rác #iphone #chuyenvuicongnghe #muadienthoai",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EdvV4OIuVao/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Chuyện vui công nghệ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Phát hiện điện thoại trong đống rác #iphone #chuyenvuicongnghe #muadienthoai",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT46S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "104175",
-        "likeCount": "848",
-        "favoriteCount": "0",
-        "commentCount": "5"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "5f3Nv66Kwi0mu0uPdUxeVDwf4ZA",
-      "id": "bPCd_gwc58g",
-      "snippet": {
-        "publishedAt": "2026-07-29T13:00:18Z",
-        "channelId": "UCA19n6s-lUpydnKzEm5blZA",
-        "title": "Công Nghệ In 3D Kết Hợp Với Hàn Kim Loại 😲 | Đế Vương Công Nghệ",
-        "description": "► Chào mừng bạn đến với Đế Vương Công Nghệ! \n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.\n\n#devuongcongnghe #giaitri #viral",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bPCd_gwc58g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bPCd_gwc58g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bPCd_gwc58g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bPCd_gwc58g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bPCd_gwc58g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Đế Vương Công Nghệ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Công Nghệ In 3D Kết Hợp Với Hàn Kim Loại 😲 | Đế Vương Công Nghệ",
-          "description": "► Chào mừng bạn đến với Đế Vương Công Nghệ! \n\n► Đây là nơi tổng hợp và chia sẻ những kiến thức hấp dẫn về các công nghệ tiên tiến trên thế giới. Chúng tôi mang đến cho bạn những kiến thức ngắn gọn, dễ hiểu nhưng đầy đủ thông tin về các xu hướng mới, những phát minh hiện đại và ứng dụng công nghệ trong đời sống hằng ngày.\n\n———————————————————————————\n© For any concerns regarding content or image copyrights, please reach out to: realman.mindset9@gmail.com. \nI’m committed to resolving any issues promptly and in a cooperative manner.\n\n#devuongcongnghe #giaitri #viral"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "267384",
-        "likeCount": "3789",
-        "favoriteCount": "0",
-        "commentCount": "119"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "-S1MEAixTbYlfFviaJ3b3rN6fHE",
-      "id": "iqnb0vNm-K4",
-      "snippet": {
-        "publishedAt": "2026-08-03T08:06:22Z",
-        "channelId": "UCF_OnYG5FAQzifvJ--J4EUw",
-        "title": "Camera nhà bạn có an toàn? Xem ngay mẹo bảo vệ quyền riêng tư cực hay!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iqnb0vNm-K4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iqnb0vNm-K4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iqnb0vNm-K4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/iqnb0vNm-K4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/iqnb0vNm-K4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Makeup Nàng Thơ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Camera nhà bạn có an toàn? Xem ngay mẹo bảo vệ quyền riêng tư cực hay!",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "73141",
-        "likeCount": "1791",
-        "favoriteCount": "0",
-        "commentCount": "12"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "mC672n8iwVSlo3M0j5FFDdShNSM",
-      "id": "-xX8higdqbM",
-      "snippet": {
-        "publishedAt": "2026-08-06T12:51:12Z",
-        "channelId": "UCZXjJ0ZGVlFc6lTygFv562w",
-        "title": "Tiền sạc #vinfast #vfmpv7 đi Trung Quốc",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-xX8higdqbM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-xX8higdqbM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-xX8higdqbM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-xX8higdqbM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-xX8higdqbM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Chê Xe Chất",
-        "categoryId": "2",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Tiền sạc #vinfast #vfmpv7 đi Trung Quốc",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "39048",
-        "likeCount": "446",
+        "viewCount": "1645305",
+        "likeCount": "10524",
         "favoriteCount": "0",
         "commentCount": "66"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "CIjAROSbcsdkoLRuV29avIbHhlA",
-      "id": "WH_6yh6UcAE",
+      "etag": "EvuS7c1N5lyjdTL8XLjN1Ul0xmI",
+      "id": "Nh5AKjpS4UM",
       "snippet": {
-        "publishedAt": "2026-08-01T13:29:20Z",
-        "channelId": "UCi33VHrvYF3s46nRud78wAw",
-        "title": "ỐP BẢO VỆ TAI NGHE CHÍNH LÀ MÔ HÌNH CON KHỦNG LONG RƠI RA VÀ NÓ CỰC KỲ HOÀN HẢO CHÍNH XÁC",
-        "description": "Credit: @Respected Owner\n\n© If any owners has an issue with any of the uploads please get in contact : hculoi73@gmail.com and it will be deleted immediately. Thank you for your coopertation.\n© 如有任何涉及内容、图片等版权方面的问题，请通过以下邮箱与我联系 : hculoi73@gmail.com\n，我将本着最大合作的精神共同解决。\n© Nếu có bất cứ vấn đề liên quan đến bản quyền nội dung, hình ảnh... các bạn vui lòng liên hệ mình theo địa chỉ: hculoi73@gmail.com, mình sẽ cùng giải quyết trên tinh thần hợp tác nhất.",
+        "publishedAt": "2026-08-01T05:00:17Z",
+        "channelId": "UCOolMpcVzK2VHf7ZIevI_HQ",
+        "title": "Đây mới là \"bàn phím chơi game\"?",
+        "description": "#short #game",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WH_6yh6UcAE/default.jpg",
+            "url": "https://i.ytimg.com/vi/Nh5AKjpS4UM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WH_6yh6UcAE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Nh5AKjpS4UM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WH_6yh6UcAE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Nh5AKjpS4UM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/WH_6yh6UcAE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Nh5AKjpS4UM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/WH_6yh6UcAE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Nh5AKjpS4UM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Ra Sao Đây",
+        "channelTitle": "Đàm Đạo Gaming",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "Đây mới là \"bàn phím chơi game\"?",
+          "description": "#short #game"
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "310703",
+        "likeCount": "16831",
+        "favoriteCount": "0",
+        "commentCount": "149"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dJXmtfQQnF6LT_vDWE0NI37zIao",
+      "id": "7hn0HYG1MeA",
+      "snippet": {
+        "publishedAt": "2026-08-11T05:00:22Z",
+        "channelId": "UCvzAAhBWk1JwmwByazjjkpw",
+        "title": "AI Giao Hàng Nhưng GPS Hình Như Đang Nghỉ Phé",
+        "description": "Nguồn tư liệu: Sưu tầm (Douyin / RedNote / Kuaishou / Internet).\n\nVideo được tổng hợp, biên tập và thuyết minh tiếng Việt nhằm mục đích giải trí và chia sẻ thông tin. Tất cả bản quyền hình ảnh/video thuộc về các chủ sở hữu nguyên bản.\n(If any owner has a copyright issue with this video, please contact us for immediate removal).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hn0HYG1MeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hn0HYG1MeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hn0HYG1MeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7hn0HYG1MeA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7hn0HYG1MeA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Xem Là Thèm",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "AI Giao Hàng Nhưng GPS Hình Như Đang Nghỉ Phé",
+          "description": "Nguồn tư liệu: Sưu tầm (Douyin / RedNote / Kuaishou / Internet).\n\nVideo được tổng hợp, biên tập và thuyết minh tiếng Việt nhằm mục đích giải trí và chia sẻ thông tin. Tất cả bản quyền hình ảnh/video thuộc về các chủ sở hữu nguyên bản.\n(If any owner has a copyright issue with this video, please contact us for immediate removal)."
+        },
+        "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "25649",
+        "likeCount": "68",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eRW-eGBbMnJRh1_BM1rxUCOqgjU",
+      "id": "ipS3QJFqdE4",
+      "snippet": {
+        "publishedAt": "2026-08-11T04:45:14Z",
+        "channelId": "UC8W5ZiY7eJGyOIuBE4LrV-w",
+        "title": "Điện thoại bị sọc màn hình và cách giải quyết #shorts #haihuoc #funny #comedy #đừngzậynữamà",
+        "description": "Video này cho các bạn xem điện thoại bị sọc màn hình và cách giải quyết \n\n* Đừng Zậy Nữa Mà sưu tầm những video hài hước, vui nhộn. Chúc các bạn có những giây phút vui vẻ.\n\n* Cám ơn các bạn đăng kí theo dõi kênh.\n\nHài hước | Vui nhộn | Hài hước vui nhộn | Video vui nhộn | Video cười bể bụng | Đừng zậy nữa mà | Cười bể bụng | Top những tình huống hài hước bá đạo | Những thằng nguy hiểm nhất hành tinh | Khoảnh khắc hài hước | Cười sảng khoái với những tình huống hài hước vui nhộn | Buồn cười | Clip hài hước | Video hài hước | Hài hước nhất thế giới | Hài hước việt nam | Hài hước bá đạo | Hài hước cười bể bụng | Những tình huống hài hước nhất thế giới | Cười sảng khoái với những câu chuyện hài hước | Những tình huống hài hước trong cuộc sống | Những tình huống hài hước cười sảng khoái | Những câu chuyện hài hước vui nhộn | Những câu chuyện hài hước | Tổng hợp các câu chuyện hài hước | Những tình huống hài hước mới nhất | Những tình huống hài hước nhất việt nam | Những tình huống hài hước vui nhộn | Những câu chuyện hài hước việt nam | Những video hài hước | Những câu chuyện hài hước hàng đầu | Video hài hước | Video hài hước ngắn | Video hài hước nhất thế giới | Video hài hước nước ngoài | Video hài hước nhất | Video hài hước tik tok | Video hài hước buồn cười | Video hài hước bình dương | Video hài hước cười bể bụng | Video hài hước cười vỡ bụng | Video hài hước cười đau bụng | Video hài hước trên thế giới | Những đoạn video hài hước | Clip hài hước | Clip hài hước vui nhộn | Clip hài hước nhất thế giới | Clip hài ngắn | Clip hài hước nước ngoài | Clip siêu hài hước | Clip hài hước nhất | Các clip hài hước | Clip hài hước mới nhất | Clip hài hước nhất | Clip hài tik tok ngắn | Clip hài hước Việt Nam | Những clip hài hước | Những clip hài hước nhất | Những clip hài hước nhất việt nam | Những clip siêu hài hước | Clip hài hước tik tok | Clip hài hước tv | Clip hài hước tin việt | Video clip hài hước | Xem clip hài hước vui nhộn | Video ngắn hài hước 30s | Tổng hợp câu chuyện hài hước | Clip vui nhộn trung quốc | Clip hài hước | Clip hài trung quốc troll | Buồn cười | Video hài hước trung quốc | Clip cười bể bụng | Video cười bể bụng | Coi cười bể bụng | Hài hước nhất thế giới cười bể bụng | Tổng hợp hài hước bể bụng | Những video cười bể bụng | Những video hài cười bể bụng | Những clip cười bể bụng | Clip cười đau bụng | Xem video hài cười bể bụng | Xem hài cười bể bụng | Video hài hước cười bể bụng | Những tình huống hài hước nhất\n\n#shorts #haihuoc #funny #comedy #ĐừngZậyNữaMà\n\n* Từ Khóa:\nHài hước , Vui nhộn , Hài hước vui nhộn , Video vui nhộn , Video cười bể bụng , Đừng zậy nữa mà , Cười bể bụng , Top những tình huống hài hước bá đạo , Những thằng nguy hiểm nhất hành tinh , Khoảnh khắc hài hước , Cười sảng khoái với những tình huống hài hước vui nhộn , Buồn cười , Clip hài hước , Video hài hước , Hài hước nhất thế giới , Hài hước việt nam , Hài hước bá đạo , Hài hước cười bể bụng , Những tình huống hài hước nhất thế giới , Cười sảng khoái với những câu chuyện hài hước , Những tình huống hài hước trong cuộc sống , Những tình huống hài hước cười sảng khoái , Những câu chuyện hài hước vui nhộn , Những câu chuyện hài hước , Tổng hợp các câu chuyện hài hước , Những tình huống hài hước mới nhất , Những tình huống hài hước nhất việt nam , Những tình huống hài hước vui nhộn , Những câu chuyện hài hước việt nam , Những video hài hước , Những câu chuyện hài hước hàng đầu , Video hài hước , Video hài hước ngắn , Video hài hước nhất thế giới , Video hài hước nước ngoài , Video hài hước nhất , Video hài hước tik tok , Video hài hước buồn cười , Video hài hước bình dương , Video hài hước cười bể bụng , Video hài hước cười vỡ bụng , Video hài hước cười đau bụng , Video hài hước trên thế giới , Những đoạn video hài hước , Clip hài hước , Clip hài hước vui nhộn , Clip hài hước nhất thế giới , Clip hài ngắn , Clip hài hước nước ngoài , Clip siêu hài hước , Clip hài hước nhất , Các clip hài hước , Clip hài hước mới nhất , Clip hài hước nhất , Clip hài tik tok ngắn , Clip hài hước Việt Nam , Những clip hài hước nhất , Những clip hài hước nhất việt nam , Những clip siêu hài hước , Clip hài hước tik tok , Clip hài hước tv , Clip hài hước tin việt , Video clip hài hước , Xem clip hài hước vui nhộn , Video ngắn hài hước 30s , Tổng hợp câu chuyện hài hước , Clip vui nhộn trung quốc , Clip hài hước , Clip hài trung quốc troll , Buồn cười , Video hài hước trung quốc , Clip cười bể bụng , Video cười bể bụng , Coi cười bể bụng , Hài hước nhất thế giới cười bể bụng , Tổng hợp hài hước bể bụng , Những video cười bể bụng , Những video hài cười bể bụng , Những clip cười bể bụng , Clip cười đau bụng , Xem video hài cười bể bụng , Xem hài cười bể bụng , Video hài hước cười bể bụng , Những tình huống hài hước nhất\n\n* Liên Hệ:\nVenness12305@gmail.com\n\n* Website:\nhttps://www.youtube.com/@ĐưngaajyNuwxaMa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ipS3QJFqdE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ipS3QJFqdE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ipS3QJFqdE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ipS3QJFqdE4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ipS3QJFqdE4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Đừng Zậy Nữa Mà",
         "tags": [
-          "Ra Sao Đây",
-          "Ra Sao Day"
+          "Hài hước",
+          "Vui nhộn",
+          "Hài hước vui nhộn",
+          "Video vui nhộn",
+          "Video cười bể bụng",
+          "Đừng zậy nữa mà",
+          "Cười bể bụng",
+          "Top những tình huống hài hước bá đạo",
+          "Những thằng nguy hiểm nhất hành tinh",
+          "Khoảnh khắc hài hước",
+          "Cười sảng khoái với những tình huống hài hước vui nhộn",
+          "Buồn cười",
+          "Clip hài hước",
+          "Video hài hước",
+          "Hài hước nhất thế giới",
+          "Hài hước việt nam",
+          "Hài hước bá đạo",
+          "Hài hước cười bể bụng",
+          "Những tình huống hài hước nhất thế giới",
+          "Cười sảng khoái với những câu chuyện hài hước"
         ],
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
+        "defaultLanguage": "en-US",
         "localized": {
-          "title": "ỐP BẢO VỆ TAI NGHE CHÍNH LÀ MÔ HÌNH CON KHỦNG LONG RƠI RA VÀ NÓ CỰC KỲ HOÀN HẢO CHÍNH XÁC",
-          "description": "Credit: @Respected Owner\n\n© If any owners has an issue with any of the uploads please get in contact : hculoi73@gmail.com and it will be deleted immediately. Thank you for your coopertation.\n© 如有任何涉及内容、图片等版权方面的问题，请通过以下邮箱与我联系 : hculoi73@gmail.com\n，我将本着最大合作的精神共同解决。\n© Nếu có bất cứ vấn đề liên quan đến bản quyền nội dung, hình ảnh... các bạn vui lòng liên hệ mình theo địa chỉ: hculoi73@gmail.com, mình sẽ cùng giải quyết trên tinh thần hợp tác nhất."
+          "title": "Điện thoại bị sọc màn hình và cách giải quyết #shorts #haihuoc #funny #comedy #đừngzậynữamà",
+          "description": "Video này cho các bạn xem điện thoại bị sọc màn hình và cách giải quyết \n\n* Đừng Zậy Nữa Mà sưu tầm những video hài hước, vui nhộn. Chúc các bạn có những giây phút vui vẻ.\n\n* Cám ơn các bạn đăng kí theo dõi kênh.\n\nHài hước | Vui nhộn | Hài hước vui nhộn | Video vui nhộn | Video cười bể bụng | Đừng zậy nữa mà | Cười bể bụng | Top những tình huống hài hước bá đạo | Những thằng nguy hiểm nhất hành tinh | Khoảnh khắc hài hước | Cười sảng khoái với những tình huống hài hước vui nhộn | Buồn cười | Clip hài hước | Video hài hước | Hài hước nhất thế giới | Hài hước việt nam | Hài hước bá đạo | Hài hước cười bể bụng | Những tình huống hài hước nhất thế giới | Cười sảng khoái với những câu chuyện hài hước | Những tình huống hài hước trong cuộc sống | Những tình huống hài hước cười sảng khoái | Những câu chuyện hài hước vui nhộn | Những câu chuyện hài hước | Tổng hợp các câu chuyện hài hước | Những tình huống hài hước mới nhất | Những tình huống hài hước nhất việt nam | Những tình huống hài hước vui nhộn | Những câu chuyện hài hước việt nam | Những video hài hước | Những câu chuyện hài hước hàng đầu | Video hài hước | Video hài hước ngắn | Video hài hước nhất thế giới | Video hài hước nước ngoài | Video hài hước nhất | Video hài hước tik tok | Video hài hước buồn cười | Video hài hước bình dương | Video hài hước cười bể bụng | Video hài hước cười vỡ bụng | Video hài hước cười đau bụng | Video hài hước trên thế giới | Những đoạn video hài hước | Clip hài hước | Clip hài hước vui nhộn | Clip hài hước nhất thế giới | Clip hài ngắn | Clip hài hước nước ngoài | Clip siêu hài hước | Clip hài hước nhất | Các clip hài hước | Clip hài hước mới nhất | Clip hài hước nhất | Clip hài tik tok ngắn | Clip hài hước Việt Nam | Những clip hài hước | Những clip hài hước nhất | Những clip hài hước nhất việt nam | Những clip siêu hài hước | Clip hài hước tik tok | Clip hài hước tv | Clip hài hước tin việt | Video clip hài hước | Xem clip hài hước vui nhộn | Video ngắn hài hước 30s | Tổng hợp câu chuyện hài hước | Clip vui nhộn trung quốc | Clip hài hước | Clip hài trung quốc troll | Buồn cười | Video hài hước trung quốc | Clip cười bể bụng | Video cười bể bụng | Coi cười bể bụng | Hài hước nhất thế giới cười bể bụng | Tổng hợp hài hước bể bụng | Những video cười bể bụng | Những video hài cười bể bụng | Những clip cười bể bụng | Clip cười đau bụng | Xem video hài cười bể bụng | Xem hài cười bể bụng | Video hài hước cười bể bụng | Những tình huống hài hước nhất\n\n#shorts #haihuoc #funny #comedy #ĐừngZậyNữaMà\n\n* Từ Khóa:\nHài hước , Vui nhộn , Hài hước vui nhộn , Video vui nhộn , Video cười bể bụng , Đừng zậy nữa mà , Cười bể bụng , Top những tình huống hài hước bá đạo , Những thằng nguy hiểm nhất hành tinh , Khoảnh khắc hài hước , Cười sảng khoái với những tình huống hài hước vui nhộn , Buồn cười , Clip hài hước , Video hài hước , Hài hước nhất thế giới , Hài hước việt nam , Hài hước bá đạo , Hài hước cười bể bụng , Những tình huống hài hước nhất thế giới , Cười sảng khoái với những câu chuyện hài hước , Những tình huống hài hước trong cuộc sống , Những tình huống hài hước cười sảng khoái , Những câu chuyện hài hước vui nhộn , Những câu chuyện hài hước , Tổng hợp các câu chuyện hài hước , Những tình huống hài hước mới nhất , Những tình huống hài hước nhất việt nam , Những tình huống hài hước vui nhộn , Những câu chuyện hài hước việt nam , Những video hài hước , Những câu chuyện hài hước hàng đầu , Video hài hước , Video hài hước ngắn , Video hài hước nhất thế giới , Video hài hước nước ngoài , Video hài hước nhất , Video hài hước tik tok , Video hài hước buồn cười , Video hài hước bình dương , Video hài hước cười bể bụng , Video hài hước cười vỡ bụng , Video hài hước cười đau bụng , Video hài hước trên thế giới , Những đoạn video hài hước , Clip hài hước , Clip hài hước vui nhộn , Clip hài hước nhất thế giới , Clip hài ngắn , Clip hài hước nước ngoài , Clip siêu hài hước , Clip hài hước nhất , Các clip hài hước , Clip hài hước mới nhất , Clip hài hước nhất , Clip hài tik tok ngắn , Clip hài hước Việt Nam , Những clip hài hước nhất , Những clip hài hước nhất việt nam , Những clip siêu hài hước , Clip hài hước tik tok , Clip hài hước tv , Clip hài hước tin việt , Video clip hài hước , Xem clip hài hước vui nhộn , Video ngắn hài hước 30s , Tổng hợp câu chuyện hài hước , Clip vui nhộn trung quốc , Clip hài hước , Clip hài trung quốc troll , Buồn cười , Video hài hước trung quốc , Clip cười bể bụng , Video cười bể bụng , Coi cười bể bụng , Hài hước nhất thế giới cười bể bụng , Tổng hợp hài hước bể bụng , Những video cười bể bụng , Những video hài cười bể bụng , Những clip cười bể bụng , Clip cười đau bụng , Xem video hài cười bể bụng , Xem hài cười bể bụng , Video hài hước cười bể bụng , Những tình huống hài hước nhất\n\n* Liên Hệ:\nVenness12305@gmail.com\n\n* Website:\nhttps://www.youtube.com/@ĐưngaajyNuwxaMa"
         },
-        "defaultAudioLanguage": "vi"
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "108716",
-        "likeCount": "828",
-        "favoriteCount": "0",
-        "commentCount": "7"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "WmWwGsspnJ4vw_IYYKGy1NGn1pQ",
-      "id": "vagQIQyuUC4",
-      "snippet": {
-        "publishedAt": "2026-08-07T17:54:10Z",
-        "channelId": "UCi_9bpEsaAiVTGaqshUnddg",
-        "title": "Phần mềm gì đây, có Xoá được không ? #shorts #laptopaz",
-        "description": "💻 Link Website: https://laptopaz.vn\n👍 Link Fanpage: https://www.facebook.com/laptopazvietnam\n🎎 Link Group FB: https://bit.ly/DaoCongNgheDCN\n📞 Hotline Mua Hàng Zalo : 085 860 2468\n🤝 Liên hệ hợp tác truyền thông : marketing.laptopaz@gmail.com\n________________________\nLIÊN HỆ : CÔNG TY TNHH LAPTOPAZ VIỆT NAM\nHỆ THỐNG CỬA HÀNG\n🏢 Số 18, ngõ 121, Thái Hà, Đống Đa, Hà Nội\n🏢 Số 56 Trần Phú, Hà Đông, Hà Nội\n📞 Hotline : 0825 233 233\n________________________\nĐỘI NGŨ HẬU TRƯỜNG:\n- Leader & Quản Trị Kênh - Hiếu Học: https://www.facebook.com/muzaka297\n- Cameraman Phương Nè: https://www.facebook.com/phuongtieu201\n________________________\n© Bản quyền thuộc về CÔNG TY TNHH LAPTOPAZ VIỆT NAM\n© Copyright by LaptopAZ Channel ☞ Do not Reup",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vagQIQyuUC4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vagQIQyuUC4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vagQIQyuUC4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vagQIQyuUC4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vagQIQyuUC4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "LAPTOP AZ",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Phần mềm gì đây, có Xoá được không ? #shorts #laptopaz",
-          "description": "💻 Link Website: https://laptopaz.vn\n👍 Link Fanpage: https://www.facebook.com/laptopazvietnam\n🎎 Link Group FB: https://bit.ly/DaoCongNgheDCN\n📞 Hotline Mua Hàng Zalo : 085 860 2468\n🤝 Liên hệ hợp tác truyền thông : marketing.laptopaz@gmail.com\n________________________\nLIÊN HỆ : CÔNG TY TNHH LAPTOPAZ VIỆT NAM\nHỆ THỐNG CỬA HÀNG\n🏢 Số 18, ngõ 121, Thái Hà, Đống Đa, Hà Nội\n🏢 Số 56 Trần Phú, Hà Đông, Hà Nội\n📞 Hotline : 0825 233 233\n________________________\nĐỘI NGŨ HẬU TRƯỜNG:\n- Leader & Quản Trị Kênh - Hiếu Học: https://www.facebook.com/muzaka297\n- Cameraman Phương Nè: https://www.facebook.com/phuongtieu201\n________________________\n© Bản quyền thuộc về CÔNG TY TNHH LAPTOPAZ VIỆT NAM\n© Copyright by LaptopAZ Channel ☞ Do not Reup"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT51S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "39068",
-        "likeCount": "2003",
-        "favoriteCount": "0",
-        "commentCount": "70"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "agl427pLDJikwPWinxn8ze-CyTk",
-      "id": "NAvjI8TsZnQ",
-      "snippet": {
-        "publishedAt": "2026-08-03T13:09:14Z",
-        "channelId": "UCRkAylK5xlFC9piiQm2UZ1w",
-        "title": "Điện thoại của bạn có icon này không?",
-        "description": "#shorts #drawing #foryou",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NAvjI8TsZnQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NAvjI8TsZnQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NAvjI8TsZnQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NAvjI8TsZnQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NAvjI8TsZnQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "An86 vlog ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Điện thoại của bạn có icon này không?",
-          "description": "#shorts #drawing #foryou"
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT16S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "55741",
-        "likeCount": "944",
-        "favoriteCount": "0",
-        "commentCount": "2108"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "04wnTpOBHdeTJ2R9VU0CY58Nfa4",
-      "id": "7xfLdhE4D4c",
-      "snippet": {
-        "publishedAt": "2026-08-03T11:30:18Z",
-        "channelId": "UCfnKP9bnnwP5Ppd-YlScN3g",
-        "title": "Cách Thợ Điện Nối Hàng Nghìn Sợi Dây Cáp Đứt!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7xfLdhE4D4c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7xfLdhE4D4c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7xfLdhE4D4c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7xfLdhE4D4c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7xfLdhE4D4c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mắt Xanh Thiên Nhiên",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Cách Thợ Điện Nối Hàng Nghìn Sợi Dây Cáp Đứt!",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT37S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "90554",
-        "likeCount": "703",
-        "favoriteCount": "0",
-        "commentCount": "2"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "1LJuN0n8gWl12jEtHq2f1ZyWKv0",
-      "id": "6sXmHfdbtv8",
-      "snippet": {
-        "publishedAt": "2026-08-06T02:47:38Z",
-        "channelId": "UC1cbcT1aIRrhelHmUQycf3Q",
-        "title": "iPhone 17 Pro Max giá bằng cọng dây sạc 🤣 #laonap",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6sXmHfdbtv8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6sXmHfdbtv8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6sXmHfdbtv8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6sXmHfdbtv8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6sXmHfdbtv8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Lão Nạp",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "iPhone 17 Pro Max giá bằng cọng dây sạc 🤣 #laonap",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "42840",
-        "likeCount": "1900",
-        "favoriteCount": "0",
-        "commentCount": "40"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "XlFapZ1TgfrMTIA26oIkn2dSdhU",
-      "id": "pApvJBdorKU",
-      "snippet": {
-        "publishedAt": "2026-08-06T05:03:23Z",
-        "channelId": "UCh1S7wlKlRnLWTbscXLRAKw",
-        "title": "Con flycam này hỏi to",
-        "description": "Hello các bạn cùng xem tổng hợp video hay của mình nha\nNếu thấy video thú vị hãy để lại 1 like, share và đăng ký kênh ủng hộ mình nha. Cảm ơn các bạn rất nhiều.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pApvJBdorKU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pApvJBdorKU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pApvJBdorKU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pApvJBdorKU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pApvJBdorKU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mr. T Miền Tây",
-        "tags": [
-          "mr t miền tây",
-          "diy",
-          "tiktok triệu view",
-          "tổng hợp video hay",
-          "short"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Con flycam này hỏi to",
-          "description": "Hello các bạn cùng xem tổng hợp video hay của mình nha\nNếu thấy video thú vị hãy để lại 1 like, share và đăng ký kênh ủng hộ mình nha. Cảm ơn các bạn rất nhiều."
-        }
-      },
-      "contentDetails": {
-        "duration": "PT1M52S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "44552",
-        "likeCount": "791",
-        "favoriteCount": "0",
-        "commentCount": "9"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "_GXnKItP8bjqm1BPNfbIK9yS-dM",
-      "id": "357f_XpKjTg",
-      "snippet": {
-        "publishedAt": "2026-08-06T04:36:34Z",
-        "channelId": "UCuiF-AjlnNQmWPzK0uppU4g",
-        "title": "🚨CẢNH GIÁC THỦ ĐOẠN LỪA ĐĂNG NHẬP iCloud ĐỂ KHÓA iPhone!❌ #TuLe #CongAn",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/357f_XpKjTg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/357f_XpKjTg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/357f_XpKjTg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/357f_XpKjTg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/357f_XpKjTg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tú Lê",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "🚨CẢNH GIÁC THỦ ĐOẠN LỪA ĐĂNG NHẬP iCloud ĐỂ KHÓA iPhone!❌ #TuLe #CongAn",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT2M20S",
+        "duration": "PT15S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2835,323 +3252,16 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "30310",
-        "likeCount": "1865",
+        "viewCount": "17471",
+        "likeCount": "101",
         "favoriteCount": "0",
-        "commentCount": "53"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "o1EcUMZGq_jX2S6_AfBQkTCtXSc",
-      "id": "QDyI0YQ8rXM",
-      "snippet": {
-        "publishedAt": "2026-08-01T12:00:08Z",
-        "channelId": "UCXotGiFFgYQQY61aWEKfILQ",
-        "title": "Tại Sao Bảng Mạch Không Bị Chập Thiếc!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QDyI0YQ8rXM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QDyI0YQ8rXM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QDyI0YQ8rXM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QDyI0YQ8rXM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QDyI0YQ8rXM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Cùng Biết Nhiều",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Tại Sao Bảng Mạch Không Bị Chập Thiếc!",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT31S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "160938",
-        "likeCount": "1871",
-        "favoriteCount": "0",
-        "commentCount": "10"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "SedJ2h6WmkBQIjxdBrZrZM3Qzv4",
-      "id": "Nce3C4amf1M",
-      "snippet": {
-        "publishedAt": "2026-07-25T09:13:32Z",
-        "channelId": "UCItauqaIskGQwhsMszfxYAg",
-        "title": "Đứng hình với nội thất bên trong laptop của thanh niên 🤣",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nce3C4amf1M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nce3C4amf1M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nce3C4amf1M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Nce3C4amf1M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Nce3C4amf1M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Dỗi thêm 7 ngày",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Đứng hình với nội thất bên trong laptop của thanh niên 🤣",
-          "description": ""
-        },
-        "defaultAudioLanguage": "vi"
-      },
-      "contentDetails": {
-        "duration": "PT2M59S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "498151",
-        "likeCount": "14718",
-        "favoriteCount": "0",
-        "commentCount": "263"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ce1FE4A-TPlH16DNNOZMmrZgPhU",
-      "id": "avJN78JUER4",
-      "snippet": {
-        "publishedAt": "2026-07-26T05:30:19Z",
-        "channelId": "UCjF-v3cSU9SmIGeoJhpFGkA",
-        "title": "JBL go essential mud throw",
-        "description": "#trendingshorts \n#shorts \n#viralshorts \n#jblspeaker \n#watertest\n#test",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/avJN78JUER4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/avJN78JUER4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/avJN78JUER4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/avJN78JUER4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/avJN78JUER4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Crazy zone ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "JBL go essential mud throw",
-          "description": "#trendingshorts \n#shorts \n#viralshorts \n#jblspeaker \n#watertest\n#test"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT20S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "9549046",
-        "likeCount": "95719",
-        "favoriteCount": "0",
-        "commentCount": "60"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "C1g2X5nTwtBwJXXLIPhDZXtUgys",
-      "id": "_1eGznWROGU",
-      "snippet": {
-        "publishedAt": "2026-07-20T12:10:24Z",
-        "channelId": "UCR2_6XTV7b1IkHDvXNG5phQ",
-        "title": "This is a 3D Printed Chargeable iPhone 17 Pro Mini - ASMR #shorts",
-        "description": "This is a 3D Printed iPhone 17 Pro Mini - ASMR. 🤫 Press play, turn up your volume, and listen to the crisp sounds of this print.\n\n#3dprinting #asmr #satisfying #memes #fidget #asmrcommunity",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_1eGznWROGU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_1eGznWROGU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_1eGznWROGU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_1eGznWROGU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_1eGznWROGU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Stan 3D",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "This is a 3D Printed Chargeable iPhone 17 Pro Mini - ASMR #shorts",
-          "description": "This is a 3D Printed iPhone 17 Pro Mini - ASMR. 🤫 Press play, turn up your volume, and listen to the crisp sounds of this print.\n\n#3dprinting #asmr #satisfying #memes #fidget #asmrcommunity"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2687277",
-        "likeCount": "24844",
-        "favoriteCount": "0",
-        "commentCount": "112"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ineo9VHy_cUb7zub_xxwxsBygyk",
-      "id": "HHOiFWnUhu8",
-      "snippet": {
-        "publishedAt": "2026-08-01T03:19:00Z",
-        "channelId": "UCavybq4e3v9ATByj_L7fbbw",
-        "title": "Một Chiếc Máy Tính Và Câu Chuyện Buồn #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HHOiFWnUhu8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HHOiFWnUhu8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HHOiFWnUhu8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HHOiFWnUhu8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HHOiFWnUhu8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Góc Nhìn Thú Vị Official",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "Một Chiếc Máy Tính Và Câu Chuyện Buồn #shorts",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT56S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "80908",
-        "likeCount": "4222",
-        "favoriteCount": "0",
-        "commentCount": "27"
+        "commentCount": "8"
       }
     }
   ],
   "nextPageToken": "CDIQAA",
   "pageInfo": {
-    "totalResults": 103,
+    "totalResults": 113,
     "resultsPerPage": 50
   }
 }

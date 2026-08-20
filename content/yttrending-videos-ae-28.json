@@ -1,39 +1,101 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "hZCmIBHFDQs4Ie1ZeQ03W-hw05o",
+  "etag": "TbH36rGLr5WJ_Q8yqRwovwKJMOU",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "__sPO-Ykh8WEbMUr-wwYK68qDfc",
-      "id": "dT49PluhENM",
+      "etag": "pUvquEpsKNPA5tgDn2JqR6h2t4E",
+      "id": "8Dzp5oAb5WI",
       "snippet": {
-        "publishedAt": "2026-08-07T02:36:13Z",
-        "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-        "title": "The Lenovo thinkpad is the Toyota of laptops.. #carterpcs #tech #laptop #thinkpad",
-        "description": "The Lenovo thinkpad is the Toyota of laptops.. #carterpcs #tech #laptop #thinkpad",
+        "publishedAt": "2026-07-23T11:14:13Z",
+        "channelId": "UChFJ0H99lMxJZ6RRHj2JTDg",
+        "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
+        "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dT49PluhENM/default.jpg",
+            "url": "https://i.ytimg.com/vi/8Dzp5oAb5WI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dT49PluhENM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8Dzp5oAb5WI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dT49PluhENM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8Dzp5oAb5WI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/dT49PluhENM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8Dzp5oAb5WI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/dT49PluhENM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8Dzp5oAb5WI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lasa Technology ",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
+          "description": "#gpu #comparison #rtx5050 #nvidia #gamingpc \n\n\n\n🔥 RX 6600 vs RTX 3060 – Budget Beast vs Midrange Legend! 💥⚔️\nRTX 2070 Super vs RTX 3060 Ti – Which One Should You Choose?\nRTX 5050 vs RTX 3060 ⚡ 2021 vs 2025 GPU Comparison | Avg FPS Test\nRTX 5050 vs RTX 4060 - Which is Better for Gaming??\nRTX 5060 vs RTX 3060 – Worth the Upgrade? 🔄⚡\nRTX 5050 8GB vs RTX 3060 12GB - Test in 10 Games\nRTX 2060 vs RTX 3060 vs RTX 4060 vs RTX 5060\nRTX 3060 vs RTX 4060 vs RTX 5060\nGTX 1660 TI VS RTX 5050💀\nRTX 5050 vs RTX 2080 SUPER - WHAT CHANGED AFTER 6 YEARS?\nHello RTX 5050 😅"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "17130250",
+        "likeCount": "196079",
+        "favoriteCount": "0",
+        "commentCount": "2146"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DQ6LtiDxqSbcP8crUYsG3q90PPw",
+      "id": "JkW7pfiqtns",
+      "snippet": {
+        "publishedAt": "2026-08-17T03:37:17Z",
+        "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+        "title": "How many games could you store on an EXABYTE of storage?? #carterpcs #tech #gaming #pcgaming",
+        "description": "How many games could you store on an EXABYTE of storage?? #carterpcs #tech #gaming #pcgaming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JkW7pfiqtns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JkW7pfiqtns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JkW7pfiqtns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JkW7pfiqtns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JkW7pfiqtns/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -43,8 +105,8 @@
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "جهاز Lenovo ThinkPad هو تويوتا اللابتوبات.. #carterpcs #تقنية #لابتوب #thinkpad",
-          "description": "يُعتبر جهاز Lenovo ThinkPad بمثابة تويوتا أجهزة الكمبيوتر المحمولة..carterpcstechlaptopthinkpad"
+          "title": "كم عدد الألعاب التي يمكنك تخزينها على مساحة إكسابايت (EXABYTE) واحدة؟؟ #carterpcs #تقنية #ألعاب #...",
+          "description": "كم عدد الألعاب التي يمكنك تخزينها على إكسابايت من مساحة التخزين؟ #كارتر_بي_سي #تقنية #ألعاب #ألعاب_الكمبيوتر"
         },
         "defaultAudioLanguage": "en"
       },
@@ -58,15 +120,337 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "6789208",
-        "likeCount": "522926",
+        "viewCount": "4785359",
+        "likeCount": "384617",
         "favoriteCount": "0",
-        "commentCount": "7661"
+        "commentCount": "8951"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "UxAp4JP4lK-12QGTMuxAgdAYR44",
+      "etag": "JJRhWxRibZR0akE6NcVAiq3Co-k",
+      "id": "AgVk31-3LeI",
+      "snippet": {
+        "publishedAt": "2026-08-18T17:30:15Z",
+        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
+        "title": "How To Find A Lock's Hidden Code 🤔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AgVk31-3LeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AgVk31-3LeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AgVk31-3LeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AgVk31-3LeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AgVk31-3LeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zack D. Films",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "2930 شريط ورقي يكشف الرمز السري لخزنة المفاتيح FINv1",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2064290",
+        "likeCount": "211398",
+        "favoriteCount": "0",
+        "commentCount": "2438"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zfSMlv8kq5ww6SySU3HP5tjbsuk",
+      "id": "y8k-jKAfKSk",
+      "snippet": {
+        "publishedAt": "2026-08-15T04:00:03Z",
+        "channelId": "UC-gPLbcS53nkuq-heoRjQHA",
+        "title": "iPhone 18 Pro Max Dark Cherry #noads #tiktok #usa",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y8k-jKAfKSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y8k-jKAfKSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y8k-jKAfKSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y8k-jKAfKSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y8k-jKAfKSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Perety games",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "iPhone 18 Pro Max Dark Cherry #noads #tiktok #usa",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4145347",
+        "likeCount": "41729",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VhVNesDeT6mBbCMKVBbP4NWJ5S8",
+      "id": "Q00dqzgQ6u8",
+      "snippet": {
+        "publishedAt": "2026-08-12T16:00:09Z",
+        "channelId": "UCeQhzSua0MuZ_QzhO-GRKVA",
+        "title": "How DualSense Changes Gaming! #dualsense #gaming #ps5 #gamingshorts",
+        "description": "Testing the best DualSense features across different games! Adaptive triggers, haptic feedback, motion sensors, and lightbar bring gaming to a whole new leve\n\nNo sponsorship or ads. All products are personally owned. Sponsorluk veya reklam içermez. Tüm ürünler şahsi kullanımımdır. \n\n#playstation #ghostofyotei #thelastofus #astrobot #game",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q00dqzgQ6u8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q00dqzgQ6u8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q00dqzgQ6u8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q00dqzgQ6u8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q00dqzgQ6u8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Murat Toy",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How DualSense Changes Gaming! #dualsense #gaming #ps5 #gamingshorts",
+          "description": "Testing the best DualSense features across different games! Adaptive triggers, haptic feedback, motion sensors, and lightbar bring gaming to a whole new leve\n\nNo sponsorship or ads. All products are personally owned. Sponsorluk veya reklam içermez. Tüm ürünler şahsi kullanımımdır. \n\n#playstation #ghostofyotei #thelastofus #astrobot #game"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6409003",
+        "likeCount": "108553",
+        "favoriteCount": "0",
+        "commentCount": "2661"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C0AIJYz5XX2k4EzEIFxPSMRrug8",
+      "id": "n3F996g8wjg",
+      "snippet": {
+        "publishedAt": "2026-08-14T11:15:26Z",
+        "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+        "title": "The Honor Robot Phone is absolutely insane.",
+        "description": "Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS at the link below and get 60% off an annual plan: https://incogni.com/boss\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nMy 5 favourite pieces of Tech right now (Not sponsored but these are affiliate links which help out the channel!):\n1. Balmuda Toaster: https://geni.us/4B5xooB\n2. Ember Mug 2: https://geni.us/zb4Ix\n3. Ninja Creami Deluxe: https://geni.us/Mseu\n4. Anker PowerBank: https://geni.us/p3PVF\n5. Momax Travel Adaptor: https://geni.us/TJg5kGD\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n3F996g8wjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n3F996g8wjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3F996g8wjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n3F996g8wjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n3F996g8wjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mrwhosetheboss",
+        "tags": [
+          "honor",
+          "robot phone",
+          "robot",
+          "phone",
+          "smartphone",
+          "tech",
+          "iphone",
+          "gadgets",
+          "honor robot phone",
+          "robot phone review"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Honor Robot Phone is absolutely insane.",
+          "description": "Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS at the link below and get 60% off an annual plan: https://incogni.com/boss\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nMy 5 favourite pieces of Tech right now (Not sponsored but these are affiliate links which help out the channel!):\n1. Balmuda Toaster: https://geni.us/4B5xooB\n2. Ember Mug 2: https://geni.us/zb4Ix\n3. Ninja Creami Deluxe: https://geni.us/Mseu\n4. Anker PowerBank: https://geni.us/p3PVF\n5. Momax Travel Adaptor: https://geni.us/TJg5kGD\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT14M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3761300",
+        "likeCount": "96008",
+        "favoriteCount": "0",
+        "commentCount": "5806"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XX7bYsNCYeUoL4V-o_ZU9V72hg4",
+      "id": "_Sle_kPG6Co",
+      "snippet": {
+        "publishedAt": "2026-08-16T07:35:50Z",
+        "channelId": "UCHLmaPy_UYFvQcUp-FdpxRg",
+        "title": "Apple ഇങ്ങനെ ചെയ്യുമെന്ന് പ്രതീക്ഷിച്ചില്ല !",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Sle_kPG6Co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Sle_kPG6Co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Sle_kPG6Co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Sle_kPG6Co/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Sle_kPG6Co/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sarath'S Neon Tech",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ml",
+        "localized": {
+          "title": "Apple ഇങ്ങനെ ചെയ്യുമെന്ന് പ്രതീക്ഷിച്ചില്ല !",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ml"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "234018",
+        "likeCount": "17436",
+        "favoriteCount": "0",
+        "commentCount": "172"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8yVhmMyZRXqZiNtrIQ7ml9wgfng",
       "id": "sglSftkhmGA",
       "snippet": {
         "publishedAt": "2026-08-06T21:30:04Z",
@@ -140,15 +524,393 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2933078",
-        "likeCount": "71135",
+        "viewCount": "4329398",
+        "likeCount": "101467",
         "favoriteCount": "0",
-        "commentCount": "978"
+        "commentCount": "1539"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "J12B9PgJJybm3LnR3JS5bfnodv4",
+      "etag": "CE0WiW82akr6Z7nvviAXBMRVTMI",
+      "id": "nZs30Pmopj4",
+      "snippet": {
+        "publishedAt": "2026-08-17T13:00:09Z",
+        "channelId": "UCjRB859nXHO46kPF__HMIQg",
+        "title": "700Rs. Mic Vs 12000Rs. Mic Comparison 😱",
+        "description": "This video contains affiliate links\n\n\n#raabi \n#raabivlogs\n#product\n#experiment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZs30Pmopj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZs30Pmopj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZs30Pmopj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nZs30Pmopj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nZs30Pmopj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Raabi Vlogs",
+        "tags": [
+          "#raabi",
+          "#raabivlogs",
+          "#products",
+          "#experiment"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "700Rs. Mic Vs 12000Rs. Mic Comparison 😱",
+          "description": "This video contains affiliate links\n\n\n#raabi \n#raabivlogs\n#product\n#experiment"
+        },
+        "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "556666",
+        "likeCount": "46463",
+        "favoriteCount": "0",
+        "commentCount": "463"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Epa_U0-PENaOOHX72SCanUHfHs4",
+      "id": "4lwzW1_ZReg",
+      "snippet": {
+        "publishedAt": "2026-08-14T21:15:15Z",
+        "channelId": "UCsUzlKVWyzpWvRegif2fLLQ",
+        "title": "Is this keyboard actually useful?#Keyboard#GamingSetup#TechFacts#GamingGear#OddlySatisfying",
+        "description": "COPYRIGHT DISCLAIMER\nMech Field does not fully own the material compiled in this video. It belongs to individuals or organizations that deserve respect.\nWe use under Copyright Disclaimer, Section 107 of the Copyright Act 1976. \"Fair Use\" is permitted for purposes such as criticism, comment, news reporting, and teaching. scholarships and research.\nFor any commercial/general/copyright inquiries\ncontact: djj1523618@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4lwzW1_ZReg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4lwzW1_ZReg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4lwzW1_ZReg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4lwzW1_ZReg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4lwzW1_ZReg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mech Field",
+        "tags": [
+          "science",
+          "knowledge",
+          "educational",
+          "facts",
+          "didyouknow",
+          "learnontiktok",
+          "shortshistory",
+          "curiosity",
+          "mindblown",
+          "mystery",
+          "commentary",
+          "storytelling",
+          "voiceover",
+          "duo",
+          "funnyvideo",
+          "infotainment",
+          "interesting",
+          "trending",
+          "viral",
+          "fyp",
+          "shorts"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "هل هذه لوحة المفاتيح مفيدة حقاً؟ #لوحة_مفاتيح #إعدادات_الألعاب #حقائق_تقنية #معدات_الألعاب #مرضية...",
+          "description": "إخلاء مسؤولية حقوق النشر\nلا يملك موقع \"ميك فيلد\" حقوق الملكية الكاملة للمواد المُجمّعة في هذا الفيديو. تعود هذه المواد إلى أفراد أو منظمات تستحق الاحترام.\n\nنستخدم هذه المواد وفقًا لقانون حقوق النشر، القسم 107، لعام 1976. يُسمح بالاستخدام العادل لأغراض مثل النقد والتعليق والتغطية الإخبارية والتعليم والمنح الدراسية والبحث العلمي.\n\nللاستفسارات التجارية/العامة/المتعلقة بحقوق النشر، يُرجى التواصل عبر البريد الإلكتروني: djj1523618@gmail.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2450654",
+        "likeCount": "44166",
+        "favoriteCount": "0",
+        "commentCount": "609"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wmInfsC1-XrwXX9d6cqZlHiUklE",
+      "id": "RPDHaDbts8w",
+      "snippet": {
+        "publishedAt": "2026-08-15T10:30:25Z",
+        "channelId": "UC20sXo8ReewkzNKBFgzVCPA",
+        "title": "😭iPhone-ஐ அலறவிட்ட Sony Xperia 1 VIII? 😱",
+        "description": "Sony Xperia 1 viii vs iPhone - Sony Xperia 1 VIII, featuring a 6.5-inch 120Hz LTPO OLED display, Snapdragon 8 Elite Gen 5, 48MP triple-camera setup, 5000mAh battery, microSD support, 3.5mm headphone jack, and Sony’s dedicated two-stage camera shutter button.\n\n#sonyxperia1viii  #SonyXperia #iPhone #SonyVsIPhone #Xperia1VIII #CameraPhone #FlagshipPhone #AndroidVsIPhone #SonyCamera #TechTamil #TamilTech #MrTT\n\n\nFollow us on:\n📲 Telegram Group: https://telegram.openinapp.co/TamilTech\n🌈 instagram: https://insta.openinapp.co/TamilTech\n📘 Facebook: https://fb.openinapp.co/TamilTech\n🐤 Twitter: https://twtr.openinapp.co/TamilTech\n******************************************************************\n\nCheck Out Our Other Channels :\n►Tamil Tech Shorts : https://yt.openinapp.co/TamilTechShorts\n►Tamil Selvan: https://yt.openinapp.co/TamilSelvan\n►HOWISIT   : https://yt.openinapp.co/howisit\n\n🌐 Visit Our Site : https://www.TamilTechOfficial.com\n******************************************************************\n\nShopping online BUY using the links below & Support Us :) \nAmazon : https://amzn.openinapp.co/TamilTech\nFlipkart : http://bit.ly/TamilTechFlipkart\n\nBackground Music: : http://bit.ly/TTEpidemicSounds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPDHaDbts8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPDHaDbts8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPDHaDbts8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RPDHaDbts8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RPDHaDbts8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tamil Tech - MrTT",
+        "tags": [
+          "Tamil Tech",
+          "TAMILTECH",
+          "TAMIL Selvan",
+          "Tamil tech official",
+          "MrTamilTech",
+          "MrTT",
+          "SuperTT",
+          "Sony Xperia 1 VIII vs iPhone",
+          "Sony Xperia vs iPhone",
+          "Xperia 1 VIII comparison",
+          "Sony Xperia 1 VIII camera",
+          "Sony Xperia 1 VIII review",
+          "Sony Xperia 1 VIII features",
+          "iPhone vs Sony Xperia",
+          "Snapdragon 8 Elite Gen 5",
+          "best camera phone",
+          "best flagship phone 2026",
+          "Android vs iPhone",
+          "Sony Xperia Tamil",
+          "iPhone Tamil",
+          "iphone 17 pro max",
+          "iphone 17",
+          "iphone 18 pro max",
+          "iphone 18",
+          "iphone 18 pro"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "😭iPhone-ஐ அலறவிட்ட Sony Xperia 1 VIII? 😱",
+          "description": "Sony Xperia 1 viii vs iPhone - Sony Xperia 1 VIII, featuring a 6.5-inch 120Hz LTPO OLED display, Snapdragon 8 Elite Gen 5, 48MP triple-camera setup, 5000mAh battery, microSD support, 3.5mm headphone jack, and Sony’s dedicated two-stage camera shutter button.\n\n#sonyxperia1viii  #SonyXperia #iPhone #SonyVsIPhone #Xperia1VIII #CameraPhone #FlagshipPhone #AndroidVsIPhone #SonyCamera #TechTamil #TamilTech #MrTT\n\n\nFollow us on:\n📲 Telegram Group: https://telegram.openinapp.co/TamilTech\n🌈 instagram: https://insta.openinapp.co/TamilTech\n📘 Facebook: https://fb.openinapp.co/TamilTech\n🐤 Twitter: https://twtr.openinapp.co/TamilTech\n******************************************************************\n\nCheck Out Our Other Channels :\n►Tamil Tech Shorts : https://yt.openinapp.co/TamilTechShorts\n►Tamil Selvan: https://yt.openinapp.co/TamilSelvan\n►HOWISIT   : https://yt.openinapp.co/howisit\n\n🌐 Visit Our Site : https://www.TamilTechOfficial.com\n******************************************************************\n\nShopping online BUY using the links below & Support Us :) \nAmazon : https://amzn.openinapp.co/TamilTech\nFlipkart : http://bit.ly/TamilTechFlipkart\n\nBackground Music: : http://bit.ly/TTEpidemicSounds"
+        },
+        "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "658495",
+        "likeCount": "60676",
+        "favoriteCount": "0",
+        "commentCount": "148"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6ggKw3KbSUmhwWOPWHhc3JFHh_c",
+      "id": "6EafpID4UkA",
+      "snippet": {
+        "publishedAt": "2026-08-19T13:29:26Z",
+        "channelId": "UCKLXFXgvJ665OFySSDbbRaw",
+        "title": "முக்கோண mouse வாங்குறது worth-ஆ?",
+        "description": "Product Recommendations: https://linktr.ee/syedimran.ef\nFacebook: https://www.facebook.com/engineeringfactsfb/\nInstagram: https://www.instagram.com/syedimran.ef\nMy amazon page : https://amzn.to/4aozB73\nX : https://x.com/Eng_Facts_Tamil\n=================================\nContact Info:\nquery.ef@gmail.com\n\n#buyingfacts #buyingfactstamil",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6EafpID4UkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6EafpID4UkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6EafpID4UkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6EafpID4UkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6EafpID4UkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Buying Facts",
+        "tags": [
+          "buyingfacts",
+          "buyingfactstamil"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ta",
+        "localized": {
+          "title": "முக்கோண mouse வாங்குறது worth-ஆ?",
+          "description": "Product Recommendations: https://linktr.ee/syedimran.ef\nFacebook: https://www.facebook.com/engineeringfactsfb/\nInstagram: https://www.instagram.com/syedimran.ef\nMy amazon page : https://amzn.to/4aozB73\nX : https://x.com/Eng_Facts_Tamil\n=================================\nContact Info:\nquery.ef@gmail.com\n\n#buyingfacts #buyingfactstamil"
+        },
+        "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "238380",
+        "likeCount": "16545",
+        "favoriteCount": "0",
+        "commentCount": "133"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sPHv7TIJ8pn7LyAfRk8XVrCejzU",
+      "id": "o4SSoURPODY",
+      "snippet": {
+        "publishedAt": "2026-08-12T14:00:35Z",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+        "description": "Every year, a new Pixel, and new hopes and dreams...\n\nProtect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11\n\nAffiliate Links:\nPixel 11 Pro: https://geni.us/iypnawz\nPixel 11 Pro XL: https://geni.us/Jfybl\nPixel 11 Pro Fold: https://geni.us/XaTcge\nPixel Watch 5: https://geni.us/2s9sEq\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o4SSoURPODY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o4SSoURPODY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o4SSoURPODY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o4SSoURPODY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marques Brownlee",
+        "tags": [
+          "Pixel 11",
+          "Pixel 11 Pro",
+          "Pixel 11 Pro Fold",
+          "Pixel impressions",
+          "MKBHD",
+          "Pixel 11 impressions"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+          "description": "Every year, a new Pixel, and new hopes and dreams...\n\nProtect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11\n\nAffiliate Links:\nPixel 11 Pro: https://geni.us/iypnawz\nPixel 11 Pro XL: https://geni.us/Jfybl\nPixel 11 Pro Fold: https://geni.us/XaTcge\nPixel Watch 5: https://geni.us/2s9sEq\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3130464",
+        "likeCount": "84397",
+        "favoriteCount": "0",
+        "commentCount": "6917"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bysv-vkWULyRHOMzGimbF3qoS0Y",
       "id": "Thh2i5SJAUw",
       "snippet": {
         "publishedAt": "2026-08-06T11:21:50Z",
@@ -202,15 +964,146 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "8465640",
-        "likeCount": "255956",
+        "viewCount": "11069871",
+        "likeCount": "335298",
         "favoriteCount": "0",
-        "commentCount": "1676"
+        "commentCount": "2535"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Hva0WYA_rSltBJ1X3pmuIq2N-Ms",
+      "etag": "WMUHLrcw6i6aRtKI-aH_7ibZgXU",
+      "id": "tXF5CLDKh7E",
+      "snippet": {
+        "publishedAt": "2026-08-17T03:00:37Z",
+        "channelId": "UC4k2sEjl7eDhSwXaUjr3aLA",
+        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 166",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXF5CLDKh7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXF5CLDKh7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXF5CLDKh7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXF5CLDKh7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tXF5CLDKh7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr Tungtungsahur Blue ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "vi",
+        "localized": {
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 166",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1974157",
+        "likeCount": "21976",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oHy4c30A_8TtXTERelxFwlDTVJQ",
+      "id": "Q2-glVKDK3Y",
+      "snippet": {
+        "publishedAt": "2026-08-18T14:09:13Z",
+        "channelId": "UCXzULCWuvbnjm7Q0F6RBKsw",
+        "title": "நா வாங்குனதுலயே BEST MONITOR இது தான்.. Simple, Good and Budget friendly..",
+        "description": "Product Recommendations: https://linktr.ee/syedimran.ef\nFacebook: https://www.facebook.com/engineeringfactsfb/\nInstagram: https://www.instagram.com/syedimran.ef\nMy amazon page : https://amzn.to/4aozB73\nX : https://x.com/Eng_Facts_Tamil\n=================================\nIf you find this video useful, Join our channel to support :\nhttps://www.youtube.com/channel/UCXzULCWuvbnjm7Q0F6RBKsw/join\n=================================\nContact us:\nquery.ef@gmail.com\n\n#engineeringfacts\n#engineeringfactstamil",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2-glVKDK3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2-glVKDK3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2-glVKDK3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q2-glVKDK3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q2-glVKDK3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Engineering Facts",
+        "tags": [
+          "engineeringfacts",
+          "engineeringfactstamil",
+          "tamilsciencechannel",
+          "tamilengineeringchannel",
+          "tamiltechchannel"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ta",
+        "localized": {
+          "title": "நா வாங்குனதுலயே BEST MONITOR இது தான்.. Simple, Good and Budget friendly..",
+          "description": "Product Recommendations: https://linktr.ee/syedimran.ef\nFacebook: https://www.facebook.com/engineeringfactsfb/\nInstagram: https://www.instagram.com/syedimran.ef\nMy amazon page : https://amzn.to/4aozB73\nX : https://x.com/Eng_Facts_Tamil\n=================================\nIf you find this video useful, Join our channel to support :\nhttps://www.youtube.com/channel/UCXzULCWuvbnjm7Q0F6RBKsw/join\n=================================\nContact us:\nquery.ef@gmail.com\n\n#engineeringfacts\n#engineeringfactstamil"
+        },
+        "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "361387",
+        "likeCount": "27398",
+        "favoriteCount": "0",
+        "commentCount": "200"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pVOrPvG4RjMXw5SSr6E2E0C-xLQ",
       "id": "WI2LP-I6iuE",
       "snippet": {
         "publishedAt": "2026-08-10T11:13:17Z",
@@ -264,198 +1157,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2705289",
-        "likeCount": "179358",
+        "viewCount": "4598903",
+        "likeCount": "267376",
         "favoriteCount": "0",
-        "commentCount": "3206"
+        "commentCount": "4299"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "X-MuMSEQ0GL9-fNqMUY1n4m_V4M",
-      "id": "HF0sTgUkQf4",
-      "snippet": {
-        "publishedAt": "2026-08-05T13:35:28Z",
-        "channelId": "UCF8IwMMj0HC_rVp86e4_CTQ",
-        "title": "Samsung London Bus Fold",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HF0sTgUkQf4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HF0sTgUkQf4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HF0sTgUkQf4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HF0sTgUkQf4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HF0sTgUkQf4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tarun Singh Tobadia",
-        "categoryId": "27",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Samsung London Bus Fold",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT46S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1500812",
-        "favoriteCount": "0",
-        "commentCount": "51"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2rwm5l-X_XG4LDBJ7Px4w8FJPfw",
-      "id": "b41hUGwlqMM",
-      "snippet": {
-        "publishedAt": "2026-08-06T17:30:09Z",
-        "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
-        "title": "How Noise Cancelling Headphones Work 🤔",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/b41hUGwlqMM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Zack D. Films",
-        "categoryId": "19",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "كيف تعمل سماعات إلغاء الضجيج 🤔",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT35S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3558056",
-        "likeCount": "267642",
-        "favoriteCount": "0",
-        "commentCount": "1096"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "sqF38MYDw3j5PZyfIVToWob2USc",
-      "id": "f4VdofF9GQ0",
-      "snippet": {
-        "publishedAt": "2026-08-06T03:00:25Z",
-        "channelId": "UC4k2sEjl7eDhSwXaUjr3aLA",
-        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/f4VdofF9GQ0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mr Tungtungsahur Blue ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "vi",
-        "localized": {
-          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "13397830",
-        "likeCount": "117201",
-        "favoriteCount": "0",
-        "commentCount": "106"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "N9T6UUwL2WwUAQkgrME-eS_OCYw",
+      "etag": "VTFLJcVczgksKldtwGq7szONAIs",
       "id": "Hoj3X2OSCgI",
       "snippet": {
         "publishedAt": "2026-08-08T16:08:57Z",
@@ -521,20 +1231,217 @@
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": false,
+        "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1762985",
-        "likeCount": "25869",
+        "viewCount": "3056062",
+        "likeCount": "45106",
         "favoriteCount": "0",
-        "commentCount": "301"
+        "commentCount": "515"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3N7WsT_FW9hiCrgOVugvOzzA4SM",
+      "etag": "erTQM6_RtjuUisySFbGFHY3IF78",
+      "id": "YE69Zoufa4Q",
+      "snippet": {
+        "publishedAt": "2026-08-13T15:09:28Z",
+        "channelId": "UCxd6ifFZycyUB45d2t9VPQw",
+        "title": "Spotify premium but for free #themermaidscales",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YE69Zoufa4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YE69Zoufa4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YE69Zoufa4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YE69Zoufa4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YE69Zoufa4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TheMermaidscales",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "سبوتيفاي بريميوم مجاناً #حراشف_حورية_البحر",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "926499",
+        "likeCount": "105462",
+        "favoriteCount": "0",
+        "commentCount": "972"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pxsztfCDccYxdXAksjMAIwozpWE",
+      "id": "xfWnbCV4eZU",
+      "snippet": {
+        "publishedAt": "2026-08-12T16:00:16Z",
+        "channelId": "UCGuvt4v6yI9CFgmSt8G4wKA",
+        "title": "I've never fully charged my phone.",
+        "description": "In this video, Marlipiegos discuses what happens when you never fully charge your phone. We've all been told that keeping your battery between 20-80% will make it last longer, but is that actually true? Well, after nearly three years of never charging his iPhone 15 past 80%, Marlipiegos has finally uncovered the answer. \n\nVisit my Amazon storefront: https://www.amazon.com/shop/marlipiegosgaming\n\nBusiness inquiries: marlipiegos@gmail.com \n\n*Disclaimer: Marlipiegos Gaming is an Amazon Associate and will earn a small commission from purchases through the provided links.\n\n#shorts #tech",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfWnbCV4eZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfWnbCV4eZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfWnbCV4eZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xfWnbCV4eZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xfWnbCV4eZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marlipiegos",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "لم أشحن هاتفي بالكامل قط.",
+          "description": "في هذا الفيديو، يناقش مارليبيغوس ما يحدث عند عدم شحن الهاتف بالكامل. لطالما سمعنا أن الحفاظ على مستوى شحن البطارية بين 20% و80% يُطيل عمرها، ولكن هل هذا صحيح فعلاً؟ بعد ما يقارب ثلاث سنوات من عدم شحن هاتفه آيفون 15 لأكثر من 80%، اكتشف مارليبيغوس الإجابة أخيرًا.\n\nتفضلوا بزيارة متجري على أمازون: https://www.amazon.com/shop/marlipiegosgaming\n\nللاستفسارات التجارية: marlipiegos@gmail.com\n\n*ملاحظة: مارليبيغوس للألعاب شريك في برنامج أمازون للتسويق بالعمولة، وسيحصل على عمولة بسيطة من المشتريات التي تتم عبر الروابط المذكورة.\n\n#شورتات #تقنية"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2864846",
+        "likeCount": "122642",
+        "favoriteCount": "0",
+        "commentCount": "1039"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_gvAzui9ZBkMIirJlBSQJxsn0_A",
+      "id": "x-wDc5z8iio",
+      "snippet": {
+        "publishedAt": "2026-08-19T12:30:33Z",
+        "channelId": "UCIVpSU6kEPhP7EyKSqTmoZA",
+        "title": "Apple pays Huawei royalties on every 5G iPhone!",
+        "description": "The countries that banned Huawei are still paying it. The companies that refused to work with Huawei are still using its technology. And none of them had a choice — because what Huawei owns is not a product. It is a standard. The story of how that happened is one of the most interesting moves in the history of the tech industry. Watch the full Huawei documentary for the complete picture. Link in bio.\n\n#Shorts #Huawei #5G #PolarCodes #TechGeopolitics\n\n___________________________________________________________________\n✅ Subscribe To Our Other YouTube Channels:-\n\nThe WillPower Star (Main Channel):\nhttps://www.youtube.com/c/BoostUpMantra\n-----\n\nInstagram: @thewillpowerstar\nhttps://www.instagram.com/thewillpowerstar/ \n\nFacebook: https://www.facebook.com/thewillpowerstar\n\nhttps://twitter.com/mangeshs21\n\nLinkedIn: Mangesh Shinde\nhttps://www.linkedin.com/in/mangesh-willpowerstar/\n\n-----\n\nAbout :\n\nMangesh Shinde Shorts is a small packet of infotainment that includes entrepreneurship, startup, building business, marketing, life advice, self-improvement, life stories, success, growth & much more.\n\nSo, stay tuned with us every day & grab all pockets of infotainment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-wDc5z8iio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-wDc5z8iio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-wDc5z8iio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-wDc5z8iio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-wDc5z8iio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mangesh Shinde Shorts",
+        "tags": [
+          "mangeshshinde",
+          "shorts",
+          "Huawei 5G Polar Codes patent",
+          "iPhone pays Huawei royalties",
+          "Huawei Standard Essential Patent",
+          "5G patent Huawei explained",
+          "Huawei banned but still paid",
+          "3GPP 5G standard Huawei",
+          "Huawei 2.7 billion licensed devices",
+          "Huawei documentary India"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Apple pays Huawei royalties on every 5G iPhone!",
+          "description": "The countries that banned Huawei are still paying it. The companies that refused to work with Huawei are still using its technology. And none of them had a choice — because what Huawei owns is not a product. It is a standard. The story of how that happened is one of the most interesting moves in the history of the tech industry. Watch the full Huawei documentary for the complete picture. Link in bio.\n\n#Shorts #Huawei #5G #PolarCodes #TechGeopolitics\n\n___________________________________________________________________\n✅ Subscribe To Our Other YouTube Channels:-\n\nThe WillPower Star (Main Channel):\nhttps://www.youtube.com/c/BoostUpMantra\n-----\n\nInstagram: @thewillpowerstar\nhttps://www.instagram.com/thewillpowerstar/ \n\nFacebook: https://www.facebook.com/thewillpowerstar\n\nhttps://twitter.com/mangeshs21\n\nLinkedIn: Mangesh Shinde\nhttps://www.linkedin.com/in/mangesh-willpowerstar/\n\n-----\n\nAbout :\n\nMangesh Shinde Shorts is a small packet of infotainment that includes entrepreneurship, startup, building business, marketing, life advice, self-improvement, life stories, success, growth & much more.\n\nSo, stay tuned with us every day & grab all pockets of infotainment."
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT1M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "375361",
+        "likeCount": "25130",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xgqmTfpzGjXggA9xm2TzXGr_l0k",
       "id": "BhwoIVqnbYQ",
       "snippet": {
         "publishedAt": "2026-07-30T06:28:29Z",
@@ -588,15 +1495,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4269499",
-        "likeCount": "131389",
+        "viewCount": "5949666",
+        "likeCount": "182139",
         "favoriteCount": "0",
-        "commentCount": "316"
+        "commentCount": "443"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "XG_R12WJxWYPlWz7w_yA1lixELQ",
+      "etag": "1NzMdcylSE_1L9b9R266QzfXWyE",
       "id": "li84-JIYYOQ",
       "snippet": {
         "publishedAt": "2026-08-09T14:27:41Z",
@@ -637,8 +1544,7 @@
         "localized": {
           "title": "اخيرا وصل البلايستيشن 5 وبعرض تاريخيي🤯🔥🔥 #عروض #اكسبلور #كيو",
           "description": ""
-        },
-        "defaultAudioLanguage": "ar"
+        }
       },
       "contentDetails": {
         "duration": "PT48S",
@@ -650,15 +1556,163 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "679286",
-        "likeCount": "17874",
+        "viewCount": "855762",
+        "likeCount": "22343",
         "favoriteCount": "0",
-        "commentCount": "852"
+        "commentCount": "1032"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "xdRI1CHLtf-_mhtXu73_I833Jo0",
+      "etag": "fw-9jDuv5lFdUABC_w6srMscKVE",
+      "id": "cVQQmCDBpmw",
+      "snippet": {
+        "publishedAt": "2026-08-14T12:59:03Z",
+        "channelId": "UCvyZS6W6zMJCZBVzF-Ei6sw",
+        "title": "AC Line Fault Detector | MX-1177",
+        "description": "For Sponsorships: collab@a2dmediagroup.com\n\nJoin this channel to get access to the perks:\nhttps://www.youtube.com/channel/UCvyZS6W6zMJCZBVzF-Ei6sw/join\n\nCopyright Infos:\n==============\nWe don't own any music's copyright that we used in this video!!! But we used Game's Soundtracks to Explain The Story with the better feel to UnderStand. The copyright ACT 1976 Under Section 107 says The CopyRighted content can be used for purposes like criticism, comment, news reporting, teaching, scholarship, and research. We're Using these soundtracks to teach people!!! with a better experience.\n\n*******\nFor Sponsorships: collab@a2dmediagroup.com\n\nNUKEPC: \nPhone: +91 9445747768 / +91 9025380083(be patient, don't spam)\nEmail: enquiry@nukepc.in\nWebsite: https://nukepc.in/\nPlay Store: https://play.google.com/store/apps/details?id=com.nukepc.app\n\nInstagram Handles: \nA2D ARMY - https://bit.ly/3HG0ww3\nPC DOC NANDA - https://bit.ly/3KcOyvl\nPRABHU HARI(EDITOR) - https://bit.ly/3vQZMC5\n\nTwitter Handles:\nA2D Army - https://bit.ly/3IPHXXr\nPC Doc - https://bit.ly/3HSFUAC\n\nLike Us: https://www.facebook.com/a2dchannel/\n\nJoin Our Discord server: https://discord.gg/aBABRH2\n\n*******",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cVQQmCDBpmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cVQQmCDBpmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVQQmCDBpmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A2D Channel",
+        "tags": [
+          "tvk",
+          "dmk",
+          "admk",
+          "eb bill",
+          "vijay",
+          "electricity bill",
+          "eb service",
+          "eb bill online payment",
+          "how to pay eb bill",
+          "stalin",
+          "udhai",
+          "government subsidies",
+          "tvk subsidies",
+          "current bill hike",
+          "eb bill hike",
+          "tamil nadu gov",
+          "eb bill amount checking tamil",
+          "eb sevice",
+          "eb service for new home",
+          "eb connection for home",
+          "eb status check",
+          "eb bill donwload",
+          "eb subsidy tamilnadu",
+          "electricity bill calculator",
+          "tneb",
+          "mx 1177",
+          "ac",
+          "best ac under 15k",
+          "ac line fault detector",
+          "lb ac",
+          "panasonic",
+          "panasonic ac"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AC Line Fault Detector | MX-1177",
+          "description": "For Sponsorships: collab@a2dmediagroup.com\n\nJoin this channel to get access to the perks:\nhttps://www.youtube.com/channel/UCvyZS6W6zMJCZBVzF-Ei6sw/join\n\nCopyright Infos:\n==============\nWe don't own any music's copyright that we used in this video!!! But we used Game's Soundtracks to Explain The Story with the better feel to UnderStand. The copyright ACT 1976 Under Section 107 says The CopyRighted content can be used for purposes like criticism, comment, news reporting, teaching, scholarship, and research. We're Using these soundtracks to teach people!!! with a better experience.\n\n*******\nFor Sponsorships: collab@a2dmediagroup.com\n\nNUKEPC: \nPhone: +91 9445747768 / +91 9025380083(be patient, don't spam)\nEmail: enquiry@nukepc.in\nWebsite: https://nukepc.in/\nPlay Store: https://play.google.com/store/apps/details?id=com.nukepc.app\n\nInstagram Handles: \nA2D ARMY - https://bit.ly/3HG0ww3\nPC DOC NANDA - https://bit.ly/3KcOyvl\nPRABHU HARI(EDITOR) - https://bit.ly/3vQZMC5\n\nTwitter Handles:\nA2D Army - https://bit.ly/3IPHXXr\nPC Doc - https://bit.ly/3HSFUAC\n\nLike Us: https://www.facebook.com/a2dchannel/\n\nJoin Our Discord server: https://discord.gg/aBABRH2\n\n*******"
+        },
+        "defaultAudioLanguage": "ta"
+      },
+      "contentDetails": {
+        "duration": "PT1M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "707668",
+        "likeCount": "59095",
+        "favoriteCount": "0",
+        "commentCount": "260"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iwjOiawoFjj12-02YF45OKSJaPA",
+      "id": "VICOlk31Oso",
+      "snippet": {
+        "publishedAt": "2026-08-13T22:21:22Z",
+        "channelId": "UCE7spuKzxP1k8A-XucxxUAQ",
+        "title": "Craziest Smart Glasses Yet 😳",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VICOlk31Oso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VICOlk31Oso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VICOlk31Oso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VICOlk31Oso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VICOlk31Oso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "John Casterline",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Craziest Smart Glasses Yet 😳",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1272346",
+        "likeCount": "137612",
+        "favoriteCount": "0",
+        "commentCount": "862"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BPOR4juKKPjfkBlVjodWgk27K0k",
       "id": "EKzPGTXgCWU",
       "snippet": {
         "publishedAt": "2026-08-05T03:18:43Z",
@@ -712,77 +1766,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4527810",
-        "likeCount": "222348",
+        "viewCount": "4950328",
+        "likeCount": "243133",
         "favoriteCount": "0",
-        "commentCount": "2264"
+        "commentCount": "2427"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "as5hwYENfNh6jx7aao_vbD1fkMQ",
-      "id": "GD0tqRdxFjk",
-      "snippet": {
-        "publishedAt": "2026-07-25T21:02:40Z",
-        "channelId": "UCAYTr-LOiD3i5IdAL7kh4Fw",
-        "title": "I Built a Transparent Screen Into My PC Case",
-        "description": "I Built a Transparent Screen Into My PC Case",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Chris Builds",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "I Built a Transparent Screen Into My PC Case",
-          "description": "I Built a Transparent Screen Into My PC Case"
-        },
-        "defaultAudioLanguage": "en-US"
-      },
-      "contentDetails": {
-        "duration": "PT40S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "29557001",
-        "likeCount": "1718735",
-        "favoriteCount": "0",
-        "commentCount": "5616"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "PZsNNWM6w6WTqs4nNvaSjGVnBrw",
+      "etag": "SHpKNQJY1Er8eS56H_5uRHBexE4",
       "id": "jRA_g3uJzWY",
       "snippet": {
         "publishedAt": "2026-08-11T12:45:29Z",
@@ -836,129 +1828,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "460484",
-        "likeCount": "12004",
+        "viewCount": "1037959",
+        "likeCount": "23542",
         "favoriteCount": "0",
-        "commentCount": "206"
+        "commentCount": "334"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "gFe_h2NpZNMfCFCClcUEsYP6x74",
-      "id": "kH_EKGTijv8",
+      "etag": "1BJz2hVpCD6Jrd7lW_YMw6xyxxY",
+      "id": "GD0tqRdxFjk",
       "snippet": {
-        "publishedAt": "2026-08-05T18:57:03Z",
-        "channelId": "UCZfTWLrTkaoZoSx5fkrAPJA",
-        "title": "Sony Just Ruined the PS5",
-        "description": "check out hxsain.com\n\n#shorts\u200b",
+        "publishedAt": "2026-07-25T21:02:40Z",
+        "channelId": "UCAYTr-LOiD3i5IdAL7kh4Fw",
+        "title": "I Built a Transparent Screen Into My PC Case",
+        "description": "I Built a Transparent Screen Into My PC Case",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kH_EKGTijv8/default.jpg",
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kH_EKGTijv8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kH_EKGTijv8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/kH_EKGTijv8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/kH_EKGTijv8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GD0tqRdxFjk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "hxsain",
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "سوني أفسدت جهاز PS5 للتو",
-          "description": "تفضل بزيارة موقع hxsain.com\n\n#شورتات"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT48S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1873353",
-        "likeCount": "96517",
-        "favoriteCount": "0",
-        "commentCount": "3164"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "FsIHN6cyyE0guBTREp4qWSbYipU",
-      "id": "o4SSoURPODY",
-      "snippet": {
-        "publishedAt": "2026-08-12T14:00:35Z",
-        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
-        "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-        "description": "Every year, a new Pixel, and new hopes and dreams...\n\nProtect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11\n\nAffiliate Links:\nPixel 11 Pro: https://geni.us/iypnawz\nPixel 11 Pro XL: https://geni.us/Jfybl\nPixel 11 Pro Fold: https://geni.us/XaTcge\nPixel Watch 5: https://geni.us/2s9sEq\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o4SSoURPODY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o4SSoURPODY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/o4SSoURPODY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/o4SSoURPODY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Marques Brownlee",
-        "tags": [
-          "Pixel 11",
-          "Pixel 11 Pro",
-          "Pixel 11 Pro Fold",
-          "Pixel impressions",
-          "MKBHD",
-          "Pixel 11 impressions"
-        ],
+        "channelTitle": "Chris Builds",
         "categoryId": "28",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-          "description": "Every year, a new Pixel, and new hopes and dreams...\n\nProtect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11\n\nAffiliate Links:\nPixel 11 Pro: https://geni.us/iypnawz\nPixel 11 Pro XL: https://geni.us/Jfybl\nPixel 11 Pro Fold: https://geni.us/XaTcge\nPixel Watch 5: https://geni.us/2s9sEq\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+          "title": "I Built a Transparent Screen Into My PC Case",
+          "description": "I Built a Transparent Screen Into My PC Case"
         },
-        "defaultAudioLanguage": "en"
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT11M14S",
+        "duration": "PT40S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -967,15 +1890,77 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "374002",
-        "likeCount": "25148",
+        "viewCount": "32205206",
+        "likeCount": "1825585",
         "favoriteCount": "0",
-        "commentCount": "2466"
+        "commentCount": "6041"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Ekm-W4NdYxXuQYXhNlApDuTteM4",
+      "etag": "vD3pyxZh7OSJmTmowmFe6vCH5X0",
+      "id": "37C7NuRsPrM",
+      "snippet": {
+        "publishedAt": "2026-08-18T19:05:22Z",
+        "channelId": "UCbmOgzvvDg60mXGm9t9Ad5Q",
+        "title": "Apple Putting Cameras In Airpods",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/37C7NuRsPrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/37C7NuRsPrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/37C7NuRsPrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/37C7NuRsPrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/37C7NuRsPrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Omar Agamy",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Apple Putting Cameras In Airpods",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "125183",
+        "likeCount": "11353",
+        "favoriteCount": "0",
+        "commentCount": "921"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "URcTu1q_-CW1oHRXi_tOKZ8oZnQ",
       "id": "q7zGF60vSjg",
       "snippet": {
         "publishedAt": "2026-08-10T12:29:40Z",
@@ -1045,15 +2030,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "398924",
-        "likeCount": "32678",
+        "viewCount": "604420",
+        "likeCount": "43504",
         "favoriteCount": "0",
-        "commentCount": "54"
+        "commentCount": "63"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vbG8CccZ1HS_oGq1a4vKSjiIyrQ",
+      "etag": "Z8hov9T60u4BCnyzjpf7FRrjSS4",
       "id": "D-NfEr50If4",
       "snippet": {
         "publishedAt": "2026-08-08T14:15:14Z",
@@ -1107,15 +2092,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1003743",
-        "likeCount": "41682",
+        "viewCount": "2219981",
+        "likeCount": "95695",
         "favoriteCount": "0",
-        "commentCount": "284"
+        "commentCount": "758"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "JTsLfd8_S304TVjFdpiBtRaa4Fk",
+      "etag": "SfsjwpGVZpUyNzfwLWiq-__g5Us",
       "id": "PVJKLhw0N54",
       "snippet": {
         "publishedAt": "2026-08-09T10:54:56Z",
@@ -1174,70 +2159,60 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1203794",
-        "likeCount": "14072",
+        "viewCount": "1632747",
+        "likeCount": "18884",
         "favoriteCount": "0",
-        "commentCount": "280"
+        "commentCount": "349"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Q2b94G4O_TRenx_qJHrJWVE0Gw8",
-      "id": "oaaOwLnuyPU",
+      "etag": "mOB7NR9OUdqFZnOrmvduTSKLu5A",
+      "id": "OrDeolSPF8Q",
       "snippet": {
-        "publishedAt": "2026-08-12T14:00:03Z",
-        "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
-        "title": "Google Pixel 11 Hands on - The Phone Crisis Begins.",
-        "description": "Google Pixel 11 / 11 Pro / 11 Pro Fold Hands on Impressions! Go to https://surfshark.com/boss or use code BOSS at checkout to get 4 extra months of Surfshark VPN!\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nMy 5 favourite pieces of Tech right now (Not sponsored but these are affiliate links which help out the channel!):\n1. Balmuda Toaster: https://geni.us/4B5xooB\n2. Ember Mug 2: https://geni.us/zb4Ix\n3. Ninja Creami Deluxe: https://geni.us/Mseu\n4. Anker PowerBank: https://geni.us/p3PVF\n5. Momax Travel Adaptor: https://geni.us/TJg5kGD\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+        "publishedAt": "2026-08-15T05:03:30Z",
+        "channelId": "UCujxIuYdHlH16JNZxpysXZg",
+        "title": "45 रुपए के सामान से बनाएं दमदार एम्पलीफायर 🔥 | कम खर्च में ज्यादा धमाल | DIY Amplifier #short #video",
+        "description": "45 रुपए के सामान से बनाएं दमदार एम्पलीफायर 🔥 | कम खर्च में ज्यादा धमाल | DIY Amplifier\n\n45 रुपए के सामान से इतना दमदार एम्पलीफायर कैसे बनाया? इस वीडियो में आसान तरीके से एम्पलीफायर बनाने और उसकी टेस्टिंग का पूरा तरीका दिखाया गया है। कम खर्च में तेज और दमदार आवाज पाने का शानदार जुगाड़। वीडियो पूरा देखें और खुद बनाकर जरूर ट्राई करें। 🔊🔥\n\nDIY Amplifier, 45 Rupees Amplifier, Low Cost Amplifier, Amplifier Making, Mini Amplifier, DIY Audio Amplifier, Amplifier Circuit, Audio Amplifier Circuit, 12V Amplifier, Speaker Amplifier, Cheap Amplifier, Power Amplifier, Electronics Project, Electronics Repair, Pooja Electronics\n\n#DIYAmplifier #AmplifierCircuit #Electronics #AudioAmplifier #ElectronicsProject\n\n\n\n\namplifier amplifier repair amplifier kaise banaen diy amplifier ahuja ub-30 25w pa amplifier speaker mini dj setup mahindra company new bhojpuri film ntorq 125 power music pro rider 1000 sandra lavie soldering kaise kare soldering machine soron ka mela gomukh hindi song how to make study room at home independence day independence day song 15 august ka status 15 august status 15 अगस्त स्टेटस bal state kaise kare toxic trailer billi ki awaaz pickup chhoti chhoti dj jio ka wi-fi rc car 12 volt ki battery 3d cartoon video airport bageshwar dham official channel bluetooth machine bluetooth welding machine change over fitting chhote bachchon ka dance chili pesto recipe claw hammer common crack dc 12 volt water pump face oil control tips fan ka bearing kaise nikale gastro resistant tablets ip 75 mg jarda chawal banane ka tarika laptop slow problem solution windows 11 m seal\nहाँ, अब समझ गया। आपको फोटो में जिस क्रम में कीवर्ड दिख रहे हैं, उसी क्रम में नीचे-नीचे एक-एक लाइन में चाहिए और कोई डबल कीवर्ड नहीं होना चाहिए।\n\ndj\ndj box\ndj wala\ndudi dudi dam dam song\ndrawing of car\ndj banane ka\ndj kaise banaen\ndj song\nelectronic experiment\njbl bass box\nkis tarah banaya jata hai\nbalveer\ndj ki machine kaise banaen\nlift fan\npunch ev baas\nraja video\n3055 amplifier\n775 डीसी मोटर\ndj box video\ndj machine\nfunny shorts\ngumnami baba\nlaptop ko reset kaise karen\npuja electronics\npunam ki video\nsorts\ntempo wala dj\ntukaram mundhe latest news\naalu kachalu beta kahan gaye the\nbhojpuri gana ka\ncartoon\ncartoon video\nchetak 3503\ncow videos funny\ncrushology\ndj anuj padma\ndj cartoon\ndj short\ndj testing\ndj wala dj gana\ndudi dudi dam dam\nemplifier\nfriends video\nhansi wala tiktok comedy\nhome theatre\njcb video\njetour t2 off road test\nkarate\nlight wala dj\nlike video achcha sa",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oaaOwLnuyPU/default.jpg",
+            "url": "https://i.ytimg.com/vi/OrDeolSPF8Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oaaOwLnuyPU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OrDeolSPF8Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oaaOwLnuyPU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OrDeolSPF8Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/oaaOwLnuyPU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/OrDeolSPF8Q/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/oaaOwLnuyPU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OrDeolSPF8Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Mrwhosetheboss",
-        "tags": [
-          "pixel 11",
-          "pixel 11 pro",
-          "pixel 11 pro xl",
-          "pixel 11 pro fold",
-          "google pixel",
-          "google",
-          "gemini intelligence",
-          "pixel 11 review"
-        ],
+        "channelTitle": "Pooja electronics Beawar  ",
         "categoryId": "28",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "hi",
         "localized": {
-          "title": "Google Pixel 11 Hands on - The Phone Crisis Begins.",
-          "description": "Google Pixel 11 / 11 Pro / 11 Pro Fold Hands on Impressions! Go to https://surfshark.com/boss or use code BOSS at checkout to get 4 extra months of Surfshark VPN!\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nMy 5 favourite pieces of Tech right now (Not sponsored but these are affiliate links which help out the channel!):\n1. Balmuda Toaster: https://geni.us/4B5xooB\n2. Ember Mug 2: https://geni.us/zb4Ix\n3. Ninja Creami Deluxe: https://geni.us/Mseu\n4. Anker PowerBank: https://geni.us/p3PVF\n5. Momax Travel Adaptor: https://geni.us/TJg5kGD\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          "title": "45 रुपए के सामान से बनाएं दमदार एम्पलीफायर 🔥 | कम खर्च में ज्यादा धमाल | DIY Amplifier #short #video",
+          "description": "45 रुपए के सामान से बनाएं दमदार एम्पलीफायर 🔥 | कम खर्च में ज्यादा धमाल | DIY Amplifier\n\n45 रुपए के सामान से इतना दमदार एम्पलीफायर कैसे बनाया? इस वीडियो में आसान तरीके से एम्पलीफायर बनाने और उसकी टेस्टिंग का पूरा तरीका दिखाया गया है। कम खर्च में तेज और दमदार आवाज पाने का शानदार जुगाड़। वीडियो पूरा देखें और खुद बनाकर जरूर ट्राई करें। 🔊🔥\n\nDIY Amplifier, 45 Rupees Amplifier, Low Cost Amplifier, Amplifier Making, Mini Amplifier, DIY Audio Amplifier, Amplifier Circuit, Audio Amplifier Circuit, 12V Amplifier, Speaker Amplifier, Cheap Amplifier, Power Amplifier, Electronics Project, Electronics Repair, Pooja Electronics\n\n#DIYAmplifier #AmplifierCircuit #Electronics #AudioAmplifier #ElectronicsProject\n\n\n\n\namplifier amplifier repair amplifier kaise banaen diy amplifier ahuja ub-30 25w pa amplifier speaker mini dj setup mahindra company new bhojpuri film ntorq 125 power music pro rider 1000 sandra lavie soldering kaise kare soldering machine soron ka mela gomukh hindi song how to make study room at home independence day independence day song 15 august ka status 15 august status 15 अगस्त स्टेटस bal state kaise kare toxic trailer billi ki awaaz pickup chhoti chhoti dj jio ka wi-fi rc car 12 volt ki battery 3d cartoon video airport bageshwar dham official channel bluetooth machine bluetooth welding machine change over fitting chhote bachchon ka dance chili pesto recipe claw hammer common crack dc 12 volt water pump face oil control tips fan ka bearing kaise nikale gastro resistant tablets ip 75 mg jarda chawal banane ka tarika laptop slow problem solution windows 11 m seal\nहाँ, अब समझ गया। आपको फोटो में जिस क्रम में कीवर्ड दिख रहे हैं, उसी क्रम में नीचे-नीचे एक-एक लाइन में चाहिए और कोई डबल कीवर्ड नहीं होना चाहिए।\n\ndj\ndj box\ndj wala\ndudi dudi dam dam song\ndrawing of car\ndj banane ka\ndj kaise banaen\ndj song\nelectronic experiment\njbl bass box\nkis tarah banaya jata hai\nbalveer\ndj ki machine kaise banaen\nlift fan\npunch ev baas\nraja video\n3055 amplifier\n775 डीसी मोटर\ndj box video\ndj machine\nfunny shorts\ngumnami baba\nlaptop ko reset kaise karen\npuja electronics\npunam ki video\nsorts\ntempo wala dj\ntukaram mundhe latest news\naalu kachalu beta kahan gaye the\nbhojpuri gana ka\ncartoon\ncartoon video\nchetak 3503\ncow videos funny\ncrushology\ndj anuj padma\ndj cartoon\ndj short\ndj testing\ndj wala dj gana\ndudi dudi dam dam\nemplifier\nfriends video\nhansi wala tiktok comedy\nhome theatre\njcb video\njetour t2 off road test\nkarate\nlight wala dj\nlike video achcha sa"
         },
-        "defaultAudioLanguage": "en-GB"
+        "defaultAudioLanguage": "hi"
       },
       "contentDetails": {
-        "duration": "PT13M59S",
+        "duration": "PT2M47S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1246,106 +2221,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "326435",
-        "likeCount": "25592",
+        "viewCount": "997805",
+        "likeCount": "41217",
         "favoriteCount": "0",
-        "commentCount": "1911"
+        "commentCount": "295"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "nFCi4UEirHBXg_lJZqtuEpIsEjY",
-      "id": "Sgb6hC0o9dY",
-      "snippet": {
-        "publishedAt": "2026-08-11T07:00:34Z",
-        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
-        "title": "iPad Tricks You NEED to Know in 2026 🤯📱  Hidden iPad Features",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Sgb6hC0o9dY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Sgb6hC0o9dY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sgb6hC0o9dY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Sgb6hC0o9dY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Sgb6hC0o9dY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "velvet glow",
-        "tags": [
-          "#makeup tips",
-          "#beauty hacks",
-          "#skincare routine",
-          "#glowing skin",
-          "#budget beauty tips",
-          "#DIY beauty",
-          "#makeup tutorial",
-          "#natural makeup look",
-          "#flawless makeup",
-          "#skincare tips",
-          "#glow up",
-          "#beauty on a budget",
-          "#makeup for beginners",
-          "#makeup hacks",
-          "#flawless skin",
-          "#easy makeup looks",
-          "#beauty routine",
-          "#self-care tips",
-          "#skincare products",
-          "#makeup transformation",
-          "#affordable beauty",
-          "#beauty influencer",
-          "#skincare hacks",
-          "#glowing skin tips",
-          "#makeup tricks",
-          "skin",
-          "#everyday makeup"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "حيل لجهاز iPad يجب أن تعرفها في 2026 🤯📱 ميزات iPad مخفية",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "225283",
-        "likeCount": "11614",
-        "favoriteCount": "0",
-        "commentCount": "33"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jOiGhh1dvw0TXKQpXJIiFVDB7LU",
+      "etag": "o-NQy8wwtYo_ROAH7IDzp4UDawY",
       "id": "Qt2Jg6IzTMs",
       "snippet": {
         "publishedAt": "2026-08-06T12:38:00Z",
@@ -1399,86 +2283,119 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "194939",
-        "likeCount": "6475",
+        "viewCount": "224536",
+        "likeCount": "6899",
         "favoriteCount": "0",
-        "commentCount": "455"
+        "commentCount": "479"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "QkEiabVqRGiNzQQ7S-EchkglRV8",
-      "id": "1vwD-C5uZRE",
+      "etag": "9_Jx4XS72u1A7Cl9E-HzdCtDFZk",
+      "id": "Ql5gY6aZKWA",
       "snippet": {
-        "publishedAt": "2026-08-12T12:00:51Z",
-        "channelId": "UCvyZS6W6zMJCZBVzF-Ei6sw",
-        "title": "A Surprise Gift From Soldiers | Custom 3D-Printed CPU Support Kit",
-        "description": "For Sponsorships: collab@a2dmediagroup.com\n\nJoin this channel to get access to the perks:\nhttps://www.youtube.com/channel/UCvyZS6W6zMJCZBVzF-Ei6sw/join\n\nCopyright Infos:\n==============\nWe don't own any music's copyright that we used in this video!!! But we used Game's Soundtracks to Explain The Story with the better feel to UnderStand. The copyright ACT 1976 Under Section 107 says The CopyRighted content can be used for purposes like criticism, comment, news reporting, teaching, scholarship, and research. We're Using these soundtracks to teach people!!! with a better experience.\n\n*******\nFor Sponsorships: collab@a2dmediagroup.com\n\nNUKEPC: \nPhone: +91 9445747768 / +91 9025380083(be patient, don't spam)\nEmail: enquiry@nukepc.in\nWebsite: https://nukepc.in/\nPlay Store: https://play.google.com/store/apps/details?id=com.nukepc.app\n\nInstagram Handles: \nA2D ARMY - https://bit.ly/3HG0ww3\nPC DOC NANDA - https://bit.ly/3KcOyvl\nPRABHU HARI(EDITOR) - https://bit.ly/3vQZMC5\n\nTwitter Handles:\nA2D Army - https://bit.ly/3IPHXXr\nPC Doc - https://bit.ly/3HSFUAC\n\nLike Us: https://www.facebook.com/a2dchannel/\n\nJoin Our Discord server: https://discord.gg/aBABRH2\n\n*******",
+        "publishedAt": "2026-08-18T15:55:36Z",
+        "channelId": "UCe8D5lo_zrqS8xtsNspeCgg",
+        "title": "Lil Cousin Raged at Roblox, Destroyed Her Phone 😱 #moneytalkswireless #shorts",
+        "description": "@MONEYTALKSWIRELESS \n\nBecome a member to get exclusive access to perks!\n👉https://www.youtube.com/channel/UCe8D5lo_zrqS8xtsNspeCgg/join\n\nYouTube Channel : 👉 http://www.youtube.com/c/MONEYTALKSWIRELESS\n\nYouTube Short Channel :👉 https://youtube.com/@MTWShorts\n\nMerch : 👉 www.mtwshop.com\n\nTik Tok : 👉 https://www.tiktok.com/@moneytalkswireless\n\nInstagram : 👉 https://www.instagram.com/moneytalkswireless/\n\nSnapchat : 👉 https://www.Snapchat.com/add/moneytwireless\n\nFacebook : 👉 https://www.facebook.com/profile.php?id=100085424016683&mibextid=LQQJ4d\n\nDiscord :👉 https://www.discord.gg/moneytalkswireless\n\nAmazon : 👉 https://www.amazon.com/shop/moneytalkswireless\n\nThank you for watching. Don’t forget to share with your friends and family and please subscribe to our YouTube channel for more content like this 😘\n\n\n\n\n\n\n\n\n\n#apple #iphone #ipad #android #samsung #macbook #iphonefix #iphonerepair #iphone14promax #shorts #short #tablet #fix #repair #pc #computer #diy #learn #cheap #usa #canada #soldering #unlock #jailbreak #disabled #frp #tablet #samsungrepair #youtube #youtubeshorts #reels #instagram #tiktok #update #upgrade #ios #ios15 #ios16 #ps4 #ps5 #xbox #minecraft #roblox #moneytalkswireless #destroy #fake #mrbeast #iphone11 #iphone12 #iphone13 #iphone12pro #iphone12promax #iphone13pro #iphone13promax #iphone11pro #iphone11promax #iphone14 #iphone14pro #iphone14promax #discord #asmr #spyninjas #fyp #fy #foryou #foryourpage #dharmann #aphmau #fgteev #youtubeshorts #icloud #workout #music #gym #motivation #pixel6a #restoration #macbookairm2 #applewatch #applewatchseries7 #royaltyfamily #rebeccazamolo #fortnite #lankybox #brentrivera #songs #jeffy #roblox #jordanmatter #sssniperwolf #unspeakble #sml #strangerthings #benazelart #cwc #iphone14plus #nothingphone1 #smartwatch #samsungs22ultra #applewatchultra #s22ultra #iphone14plus #unboxing #googlepixel7pro #iphone12mini #airpodspro2 #applewatchseries8 #nothingphone1unboxing #iphone14promaxunboxing #pixel7pro #samsungs22 #ios16.3 #applewatch #pixel7 #iphone15promax #nothingphone #macminim2 #iphone13vs14 #fakeiphone #iphonexr #iphonex #icefruit  #wwdc2023  #applevisionpro #m2 #macstudio #m2max #m2ultra #macpro #ios17 #ipados17 #ipados #macOS #macOSSonoma #watchOS #watchOS10 #visionpro #macbookair15 #moneytalkswireless  #mtw #iphone15 #iphone15pro #iphone15promax #iphone15plus  #wwdc2023 #visionpro #viral #viralvideo #viralshorts #wwdc2024 #ios18 #iphone16 #iphone16pro #iphone16promax #iphone16plus #nintendoswitch2 #ios26 #ios26beta #ios26features #summeronshorts#iphone17 #iphone17pro #iphone17air #iphone17promax #playstation5pro #gta6 #iphone18 #iphone18pro #iphone18promax #iphone18plus",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1vwD-C5uZRE/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ql5gY6aZKWA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1vwD-C5uZRE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ql5gY6aZKWA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1vwD-C5uZRE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ql5gY6aZKWA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/1vwD-C5uZRE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ql5gY6aZKWA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/1vwD-C5uZRE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ql5gY6aZKWA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "A2D Channel",
+        "channelTitle": "MONEY TALKS WIRELESS",
         "tags": [
-          "3d printed cpu cooler",
-          "cpu support kit",
-          "3d printer pc parts",
-          "diy pc cooling mod",
-          "cpu cooler bracket",
-          "pc building accessories",
-          "3d printing pc mods",
-          "custom pc parts",
-          "pc unboxing",
-          "surprise gift unboxing",
-          "tech gift from soldiers",
-          "army gift unboxing",
-          "diy pc accessories",
-          "3d printed gadgets",
-          "pc cooling support",
-          "thermal paste template",
-          "cpu mounting bracket",
-          "tech unboxing video",
-          "pc mod ideas",
-          "3d printer projects",
-          "3d pen",
-          "gift unboxing",
-          "a2d nanda marriage",
-          "wedding gift unboxing"
+          "Apple",
+          "iPhone",
+          "iPad",
+          "Android",
+          "Samsung",
+          "MacBook",
+          "iPhone fix",
+          "iPhone repair",
+          "Short",
+          "Shorts",
+          "Tablet",
+          "Fix",
+          "Repair",
+          "Pc",
+          "Computer",
+          "Unlock",
+          "Jailbreak",
+          "Disabled",
+          "Frp",
+          "Tablet fix",
+          "Samsung repair",
+          "Android fix",
+          "YouTube",
+          "Reels",
+          "Instagram",
+          "TikTok",
+          "Update",
+          "Upgrade",
+          "iOS",
+          "PS4",
+          "PS5",
+          "Xbox",
+          "Minecraft",
+          "Money talks wireless",
+          "Roblox",
+          "Fake",
+          "Mrbeast",
+          "Asmr",
+          "Discord",
+          "Fyp",
+          "YouTube shorts",
+          "Music",
+          "iCloud",
+          "Workout",
+          "Gym",
+          "Battery",
+          "Speaker",
+          "Motivational",
+          "For you",
+          "Unboxing",
+          "iPhone 17 pro max",
+          "iOS 18",
+          "iOS 26",
+          "iPhone 16",
+          "iPhone 17",
+          "iPhone 17 air",
+          "iPhone 18"
         ],
         "categoryId": "28",
         "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "A Surprise Gift From Soldiers | Custom 3D-Printed CPU Support Kit",
-          "description": "For Sponsorships: collab@a2dmediagroup.com\n\nJoin this channel to get access to the perks:\nhttps://www.youtube.com/channel/UCvyZS6W6zMJCZBVzF-Ei6sw/join\n\nCopyright Infos:\n==============\nWe don't own any music's copyright that we used in this video!!! But we used Game's Soundtracks to Explain The Story with the better feel to UnderStand. The copyright ACT 1976 Under Section 107 says The CopyRighted content can be used for purposes like criticism, comment, news reporting, teaching, scholarship, and research. We're Using these soundtracks to teach people!!! with a better experience.\n\n*******\nFor Sponsorships: collab@a2dmediagroup.com\n\nNUKEPC: \nPhone: +91 9445747768 / +91 9025380083(be patient, don't spam)\nEmail: enquiry@nukepc.in\nWebsite: https://nukepc.in/\nPlay Store: https://play.google.com/store/apps/details?id=com.nukepc.app\n\nInstagram Handles: \nA2D ARMY - https://bit.ly/3HG0ww3\nPC DOC NANDA - https://bit.ly/3KcOyvl\nPRABHU HARI(EDITOR) - https://bit.ly/3vQZMC5\n\nTwitter Handles:\nA2D Army - https://bit.ly/3IPHXXr\nPC Doc - https://bit.ly/3HSFUAC\n\nLike Us: https://www.facebook.com/a2dchannel/\n\nJoin Our Discord server: https://discord.gg/aBABRH2\n\n*******"
+          "title": "ابن عمها الصغير غضب بسبب لعبة روبلوكس وحطم هاتفها 😱 #moneytalkswireless #shorts",
+          "description": "@MONEYTALKSWIRELESS\n\nانضم إلينا واحصل على مزايا حصرية!\n\n👉 https://www.youtube.com/channel/UCe8D5lo_zrqS8xtsNspeCgg/join\n\nقناة يوتيوب: 👉 http://www.youtube.com/c/MONEYTALKSWIRELESS\n\nقناة يوتيوب القصيرة: 👉 https://youtube.com/@MTWShorts\n\nمتجرنا: 👉 www.mtwshop.com\n\nتيك توك: 👉 https://www.tiktok.com/@moneytalkswireless\n\nإنستغرام: 👉 https://www.instagram.com/moneytalkswireless/\n\nسناب شات: 👉 https://www.Snapchat.com/add/moneytwireless\n\nفيسبوك: 👉 https://www.facebook.com/profile.php?id=100085424016683&mibextid=LQQJ4d\n\nديسكورد: 👉 https://www.discord.gg/moneytalkswireless\n\nأمازون: 👉 https://www.amazon.com/shop/moneytalkswireless\n\nشكرًا لكم على المشاهدة. لا تنسَ مشاركة هذا مع أصدقائك وعائلتك، واشترك في قناتنا على يوتيوب للمزيد من المحتوى المشابه 😘\n\n#أبل #آيفون #آيباد #أندرويد #سامسونج #ماكبوك #إصلاح_آيفون #صيانة_آيفون #آيفون14_برو_ماكس #مقاطع_قصيرة #مختصر #تابلت #إصلاح #صيانة #كمبيوتر #اصنعها_بنفسك #تعلم #رخيص #الولايات_المتحدة #كندا #لحام #فتح_القفل #جيلبريك #معطل #حماية_إعادة_ضبط_الحساب #تابلت #صيانة_سامسونج #يوتيوب #مقاطع_يوتيوب_قصيرة #ريلز #انستغرام #تيك_توك #تحديث #ترقية #آي_أو_إس #آي_أو_إس15 #آي_أو_إس16 #بلايستيشن4 #بلايستيشن5 #إكس_بوكس #ماينكرافت #روبلوكس #موني_توكس_لاسلكي #تدمير #مزيف #مستر_بيست #آيفون11 #آيفون12 #آيفون13 #آيفون12_برو #آيفون12_برو_ماكس #آيفون13_برو #آيفون13_برو_ماكس #آيفون11_برو آيفون 11 برو ماكسآيفون 14آيفون 14 بروآيفون 14 برو ماكسديسكورد إيه إس إم آر سباينينجاس fyp fy foryou foryourpage دارمان أفماو إف جي تي إي إي في يوتيوب شورتس آي كلاود تمرين موسيقى صالة ألعاب رياضية تحفيز بيكسل 6 إيه ترميم ماك بوك إير إم 2 ساعة أبل ساعة أبل سيريز 7 العائلة المالكة ريبيكا زامولو فورتنايت لانكي بوكس \u200b\u200bبرينت ريفيرا أغاني جيفي روبلوكس جوردان ماتر سنايبر وولف أنسبيكبل إس إم إل أشياء غريبة بينازيل آرت سي دبليو سيآيفون 14 بلس نوثينج فون 1 ساعة ذكية سامسونج 22 ألترا ساعة أبل ألترا 22 ألترا آيفون 14 بلس فتح العلبة #جوجل بيكسل 7 برو #آيفون 12 ميني #إيربودز برو 2 #ساعة أبل سيريز 8 #فتح علبة هاتف ناثينج فون 1 #فتح علبة آيفون 14 برو ماكس #بيكسل 7 برو #سامسونج 22 #آي أو إس 16.3 #ساعة أبل #بيكسل 7 #آيفون 15 برو ماكس #هاتف ناثينج فون #ماك ميني 2 #آيفون 13 مقابل 14 #آيفون مزيف #آيفون إكس آر #آيفون إكس #آيس فروت #مؤتمر_المطورين_العالمي_2023 #أبل_فيجن_برو #إم 2 #ماك_ستوديو #إم 2 ماكس #إم 2 ألترا #ماك_برو #آي_أو_إس 17 #آيبادوس 17 #آيبادوس #ماك_أو_إس #ماك_أو_إس_سونوما #واتش_أو_إس #واتش_أو_إس 10 #فيجن_برو #ماك_بوك_إير_15 #موني_توكس_وايرلس #إم_تي_دبليو #آيفون 15 #آيفون 15 برو #آيفون 15 برو ماكس #آيفون 15 بلس #مؤتمر_المطورين_العالمي_2023 #visionpro #viral #viralvideo #viralshorts #wwdc2024 #ios18 #iphone16 #iphone16pro #iphone16promax #iphone16plus #nintendoswitch2 #ios26 #ios26beta #ios26features #summeronshorts#iphone17 #iphone17pro #iphone17air #iphone17promax #playstation5pro #gta6 #iphone18 #iphone18pro #iphone18promax #iphone18plus"
         },
-        "defaultAudioLanguage": "ta"
+        "defaultAudioLanguage": "en-US"
       },
       "contentDetails": {
-        "duration": "PT1M27S",
+        "duration": "PT2M58S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1487,93 +2404,111 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "87861",
-        "likeCount": "30311",
+        "viewCount": "676783",
+        "likeCount": "35826",
         "favoriteCount": "0",
-        "commentCount": "436"
+        "commentCount": "7296"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "jCsrjqFF7cxpRVqqbfMa3bwXzAk",
-      "id": "HZOYCMkic0E",
+      "etag": "LZ7_0cc4WAwsD_yM-wkkYwxtbKE",
+      "id": "getFHns9Gz4",
       "snippet": {
-        "publishedAt": "2026-08-09T00:56:15Z",
-        "channelId": "UCWFKCr40YwOZQx8FHU_ZqqQ",
-        "title": "Galaxy Z Fold 8 DURABILITY TEST - is the new 'Titanium Screen' real?",
-        "description": "Its time to durability test the Galaxy Z Fold8 - the new 'wide' folding phone from Samsung. Get protection for your own phone from dbrand HERE: https://www.dbrand.com/shop/fold-8 The Z Fold 8 is probably the new globally favorite form factor for the folding phones. If apple says its going to be the favorite, than its going to be the favorite. Samsung did beat apple to the punch though - which is normal. \n\nWatch the Fold 8 TEARDOWN HERE: https://youtu.be/oQcw9ZZ_PxQ\n\nWhich of the folding phones is your favorite? \nDo you think Apples new Folding phone is going to survive?",
+        "publishedAt": "2026-08-13T17:00:26Z",
+        "channelId": "UCpEAlGw7kiGx1pHHQG-f_cQ",
+        "title": "صنعت نظام يرصد المخالفات المرورية!",
+        "description": "#داش_كام #داشكام #مخالفات_مرورية #المرور #الذكاء_الاصطناعي #تقنية #الكترونيات #برمجة\n\n#DDPAI #DDPAIZ90Master #DDPAIDASHCAM #DDPAIMoment\n\n@DDPAI_Global",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/default.jpg",
+            "url": "https://i.ytimg.com/vi/getFHns9Gz4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/getFHns9Gz4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/getFHns9Gz4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/getFHns9Gz4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HZOYCMkic0E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/getFHns9Gz4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "JerryRigEverything",
+        "channelTitle": "Dr Maker | دكتور ميكر",
         "tags": [
-          "Samsung Z Fold 8",
-          "Z fold 8",
-          "Z Fold8",
-          "Fold 8",
-          "Folding phone",
-          "apple folding phone",
-          "new folding phone",
-          "folding smartphone",
-          "best smartphone",
-          "cool smartphone",
-          "Samsung fold",
-          "Z fold 8 durability test",
-          "fold 8 scratch test",
-          "jerryrigeverything"
+          "المخالفات المرورية",
+          "رصد المخالفات",
+          "نظام رصد المخالفات",
+          "مخالفات المرور",
+          "المرور",
+          "كاميرات المرور",
+          "ساهر",
+          "نظام ساهر",
+          "الذكاء الاصطناعي",
+          "ذكاء اصطناعي",
+          "داش كام",
+          "داشكام",
+          "كاميرا السيارة",
+          "DDPAI",
+          "DDPAI Z90 Master",
+          "Z90 Master",
+          "dashcam",
+          "dash cam",
+          "traffic violations",
+          "traffic violation detection",
+          "AI traffic detection",
+          "AI dashcam",
+          "computer vision",
+          "object detection",
+          "YOLO",
+          "Python",
+          "برمجة",
+          "مشاريع تقنية",
+          "مشاريع إلكترونية",
+          "تقنية",
+          "دكتور ميكر",
+          "Dr Maker"
         ],
-        "categoryId": "26",
+        "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "ar",
         "localized": {
-          "title": "اختبار متانة هاتف Galaxy Z Fold 8 - هل شاشة \"التيتانيوم\" الجديدة حقيقية؟",
-          "description": "حان وقت اختبار متانة هاتف Galaxy Z Fold8، الهاتف القابل للطي الجديد ذو الشاشة العريضة من سامسونج. احصل على حماية لهاتفك من dbrand من هنا: https://www.dbrand.com/shop/fold-8. يُعدّ Z Fold8 على الأرجح التصميم المفضل عالميًا للهواتف القابلة للطي. إذا أعلنت آبل أنه سيكون المفضل، فسيكون كذلك. مع ذلك، سبقت سامسونج آبل في هذا المجال، وهذا أمر طبيعي.\n\n شاهدوا فيديو تفكيك جهاز Fold 8 هنا: https://youtu.be/oQcw9ZZ_PxQ\n\n أي من الهواتف القابلة للطي هو المفضل لديك؟\n هل تعتقد أن هاتف آبل القابل للطي الجديد سيصمد؟"
+          "title": "صنعت نظام يرصد المخالفات المرورية!",
+          "description": "#داش_كام #داشكام #مخالفات_مرورية #المرور #الذكاء_الاصطناعي #تقنية #الكترونيات #برمجة\n\n#DDPAI #DDPAIZ90Master #DDPAIDASHCAM #DDPAIMoment\n\n@DDPAI_Global"
         },
-        "defaultAudioLanguage": "en"
+        "defaultAudioLanguage": "ar"
       },
       "contentDetails": {
-        "duration": "PT9M8S",
+        "duration": "PT1M56S",
         "dimension": "2d",
         "definition": "hd",
-        "caption": "true",
+        "caption": "false",
         "licensedContent": true,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1694293",
-        "likeCount": "49667",
+        "viewCount": "279303",
+        "likeCount": "15248",
         "favoriteCount": "0",
-        "commentCount": "2889"
+        "commentCount": "209"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "3VzjaYx8NzPe9lk3INNg3_OxIcU",
+      "etag": "AJG41-dKLfiLU5nsrHPnZDIzGV8",
       "id": "GhqZIHQ8N4Y",
       "snippet": {
         "publishedAt": "2026-08-11T20:55:09Z",
@@ -1634,77 +2569,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "291664",
-        "likeCount": "15307",
+        "viewCount": "2095616",
+        "likeCount": "96422",
         "favoriteCount": "0",
-        "commentCount": "313"
+        "commentCount": "1168"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "swExKWgKGzV0Yn4HjNHAeTIjnno",
-      "id": "Aet5tZZulK4",
-      "snippet": {
-        "publishedAt": "2026-08-08T04:37:48Z",
-        "channelId": "UC55OTzCsvi4Azq2u1Ddw4Yw",
-        "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Aet5tZZulK4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Dark Arun ",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
-          "description": ""
-        },
-        "defaultAudioLanguage": "it"
-      },
-      "contentDetails": {
-        "duration": "PT12S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4352202",
-        "likeCount": "30865",
-        "favoriteCount": "0",
-        "commentCount": "111"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "f8ZFo7wppgfMU2mzI5oQlMrWiAY",
+      "etag": "MUy_KBzZAtwrlRrtOIFdtnDsdOs",
       "id": "sEUJVDxAUkE",
       "snippet": {
         "publishedAt": "2026-08-05T17:53:31Z",
@@ -1769,15 +2642,219 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1035400",
-        "likeCount": "45835",
+        "viewCount": "1242243",
+        "likeCount": "52531",
         "favoriteCount": "0",
-        "commentCount": "347"
+        "commentCount": "369"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "KtwujkHCZssbEs7ltktiD_QEJks",
+      "etag": "5IqhIgNpheMjHfNbuH6K6yIWmHs",
+      "id": "9bliPXXipaM",
+      "snippet": {
+        "publishedAt": "2026-08-16T15:00:11Z",
+        "channelId": "UCiKNvzMjBFowg5Sj6pevymA",
+        "title": "He Removed His Laptop CPU?!",
+        "description": "Get the sticker signed by PC Papa: https://ebay.to/4wrjH60",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9bliPXXipaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9bliPXXipaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9bliPXXipaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9bliPXXipaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9bliPXXipaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "META PCs",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "هل قام بإزالة معالج اللابتوب الخاص به؟!",
+          "description": "احصل على الملصق الموقع من قبل PC Papa: https://ebay.to/4wrjH60"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "236337",
+        "likeCount": "24157",
+        "favoriteCount": "0",
+        "commentCount": "296"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "47MbpOhYKBlL_mb7giNin6PeX-w",
+      "id": "u7pTLBQ1jj8",
+      "snippet": {
+        "publishedAt": "2026-08-11T08:30:32Z",
+        "channelId": "UCNiWgR12_PNIJA_JvWk0-7Q",
+        "title": "भैया जबलपुर से फोन एक्सचेंज करवाने आए - iQOO Vs Iphone 17 💸📱 #iqoo #iphone #iphone17 #shorts",
+        "description": "भैया जबलपुर से फोन एक्सचेंज करवाने आए - iQOO Vs Iphone 17 💸📱 #iqoo #iphone #iphone17 #shorts\noppo k15 turbo pro\niphone 17 \nhunter 350 royal enfield top model \niphone 17 pro case \none plus 15r\noppo reno 16 \nphone exchange \nsamsung account \nvivo s2 \n1906\niphone 17 Unboxing \niphone 17 price \napple iphone 17 Unboxing \niphone 17 Unboxing Video \ngodha mobile shop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u7pTLBQ1jj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u7pTLBQ1jj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u7pTLBQ1jj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u7pTLBQ1jj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u7pTLBQ1jj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GODHA MOBILE SHOP khushiyo ki dukaan",
+        "tags": [
+          "iphone 17",
+          "iphone",
+          "iphone 17 Unboxing video",
+          "iQOO",
+          "iQOO 12",
+          "short",
+          "shorts",
+          "godha mobile shop",
+          "oppo k15 turbo pro",
+          "hunter 350 royal enfield top model",
+          "iphone 17 pro case",
+          "one plus 15r",
+          "oppo reno 16",
+          "phone exchange",
+          "samsung account",
+          "Vivo s2",
+          "vivo s2"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "hi",
+        "localized": {
+          "title": "भैया जबलपुर से फोन एक्सचेंज करवाने आए - iQOO Vs Iphone 17 💸📱 #iqoo #iphone #iphone17 #shorts",
+          "description": "भैया जबलपुर से फोन एक्सचेंज करवाने आए - iQOO Vs Iphone 17 💸📱 #iqoo #iphone #iphone17 #shorts\noppo k15 turbo pro\niphone 17 \nhunter 350 royal enfield top model \niphone 17 pro case \none plus 15r\noppo reno 16 \nphone exchange \nsamsung account \nvivo s2 \n1906\niphone 17 Unboxing \niphone 17 price \napple iphone 17 Unboxing \niphone 17 Unboxing Video \ngodha mobile shop"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1685234",
+        "favoriteCount": "0",
+        "commentCount": "806"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BuL43XXwVhy6nUjc0bf7kLKTs14",
+      "id": "KphZgRVj0Jc",
+      "snippet": {
+        "publishedAt": "2026-08-07T15:30:30Z",
+        "channelId": "UCRiYyc_vOrVhGuutbwghtiA",
+        "title": "Transparency mode in BYD Sealion 7 explained #manishbhardwaj #bydsealion7 #360camera #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KphZgRVj0Jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KphZgRVj0Jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KphZgRVj0Jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KphZgRVj0Jc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KphZgRVj0Jc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Manish Bhardwaj",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-IN",
+        "localized": {
+          "title": "Transparency mode in BYD Sealion 7 explained #manishbhardwaj #bydsealion7 #360camera #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1403404",
+        "likeCount": "38793",
+        "favoriteCount": "0",
+        "commentCount": "183"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6ksobqgstPFmD1SFH1lDfvoi33I",
       "id": "aMXPzI-8jX0",
       "snippet": {
         "publishedAt": "2026-08-04T22:25:36Z",
@@ -1836,325 +2913,121 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "3646351",
-        "likeCount": "247612",
+        "viewCount": "4163821",
+        "likeCount": "269964",
         "favoriteCount": "0",
-        "commentCount": "3746"
+        "commentCount": "3910"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IvG_1dE3AWn0suF1U76l_-dhNL0",
-      "id": "5tffBqfcMhY",
+      "etag": "QJLKLjjkuslI6WmQmVJJQMbj4VY",
+      "id": "VjBFuE-NSTo",
       "snippet": {
-        "publishedAt": "2026-08-11T15:58:35Z",
-        "channelId": "UCUdjrDIh7nm5EDUoaMT99PA",
-        "title": "What does WiFi stand for?",
-        "description": "Gaming: http://youtube.com/@Vindooly\nIRL: http://youtube.com/@VinRL\nCouple: http://youtube.com/@VinandKym",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5tffBqfcMhY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5tffBqfcMhY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5tffBqfcMhY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5tffBqfcMhY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5tffBqfcMhY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vin Explains",
-        "tags": [
-          "Vinexplains",
-          "vin",
-          "vindooly",
-          "vinrl",
-          "vinexplains video",
-          "videos",
-          "What does WiFi stand for?"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "ما هو المعنى الحقيقي لاختصار Wi-Fi؟",
-          "description": "الألعاب: http://youtube.com/@Vindooly\nالحياة الواقعية: http://youtube.com/@VinRL\nالزوجان: http://youtube.com/@VinandKym"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "164668",
-        "likeCount": "9660",
-        "favoriteCount": "0",
-        "commentCount": "132"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "2zS96NXSFWbJDG9aD9QE4wbMew0",
-      "id": "AVDYbEUfAMQ",
-      "snippet": {
-        "publishedAt": "2026-08-01T10:14:51Z",
-        "channelId": "UCJd9eOrgJxH5AyVQO8k7jKw",
-        "title": "screen sharing device #alappayi",
+        "publishedAt": "2026-08-06T06:17:20Z",
+        "channelId": "UC0Xgx-56gYG3x929Wnyc4Bw",
+        "title": "ভাঙ্গারি মোবাইল কিনে রাখলাম কাকার কাছ থেকে।",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AVDYbEUfAMQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/VjBFuE-NSTo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AVDYbEUfAMQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VjBFuE-NSTo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AVDYbEUfAMQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VjBFuE-NSTo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/AVDYbEUfAMQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/VjBFuE-NSTo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/AVDYbEUfAMQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VjBFuE-NSTo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Al-appayi ",
-        "tags": [
-          "screen sharing device"
-        ],
+        "channelTitle": "Shahin Mobile tel",
         "categoryId": "22",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
+        "defaultLanguage": "bn",
         "localized": {
-          "title": "screen sharing device #alappayi",
+          "title": "ভাঙ্গারি মোবাইল কিনে রাখলাম কাকার কাছ থেকে।",
           "description": ""
         }
       },
       "contentDetails": {
-        "duration": "PT53S",
+        "duration": "PT3M",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
-        "licensedContent": true,
+        "licensedContent": false,
         "contentRating": {},
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "127153",
-        "likeCount": "6568",
+        "viewCount": "195702",
+        "likeCount": "5242",
         "favoriteCount": "0",
-        "commentCount": "59"
+        "commentCount": "72"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IsQa84t45v4vNdiYZVvxKnlNqFE",
-      "id": "3CU9SFGEMmI",
+      "etag": "-L4SS8An2ZSkgEaeIoHZtEu7_CA",
+      "id": "u0YnwkPfHO4",
       "snippet": {
-        "publishedAt": "2026-08-08T14:23:46Z",
-        "channelId": "UCXzULCWuvbnjm7Q0F6RBKsw",
-        "title": "One Plus-ன் எந்திர சக்தி👺👺",
-        "description": "Product Recommendations: https://linktr.ee/syedimran.ef\nFacebook: https://www.facebook.com/engineeringfactsfb/\nInstagram: https://www.instagram.com/syedimran.ef\nMy amazon page : https://amzn.to/4aozB73\nX : https://x.com/Eng_Facts_Tamil\n=================================\nIf you find this video useful, Join our channel to support :\nhttps://www.youtube.com/channel/UCXzULCWuvbnjm7Q0F6RBKsw/join\n=================================\nContact us:\nquery.ef@gmail.com\n\n#engineeringfacts\n#engineeringfactstamil",
+        "publishedAt": "2026-08-12T12:31:01Z",
+        "channelId": "UCc6TgL_PICrupEX2tAk_yNA",
+        "title": "Honor Robot Phone Finally!! First Impression #SamZone #robotphone",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3CU9SFGEMmI/default.jpg",
+            "url": "https://i.ytimg.com/vi/u0YnwkPfHO4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3CU9SFGEMmI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u0YnwkPfHO4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3CU9SFGEMmI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u0YnwkPfHO4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3CU9SFGEMmI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/u0YnwkPfHO4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/3CU9SFGEMmI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u0YnwkPfHO4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Engineering Facts",
-        "tags": [
-          "engineeringfacts",
-          "engineeringfactstamil",
-          "tamilsciencechannel",
-          "tamilengineeringchannel",
-          "tamiltechchannel"
-        ],
+        "channelTitle": "SamZone",
         "categoryId": "28",
         "liveBroadcastContent": "none",
-        "defaultLanguage": "ta",
-        "localized": {
-          "title": "One Plus-ன் எந்திர சக்தி👺👺",
-          "description": "Product Recommendations: https://linktr.ee/syedimran.ef\nFacebook: https://www.facebook.com/engineeringfactsfb/\nInstagram: https://www.instagram.com/syedimran.ef\nMy amazon page : https://amzn.to/4aozB73\nX : https://x.com/Eng_Facts_Tamil\n=================================\nIf you find this video useful, Join our channel to support :\nhttps://www.youtube.com/channel/UCXzULCWuvbnjm7Q0F6RBKsw/join\n=================================\nContact us:\nquery.ef@gmail.com\n\n#engineeringfacts\n#engineeringfactstamil"
-        },
-        "defaultAudioLanguage": "ta"
-      },
-      "contentDetails": {
-        "duration": "PT1M42S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "342121",
-        "likeCount": "29093",
-        "favoriteCount": "0",
-        "commentCount": "270"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hnMCAIjdfHtX56XJVCM9TLNR6rY",
-      "id": "9WfScN5Lnz0",
-      "snippet": {
-        "publishedAt": "2026-08-09T11:37:16Z",
-        "channelId": "UCgNJEjFOpWiFv_5SEtDswGw",
-        "title": "Why Is KATSEYE’s Light Stick $300?! 😳",
-        "description": "Why does KATSEYE’s light stick cost almost $300?! At first, that price sounds absolutely crazy… but there’s actually more to it. The light stick has Bluetooth-controlled LEDs, so fans can change the colors right from their phone.\nAnd that’s not all. The box also includes photocards featuring all six members, plus a wrist strap to keep it secure. But here’s the part that really adds to the cost. It’s manufactured in South Korea, then shipped internationally by air to reach fans around the world. So the price isn’t just for the light stick itself. But honestly… would YOU pay nearly $300 for it? \n\n#katseye #katseyelight #lightstick #hybeaudition #eyekons #kpop #hollywoodbuzz",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9WfScN5Lnz0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9WfScN5Lnz0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9WfScN5Lnz0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9WfScN5Lnz0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9WfScN5Lnz0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Trendova Celeb",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Why Is KATSEYE’s Light Stick $300?! 😳",
-          "description": "Why does KATSEYE’s light stick cost almost $300?! At first, that price sounds absolutely crazy… but there’s actually more to it. The light stick has Bluetooth-controlled LEDs, so fans can change the colors right from their phone.\nAnd that’s not all. The box also includes photocards featuring all six members, plus a wrist strap to keep it secure. But here’s the part that really adds to the cost. It’s manufactured in South Korea, then shipped internationally by air to reach fans around the world. So the price isn’t just for the light stick itself. But honestly… would YOU pay nearly $300 for it? \n\n#katseye #katseyelight #lightstick #hybeaudition #eyekons #kpop #hollywoodbuzz"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT27S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "235881",
-        "likeCount": "7637",
-        "favoriteCount": "0",
-        "commentCount": "180"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "DKKuohlESyUd58OQo_uN5GxTtsA",
-      "id": "TBQCsmg5TiA",
-      "snippet": {
-        "publishedAt": "2026-08-02T20:27:40Z",
-        "channelId": "UCBsLFSH-f3lsOJEJM9cPW_g",
-        "title": "Gen Z working peacefully with low lighting",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TBQCsmg5TiA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TBQCsmg5TiA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TBQCsmg5TiA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TBQCsmg5TiA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TBQCsmg5TiA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Dr. Sabrina",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Gen Z working peacefully with low lighting",
+          "title": "Honor Robot Phone Finally!! First Impression #SamZone #robotphone",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "bn"
       },
       "contentDetails": {
-        "duration": "PT13S",
+        "duration": "PT2M6S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -2163,295 +3036,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2170822",
-        "likeCount": "121764",
+        "viewCount": "354636",
+        "likeCount": "21891",
         "favoriteCount": "0",
-        "commentCount": "2489"
+        "commentCount": "475"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "5xr0zMy_U8KkMJVLl6JgINYTXPA",
-      "id": "uyIgyly6J7o",
-      "snippet": {
-        "publishedAt": "2026-07-31T12:30:20Z",
-        "channelId": "UCIVpSU6kEPhP7EyKSqTmoZA",
-        "title": "China Would NEVER Copy this!",
-        "description": "China has copied smartphones, rockets, and fighter jets. But one machine has defeated every attempt — ASML's EUV Lithography Machine. It is the only device in the world that can print circuits onto advanced chips using 13.5 nanometer light — the smaller the circuit, the more powerful the chip. Every advanced chip from Nvidia, Apple, Intel, and TSMC runs through this machine. ASML is the only company that builds it. The mirrors inside come exclusively from Germany's Zeiss — and Zeiss sells to nobody else. The machine has around 1 lakh parts sourced from 5,000 companies across the world. China could copy the blueprints tomorrow and still not build it — because the real barrier is 40 years of supplier relationships, precision expertise, and institutional knowledge that does not exist anywhere else on the planet.\n\n#Shorts #ASML #EUVMachine #ChinaVsAmerica #ChipWar\n\n___________________________________________________________________\n✅ Subscribe To Our Other YouTube Channels:-\n\nThe WillPower Star (Main Channel):\nhttps://www.youtube.com/c/BoostUpMantra\n-----\n\nInstagram: @thewillpowerstar\nhttps://www.instagram.com/thewillpowerstar/ \n\nFacebook: https://www.facebook.com/thewillpowerstar\n\nhttps://twitter.com/mangeshs21\n\nLinkedIn: Mangesh Shinde\nhttps://www.linkedin.com/in/mangesh-willpowerstar/\n\n-----\n\nAbout :\n\nMangesh Shinde Shorts is a small packet of infotainment that includes entrepreneurship, startup, building business, marketing, life advice, self-improvement, life stories, success, growth & much more.\n\nSo, stay tuned with us every day & grab all pockets of infotainment.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uyIgyly6J7o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uyIgyly6J7o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uyIgyly6J7o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uyIgyly6J7o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uyIgyly6J7o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mangesh Shinde Shorts",
-        "tags": [
-          "mangeshshinde",
-          "shorts",
-          "ASML EUV machine explained",
-          "China can't copy ASML",
-          "EUV lithography explained India",
-          "ASML monopoly chip industry",
-          "Zeiss mirrors ASML",
-          "chip war China America",
-          "ASML 1 lakh parts 5000 companies",
-          "semiconductor chokepoint geopolitics"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "China Would NEVER Copy this!",
-          "description": "China has copied smartphones, rockets, and fighter jets. But one machine has defeated every attempt — ASML's EUV Lithography Machine. It is the only device in the world that can print circuits onto advanced chips using 13.5 nanometer light — the smaller the circuit, the more powerful the chip. Every advanced chip from Nvidia, Apple, Intel, and TSMC runs through this machine. ASML is the only company that builds it. The mirrors inside come exclusively from Germany's Zeiss — and Zeiss sells to nobody else. The machine has around 1 lakh parts sourced from 5,000 companies across the world. China could copy the blueprints tomorrow and still not build it — because the real barrier is 40 years of supplier relationships, precision expertise, and institutional knowledge that does not exist anywhere else on the planet.\n\n#Shorts #ASML #EUVMachine #ChinaVsAmerica #ChipWar\n\n___________________________________________________________________\n✅ Subscribe To Our Other YouTube Channels:-\n\nThe WillPower Star (Main Channel):\nhttps://www.youtube.com/c/BoostUpMantra\n-----\n\nInstagram: @thewillpowerstar\nhttps://www.instagram.com/thewillpowerstar/ \n\nFacebook: https://www.facebook.com/thewillpowerstar\n\nhttps://twitter.com/mangeshs21\n\nLinkedIn: Mangesh Shinde\nhttps://www.linkedin.com/in/mangesh-willpowerstar/\n\n-----\n\nAbout :\n\nMangesh Shinde Shorts is a small packet of infotainment that includes entrepreneurship, startup, building business, marketing, life advice, self-improvement, life stories, success, growth & much more.\n\nSo, stay tuned with us every day & grab all pockets of infotainment."
-        },
-        "defaultAudioLanguage": "hi"
-      },
-      "contentDetails": {
-        "duration": "PT1M17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2930448",
-        "likeCount": "159584",
-        "favoriteCount": "0",
-        "commentCount": "1639"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6Qzwy6MlbnsJVPwh8eR-C9d6bx0",
-      "id": "S9MweUB_LRE",
-      "snippet": {
-        "publishedAt": "2026-08-08T19:33:23Z",
-        "channelId": "UCla3GOYei5RKNjTWPzVOcgQ",
-        "title": "الفرق بين بطارية الجوالات !!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S9MweUB_LRE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S9MweUB_LRE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S9MweUB_LRE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S9MweUB_LRE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S9MweUB_LRE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Abo rany",
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ar",
-        "localized": {
-          "title": "الفرق بين بطارية الجوالات !!",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT10S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "313604",
-        "likeCount": "8435",
-        "favoriteCount": "0",
-        "commentCount": "179"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "sOaKp6ahaJUPzDA3_dA-A3Wu580",
-      "id": "_sLS0c_0xz8",
-      "snippet": {
-        "publishedAt": "2026-08-06T14:58:01Z",
-        "channelId": "UCDXv3XxJ2RsaYqbGgX135Wg",
-        "title": "ChatGPT Created Ticket",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_sLS0c_0xz8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Aaron Rheins",
-        "categoryId": "25",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "تذكرة سفر تم إنشاؤها بواسطة ChatGPT",
-          "description": ""
-        }
-      },
-      "contentDetails": {
-        "duration": "PT25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "977685",
-        "likeCount": "38462",
-        "favoriteCount": "0",
-        "commentCount": "606"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "hxWeGFCUtcOvGPwOdzV09oL6tSU",
-      "id": "tBHSfBKsUhw",
-      "snippet": {
-        "publishedAt": "2026-08-02T18:58:19Z",
-        "channelId": "UC1FYFqgdW_1LueJTmXn-8cg",
-        "title": "3 أسباب iPhone 18 Pro Max قنبلة من ابل !!",
-        "description": "جرب Odoo مجانا :\n\nhttps://www.odoo.com/r/cNZh\n\n\n\n\nلا تنسى الاشتراك  | Subscribe \n\nموقعي : https://www.omardizer.com\n\nتابعني :\nانستجرام : https://instagram.com/omardizer\nثريدز : https://www.threads.net/@omardizer\nسناب :  https://www.snapchat.com/add/grendizer\nتويتر :  https://twitter.com/Omardizer\nتيك توك : https://www.tiktok.com/@omardizer?_t=8dpXZXNU7U2&_r=1\nفيس بوك :   https://www.facebook.com/OmardizerYouTube/\n\nمعداتي : https://www.amazon.com/shop/omardizer\n\nتسوق من امازون للدعم : http://amzn.to/2n2OHbB\n-----------------------------------------------------------------------------------------------------------\nللتواصل والاعلان : omardahab@gmail.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tBHSfBKsUhw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tBHSfBKsUhw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tBHSfBKsUhw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tBHSfBKsUhw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tBHSfBKsUhw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Omardizer | عمرديزر",
-        "tags": [
-          "iphone 18",
-          "iphone 18 pro max",
-          "iphone",
-          "ايفون 18 برو ماكس",
-          "ايفون 18",
-          "honor robot phone",
-          "iphone ultra",
-          "iphone fold",
-          "iphne 18 pro max",
-          "ايفون",
-          "ايفون الترا",
-          "iphone 18 pro",
-          "apple",
-          "ابل",
-          "عمرديزر",
-          "omardizer",
-          "عمر ديزر",
-          "omar dizer",
-          "IPHONE FOLD",
-          "IPHONE ULTRA"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ar",
-        "localized": {
-          "title": "3 أسباب iPhone 18 Pro Max قنبلة من ابل !!",
-          "description": "جرب Odoo مجانا :\n\nhttps://www.odoo.com/r/cNZh\n\n\n\n\nلا تنسى الاشتراك  | Subscribe \n\nموقعي : https://www.omardizer.com\n\nتابعني :\nانستجرام : https://instagram.com/omardizer\nثريدز : https://www.threads.net/@omardizer\nسناب :  https://www.snapchat.com/add/grendizer\nتويتر :  https://twitter.com/Omardizer\nتيك توك : https://www.tiktok.com/@omardizer?_t=8dpXZXNU7U2&_r=1\nفيس بوك :   https://www.facebook.com/OmardizerYouTube/\n\nمعداتي : https://www.amazon.com/shop/omardizer\n\nتسوق من امازون للدعم : http://amzn.to/2n2OHbB\n-----------------------------------------------------------------------------------------------------------\nللتواصل والاعلان : omardahab@gmail.com"
-        },
-        "defaultAudioLanguage": "ar"
-      },
-      "contentDetails": {
-        "duration": "PT16M22S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "303867",
-        "likeCount": "7983",
-        "favoriteCount": "0",
-        "commentCount": "253"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "EmsQZDg_B6QLYjRqZEpnEUfz02I",
+      "etag": "L0mfbilYIIhrsZjl74fL_MFepew",
       "id": "IqCXY_hvGGc",
       "snippet": {
         "publishedAt": "2026-07-23T14:00:12Z",
@@ -2504,96 +3097,14 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "6072216",
+        "viewCount": "7510672",
         "favoriteCount": "0",
-        "commentCount": "728"
+        "commentCount": "834"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "0ofIzo6FAaqgVSiXI6x4suvciTQ",
-      "id": "Nxl_5XN3KAo",
-      "snippet": {
-        "publishedAt": "2026-08-05T11:26:15Z",
-        "channelId": "UCOxmlaJURX3nq8eLuJPbl3A",
-        "title": "The Sony Vaio XR1 From 1998  #retro #laptop #vaio #sony",
-        "description": "The hinge mechanism for Sony's 1998 PCG-XR1 laptop is quite unique. Lifting up the rear of the laptop as you open the lid. 90's Japanese Vaio notebooks really interest me!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nxl_5XN3KAo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nxl_5XN3KAo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nxl_5XN3KAo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Nxl_5XN3KAo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Nxl_5XN3KAo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Psivewri",
-        "tags": [
-          "psivewri",
-          "4k",
-          "eucalyptus",
-          "oil",
-          "australia",
-          "tech",
-          "sony",
-          "vaio",
-          "1998",
-          "pentium",
-          "pentium 2",
-          "XR1",
-          "PCG-XR1",
-          "bizarre",
-          "hinge",
-          "raised",
-          "keyboard",
-          "japan",
-          "japanese"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "جهاز Sony Vaio XR1 من عام 1998 #كلاسيكي #لابتوب #vaio #sony",
-          "description": "آلية المفصل في حاسوب سوني المحمول PCG-XR1 لعام 1998 فريدة من نوعها، حيث يتم رفع الجزء الخلفي من الحاسوب عند فتح الغطاء. أجهزة الكمبيوتر المحمولة اليابانية من طراز Vaio في التسعينيات تثير اهتمامي حقًا!"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1996852",
-        "likeCount": "99361",
-        "favoriteCount": "0",
-        "commentCount": "564"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "GONF8ONJFqqy_ZHMamO7lOF0nuA",
+      "etag": "9uldLoMXubygG-ybcIdW0VBME8U",
       "id": "0dpH5LfkXz0",
       "snippet": {
         "publishedAt": "2026-07-21T18:45:35Z",
@@ -2646,15 +3157,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "7137796",
-        "likeCount": "340811",
+        "viewCount": "7686094",
+        "likeCount": "363284",
         "favoriteCount": "0",
-        "commentCount": "407"
+        "commentCount": "428"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "rThtTu5PRUKKDzRNFnMbHyQRZ_E",
+      "etag": "AS1nh5jmLYY1yCwYHlYYZ6O3DVY",
       "id": "rbQtX_thQtQ",
       "snippet": {
         "publishedAt": "2026-08-11T16:56:25Z",
@@ -2708,204 +3219,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "920569",
-        "likeCount": "35489",
+        "viewCount": "1556300",
+        "likeCount": "48859",
         "favoriteCount": "0",
-        "commentCount": "3864"
+        "commentCount": "5121"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "H-3HnlNJu2t_q5e06-J223-uuBQ",
-      "id": "ByU6RwpBtrM",
-      "snippet": {
-        "publishedAt": "2026-08-01T06:00:16Z",
-        "channelId": "UCJfNJmcv6LXCDsaa2kB_-7A",
-        "title": "Product Link in Bio ( # 2529 ) ✅ Aluminum Ultra Thin Foldable Phone Stand",
-        "description": "You can also find the product links in our bio  @MaviGadgets  \n🔥Product Number: # 2529\nProduct Name: Aluminum Ultra Thin Foldable Phone Stand\n\n Find more unique products -  @MaviGadgets  \n                                                                 \u2060\n📱 Download our mobile app - https://mavigadget.app\n\nDiscover the latest gadgets with MaviGadget! Explore smart tech, innovative devices, and trending accessories. Subscribe for updates and reviews on cutting-edge products.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ByU6RwpBtrM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ByU6RwpBtrM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ByU6RwpBtrM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ByU6RwpBtrM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ByU6RwpBtrM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MaviGadget",
-        "tags": [
-          "gadget",
-          "tech",
-          "useful",
-          "technology",
-          "gadgets",
-          "home",
-          "outdoor",
-          "camping",
-          "car",
-          "car gadgets",
-          "must-have products",
-          "trending products",
-          "trending gadgets",
-          "trending",
-          "viral",
-          "shorts",
-          "new technology",
-          "innovations",
-          "tech world",
-          "tech blogger",
-          "tech lover",
-          "satisfying",
-          "future tech",
-          "innovation",
-          "digital transformation",
-          "tech geek",
-          "design",
-          "product design",
-          "product designer",
-          "design inspiration",
-          "design inspirations",
-          "innovative design",
-          "innovative products",
-          "modern design",
-          "design love",
-          "design ideas",
-          "archiproducts"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-US",
-        "localized": {
-          "title": "Product Link in Bio ( # 2529 ) ✅ Aluminum Ultra Thin Foldable Phone Stand",
-          "description": "You can also find the product links in our bio  @MaviGadgets  \n🔥Product Number: # 2529\nProduct Name: Aluminum Ultra Thin Foldable Phone Stand\n\n Find more unique products -  @MaviGadgets  \n                                                                 \u2060\n📱 Download our mobile app - https://mavigadget.app\n\nDiscover the latest gadgets with MaviGadget! Explore smart tech, innovative devices, and trending accessories. Subscribe for updates and reviews on cutting-edge products."
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT11S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "989507",
-        "likeCount": "8773",
-        "favoriteCount": "0",
-        "commentCount": "41"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "G7r5Q4Q3OFt1ti4onvsZkxHHQWU",
-      "id": "wghUe1WALa4",
-      "snippet": {
-        "publishedAt": "2026-07-31T07:52:08Z",
-        "channelId": "UC20sXo8ReewkzNKBFgzVCPA",
-        "title": "🤯iPhone only at ₹27,600* ?🍎Apple கொடுத்த அதிர்ச்சி 💥",
-        "description": "Apple’s iPhone Upgrade Program is here! Users can lease the new iPhone 17 series and upgrade at the end of the lease, starting from $22.99/month for iPhone 17, $28.99/month for iPhone 17 Air, $31.99/month for iPhone 17 Pro, and $34.99/month for iPhone 17 Pro Max. But sadly, this iPhone lease / upgrade plan is limited to the US for now. Should Apple bring this to India too?\n\n#AppleUpgradeProgram #iPhoneUpgradeProgram #iPhone17 #iPhone17Air #iPhone17Pro #iPhone17ProMax #Apple #iPhoneLease #AppleIndia #iPhoneIndia #TechTamil #TamilTech #mrtt \n\nFollow us on:\n📲 Telegram Group: https://telegram.openinapp.co/TamilTech\n🌈 instagram: https://insta.openinapp.co/TamilTech\n📘 Facebook: https://fb.openinapp.co/TamilTech\n🐤 Twitter: https://twtr.openinapp.co/TamilTech\n******************************************************************\n\nCheck Out Our Other Channels :\n►Tamil Tech Shorts : https://yt.openinapp.co/TamilTechShorts\n►Tamil Selvan: https://yt.openinapp.co/TamilSelvan\n►HOWISIT   : https://yt.openinapp.co/howisit\n\n🌐 Visit Our Site : https://www.TamilTechOfficial.com\n******************************************************************\n\nShopping online BUY using the links below & Support Us :) \nAmazon : https://amzn.openinapp.co/TamilTech\nFlipkart : http://bit.ly/TamilTechFlipkart\n\nBackground Music: : http://bit.ly/TTEpidemicSounds",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wghUe1WALa4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wghUe1WALa4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wghUe1WALa4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wghUe1WALa4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wghUe1WALa4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Tamil Tech - MrTT",
-        "tags": [
-          "Apple Upgrade Program",
-          "iPhone Upgrade Program",
-          "iPhone lease program",
-          "iPhone rental plan",
-          "iPhone 17 lease",
-          "iPhone 17 Air lease",
-          "iPhone 17 Pro lease",
-          "iPhone 17 Pro Max lease",
-          "iPhone monthly plan",
-          "iPhone subscription plan",
-          "iPhone EMI plan",
-          "iPhone upgrade plan India",
-          "Apple upgrade plan India",
-          "iPhone lease India",
-          "iPhone rental India",
-          "iPhone 17 price",
-          "iPhone 17 monthly price",
-          "Apple India",
-          "iPhone India",
-          "iPhone news Tamil",
-          "Apple news Tamil",
-          "tech news Tamil",
-          "Tamil Tech",
-          "MrTT"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "🤯iPhone only at ₹27,600* ?🍎Apple கொடுத்த அதிர்ச்சி 💥",
-          "description": "Apple’s iPhone Upgrade Program is here! Users can lease the new iPhone 17 series and upgrade at the end of the lease, starting from $22.99/month for iPhone 17, $28.99/month for iPhone 17 Air, $31.99/month for iPhone 17 Pro, and $34.99/month for iPhone 17 Pro Max. But sadly, this iPhone lease / upgrade plan is limited to the US for now. Should Apple bring this to India too?\n\n#AppleUpgradeProgram #iPhoneUpgradeProgram #iPhone17 #iPhone17Air #iPhone17Pro #iPhone17ProMax #Apple #iPhoneLease #AppleIndia #iPhoneIndia #TechTamil #TamilTech #mrtt \n\nFollow us on:\n📲 Telegram Group: https://telegram.openinapp.co/TamilTech\n🌈 instagram: https://insta.openinapp.co/TamilTech\n📘 Facebook: https://fb.openinapp.co/TamilTech\n🐤 Twitter: https://twtr.openinapp.co/TamilTech\n******************************************************************\n\nCheck Out Our Other Channels :\n►Tamil Tech Shorts : https://yt.openinapp.co/TamilTechShorts\n►Tamil Selvan: https://yt.openinapp.co/TamilSelvan\n►HOWISIT   : https://yt.openinapp.co/howisit\n\n🌐 Visit Our Site : https://www.TamilTechOfficial.com\n******************************************************************\n\nShopping online BUY using the links below & Support Us :) \nAmazon : https://amzn.openinapp.co/TamilTech\nFlipkart : http://bit.ly/TamilTechFlipkart\n\nBackground Music: : http://bit.ly/TTEpidemicSounds"
-        },
-        "defaultAudioLanguage": "ta"
-      },
-      "contentDetails": {
-        "duration": "PT1M42S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "707417",
-        "likeCount": "69193",
-        "favoriteCount": "0",
-        "commentCount": "158"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "Ru__dbTL5xJwHho_tId_7yMJvTY",
+      "etag": "5b6FC5YMntn-rl9xwWjCUowmP-A",
       "id": "lXWoaS11BUE",
       "snippet": {
         "publishedAt": "2026-07-24T12:13:02Z",
@@ -2946,7 +3268,8 @@
         "localized": {
           "title": "Nokia vs Apple 😱 #tech",
           "description": ""
-        }
+        },
+        "defaultAudioLanguage": "hi"
       },
       "contentDetails": {
         "duration": "PT1M",
@@ -2958,15 +3281,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5224927",
-        "likeCount": "158759",
+        "viewCount": "6115821",
+        "likeCount": "173798",
         "favoriteCount": "0",
-        "commentCount": "1596"
+        "commentCount": "1791"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "_QMJlMKwNpFjHAfFJ3CR8gnEvco",
+      "etag": "w0ja4YSPVMSvaDnoQHnaJGXyLUM",
       "id": "aB5LGrHISqY",
       "snippet": {
         "publishedAt": "2026-08-11T16:10:08Z",
@@ -3026,77 +3349,15 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "654928",
-        "likeCount": "18595",
+        "viewCount": "1028599",
+        "likeCount": "23664",
         "favoriteCount": "0",
-        "commentCount": "1608"
+        "commentCount": "2020"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "vPuQ-t1YSMroSW0TwS-U3BRq9o0",
-      "id": "dvUQgRGuhos",
-      "snippet": {
-        "publishedAt": "2026-08-10T18:58:21Z",
-        "channelId": "UCEeH57P89hPQ1Sp2TavfICA",
-        "title": "Should Samsung Redesign their Phones?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dvUQgRGuhos/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dvUQgRGuhos/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dvUQgRGuhos/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dvUQgRGuhos/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dvUQgRGuhos/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Parker Burton",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "هل يجب على سامسونج إعادة تصميم هواتفها؟",
-          "description": ""
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT2M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "367926",
-        "likeCount": "50768",
-        "favoriteCount": "0",
-        "commentCount": "1143"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "bMB7NlA65l1T7eo5rUCqS1oC1t8",
+      "etag": "BGEV7tuOORMX5n13e_rBK6bKml0",
       "id": "avJN78JUER4",
       "snippet": {
         "publishedAt": "2026-07-26T05:30:19Z",
@@ -3149,313 +3410,16 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "9928747",
-        "likeCount": "99481",
+        "viewCount": "11472374",
+        "likeCount": "115051",
         "favoriteCount": "0",
-        "commentCount": "61"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "jWeM5VbRG0d5SSPgGbmwXX8cQkw",
-      "id": "0GJsHkrac_g",
-      "snippet": {
-        "publishedAt": "2026-08-05T01:20:39Z",
-        "channelId": "UCwpsfbIkGrtcSDSmteiDzNg",
-        "title": "🚨 सावधान! मोबाइल चार्जर में छिपा हो सकता है कैमरा 😱 | Hidden Camera Alert",
-        "description": "🚨 सावधान! मोबाइल चार्जर के रूप में छिपे हो सकते हैं हिडन कैमरे 😱\n\n\nProduct link -https://link.amazon/B0fIQKb8x\n\nआज के समय में सुरक्षा और प्राइवेसी बहुत जरूरी है। कुछ लोग सामान्य दिखने वाले इलेक्ट्रॉनिक डिवाइस का गलत इस्तेमाल कर सकते हैं। इसलिए किसी भी अनजान चार्जर, गैजेट या इलेक्ट्रॉनिक सामान को इस्तेमाल करने से पहले उसकी अच्छी तरह जांच जरूर करें।\n\nइस वीडियो का उद्देश्य केवल जागरूकता फैलाना और लोगों को सतर्क करना है। अपनी सुरक्षा का ध्यान रखें और किसी भी संदिग्ध चीज को नजरअंदाज न करें।\n\n✅ अनजान डिवाइस इस्तेमाल करने से पहले जांच करें\n✅ होटल, ऑफिस या किसी नई जगह पर सतर्क रहें\n✅ अपनी प्राइवेसी और सुरक्षा को प्राथमिकता दें\n\nअगर यह जानकारी आपको उपयोगी लगी हो तो वीडियो को Like 👍 करें, Share करें और Channel को Subscribe 🔔 करें ताकि ऐसी महत्वपूर्ण जानकारी ज्यादा लोगों तक पहुंच सके।\n\n⚠️ सतर्क रहें, सुरक्षित रहें!\n\nYour Queries \nhidden camera\nhidden camera in charger\nmobile charger hidden camera\ncharger camera reality\nhidden camera alert\nsecurity camera awareness\nspy camera warning\nmini hidden camera\ncamera in phone charger\nmobile charger camera truth\nhidden camera detection\nhow to find hidden camera\nhidden camera safety tips\nprivacy protection tips\nsecurity awareness video\nviral safety video\ndangerous gadgets awareness\ntechnology awareness hindi\nsafety tips in hindi\njagrukta video\nसावधान रहें सुरक्षित रहें\nछिपा हुआ कैमरा\nचार्जर में कैमरा\nमोबाइल चार्जर कैमरा\nहिडन कैमरा से बचाव\nसुरक्षा जानकारी\nप्राइवेसी बचाएं\nजागरूकता वीडियो\nहिंदी टेक्नोलॉजी वीडियो\nसुरक्षा टिप्स हिंदी\n\n#HiddenCamera #SecurityAlert #SafetyTips #StaySafe #Awareness #TechAwareness #CyberSafety #PrivacyProtection #SafetyFirst #HindiShorts #YouTubeShorts #ViralShorts #Jagrukta #PublicAwareness #SmartSecurity",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0GJsHkrac_g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0GJsHkrac_g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0GJsHkrac_g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0GJsHkrac_g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0GJsHkrac_g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Himanshu Data",
-        "tags": [
-          "hidden camera",
-          "hidden camera in charger",
-          "mobile charger camera",
-          "spy camera",
-          "hidden camera alert",
-          "security awareness",
-          "safety tips",
-          "privacy protection",
-          "hidden camera detection",
-          "tech awareness hindi",
-          "viral shorts",
-          "youtube shorts hindi",
-          "सावधान",
-          "हिडन कैमरा",
-          "चार्जर कैमरा",
-          "सुरक्षा टिप्स",
-          "जागरूकता वीडियो"
-        ],
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en-IN",
-        "localized": {
-          "title": "🚨 सावधान! मोबाइल चार्जर में छिपा हो सकता है कैमरा 😱 | Hidden Camera Alert",
-          "description": "🚨 सावधान! मोबाइल चार्जर के रूप में छिपे हो सकते हैं हिडन कैमरे 😱\n\n\nProduct link -https://link.amazon/B0fIQKb8x\n\nआज के समय में सुरक्षा और प्राइवेसी बहुत जरूरी है। कुछ लोग सामान्य दिखने वाले इलेक्ट्रॉनिक डिवाइस का गलत इस्तेमाल कर सकते हैं। इसलिए किसी भी अनजान चार्जर, गैजेट या इलेक्ट्रॉनिक सामान को इस्तेमाल करने से पहले उसकी अच्छी तरह जांच जरूर करें।\n\nइस वीडियो का उद्देश्य केवल जागरूकता फैलाना और लोगों को सतर्क करना है। अपनी सुरक्षा का ध्यान रखें और किसी भी संदिग्ध चीज को नजरअंदाज न करें।\n\n✅ अनजान डिवाइस इस्तेमाल करने से पहले जांच करें\n✅ होटल, ऑफिस या किसी नई जगह पर सतर्क रहें\n✅ अपनी प्राइवेसी और सुरक्षा को प्राथमिकता दें\n\nअगर यह जानकारी आपको उपयोगी लगी हो तो वीडियो को Like 👍 करें, Share करें और Channel को Subscribe 🔔 करें ताकि ऐसी महत्वपूर्ण जानकारी ज्यादा लोगों तक पहुंच सके।\n\n⚠️ सतर्क रहें, सुरक्षित रहें!\n\nYour Queries \nhidden camera\nhidden camera in charger\nmobile charger hidden camera\ncharger camera reality\nhidden camera alert\nsecurity camera awareness\nspy camera warning\nmini hidden camera\ncamera in phone charger\nmobile charger camera truth\nhidden camera detection\nhow to find hidden camera\nhidden camera safety tips\nprivacy protection tips\nsecurity awareness video\nviral safety video\ndangerous gadgets awareness\ntechnology awareness hindi\nsafety tips in hindi\njagrukta video\nसावधान रहें सुरक्षित रहें\nछिपा हुआ कैमरा\nचार्जर में कैमरा\nमोबाइल चार्जर कैमरा\nहिडन कैमरा से बचाव\nसुरक्षा जानकारी\nप्राइवेसी बचाएं\nजागरूकता वीडियो\nहिंदी टेक्नोलॉजी वीडियो\nसुरक्षा टिप्स हिंदी\n\n#HiddenCamera #SecurityAlert #SafetyTips #StaySafe #Awareness #TechAwareness #CyberSafety #PrivacyProtection #SafetyFirst #HindiShorts #YouTubeShorts #ViralShorts #Jagrukta #PublicAwareness #SmartSecurity"
-        },
-        "defaultAudioLanguage": "hi"
-      },
-      "contentDetails": {
-        "duration": "PT24S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "465988",
-        "likeCount": "9841",
-        "favoriteCount": "0",
-        "commentCount": "75"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "fxemjPG9vPFMQ0zde2LVtmmtckA",
-      "id": "1KfzCWUtOP4",
-      "snippet": {
-        "publishedAt": "2026-08-10T10:57:46Z",
-        "channelId": "UCTi7hp0kqzJ1Ar0pfDSXZ0w",
-        "title": "Jio Je6000 launched #Jio",
-        "description": "Jio new device",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1KfzCWUtOP4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1KfzCWUtOP4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1KfzCWUtOP4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1KfzCWUtOP4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1KfzCWUtOP4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "The Technologist",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Jio Je6000 launched #Jio",
-          "description": "Jio new device"
-        },
-        "defaultAudioLanguage": "hi"
-      },
-      "contentDetails": {
-        "duration": "PT34S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1394274",
-        "likeCount": "32315",
-        "favoriteCount": "0",
-        "commentCount": "444"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "WSHdQlmWloF1eRVADSAE72gocRs",
-      "id": "VtXUwMX-Wjg",
-      "snippet": {
-        "publishedAt": "2026-07-23T17:00:03Z",
-        "channelId": "UCpEAlGw7kiGx1pHHQG-f_cQ",
-        "title": "الفني قال تكلف 1200 ريال... فصلحتها بريال واحد بس",
-        "description": "الفني قال إن إصلاح الثلاجة بيكلف 1200 ريال... لكن بعد أكثر من 6 ساعات من الفحص والتحليل، اكتشفت إن المشكلة كانت في قطعة إلكترونية سعرها ريال واحد فقط! 🤯\n\nفي هذا الفيديو أشارككم رحلة التشخيص، وكيف ساعدني فهم الإلكترونيات وتقنيات الذكاء الاصطناعي في الوصول للعطل الحقيقي.\n\n#إصلاح_الأجهزة #diy #إلكترونيات #صيانة",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VtXUwMX-Wjg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VtXUwMX-Wjg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VtXUwMX-Wjg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VtXUwMX-Wjg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VtXUwMX-Wjg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Dr Maker | دكتور ميكر",
-        "tags": [
-          "دكتور ميكر",
-          "Dr Maker",
-          "تصليح ثلاجة",
-          "اصلاح ثلاجة",
-          "صيانة ثلاجة",
-          "كمبروسر ثلاجة",
-          "كومبريسور",
-          "انفرتر",
-          "كمبروسر انفرتر",
-          "ثلاجة انفرتر",
-          "كاباسيتور",
-          "Capacitor",
-          "Electronics",
-          "DIY",
-          "اصلاح إلكترونيات",
-          "تصليح إلكترونيات",
-          "مالتي ميتر",
-          "Multimeter",
-          "تشخيص أعطال",
-          "اصلاح منزلي",
-          "وفر فلوس",
-          "وفر المال",
-          "ذكاء اصطناعي",
-          "ChatGPT",
-          "Engineering",
-          "Electronics Repair",
-          "Refrigerator Repair",
-          "DIY Repair"
-        ],
-        "categoryId": "22",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ar",
-        "localized": {
-          "title": "الفني قال تكلف 1200 ريال... فصلحتها بريال واحد بس",
-          "description": "الفني قال إن إصلاح الثلاجة بيكلف 1200 ريال... لكن بعد أكثر من 6 ساعات من الفحص والتحليل، اكتشفت إن المشكلة كانت في قطعة إلكترونية سعرها ريال واحد فقط! 🤯\n\nفي هذا الفيديو أشارككم رحلة التشخيص، وكيف ساعدني فهم الإلكترونيات وتقنيات الذكاء الاصطناعي في الوصول للعطل الحقيقي.\n\n#إصلاح_الأجهزة #diy #إلكترونيات #صيانة"
-        },
-        "defaultAudioLanguage": "ar"
-      },
-      "contentDetails": {
-        "duration": "PT2M19S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1923237",
-        "likeCount": "126719",
-        "favoriteCount": "0",
-        "commentCount": "2345"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "6woBCwCHI3Ws3W4eXlaN-PMyB5k",
-      "id": "_4tCzjAEUUc",
-      "snippet": {
-        "publishedAt": "2026-08-07T13:50:52Z",
-        "channelId": "UCCya-YUszMuiTAR3lfYMuog",
-        "title": "Best Phone Offers | Flipkart & Amazon Freedom Sale | Malayalam",
-        "description": "Looking to upgrade your smartphone during the Flipkart and Amazon Freedom Sale? In this video, we break down the absolute best phone deals across all price segments—from budget-friendly options under ₹15,000 to premium flagships like the Samsung Galaxy S25 Ultra and iPhone 17.\n\n[00:00] Introduction: Freedom Sale Offers and General Advice\n[01:06] Phones under ₹15,000 \n[02:20] Phones under ₹20,000 \n[04:22] Phones under ₹25,000 \n[05:46] Phones under ₹30,000 \n[07:44] Phones under ₹40,000 \n[08:21] Phones under ₹50,000\n[09:18] Phones above ₹50,000 \n[10:37] iPhone Recommendations\n[11:15] Phones above ₹60,000 \n[12:35] Premium Flagships \n\n\nFor Latest & Best Deals and Offers : https://t.me/mrperfecttechtelegram\nInstagram : https://www.instagram.com/mrperfecttech\nTwitter : https://x.com/MrPerfectTech",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_4tCzjAEUUc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_4tCzjAEUUc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_4tCzjAEUUc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_4tCzjAEUUc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_4tCzjAEUUc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mr Perfect Tech",
-        "categoryId": "28",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Best Phone Offers | Flipkart & Amazon Freedom Sale | Malayalam",
-          "description": "Looking to upgrade your smartphone during the Flipkart and Amazon Freedom Sale? In this video, we break down the absolute best phone deals across all price segments—from budget-friendly options under ₹15,000 to premium flagships like the Samsung Galaxy S25 Ultra and iPhone 17.\n\n[00:00] Introduction: Freedom Sale Offers and General Advice\n[01:06] Phones under ₹15,000 \n[02:20] Phones under ₹20,000 \n[04:22] Phones under ₹25,000 \n[05:46] Phones under ₹30,000 \n[07:44] Phones under ₹40,000 \n[08:21] Phones under ₹50,000\n[09:18] Phones above ₹50,000 \n[10:37] iPhone Recommendations\n[11:15] Phones above ₹60,000 \n[12:35] Premium Flagships \n\n\nFor Latest & Best Deals and Offers : https://t.me/mrperfecttechtelegram\nInstagram : https://www.instagram.com/mrperfecttech\nTwitter : https://x.com/MrPerfectTech"
-        },
-        "defaultAudioLanguage": "ml"
-      },
-      "contentDetails": {
-        "duration": "PT13M54S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "139047",
-        "likeCount": "3339",
-        "favoriteCount": "0",
-        "commentCount": "450"
+        "commentCount": "70"
       }
     }
   ],
   "nextPageToken": "CDIQAA",
   "pageInfo": {
-    "totalResults": 85,
+    "totalResults": 73,
     "resultsPerPage": 50
   }
 }
